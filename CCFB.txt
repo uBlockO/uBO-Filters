@@ -1,0 +1,53 @@
+[Adblock Plus 2.0]
+! Title: CCFB for uBO
+! Homepage: https://github.com/bourne9/Custom-Cosmetic-Filters
+! Expires: 2 days
+||bild.de$inline-script
+col126.mail.live.com###RightRailContainer
+||col126.mail.live.com/Handlers/ImageProxy.mvc$image
+||watchfree.to/stream.php
+watchfree.to##.get_vpn
+watchfree.to##.comment_box
+watchfree.to##.below_player
+screenrant.com##.email.icon
+screenrant.com##.comment.icon
+screenrant.com##.plus.icon
+screenrant.com##a[href="#comments"]
+screenrant.com##.desktop.comments
+thewatchseries.li##.col-xs-12.col-sm-6.block-left-home-inside:nth-of-type(2)
+@@||kastatic.com/css/landing-cf4d8a6.css
+@@||googlevideo.com
+||disqus.com/
+||advisorded.com/
+@@||allmyvideos.net
+||amazon-adsystem.com/
+||doubleclick.net/
+||googlesyndication.com/
+@@||jwpsrv.com
+||livefyre.com/
+||msads.net/
+||mynet.com/
+@@||p.jwpcdn.com
+@@||phncdn.com
+||poponclick.com/
+||spot.im/
+||telwrite.com/
+@@||xvideos.com
+pornhub.com###js-abContainterMain
+pornhub.com###under-player-comments
+pornhub.com###welcome
+redtube.com##.tja
+birthmoviesdeath.com##.clearfix.PanelProduct.panel
+||belwrite.com/
+||advserver.xyz/
+tampermonkey.net##.noborder > tbody > tr > td:nth-of-type(2)
+tampermonkey.net##.noborder:nth-of-type(1) > tbody > tr > td:nth-of-type(2)
+tampermonkey.net##.noborder:nth-of-type(2) > tbody > tr > td:nth-of-type(1)
+youtube.com###watch-action-panels
+comicbook.com##.cmp.pubEx
+kisscartoon.me##.bigBarContainer:nth-of-type(5)
+kisscartoon.me##.rightBox:nth-of-type(1)
+kisscartoon.me##.clear:nth-of-type(5)
+kisscartoon.me##.clear:nth-of-type(3)
+kisscartoon.me##div:nth-of-type(4)
+||facebook.com/ajax/mercury/change_read_status.php$xmlhttprequest
