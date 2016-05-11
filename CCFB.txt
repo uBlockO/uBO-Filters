@@ -52,4 +52,9 @@ kisscartoon.me##.clear:nth-of-type(3)
 kisscartoon.me##div:nth-of-type(4)
 cinemablend.com###newsletter-background
 cinemablend.com###newsletter-subscription
+facebook.com##span:nth-of-type(2)
+facebook.com##span:nth-of-type(3)
+facebook.com##._ipo
+facebook.com##.rfloat._ohf
+facebook.com##.UFIList
 facebook.com##._23ig
