@@ -49,6 +49,5 @@ kisscartoon.me##.bigBarContainer:nth-of-type(5)
 kisscartoon.me##.rightBox:nth-of-type(1)
 kisscartoon.me##.clear:nth-of-type(5)
 kisscartoon.me##.clear:nth-of-type(3)
-kisscartoon.me##div:nth-of-type(4)
 cinemablend.com###newsletter-background
 cinemablend.com###newsletter-subscription
