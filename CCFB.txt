@@ -51,6 +51,7 @@ kisscartoon.me##.clear:nth-of-type(5)
 kisscartoon.me##.clear:nth-of-type(3)
 cinemablend.com###newsletter-background
 cinemablend.com###newsletter-subscription
-||ws-gateway.com
+||thewatchseries.to/templates/default/images/ptv.png$image
 ||thewatchseries.to/templates/default/images/stream.png$image
 thewatchseries.to##.stream_button
+thewatchseries.to##.block-left-home-inside:nth-of-type(2)
