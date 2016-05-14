@@ -53,3 +53,4 @@ cinemablend.com###newsletter-background
 cinemablend.com###newsletter-subscription
 ||ws-gateway.com
 ||thewatchseries.to/templates/default/images/stream.png$image
+thewatchseries.to##.stream_button
