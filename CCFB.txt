@@ -15,7 +15,7 @@ screenrant.com##.plus.icon
 screenrant.com##a[href="#comments"]
 screenrant.com##.desktop.comments
 thewatchseries.li##.col-xs-12.col-sm-6.block-left-home-inside:nth-of-type(2)
-@@||kastatic.com/css/landing-cf4d8a6.css
+@@||kastatic.com/css/
 @@||googlevideo.com
 ||disqus.com/
 ||advisorded.com/
