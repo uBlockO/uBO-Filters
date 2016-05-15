@@ -54,4 +54,5 @@ cinemablend.com###newsletter-subscription
 ||thewatchseries.to/templates/default/images/ptv.png$image
 ||thewatchseries.to/templates/default/images/stream.png$image
 thewatchseries.to##.stream_button
+thewatchseries.to##.sp-leader-bottom
 thewatchseries.to##.block-left-home-inside:nth-of-type(2)
