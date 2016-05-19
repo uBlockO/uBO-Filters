@@ -69,3 +69,12 @@ movieweb.com##.comment.cm.sh
 movieweb.com##.email.em.sh
 movieweb.com##.followistic-box
 movieweb.com##.head-1.heading
+boldsky.com###footer-trending-articles
+boldsky.com###story > section > .vuukle-powerbar
+||vuukle.com^
+boldsky.com##.cmtbtn
+boldsky.com##div:nth-of-type(4)
+boldsky.com###oneindia_polls_container
+boldsky.com###vn-cp-banner-floater
+boldsky.com##.wrap
+boldsky.com###headerPromotionText
