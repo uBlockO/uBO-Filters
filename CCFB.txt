@@ -70,7 +70,7 @@ movieweb.com##.email.em.sh
 movieweb.com##.followistic-box
 movieweb.com##.head-1.heading
 boldsky.com###footer-trending-articles
-boldsky.com###story > section > .vuukle-powerbar
+boldsky.com##.vuukle-powerbar
 ||vuukle.com^
 boldsky.com##.cmtbtn
 boldsky.com##div:nth-of-type(4)
