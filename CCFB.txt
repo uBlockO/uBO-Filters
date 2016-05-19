@@ -17,29 +17,29 @@ screenrant.com##.desktop.comments
 thewatchseries.li##.col-xs-12.col-sm-6.block-left-home-inside:nth-of-type(2)
 @@||kastatic.com/css/
 @@||googlevideo.com
-||disqus.com/
-||advisorded.com/
+||disqus.com^
+||advisorded.com^
 @@||allmyvideos.net
-||amazon-adsystem.com/
-||doubleclick.net/
-||googlesyndication.com/
+||amazon-adsystem.com^
+||doubleclick.net^
+||googlesyndication.com^
 @@||jwpsrv.com
-||livefyre.com/
-||msads.net/
-||mynet.com/
+||livefyre.com^
+||msads.net^
+||mynet.com^
 @@||p.jwpcdn.com
 @@||phncdn.com
-||poponclick.com/
-||spot.im/
-||telwrite.com/
+||poponclick.com^
+||spot.im^
+||telwrite.com^
 @@||xvideos.com
 pornhub.com###js-abContainterMain
 pornhub.com###under-player-comments
 pornhub.com###welcome
 redtube.com##.tja
 birthmoviesdeath.com##.clearfix.PanelProduct.panel
-||belwrite.com/
-||advserver.xyz/
+||belwrite.com^
+||advserver.xyz^
 tampermonkey.net##.noborder > tbody > tr > td:nth-of-type(2)
 tampermonkey.net##.noborder:nth-of-type(1) > tbody > tr > td:nth-of-type(2)
 tampermonkey.net##.noborder:nth-of-type(2) > tbody > tr > td:nth-of-type(1)
