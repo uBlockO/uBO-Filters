@@ -78,5 +78,4 @@ boldsky.com###vn-cp-banner-floater
 boldsky.com##.wrap
 boldsky.com###headerPromotionText
 @@||xvideos.com^$third-party
-xnxx.com##td:nth-of-type(2)
 xnxx.com##div > table:nth-of-type(8) > tbody > tr:nth-of-type(1) > td:nth-of-type(1) > table > tbody > tr:nth-of-type(2) > td > div > div
