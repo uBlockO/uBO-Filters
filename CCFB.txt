@@ -88,3 +88,4 @@ xnxx.com##div > table:nth-of-type(8) > tbody > tr:nth-of-type(1) > td:nth-of-typ
 heroichollywood.com##.adbox-long
 heroichollywood.com##.adbox-sidebar
 heroichollywood.com##.sidebar
+||doubleclick.net^$important
