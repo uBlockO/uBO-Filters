@@ -17,15 +17,15 @@ screenrant.com##.desktop.comments
 thewatchseries.li##.col-xs-12.col-sm-6.block-left-home-inside:nth-of-type(2)
 @@||kastatic.com/css/
 @@||googlevideo.com
-||disqus.com^
+||disqus.com^,important
 ||advisorded.com^
 ||mgid.com^
-||adprotected.com^
+||adprotected.com^,important
 @@||solvemedia.com
 @@||allmyvideos.net
 ||amazon-adsystem.com^
-||doubleclick.net^
-||googlesyndication.com^
+||doubleclick.net^,important
+||googlesyndication.com^,important
 @@||jwpsrv.com
 ||livefyre.com^
 ||msads.net^
@@ -85,3 +85,4 @@ xnxx.com##div > table:nth-of-type(8) > tbody > tr:nth-of-type(1) > td:nth-of-typ
 ||forbes.com/statsapi/page/all/20/id.json2?id=blogAndPostId%2Fblog%2Fpost%2F2595-31057$xmlhttprequest,domain=www.forbes.com
 ||forbes.com/forbesapi/promote/get.json?all=true&location=header&type=map$xmlhttprequest,domain=www.forbes.com
 ###comments
+heroichollywood.com##.adbox-long
