@@ -19,7 +19,7 @@ thewatchseries.li##.col-xs-12.col-sm-6.block-left-home-inside:nth-of-type(2)
 @@||googlevideo.com
 ||disqus.com^,important
 ||advisorded.com^
-||mgid.com^
+||mgid.com^,important
 ||adprotected.com^,important
 @@||solvemedia.com
 @@||allmyvideos.net
