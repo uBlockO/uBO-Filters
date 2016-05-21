@@ -86,3 +86,5 @@ xnxx.com##div > table:nth-of-type(8) > tbody > tr:nth-of-type(1) > td:nth-of-typ
 ||forbes.com/forbesapi/promote/get.json?all=true&location=header&type=map$xmlhttprequest,domain=www.forbes.com
 ###comments
 heroichollywood.com##.adbox-long
+heroichollywood.com##.adbox-sidebar
+heroichollywood.com##.sidebar
