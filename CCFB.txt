@@ -89,3 +89,5 @@ heroichollywood.com##.adbox-long
 heroichollywood.com##.adbox-sidebar
 heroichollywood.com##.sidebar
 ||doubleclick.net^$important
+@@||edge.api.brightcove.com$domain=players.brightcove.net
+@@||hlsak-a.akamaihd.net$domain=players.brightcove.net
