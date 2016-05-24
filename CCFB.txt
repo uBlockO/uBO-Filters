@@ -93,5 +93,4 @@ heroichollywood.com##.sidebar
 @@||hlsak-a.akamaihd.net$domain=players.brightcove.net
 ||pleaseletmeadvertise.com^$important
 ||vjs.zencdn.net$domain=putlocker-movies.tv,important
-||youtube.com$domain=putlocker-movies.tv
 ||cdnjs.cloudflare.com$domain=putlocker-movies.tv,important
