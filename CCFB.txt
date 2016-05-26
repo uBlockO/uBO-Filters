@@ -92,3 +92,4 @@ heroichollywood.com##.sidebar
 @@||edge.api.brightcove.com$domain=players.brightcove.net
 @@||hlsak-a.akamaihd.net$domain=players.brightcove.net
 ||pleaseletmeadvertise.com^$important
+||adblockdetect.xyz^$important
