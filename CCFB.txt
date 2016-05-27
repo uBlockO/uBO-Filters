@@ -78,8 +78,6 @@ boldsky.com###vn-cp-banner-floater
 boldsky.com##.wrap
 boldsky.com###headerPromotionText
 @@||xvideos.com^$third-party
-xnxx.com##div > table:nth-of-type(8) > tbody > tr:nth-of-type(1) > td:nth-of-type(1) > table > tbody > tr:nth-of-type(2) > td > div > div
-xnxx.com##div > table:nth-of-type(8) > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
 ||forbes.com/ajax/getUniregUserData?naturalId=blogAndPostId%2Fblog%2Fpost%2F2595-31057$xmlhttprequest,domain=www.forbes.com
 ||forbes.com/forbesapi/stats/topStories.json?channel=channel_1&fields=primaryChannelId,storyType,blogType,advoiceBrand,shortUri,title,naturalId,authors,image&mobile=false&naturalid=blogAndPostId%2Fblog%2Fpost%2F2595-31057&objects=true&stream=true$xmlhttprequest,domain=www.forbes.com
 ||forbes.com/statsapi/page/all/20/id.json2?id=blogAndPostId%2Fblog%2Fpost%2F2595-31057$xmlhttprequest,domain=www.forbes.com
