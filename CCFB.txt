@@ -14,6 +14,10 @@ screenrant.com##.comment.icon
 screenrant.com##.plus.icon
 screenrant.com##a[href="#comments"]
 screenrant.com##.desktop.comments
+||screenrant.com/wp-content/themes/screenrant/ajax-action.php$xmlhttprequest
+screenrant.com##.info-wrap
+screenrant.com##.load-wrap.ajaxLoader
+screenrant.com##.switch.share-switch
 thewatchseries.li##.col-xs-12.col-sm-6.block-left-home-inside:nth-of-type(2)
 @@||kastatic.com/css/
 @@||googlevideo.com
