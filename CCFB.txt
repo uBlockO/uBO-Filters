@@ -95,3 +95,4 @@ heroichollywood.com##.sidebar
 @@||hlsak-a.akamaihd.net$domain=players.brightcove.net
 ||pleaseletmeadvertise.com^$important
 ||adblockdetect.xyz^$important
+kisscartoon.me##.rightBox:nth-of-type(5)
