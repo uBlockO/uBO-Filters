@@ -96,3 +96,4 @@ heroichollywood.com##.sidebar
 ||pleaseletmeadvertise.com^$important
 ||adblockdetect.xyz^$important
 kisscartoon.me##.rightBox:nth-of-type(5)
+||cdn2.computerworlduk.com/scripts/libs/jquery.js$script
