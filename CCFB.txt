@@ -100,4 +100,4 @@ kisscartoon.me##.rightBox:nth-of-type(5)
 kissanime.to##div:nth-of-type(11)
 @@||srcdn.com^
 ||wp.com$domain=screenrant.com
-||twitter.com$domain=screenrant.com
+||twitter.com^
