@@ -98,4 +98,4 @@ heroichollywood.com##.sidebar
 kisscartoon.me##.rightBox:nth-of-type(5)
 ||cdn2.computerworlduk.com/scripts/libs/jquery.js$script
 kissanime.to##div:nth-of-type(11)
-@@||*.srcdn.com^$important
+@@||static.srcdn.com^$important
