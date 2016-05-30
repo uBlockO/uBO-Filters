@@ -106,6 +106,6 @@ kissanime.to##.rightBox:nth-of-type(3)
 cinemablend.com##.StoryContent2
 cinemablend.com##.twitter-share-button
 cinemablend.com##a[href="#discuss"]
-bulbapedia.bulbagarden.net##.rlsmobile
-bulbapedia.bulbagarden.net###bottomframe
-bulbapedia.bulbagarden.net##a[href="http://goo.gl/uQ5bIR"]
+bulbagarden.net##.rlsmobile
+bulbagarden.net###bottomframe
+bulbagarden.net##a[href="http://goo.gl/uQ5bIR"]
