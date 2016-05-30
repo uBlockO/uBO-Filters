@@ -101,3 +101,5 @@ kissanime.to##div:nth-of-type(11)
 @@||srcdn.com^
 ||wp.com$domain=screenrant.com
 ||platform.twitter.com/widgets.js$script
+kissanime.to##.rightBox:nth-of-type(7)
+kissanime.to##.rightBox:nth-of-type(3)
