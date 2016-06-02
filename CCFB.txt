@@ -18,6 +18,8 @@ screenrant.com##.desktop.comments
 screenrant.com##.info-wrap
 screenrant.com##.load-wrap.ajaxLoader
 screenrant.com##.switch.share-switch
+screenrant.com##.video-block-related-article.video-block
+screenrant.com##.video-disclaimer
 thewatchseries.li##.col-xs-12.col-sm-6.block-left-home-inside:nth-of-type(2)
 @@||kastatic.com/css/
 @@||googlevideo.com
