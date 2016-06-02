@@ -117,4 +117,7 @@ howtogeek.com###sb2
 ||hollywoodreporter.com/fe_data$xmlhttprequest
 hollywoodreporter.com##.autoload-spinner.is-infinite-scroll-processed.js-leftRail-loadNewContent
 hollywoodreporter.com##.author
-###show-disqus-comments
+hollywoodreporter.com###show-disqus-comments
+hollywoodreporter.com##.autoload-spinner.processed-by-autoloader.autoload-direct-render
+hollywoodreporter.com##.fa-comment.post-has-comments.comments-square.js-scroll-to-comments
+hollywoodreporter.com##.blog-post-author-section
