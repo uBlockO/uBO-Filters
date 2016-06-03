@@ -122,4 +122,5 @@ hollywoodreporter.com##.autoload-spinner.processed-by-autoloader.autoload-direct
 hollywoodreporter.com##.fa-comment.post-has-comments.comments-square.js-scroll-to-comments
 hollywoodreporter.com##.blog-post-author-section
 comicbook.com##.author-comp
+comicbook.com##.below-article-ads
 ||wibbitz.com^$important
