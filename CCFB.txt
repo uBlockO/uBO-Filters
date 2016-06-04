@@ -124,3 +124,4 @@ hollywoodreporter.com##.blog-post-author-section
 comicbook.com##.author-comp
 comicbook.com##.below-article-ads
 ||wibbitz.com^$important
+screenrant.com##.social
