@@ -125,3 +125,6 @@ comicbook.com##.author-comp
 comicbook.com##.below-article-ads
 ||wibbitz.com^$important
 screenrant.com##.social
+readcomiconline.to##a[href="#"]
+thewatchseries.to##.twitter-share-button
+thewatchseries.to##.ad_300_250
