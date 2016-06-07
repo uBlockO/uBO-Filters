@@ -135,3 +135,7 @@ thefappening.so##iframe
 ||returnofkings.com^$inline-script
 truecaller.com###result-page-top-unit
 truecaller.com##main > .page--search.page > div:nth-of-type(2)
+comingsoon.net##.btn.js-show-comments
+||cloudfront.net^$important
+||evolveplatform.net^$important
+||gamerevolution.com^$important
