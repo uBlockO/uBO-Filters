@@ -131,3 +131,4 @@ thewatchseries.to##.ad_300_250
 sexstories.com###bottom_panel
 sexstories.com##.title_panel
 sexstories.com##.block_panel:nth-of-type(4)
+thefappening.so##iframe
