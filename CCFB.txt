@@ -139,3 +139,4 @@ comingsoon.net##.btn.js-show-comments
 ||cloudfront.net^$important
 ||evolveplatform.net^$important
 ||gamerevolution.com^$important
+||parwrite.com^$important
