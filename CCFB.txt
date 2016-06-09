@@ -140,3 +140,4 @@ comingsoon.net##.btn.js-show-comments
 ||evolveplatform.net^$important
 ||gamerevolution.com^$important
 ||parwrite.com^$important
+lowendbox.com##a[href="http://www.beastnode.com"]
