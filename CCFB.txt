@@ -141,3 +141,6 @@ comingsoon.net##.btn.js-show-comments
 ||gamerevolution.com^$important
 ||parwrite.com^$important
 lowendbox.com##a[href="http://www.beastnode.com"]
+theculturetrip.com##.section.row
+theculturetrip.com##.row-hcenter.row-list
+theculturetrip.com###advert
