@@ -144,3 +144,4 @@ lowendbox.com##a[href="http://www.beastnode.com"]
 theculturetrip.com##.section.row
 theculturetrip.com##.row-hcenter.row-list
 theculturetrip.com###advert
+arstechnica.com###article-footer-wrap
