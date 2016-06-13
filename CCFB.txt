@@ -154,3 +154,4 @@ solidfiles.com##.buttons
 ||skype.com^$important
 ||skypeassets.com^$important
 ||trouter.io^$important
+mspoweruser.com###shunno_widget_sidebar_msft-4
