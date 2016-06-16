@@ -149,7 +149,6 @@ solidfiles.com##.remove
 solidfiles.com##.buttons
 ||solidfilescdn.com/static/js/advertisement.e6a6be4b3f1a.js$script,important
 ||comeadvertisewithus.com^$important
-||microsoft.com^$important
 ||microsofttranslator.com^$important
 ||skype.com^$important
 ||skypeassets.com^$important
