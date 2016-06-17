@@ -154,3 +154,8 @@ solidfiles.com##.buttons
 ||skypeassets.com^$important
 ||trouter.io^$important
 mspoweruser.com###shunno_widget_sidebar_msft-4
+cartooncrazy.me###episode-entry-additional-informations
+||chatango.com^$important
+||disquscdn.com^$important
+||watchanimesub.net^$important
+||zopim.com^$important
