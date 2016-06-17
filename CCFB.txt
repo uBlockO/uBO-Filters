@@ -101,8 +101,7 @@ kisscartoon.me##.rightBox:nth-of-type(5)
 ||cdn2.computerworlduk.com/scripts/libs/jquery.js$script
 kissanime.to##div:nth-of-type(11)
 @@||srcdn.com^
-||wp.com$domain=screenrant.com
-||platform.twitter.com/widgets.js$script
+||wp.com^$important
 kissanime.to##.rightBox:nth-of-type(7)
 kissanime.to##.rightBox:nth-of-type(3)
 cinemablend.com##.StoryContent2
