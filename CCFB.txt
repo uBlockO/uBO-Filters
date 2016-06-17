@@ -159,3 +159,5 @@ cartooncrazy.me###episode-entry-additional-informations
 ||watchanimesub.net^$important
 ||zopim.com^$important
 putlocker.systems##.sources
+wsj.com###article_tools
+wsj.com###comments_sector
