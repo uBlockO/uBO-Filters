@@ -160,3 +160,9 @@ cartooncrazy.me###episode-entry-additional-informations
 putlocker.systems##.sources
 wsj.com###article_tools
 wsj.com###comments_sector
+variety.com###other-pmc-properties
+variety.com##.banner
+variety.com##.article-bottom-container
+variety.com##.comments-overview
+variety.com##.ad-below-tags
+variety.com###article-river
