@@ -166,3 +166,8 @@ variety.com##.article-bottom-container
 variety.com##.comments-overview
 variety.com##.ad-below-tags
 variety.com###article-river
+cinemablend.com##a[href^="https://twitter.com/intent/tweet"]
+cinemablend.com##.ReviewSubTitle
+cinemablend.com##.facebook
+cinemablend.com##.blue_banner.snippet.partial
+cinemablend.com##.share_sharethis.partial
