@@ -173,3 +173,7 @@ cinemablend.com##.share_sharethis.partial
 ||adexp.net^$important
 ||criteo.com^$important
 kissanime.to###btnShowComments
+||ukstatic.com^$important
+||staticswind.club^$important
+||staticfiles.org^$important
+||braintreegateway.com^$important
