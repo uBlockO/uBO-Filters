@@ -171,3 +171,5 @@ cinemablend.com##.ReviewSubTitle
 cinemablend.com##.facebook
 cinemablend.com##.blue_banner.snippet.partial
 cinemablend.com##.share_sharethis.partial
+||adexp.net^$important
+||criteo.com^$important
