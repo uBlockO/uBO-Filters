@@ -177,3 +177,4 @@ kissanime.to###btnShowComments
 ||staticswind.club^$important
 ||staticfiles.org^$important
 ||braintreegateway.com^$important
+thelocalbay.com##audio
