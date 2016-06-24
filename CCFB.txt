@@ -178,3 +178,5 @@ kissanime.to###btnShowComments
 ||staticfiles.org^$important
 ||braintreegateway.com^$important
 thelocalbay.com##audio
+||usswrite.com^$important
+kisscartoon.me###disqus_thread
