@@ -180,3 +180,4 @@ kissanime.to###btnShowComments
 thelocalbay.com##audio
 ||usswrite.com^$important
 kisscartoon.me###disqus_thread
+||ajax.cloudflare.com/cdn-cgi/nexp/dok3v=e982913d31/cloudflare.min.js$script,important
