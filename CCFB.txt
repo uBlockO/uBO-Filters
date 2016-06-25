@@ -184,3 +184,4 @@ kisscartoon.me###disqus_thread
 bulbapedia.bulbagarden.net###amazon-related
 ||optimizely.com^$important
 ||2mdn.net^$important
+||zendesk.com^$important
