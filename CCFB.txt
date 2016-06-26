@@ -185,3 +185,7 @@ bulbapedia.bulbagarden.net###amazon-related
 ||optimizely.com^$important
 ||2mdn.net^$important
 ||zendesk.com^$important
+itsupportguides.com##.adblock_wrapper
+itsupportguides.com###right-sidebar
+itsupportguides.com##.comments-area
+itsupportguides.com###text-12
