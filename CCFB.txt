@@ -190,3 +190,5 @@ itsupportguides.com###right-sidebar
 itsupportguides.com##.comments-area
 itsupportguides.com###text-12
 postimg.org##.td-ad
+||upsell.azurewebsites.net^$important
+||constantcontact.com^$important
