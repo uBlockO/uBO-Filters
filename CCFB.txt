@@ -192,3 +192,5 @@ itsupportguides.com###text-12
 postimg.org##.td-ad
 ||upsell.azurewebsites.net^$important
 ||constantcontact.com^$important
+mkvcage.com###text-5
+mkvcage.com##.alignnone
