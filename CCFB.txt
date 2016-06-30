@@ -25,7 +25,6 @@ thewatchseries.li##.col-xs-12.col-sm-6.block-left-home-inside:nth-of-type(2)
 @@||googlevideo.com
 ||disqus.com^$important
 ||advisorded.com^$important
-||mgid.com^$important
 ||adprotected.com^$important
 @@||solvemedia.com
 @@||allmyvideos.net
@@ -194,3 +193,4 @@ postimg.org##.td-ad
 ||constantcontact.com^$important
 mkvcage.com###text-5
 mkvcage.com##.alignnone
+##.clear.share
