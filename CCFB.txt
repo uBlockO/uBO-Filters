@@ -196,3 +196,4 @@ mkvcage.com##.alignnone
 ||jsdelivr.net^$important
 porntube.com##.cpp
 porntube.com###main-banner-grid
+||adblockanalytics.com^$important
