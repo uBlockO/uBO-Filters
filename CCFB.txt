@@ -194,3 +194,5 @@ postimg.org##.td-ad
 mkvcage.com###text-5
 mkvcage.com##.alignnone
 ##.clear.share
+||traffichaus.com^$important
+||jsdelivr.net^$important
