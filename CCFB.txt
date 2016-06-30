@@ -1,7 +1,5 @@
 [Adblock Plus 2.0]
 ! Title: CCFB for uBO
-! Homepage: https://gitlab.com/MarkTheFucker/Custom-Cosmetic-Filters/
-! Expires: 2 days
 ||bild.de$inline-script
 col126.mail.live.com###RightRailContainer
 ||col126.mail.live.com/Handlers/ImageProxy.mvc$image
@@ -196,3 +194,5 @@ mkvcage.com##.alignnone
 ##.clear.share
 ||traffichaus.com^$important
 ||jsdelivr.net^$important
+porntube.com##.cpp
+porntube.com###main-banner-grid
