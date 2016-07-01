@@ -197,3 +197,5 @@ mkvcage.com##.alignnone
 porntube.com##.cpp
 porntube.com###main-banner-grid
 ||adblockanalytics.com^$important
+||s3.amazonaws.com/cbr_mothership^
+comicbookresources.com###billboard
