@@ -34,7 +34,6 @@ thewatchseries.li##.col-xs-12.col-sm-6.block-left-home-inside:nth-of-type(2)
 ||msads.net^$important
 ||mynet.com^$important
 @@||p.jwpcdn.com
-@@||phncdn.com
 ||poponclick.com^$important
 ||spot.im^$important
 ||telwrite.com^$important
