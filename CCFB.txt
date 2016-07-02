@@ -19,21 +19,15 @@ screenrant.com##.switch.share-switch
 screenrant.com##.video-block-related-article.video-block
 screenrant.com##.video-disclaimer
 thewatchseries.li##.col-xs-12.col-sm-6.block-left-home-inside:nth-of-type(2)
-@@||kastatic.com/css/
-@@||googlevideo.com
 ||disqus.com^$important
 ||advisorded.com^$important
 ||adprotected.com^$important
-@@||solvemedia.com
-@@||allmyvideos.net
 ||amazon-adsystem.com^$important
 ||doubleclick.net^$important
 ||googlesyndication.com^$important
-@@||jwpsrv.com
 ||livefyre.com^$important
 ||msads.net^$important
 ||mynet.com^$important
-@@||p.jwpcdn.com
 ||poponclick.com^$important
 ||spot.im^$important
 ||telwrite.com^$important
@@ -79,7 +73,6 @@ boldsky.com###oneindia_polls_container
 boldsky.com###vn-cp-banner-floater
 boldsky.com##.wrap
 boldsky.com###headerPromotionText
-@@||xvideos.com^$third-party
 ||forbes.com/ajax/getUniregUserData?naturalId=blogAndPostId%2Fblog%2Fpost%2F2595-31057$xmlhttprequest,domain=www.forbes.com
 ||forbes.com/forbesapi/stats/topStories.json?channel=channel_1&fields=primaryChannelId,storyType,blogType,advoiceBrand,shortUri,title,naturalId,authors,image&mobile=false&naturalid=blogAndPostId%2Fblog%2Fpost%2F2595-31057&objects=true&stream=true$xmlhttprequest,domain=www.forbes.com
 ||forbes.com/statsapi/page/all/20/id.json2?id=blogAndPostId%2Fblog%2Fpost%2F2595-31057$xmlhttprequest,domain=www.forbes.com
@@ -200,4 +193,4 @@ porntube.com###main-banner-grid
 comicbookresources.com###billboard
 hindustantimes.com##.ggl_ads_row
 ||nonkads.com^$important
-||abbp1.pw^$important
+youporn.com##.trafficjunky-video-being-watched-section.eight-column
