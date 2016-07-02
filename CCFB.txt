@@ -82,8 +82,6 @@ heroichollywood.com##.adbox-long
 heroichollywood.com##.adbox-sidebar
 heroichollywood.com##.sidebar
 ||doubleclick.net^$important
-@@||edge.api.brightcove.com$domain=players.brightcove.net
-@@||hlsak-a.akamaihd.net$domain=players.brightcove.net
 ||pleaseletmeadvertise.com^$important
 ||adblockdetect.xyz^$important
 kisscartoon.me##.rightBox:nth-of-type(5)
@@ -195,4 +193,4 @@ hindustantimes.com##.ggl_ads_row
 youporn.com##.trafficjunky-video-being-watched-section.eight-column
 ||ucdn.allmyvideos.net/jquery.cookie.js$script
 thevideo.me##.alert-signup.alert-default.alert
-||*.elasticbeanstalk.*^$important
+||.elasticbeanstalk.*^$important
