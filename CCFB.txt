@@ -194,3 +194,4 @@ youporn.com##.trafficjunky-video-being-watched-section.eight-column
 ||ucdn.allmyvideos.net/jquery.cookie.js$script
 thevideo.me##.alert-signup.alert-default.alert
 ||.elasticbeanstalk.*^$important
+||thevideo.me^$popup
