@@ -195,3 +195,5 @@ youporn.com##.trafficjunky-video-being-watched-section.eight-column
 thevideo.me##.alert-signup.alert-default.alert
 ||.elasticbeanstalk.*^$important
 ||thevideo.me^$popup
+.androidcentral.com##img[src="http://www.androidcentral.com/sites/androidcentral.com/files/styles/larger/public/article_images/2016/04/mobilenations-snapchat.jpg"]
+.androidcentral.com##.sidebar-body
