@@ -166,7 +166,6 @@ kissanime.to###btnShowComments
 thelocalbay.com##audio
 ||usswrite.com^$important
 kisscartoon.me###disqus_thread
-||ajax.cloudflare.com/cdn-cgi/nexp/dok3v=e982913d31/cloudflare.min.js$script,important
 bulbapedia.bulbagarden.net###amazon-related
 ||optimizely.com^$important
 ||2mdn.net^$important
