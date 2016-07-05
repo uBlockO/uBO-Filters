@@ -197,3 +197,7 @@ thevideo.me##.alert-signup.alert-default.alert
 ||thevideo.me^$popup
 .androidcentral.com##img[src="http://www.androidcentral.com/sites/androidcentral.com/files/styles/larger/public/article_images/2016/04/mobilenations-snapchat.jpg"]
 .androidcentral.com##.sidebar-body
+###video_overlays
+||mrperfect.in^$important
+||longtailvideo.com^$important
+||dubshub.com^$important
