@@ -200,3 +200,7 @@ thevideo.me##.alert-signup.alert-default.alert
 ||mrperfect.in^$important
 ||longtailvideo.com^$important
 ||dubshub.com^$important
+dailycaller.com###secondary > .blank.columns.small-12:nth-of-type(7)
+dailycaller.com###outbrain_widget_1
+dailycaller.com##.comments-link
+dailycaller.com###outbrain_widget_0
