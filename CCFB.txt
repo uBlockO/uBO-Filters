@@ -210,7 +210,7 @@ dailycaller.com###outbrain_widget_0
 twoo.com##.tw3-profile__ad.jsNoMoreAds.text--center.mb--tight.text--small
 putlocker.is##.movgr
 ||104.198.198.188^$important
-indiansexstories.net##.bottom-right.sticky-queue
-indiansexstories.net##.IPEA-loaded
-indiansexstories.net##.sidebar.col-md-4
-indiansexstories.net##.ipeb-box
+||vartoken.com^$important
+||twilio.com^$important
+||delhisexchat.com^$important
+||arrechintu.com^$important
