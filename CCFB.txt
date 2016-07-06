@@ -206,3 +206,5 @@ dailycaller.com##.comments-link
 dailycaller.com###outbrain_widget_0
 ||stackcommerce.com^$important
 ||stacksocial.com^$important
+twoo.com##.adsbytwo
+twoo.com##.tw3-profile__ad.jsNoMoreAds.text--center.mb--tight.text--small
