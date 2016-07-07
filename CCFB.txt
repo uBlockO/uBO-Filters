@@ -222,3 +222,7 @@ indiansexstories.net##.read-more
 ||alerts.ndtv.com/js/notify.js$script
 ||social.ndtv.com/static/Comment$first-party
 ndtv.com##.left_head
+ndtv.com##.mastheadwrap
+ndtv.com##.ad300mrec1
+ndtv.com##.ad300
+ndtv.com##.adcont
