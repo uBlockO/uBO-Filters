@@ -229,3 +229,4 @@ ndtv.com##.adcont
 ||ndtv.com^$inline-script
 ||dethao.com^$important
 ||ucdn.allmyvideos.net^$important
+thewatchseries.to###fixmgh
