@@ -221,3 +221,4 @@ indiansexstories.net##.col-md-12
 indiansexstories.net##.read-more
 ||alerts.ndtv.com/js/notify.js$script
 ||social.ndtv.com/static/Comment$first-party
+ndtv.com##.left_head
