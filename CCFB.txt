@@ -220,4 +220,4 @@ indiansexstories.net##.sidebar.col-md-4
 indiansexstories.net##.col-md-12
 indiansexstories.net##.read-more
 ||alerts.ndtv.com/js/notify.js$script
-||static.social.ndtv.com/javascript/Widget/comment$script
+||social.ndtv.com/static/Comment$first-party
