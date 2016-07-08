@@ -230,6 +230,6 @@ ndtv.com##.adcont
 ||dethao.com^$important
 /jquery.cookie.js$script,important
 thewatchseries.to###fixmgh
-###advads
+namc.to###advads-*
 nmac.to##.alert-error.in.fade.alert
 ##.adsbygoogle
