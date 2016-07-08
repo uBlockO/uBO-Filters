@@ -165,7 +165,7 @@ kissanime.to###btnShowComments
 ||braintreegateway.com^$important
 thelocalbay.com##audio
 ||usswrite.com^$important
-kisscartoon.me###disqus_thread
+###disqus_thread
 bulbapedia.bulbagarden.net###amazon-related
 ||optimizely.com^$important
 ||2mdn.net^$important
@@ -230,3 +230,6 @@ ndtv.com##.adcont
 ||dethao.com^$important
 /jquery.cookie.js$script,important
 thewatchseries.to###fixmgh
+###advads
+nmac.to##.alert-error.in.fade.alert
+##.adsbygoogle
