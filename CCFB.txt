@@ -190,7 +190,6 @@ comicbookresources.com###billboard
 hindustantimes.com##.ggl_ads_row
 ||nonkads.com^$important
 youporn.com##.trafficjunky-video-being-watched-section.eight-column
-||ucdn.allmyvideos.net/jquery.cookie.js$script
 thevideo.me##.alert-signup.alert-default.alert
 ||.elasticbeanstalk.*^$important
 ||thevideo.me^$popup
@@ -230,6 +229,4 @@ ndtv.com##.adcont
 ||dethao.com^$important
 /jquery.cookie.js$script,important
 thewatchseries.to###fixmgh
-nmac.to###advads-*
-nmac.to##.alert-error.in.fade.alert
 ##.adsbygoogle
