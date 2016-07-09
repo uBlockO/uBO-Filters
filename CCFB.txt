@@ -231,3 +231,4 @@ ndtv.com##.adcont
 thewatchseries.to###fixmgh
 ##.adsbygoogle
 comicbook.com##.next-article-tease
+||mgid.com^$important
