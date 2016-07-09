@@ -230,3 +230,4 @@ ndtv.com##.adcont
 /jquery.cookie.js$script,important
 thewatchseries.to###fixmgh
 ##.adsbygoogle
+comicbook.com##.next-article-tease
