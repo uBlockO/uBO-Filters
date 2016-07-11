@@ -236,3 +236,7 @@ comicbook.com##.next-article-tease
 ||zorwrite.com^$important
 ||watchfree.to^$popup
 yts.ag##.fd.button-green-download-big
+||zen.*^$important
+||stripe.com^$important
+||berush.com^$important
+/zenmarket^$important
