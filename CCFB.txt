@@ -235,3 +235,4 @@ comicbook.com##.next-article-tease
 ##.videoAdClose
 ||zorwrite.com^$important
 ||watchfree.to^$popup
+yts.ag##.fd.button-green-download-big
