@@ -240,3 +240,7 @@ yts.ag##.fd.button-green-download-big
 ||stripe.com^$important
 ||berush.com^$important
 /zenmarket^$important
+||monova.org^$popup
+monova.org##.warning-message
+monova.org##._skip.container-bt
+monova.org##.section-b.container-bt
