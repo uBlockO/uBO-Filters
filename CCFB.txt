@@ -244,3 +244,4 @@ yts.ag##.fd.button-green-download-big
 monova.org##.warning-message
 monova.org##._skip.container-bt
 monova.org##.section-b.container-bt
+##.adv_box
