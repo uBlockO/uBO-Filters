@@ -49,8 +49,6 @@ kisscartoon.me##.clear:nth-of-type(5)
 kisscartoon.me##.clear:nth-of-type(3)
 cinemablend.com###newsletter-background
 cinemablend.com###newsletter-subscription
-||watch-series.to/templates/default/images/ptv.png$image
-||watch-series.to/templates/default/images/stream.png$image
 watch-series.to##.stream_button
 watch-series.to##.sp-leader-bottom
 watch-series.to##.block-left-home-inside:nth-of-type(2)
@@ -245,3 +243,5 @@ monova.org##.warning-message
 monova.org##._skip.container-bt
 monova.org##.section-b.container-bt
 ##.adv_box
+watch-series.to##.sp-leader
+watch-series.to##.shd_button
