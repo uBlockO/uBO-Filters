@@ -49,11 +49,11 @@ kisscartoon.me##.clear:nth-of-type(5)
 kisscartoon.me##.clear:nth-of-type(3)
 cinemablend.com###newsletter-background
 cinemablend.com###newsletter-subscription
-||thewatchseries.to/templates/default/images/ptv.png$image
-||thewatchseries.to/templates/default/images/stream.png$image
-thewatchseries.to##.stream_button
-thewatchseries.to##.sp-leader-bottom
-thewatchseries.to##.block-left-home-inside:nth-of-type(2)
+||watch-series.to/templates/default/images/ptv.png$image
+||watch-series.to/templates/default/images/stream.png$image
+watch-series.to##.stream_button
+watch-series.to##.sp-leader-bottom
+watch-series.to##.block-left-home-inside:nth-of-type(2)
 couchtuner.city##.b_items
 ||gorillavid.in/*/^$popup
 thewatchseries.li##.video_holder
@@ -109,8 +109,8 @@ comicbook.com##.below-article-ads
 ||wibbitz.com^$important
 screenrant.com##.social
 readcomiconline.to##a[href="#"]
-thewatchseries.to##.twitter-share-button
-thewatchseries.to##.ad_300_250
+watch-series.to##.twitter-share-button
+watch-series.to##.ad_300_250
 sexstories.com###bottom_panel
 sexstories.com##.title_panel
 sexstories.com##.block_panel:nth-of-type(4)
@@ -228,7 +228,7 @@ ndtv.com##.adcont
 ||ndtv.com^$inline-script
 ||dethao.com^$important
 /jquery.cookie.js$script,important
-thewatchseries.to###fixmgh
+watch-series.to###fixmgh
 ##.adsbygoogle
 comicbook.com##.next-article-tease
 ||mgid.com^$important
