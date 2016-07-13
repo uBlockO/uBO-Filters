@@ -245,3 +245,4 @@ monova.org##.section-b.container-bt
 ##.adv_box
 watch-series.to##.sp-leader
 watch-series.to##.shd_button
+watch-series.to##.freeEpisode
