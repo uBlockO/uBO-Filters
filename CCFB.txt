@@ -246,3 +246,5 @@ monova.org##.section-b.container-bt
 watch-series.to##.sp-leader
 watch-series.to##.shd_button
 watch-series.to##.freeEpisode
+||exoclick.com^$important
+||sharethis.com^$important
