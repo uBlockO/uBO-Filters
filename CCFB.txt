@@ -254,3 +254,4 @@ watch-series.to##.freeEpisode
 ||adnostri.com^$important
 ||adv4biz.com^$important
 ||vizplay.org^$important
+gyazo.com###versionup
