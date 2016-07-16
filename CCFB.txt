@@ -255,3 +255,4 @@ watch-series.to##.freeEpisode
 ||adv4biz.com^$important
 ||vizplay.org^$important
 gyazo.com###versionup
+||livemint.com^$important
