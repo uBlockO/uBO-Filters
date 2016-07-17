@@ -256,3 +256,5 @@ watch-series.to##.freeEpisode
 ||vizplay.org^$important
 gyazo.com###versionup
 ||livemint.com^$important
+###player-facebook-share
+###player-twitter-share
