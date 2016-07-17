@@ -258,3 +258,4 @@ gyazo.com###versionup
 ||livemint.com^$important
 ###player-facebook-share
 ###player-twitter-share
+||*$websocket
