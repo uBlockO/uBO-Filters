@@ -264,3 +264,5 @@ pornhub.com##.clear.hd.jisfhp0w2u
 ||taboola.com^$important
 putlocker-movies.tv##.sources
 ||putlocker-movies.tv/ajax/view.php$xmlhttprequest,important
+||polldaddy.com^
+||3jsbf5.xyz^
