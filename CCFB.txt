@@ -261,3 +261,4 @@ gyazo.com###versionup
 ||*$websocket
 pornhub.com##.abovePlayer
 pornhub.com##.clear.hd.jisfhp0w2u
+||taboola.com^$important
