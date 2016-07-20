@@ -267,3 +267,6 @@ putlocker-movies.tv##.sources
 ||polldaddy.com^
 ||3jsbf5.xyz^
 screenrant.com##.video-block-main.video-block
+@@||blockadblock.com^$generichide
+@@.jpg|$image,domain=blockadblock.com
+@@.ico|$image,domain=blockadblock.com
