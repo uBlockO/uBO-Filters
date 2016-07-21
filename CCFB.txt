@@ -13,6 +13,11 @@ screenrant.com##.load-wrap.ajaxLoader
 screenrant.com##.switch.share-switch
 screenrant.com##.video-block-related-article.video-block
 screenrant.com##.video-disclaimer
+screenrant.com##.email.icon
+screenrant.com##.comment.icon
+screenrant.com##.plus.icon
+screenrant.com##a[href="#comments"]
+screenrant.com##.desktop.comments
 thewatchseries.li##.col-xs-12.col-sm-6.block-left-home-inside:nth-of-type(2)
 ||disqus.com^$important
 ||advisorded.com^$important
