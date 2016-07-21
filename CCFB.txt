@@ -7,11 +7,6 @@ col126.mail.live.com###RightRailContainer
 watchfree.to##.get_vpn
 watchfree.to##.comment_box
 watchfree.to##.below_player
-screenrant.com##.email.icon
-screenrant.com##.comment.icon
-screenrant.com##.plus.icon
-screenrant.com##a[href="#comments"]
-screenrant.com##.desktop.comments
 ||screenrant.com/wp-content/themes/screenrant/ajax-action.php$xmlhttprequest
 screenrant.com##.info-wrap
 screenrant.com##.load-wrap.ajaxLoader
