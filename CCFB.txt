@@ -277,4 +277,3 @@ defaultreasoning.com##.hp-home-6.sb-right.hp-sidebar
 torrentz.eu##.download > dl:nth-of-type(1) > dt
 ||adclickservice.com^$important
 ||sc-f6eade8.js^$important
-||*$popunder
