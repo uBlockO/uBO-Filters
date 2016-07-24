@@ -287,3 +287,4 @@ imgpile.com##.panel-share-networks.margin-left-10.default-margin-bottom.grid-col
 imgpile.com###content_tab-about_column
 ||nanufeed.com^$important
 ||maxcdn.com^$domain=imgpile.com
+imgpile.com##.feed_result
