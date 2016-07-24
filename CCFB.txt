@@ -271,3 +271,6 @@ screenrant.com##.video-block-main.video-block
 @@.jpg|$image,domain=blockadblock.com
 @@.ico|$image,domain=blockadblock.com
 ||screenrant.com/wp-content/themes/screenrant/js/libs$script
+defaultreasoning.com##.mh-container > .clearfix.row
+defaultreasoning.com##.sb-right.mh-sidebar
+defaultreasoning.com##.hp-home-6.sb-right.hp-sidebar
