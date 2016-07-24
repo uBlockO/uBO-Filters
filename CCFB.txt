@@ -280,3 +280,6 @@ torrentz.eu##.download > dl:nth-of-type(1) > dt
 @@||imgpile.com^$generichide
 @@.jpg|$image,domain=imgpile.com
 @@.ico|$image,domain=imgpile.com
+@@||imgpile.com/ads.js$script
+imgpile.com##.outline.blue.btn-unliked.btn
+imgpile.com##.red.btn
