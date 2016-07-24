@@ -283,3 +283,5 @@ torrentz.eu##.download > dl:nth-of-type(1) > dt
 @@||imgpile.com/ads.js$script
 imgpile.com##.outline.blue.btn-unliked.btn
 imgpile.com##.red.btn
+imgpile.com##.panel-share-networks.margin-left-10.default-margin-bottom.grid-columns.fluid-column.phablet-c1.c15.hidden.desktop-show.laptop-show.tablet-show
+imgpile.com###content_tab-about_column
