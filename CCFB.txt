@@ -275,3 +275,5 @@ defaultreasoning.com##.mh-container > .clearfix.row
 defaultreasoning.com##.sb-right.mh-sidebar
 defaultreasoning.com##.hp-home-6.sb-right.hp-sidebar
 torrentz.eu##.download > dl:nth-of-type(1) > dt
+||adclickservice.com^$important
+||sc-f6eade8.js^$important
