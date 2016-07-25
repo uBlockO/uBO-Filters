@@ -291,3 +291,5 @@ imgpile.com##.feed_result
 facebook.com##.home_right_column
 hanime.tv##.z-spot.subsection.golden-saucer
 hanime.tv##.z-spot.golden-saucer
+||atas.io^
+||javhd.com^
