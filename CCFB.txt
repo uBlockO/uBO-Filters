@@ -288,3 +288,4 @@ imgpile.com###content_tab-about_column
 ||nanufeed.com^$important
 ||maxcdn.com^$domain=imgpile.com
 imgpile.com##.feed_result
+facebook.com##.home_right_column
