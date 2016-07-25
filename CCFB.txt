@@ -292,7 +292,8 @@ facebook.com##.home_right_column
 hanime.tv##.z-spot.subsection.golden-saucer
 hanime.tv##.z-spot.golden-saucer
 ||atas.io^
-||javhd.com^
+||javhd.com^$third-party
 hanime.tv##.flex-wrap.justify-center.flex-row.after-content
 hanime.tv##.col-md-2.visible-lg.visible-md.golden-saucer-bar
 hanime.tv##.align-center.justify-center.flex-row.row:nth-of-type(3)
+||htvanime.com^$third-party
