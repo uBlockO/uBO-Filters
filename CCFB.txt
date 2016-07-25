@@ -289,3 +289,5 @@ imgpile.com###content_tab-about_column
 ||maxcdn.com^$domain=imgpile.com
 imgpile.com##.feed_result
 facebook.com##.home_right_column
+hanime.tv##.z-spot.subsection.golden-saucer
+hanime.tv##.z-spot.golden-saucer
