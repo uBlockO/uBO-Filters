@@ -223,7 +223,6 @@ ndtv.com##.mastheadwrap
 ndtv.com##.ad300mrec1
 ndtv.com##.ad300
 ndtv.com##.adcont
-||ndtv.com^$inline-script
 ||dethao.com^$important
 /jquery.cookie.js$script,important
 watch-series.to###fixmgh
