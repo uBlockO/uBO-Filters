@@ -296,4 +296,4 @@ hanime.tv##.flex-wrap.justify-center.flex-row.after-content
 hanime.tv##.col-md-2.visible-lg.visible-md.golden-saucer-bar
 hanime.tv##.align-center.justify-center.flex-row.row:nth-of-type(3)
 ||htvanime.com^$third-party
-facebook.com###u_ps_0_0_0
+speedtest.net##.no-shadow.ad-vertical-tower.ad-vertical-container
