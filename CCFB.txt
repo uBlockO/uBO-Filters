@@ -257,7 +257,6 @@ gyazo.com###versionup
 ||livemint.com^$important
 ###player-facebook-share
 ###player-twitter-share
-||*$websocket
 pornhub.com##.abovePlayer
 pornhub.com##.clear.hd.jisfhp0w2u
 ||taboola.com^$important
