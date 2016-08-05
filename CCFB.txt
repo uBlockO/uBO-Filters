@@ -298,3 +298,9 @@ hanime.tv##.align-center.justify-center.flex-row.row:nth-of-type(3)
 ||htvanime.com^$third-party
 speedtest.net##.no-shadow.ad-vertical-tower.ad-vertical-container
 imgpile.com###trumpet_message
+opensubtitles.org##fieldset
+watch-series.to##.add-comment
+watch-series.to##.morecomments.general_button
+watch-series.to###scroll_comments
+watch-series.to###header-2
+watch-series.to##.shd_button
