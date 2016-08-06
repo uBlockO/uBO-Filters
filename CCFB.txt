@@ -304,3 +304,4 @@ watch-series.to###scroll_comments
 watch-series.to###header-2
 watch-series.to##.shd_button
 ||$websocket
+||reimsrvcm.com^
