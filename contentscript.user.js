@@ -6,6 +6,7 @@
 // @author       Mark
 // @icon         https://raw.githubusercontent.com/gorhill/uBO-WebSocket/master/icon128.png
 // @match        https://github.com/gorhill/uBO-WebSocket/blob/master/contentscript.js
+// @encoding     utf-8
 // @grant        none
 // @match_about_blank true
 // @include http://*/*
