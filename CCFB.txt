@@ -309,3 +309,5 @@ rollingstone.com##.right-rail
 rollingstone.com###card-container
 rollingstone.com###content-card-footer
 ||googletagmanager.com^
+gadgets.ndtv.com###RightControlContainer_pnl
+###sharelink
