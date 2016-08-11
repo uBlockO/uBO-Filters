@@ -308,3 +308,4 @@ watch-series.to##.shd_button
 rollingstone.com##.right-rail
 rollingstone.com###card-container
 rollingstone.com###content-card-footer
+||googletagmanager.com^
