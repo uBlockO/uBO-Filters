@@ -310,7 +310,9 @@ rollingstone.com###card-container
 rollingstone.com###content-card-footer
 ||googletagmanager.com^
 gadgets.ndtv.com###RightControlContainer_pnl
-###sharelink
+gadgets.ndtv.com###sharelink
 ||vidible.tv^$third-party
 ||kostprice.com^$third-party
 ||gadgets360.com^$third-party
+gadgets.ndtv.com##.fr.stickysocial
+gadgets.ndtv.com##a[href="http://hi.gadgets360.com/mobiles/xiaomi-redmi-3s-prime-review-hindi-reviews-1442180"]
