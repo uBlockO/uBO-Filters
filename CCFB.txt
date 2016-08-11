@@ -311,3 +311,6 @@ rollingstone.com###content-card-footer
 ||googletagmanager.com^
 gadgets.ndtv.com###RightControlContainer_pnl
 ###sharelink
+||vidible.tv^$third-party
+||kostprice.com^$third-party
+||gadgets360.com^$third-party
