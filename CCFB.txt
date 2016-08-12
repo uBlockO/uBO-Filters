@@ -275,9 +275,9 @@ defaultreasoning.com##.hp-home-6.sb-right.hp-sidebar
 torrentz.eu##.download > dl:nth-of-type(1) > dt
 ||adclickservice.com^$important
 ||sc-f6eade8.js^$important
-@@||imgpile.com^$generichide
-@@.jpg|$image,domain=imgpile.com
-@@.ico|$image,domain=imgpile.com
+@@||imgpile.com|quickfever.com^$generichide
+@@.jpg|$image,domain=imgpile.com|quickfever.com
+@@.ico|$image,domain=imgpile.com|quickfever.com
 @@||imgpile.com/ads.js$script
 imgpile.com##.outline.blue.btn-unliked.btn
 imgpile.com##.red.btn
@@ -316,3 +316,4 @@ gadgets.ndtv.com###sharelink
 ||gadgets360.com^$third-party
 gadgets.ndtv.com##.fr.stickysocial
 gadgets.ndtv.com##a[href="http://hi.gadgets360.com/mobiles/xiaomi-redmi-3s-prime-review-hindi-reviews-1442180"]
+||yahooapis.com|picresize.com|mlcdn.com|mailerlite.com|lorempixel.com|blogblog.com^$third-party
