@@ -314,3 +314,4 @@ gadgets.ndtv.com##a[href="http://hi.gadgets360.com/mobiles/xiaomi-redmi-3s-prime
 ||stats.com^
 techolite.com##.textwidget
 ||namesakeoscilloscopemarquis.*^$important
+tampermonkey.net##.house.adventing
