@@ -38,9 +38,6 @@ redtube.com##.tja
 birthmoviesdeath.com##.clearfix.PanelProduct.panel
 ||belwrite.com^$important
 ||advserver.xyz^$important
-tampermonkey.net##.noborder > tbody > tr > td:nth-of-type(2)
-tampermonkey.net##.noborder:nth-of-type(1) > tbody > tr > td:nth-of-type(2)
-tampermonkey.net##.noborder:nth-of-type(2) > tbody > tr > td:nth-of-type(1)
 youtube.com###watch-action-panels
 comicbook.com##.cmp.pubEx
 kisscartoon.me##.bigBarContainer:nth-of-type(5)
