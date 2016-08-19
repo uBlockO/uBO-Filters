@@ -315,4 +315,3 @@ techolite.com##.textwidget
 ||namesakeoscilloscopemarquis.*^$important
 tampermonkey.net##.house.adventing
 cnet.com##.hide.popOut.videoContainer
-@@||bit.ly^$popup
