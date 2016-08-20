@@ -316,3 +316,4 @@ techolite.com##.textwidget
 tampermonkey.net##.house.adventing
 cnet.com##.hide.popOut.videoContainer
 comicbook.com##a[href="http://amzn.to/28Wrjtb"]
+||airtel.*$third-party
