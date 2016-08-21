@@ -309,7 +309,7 @@ gadgets.ndtv.com###sharelink
 ||gadgets360.com^$third-party
 gadgets.ndtv.com##.fr.stickysocial
 gadgets.ndtv.com##a[href="http://hi.gadgets360.com/mobiles/xiaomi-redmi-3s-prime-review-hindi-reviews-1442180"]
-@@*$elemhide,domain=blockadblock.com|imgpile.com|quickfever.com|fullstuff.co
+@@*$elemhide,domain=blockadblock.com|imgpile.com|quickfever.com|fullstuff.co|nmac.to
 ||stats.com^
 techolite.com##.textwidget
 ||namesakeoscilloscopemarquis.*^$important
