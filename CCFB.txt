@@ -321,5 +321,3 @@ thevideo.me##.text-right.col-lg-3
 thevideo.me##.col-sm-3
 ||bestarmour4u.*^
 ||adblockerkillswebsites.*^
-xnxx.com###content-ad-side
-xnxx.com###footer
