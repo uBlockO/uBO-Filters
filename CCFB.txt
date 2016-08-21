@@ -317,3 +317,7 @@ tampermonkey.net##.house.adventing
 cnet.com##.hide.popOut.videoContainer
 comicbook.com##a[href="http://amzn.to/28Wrjtb"]
 ||airtel.*^$third-party
+thevideo.me##.text-right.col-lg-3
+thevideo.me##.col-sm-3
+||bestarmour4u.*^
+||adblockerkillswebsites.*^
