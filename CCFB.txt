@@ -261,9 +261,6 @@ putlocker-movies.tv##.sources
 ||polldaddy.com^
 ||3jsbf5.xyz^
 screenrant.com##.video-block-main.video-block
-@@||blockadblock.com|imgpile.com|quickfever.com|$generichide
-@@.jpg|$image,domain=blockadblock.com|imgpile.com|quickfever.com
-@@.ico|$image,domain=blockadblock.com|imgpile.com|quickfever.com
 ||screenrant.com/wp-content/themes/screenrant/js/libs$script
 defaultreasoning.com##.mh-container > .clearfix.row
 defaultreasoning.com##.sb-right.mh-sidebar
@@ -310,6 +307,8 @@ gadgets.ndtv.com###sharelink
 gadgets.ndtv.com##.fr.stickysocial
 gadgets.ndtv.com##a[href="http://hi.gadgets360.com/mobiles/xiaomi-redmi-3s-prime-review-hindi-reviews-1442180"]
 @@*$elemhide,domain=blockadblock.com|imgpile.com|quickfever.com|fullstuff.co|nmac.to
+@@.jpg|$image,domain=blockadblock.com|imgpile.com|quickfever.com|nmac.to
+@@.ico|$image,domain=blockadblock.com|imgpile.com|quickfever.com|nmac.to
 ||stats.com^
 techolite.com##.textwidget
 ||namesakeoscilloscopemarquis.*^$important
