@@ -322,3 +322,4 @@ thevideo.me##.col-sm-3
 ||adblockerkillswebsites.*^
 1337x.to###mgbl49472
 1337x.to##.link-box
+###tor2web-header
