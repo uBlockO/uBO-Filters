@@ -332,6 +332,9 @@ watchseries.la##iframe
 gorillavid.in###content > form > .video-full > .c1-box > div:nth-of-type(10) > div
 ||daclips.in^$third-party
 ||msz.gov.pl^$third-party
-||ooyala.com^
-||opinionstage.com^
-||vrsource.com^
+||ooyala.*^
+||opinionstage.*^
+||vrsource.*^
+||ohmwrite.*^
+||prxio.*^
+||yahooapis.com^$third-party
