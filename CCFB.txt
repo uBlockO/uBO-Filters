@@ -320,3 +320,5 @@ thevideo.me##.text-right.col-lg-3
 thevideo.me##.col-sm-3
 ||bestarmour4u.*^
 ||adblockerkillswebsites.*^
+1337x.to###mgbl49472
+1337x.to##.link-box
