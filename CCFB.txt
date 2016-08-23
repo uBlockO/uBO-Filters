@@ -50,7 +50,6 @@ watch-series.to##.stream_button
 watch-series.to##.sp-leader-bottom
 watch-series.to##.block-left-home-inside:nth-of-type(2)
 couchtuner.city##.b_items
-||gorillavid.in/*/^$popup
 thewatchseries.li##.video_holder
 thewatchseries.li##.red.push_button:nth-of-type(1)
 thewatchseries.li##.red.push_button:nth-of-type(2)
@@ -228,7 +227,6 @@ comicbook.com##.next-article-tease
 ||mgid.com^$important
 ##.videoAdClose
 ||zorwrite.com^$important
-||watchfree.to^$popup
 yts.ag##.fd.button-green-download-big
 ||zen.*^$important
 ||stripe.com^$important
