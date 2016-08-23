@@ -221,6 +221,7 @@ ndtv.com##.ad300
 ndtv.com##.adcont
 ||dethao.com^$important
 /jquery.cookie.js$script,important
+/cookie.jquery.js$script,important
 watch-series.to###fixmgh
 ##.adsbygoogle
 comicbook.com##.next-article-tease
