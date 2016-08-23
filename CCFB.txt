@@ -337,3 +337,5 @@ gorillavid.in###content > form > .video-full > .c1-box > div:nth-of-type(10) > d
 ||ohmwrite.*^
 ||prxio.*^
 ||yahooapis.com^$third-party
+vshare.eu##.download-share
+||vshare.eu/javascripts/app.js$script
