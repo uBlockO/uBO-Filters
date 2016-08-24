@@ -343,3 +343,5 @@ vidup.me##.clearfix.row
 ||theads.*^$important
 whatismybrowser.com##.hidden-xs.extra
 whatismybrowser.com##.leaderboard.hidden-xs.content-block
+xnxx.com###content-ad-side
+xnxx.com###footer
