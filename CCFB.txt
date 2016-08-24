@@ -341,3 +341,5 @@ vshare.eu##.download-share
 ||vshare.eu/javascripts/app.js$script
 vidup.me##.clearfix.row
 ||theads.*^$important
+whatismybrowser.com##.hidden-xs.extra
+whatismybrowser.com##.leaderboard.hidden-xs.content-block
