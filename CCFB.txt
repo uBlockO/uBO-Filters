@@ -350,3 +350,5 @@ w3techs.com###hdc
 w3techs.com###hdr
 w3techs.com##.tech_sel
 ||snap-scan.com^
+forum.sa-mp.com###signature
+||typekit.net^$third-party
