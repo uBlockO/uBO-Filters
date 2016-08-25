@@ -353,3 +353,5 @@ w3techs.com##.tech_sel
 forum.sa-mp.com###signature
 ||typekit.net^$third-party
 ||about:blank$popup,domain=*
+watchfree.to##.link_item:nth-of-type(1)
+||riowrite.*^
