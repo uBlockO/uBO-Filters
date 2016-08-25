@@ -352,3 +352,4 @@ w3techs.com##.tech_sel
 ||snap-scan.com^
 forum.sa-mp.com###signature
 ||typekit.net^$third-party
+||about:blank$popup,domain=*
