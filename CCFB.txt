@@ -355,3 +355,4 @@ forum.sa-mp.com###signature
 ||about:blank$popup,domain=*
 watchfree.to##.link_item:nth-of-type(1)
 ||riowrite.*^
+||smartadserver.com^$important
