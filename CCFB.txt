@@ -356,3 +356,5 @@ forum.sa-mp.com###signature
 watchfree.to##.link_item:nth-of-type(1)
 ||riowrite.*^
 ||smartadserver.com^$important
+watch-series.to##.fixedepisodetopadd.sp-sidetower
+tomshardware.com###header_leaderboard
