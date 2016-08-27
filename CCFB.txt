@@ -344,7 +344,6 @@ vidup.me##.clearfix.row
 whatismybrowser.com##.hidden-xs.extra
 whatismybrowser.com##.leaderboard.hidden-xs.content-block
 xnxx.com###content-ad-side
-xnxx.com###footer
 w3techs.com##.feat
 w3techs.com###hdc
 w3techs.com###hdr
