@@ -362,4 +362,3 @@ parentherald.com##.at_con
 parentherald.com###comment
 ||*$third-party,domain=parentherald.com
 ||yahooapis.*^$important
-@@||$websocket,domain=github.com
