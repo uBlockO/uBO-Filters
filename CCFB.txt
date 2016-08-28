@@ -361,3 +361,5 @@ parentherald.com##.at_con
 parentherald.com###comment
 ||*$third-party,domain=parentherald.com
 ||yahooapis.*^$important
+||104.198.221.99^
+||leadzupc.com^
