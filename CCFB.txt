@@ -368,3 +368,5 @@ facebook.com##.clearfix._a7s._3399
 facebook.com###addComment_1336965312982121
 facebook.com##.UFIList
 facebook.com##._23ig
+facebook.com###u_18_5
+facebook.com##._2kgg.fbTimelineUFI
