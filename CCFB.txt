@@ -371,3 +371,5 @@ facebook.com##._23ig
 facebook.com###u_18_5
 facebook.com##._2kgg.fbTimelineUFI
 facebook.com###u_0_0
+||1337x.to/torrent/*/*$popup,first-party
+addons.mozilla.org###promos
