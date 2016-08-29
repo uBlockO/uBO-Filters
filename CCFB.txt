@@ -370,3 +370,4 @@ facebook.com##.UFIList
 facebook.com##._23ig
 facebook.com###u_18_5
 facebook.com##._2kgg.fbTimelineUFI
+facebook.com###u_0_0
