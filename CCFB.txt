@@ -361,5 +361,10 @@ parentherald.com##.at_con
 parentherald.com###comment
 ||*$third-party,domain=parentherald.com
 ||yahooapis.*^$important
-||104.198.221.99^
+||104.198.*.*^
 ||leadzupc.com^
+facebook.com##._4_dr._1f6t._3399
+facebook.com##.clearfix._a7s._3399
+facebook.com###addComment_1336965312982121
+facebook.com##.UFIList
+facebook.com##._23ig
