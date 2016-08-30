@@ -219,8 +219,8 @@ ndtv.com##.ad300mrec1
 ndtv.com##.ad300
 ndtv.com##.adcont
 ||dethao.com^$important
-/jquery.cookie.js$script,important
-/cookie.jquery.js$script,important
+/jquery.cookie.js$script
+/cookie.jquery.js$script
 watch-series.to###fixmgh
 ##.adsbygoogle
 comicbook.com##.next-article-tease
@@ -373,3 +373,8 @@ facebook.com##._2kgg.fbTimelineUFI
 ||1337x.to/torrent/*/*$popup,first-party
 addons.mozilla.org###promos
 ||msz.gov.pl^$third-party
+cbr.com##.i-comment.icon.btn-comment-article
+cbr.com##.sticky-header
+cbr.com##.load-wrap.ajaxLoader
+cbr.com##.header-feature-wrapper
+||cbr.com/wp-content/themes/cbr/ajax-action.php$xmlhttprequest
