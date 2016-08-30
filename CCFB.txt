@@ -378,4 +378,4 @@ cbr.com##.sticky-header
 cbr.com##.load-wrap.ajaxLoader
 cbr.com##.header-feature-wrapper
 ||cbr.com/wp-content/themes/cbr/ajax-action.php$xmlhttprequest
-cbr.com##.section-feature
+@@||cbr.com/wp-content/plugins/wp-minify/min/$script
