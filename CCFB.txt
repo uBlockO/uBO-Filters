@@ -380,3 +380,5 @@ cbr.com##.header-feature-wrapper
 cbr.com##.comment
 ||cbr.com/wp-content/themes/cbr/ajax-action.php?action=loadMorePost&ajax_post_id=*&hash=*$xmlhttprequest
 cbr.com##.feature-slider
+||clients1.google.com$domain=behind-the-scene
+||ocsp.digicert.com$domain=behind-the-scene
