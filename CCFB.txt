@@ -382,3 +382,5 @@ cbr.com##.comment
 cbr.com##.feature-slider
 ||clients1.google.com$domain=behind-the-scene
 ||ocsp.digicert.com$domain=behind-the-scene
+facebook.com##._ohf.rfloat._1bic
+facebook.com##._ipp
