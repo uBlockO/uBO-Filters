@@ -387,3 +387,4 @@ facebook.com##._ohf.rfloat._1bic
 facebook.com##._ipp
 ||gadgets.ndtv.com/Scripts/popup/gadgetsnotification.js$script
 @@||gadgets.ndtv.com/scripts/google_zedo__ruby.js$script
+*##[url*="data:text/html;base64"]
