@@ -388,3 +388,6 @@ facebook.com##._ipp
 @@||gadgets.ndtv.com/scripts/google_zedo__ruby.js$script
 *##[url*="data:text/html;base64"]
 ||*$third-party,domain=space.com
+||bild.me^$third-party
+||images-amazon.com^$third-party
+||petametrics.com^$third-party
