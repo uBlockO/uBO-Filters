@@ -370,7 +370,6 @@ facebook.com##.UFIList
 facebook.com##._23ig
 facebook.com###u_18_5
 facebook.com##._2kgg.fbTimelineUFI
-||1337x.to/torrent/*/*$popup,first-party
 addons.mozilla.org###promos
 ||msz.gov.pl^$third-party
 cbr.com##.i-comment.icon.btn-comment-article
