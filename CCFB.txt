@@ -411,3 +411,4 @@ timesofindia.indiatimes.com###LargeWrapper
 ||techradar.com^$important
 ||timesofindia.indiatimes.com^$xmlhttprequest,important
 ##.mr_socialshare
+screenrant.com##.article-body > div:nth-of-type(11)
