@@ -405,3 +405,8 @@ timesofindia.indiatimes.com##.relatedarticle
 ||timesofindia.indiatimes.com/articleshowajax^$xmlhttprequest,important
 ||timesofindia.indiatimes.com/commentsdata.cms$xmlhttprequest,important
 ||timesofindia.indiatimes.com/homeajax.cms$xmlhttprequest,important
+###socialbuttons
+timesofindia.indiatimes.com###LargeWrapper
+||aolcdn.com^$third-party
+||goal.com^$third-party
+||techradar.com^$third-party
