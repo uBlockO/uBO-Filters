@@ -402,11 +402,13 @@ timesofindia.indiatimes.com##.level2
 timesofindia.indiatimes.com##.level3
 timesofindia.indiatimes.com###livetv
 timesofindia.indiatimes.com##.relatedarticle
+timesofindia.indiatimes.com##.partners-wrapper
 ||timesofindia.indiatimes.com/articleshowajax^$xmlhttprequest,important
 ||timesofindia.indiatimes.com/commentsdata.cms$xmlhttprequest,important
 ||timesofindia.indiatimes.com/homeajax.cms$xmlhttprequest,important
+||timesofindia.indiatimes.com/ads_homepage^$script
 ###socialbuttons
 timesofindia.indiatimes.com###LargeWrapper
 ||aolcdn.com^$third-party
 ||goal.com^$third-party
-||techradar.com^$third-party
+||techradar.com^$important
