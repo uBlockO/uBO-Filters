@@ -386,7 +386,7 @@ facebook.com##._ipp
 ||gadgets.ndtv.com/Scripts/popup/gadgetsnotification.js$script
 @@||gadgets.ndtv.com/scripts/google_zedo__ruby.js$script
 ##[url*="data:text/html;base64"]
-||*$third-party,domain=space.com
+||*$third-party,domain=space.com|indiatimes.com
 ||bild.me^$third-party
 ||images-amazon.com^$third-party
 ||petametrics.com^$third-party
@@ -394,3 +394,10 @@ facebook.com##._ipp
 facebook.com##._ohe.lfloat._1bic
 facebook.com###u_f_6
 kissanime.to##strong
+timesofindia.indiatimes.com##.sidebar
+timesofindia.indiatimes.com##strong
+timesofindia.indiatimes.com##.comments
+timesofindia.indiatimes.com##.level2
+timesofindia.indiatimes.com##.level3
+||timesofindia.indiatimes.com/articleshowajax^$xmlhttprequest
+||timesofindia.indiatimes.com/commentsdata.cms$xmlhttprequest
