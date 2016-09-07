@@ -399,5 +399,8 @@ timesofindia.indiatimes.com##strong
 timesofindia.indiatimes.com##.comments
 timesofindia.indiatimes.com##.level2
 timesofindia.indiatimes.com##.level3
-||timesofindia.indiatimes.com/articleshowajax^$xmlhttprequest
-||timesofindia.indiatimes.com/commentsdata.cms$xmlhttprequest
+timesofindia.indiatimes.com###livetv
+timesofindia.indiatimes.com##.relatedarticle
+||timesofindia.indiatimes.com/articleshowajax^$xmlhttprequest,important
+||timesofindia.indiatimes.com/commentsdata.cms$xmlhttprequest,important
+||timesofindia.indiatimes.com/homeajax.cms$xmlhttprequest,important
