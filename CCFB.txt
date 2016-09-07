@@ -394,6 +394,7 @@ facebook.com##._ipp
 facebook.com##._ohe.lfloat._1bic
 facebook.com###u_f_6
 kissanime.to##strong
+##.googlead
 timesofindia.indiatimes.com##.sidebar
 timesofindia.indiatimes.com##strong
 timesofindia.indiatimes.com##.comments
