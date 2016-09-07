@@ -409,4 +409,4 @@ timesofindia.indiatimes.com###LargeWrapper
 ||aolcdn.com^$third-party
 ||goal.com^$third-party
 ||techradar.com^$important
-||timesofindia.indiatimes.com^$xmlhttprequest
+||timesofindia.indiatimes.com^$xmlhttprequest,important
