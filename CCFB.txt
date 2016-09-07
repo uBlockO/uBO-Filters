@@ -410,3 +410,4 @@ timesofindia.indiatimes.com###LargeWrapper
 ||goal.com^$third-party
 ||techradar.com^$important
 ||timesofindia.indiatimes.com^$xmlhttprequest,important
+##.mr_socialshare
