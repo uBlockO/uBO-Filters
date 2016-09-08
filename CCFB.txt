@@ -410,3 +410,6 @@ timesofindia.indiatimes.com###LargeWrapper
 ||timesofindia.indiatimes.com^$xmlhttprequest,important
 ##.mr_socialshare
 screenrant.com##.article-body > div:nth-of-type(11)
+extratorrent.cc,etmirror.com,etproxy.com,extratorrentonline.com,extratorrentlive.com##table[width="1070"]
+extratorrent.cc,etmirror.com,etproxy.com,extratorrentonline.com,extratorrentlive.com##table[width="900"]
+extratorrent.cc,etmirror.com,etproxy.com,extratorrentonline.com,extratorrentlive.com###chat_body
