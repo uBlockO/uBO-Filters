@@ -412,3 +412,4 @@ timesofindia.indiatimes.com###LargeWrapper
 extratorrent.cc,etmirror.com,etproxy.com,extratorrentonline.com,extratorrentlive.com##table[width="1070"]
 extratorrent.cc,etmirror.com,etproxy.com,extratorrentonline.com,extratorrentlive.com##table[width="900"]
 extratorrent.cc,etmirror.com,etproxy.com,extratorrentonline.com,extratorrentlive.com###chat_body
+screenrant.com##.gallery-thumb
