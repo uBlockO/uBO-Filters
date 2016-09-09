@@ -414,3 +414,5 @@ extratorrent.cc,etmirror.com,etproxy.com,extratorrentonline.com,extratorrentlive
 screenrant.com##.gallery-thumb
 savitahd.com##.leftadsec
 savitahd.com##.rightadsec
+cartoonhd.website,movieshd.watch,flixanity.me###credits
+cartoonhd.website,movieshd.watch,flixanity.me##a[href="#credits"]
