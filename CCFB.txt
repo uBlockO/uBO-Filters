@@ -388,7 +388,7 @@ facebook.com##._ipp
 ||bild.me^$third-party
 ||images-amazon.com^$third-party
 ||petametrics.com^$third-party
-||1337x.to/torrent/$popup
+||1337x.to/torrent/$popunder
 facebook.com##._ohe.lfloat._1bic
 facebook.com###u_f_6
 kissanime.to##strong
