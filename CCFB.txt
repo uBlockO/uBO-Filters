@@ -416,5 +416,5 @@ savitahd.com##.leftadsec
 savitahd.com##.rightadsec
 cartoonhd.website,movieshd.watch,flixanity.me###credits
 cartoonhd.website,movieshd.watch,flixanity.me##a[href="#credits"]
-/ajax/view.php,$domain=cartoonhd.website|movieshd.watch|flixanity.me
+/ajax/view.php$xmlhttprequest,domain=cartoonhd.website|movieshd.watch|flixanity.me
 ||github.com/_private/browser/errors
