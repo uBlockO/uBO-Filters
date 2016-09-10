@@ -371,7 +371,8 @@ facebook.com##._2kgg.fbTimelineUFI
 addons.mozilla.org###promos
 ||msz.gov.pl^$third-party
 cbr.com##.i-comment.icon.btn-comment-article
-cbr.com##.sticky-header
+cbr.com##.right-content.footer-content
+cbr.com##.social-title
 cbr.com##.load-wrap.ajaxLoader
 cbr.com##.comment
 ||cbr.com/wp-content/themes/cbr/ajax-action.php?action=loadMorePost&ajax_post_id=*&hash=*$xmlhttprequest
