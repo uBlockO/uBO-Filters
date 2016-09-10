@@ -422,3 +422,4 @@ cartoonhd.website,movieshd.watch,flixanity.me##a[href="#credits"]
 ||github.com/_private/browser/errors
 facebook.com###u_0_29
 instagram.com##._3v251._br9is
+@@||cbr.imgix.net^$image,domain=cbr.com
