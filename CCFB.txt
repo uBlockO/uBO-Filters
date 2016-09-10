@@ -373,10 +373,10 @@ addons.mozilla.org###promos
 cbr.com##.i-comment.icon.btn-comment-article
 cbr.com##.right-content.footer-content
 cbr.com##.social-title
+cbr.com##.is-visible.w-sticky-header
 cbr.com##.load-wrap.ajaxLoader
 cbr.com##.comment
 ||cbr.com/wp-content/themes/cbr/ajax-action.php?action=loadMorePost&ajax_post_id=*&hash=*$xmlhttprequest
-cbr.com##.feature-slider
 ||clients1.google.com$domain=behind-the-scene
 ||ocsp.digicert.com$domain=behind-the-scene
 facebook.com##._ohf.rfloat._1bic
