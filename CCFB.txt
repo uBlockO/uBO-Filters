@@ -218,8 +218,8 @@ ndtv.com##.ad300mrec1
 ndtv.com##.ad300
 ndtv.com##.adcont
 ||dethao.com^$important
-/jquery.cookie.js$script,important
-/cookie.jquery.js$script,important
+/jquery.cookie.js$script,important,domain=allmyvideos.net|thevideo.me|vodlocker.com
+/cookie.jquery.js$script,important,domain=allmyvideos.net|thevideo.me|vodlocker.com
 ||allmyvideos.net/s/ads-01.js$script,important
 watch-series.to###fixmgh
 ##.adsbygoogle
