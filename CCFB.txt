@@ -419,3 +419,4 @@ cartoonhd.website,movieshd.watch,flixanity.me##a[href="#credits"]
 /ajax/view.php$xmlhttprequest,domain=cartoonhd.website|movieshd.watch|flixanity.me
 ||github.com/_private/browser/errors
 facebook.com###u_0_29
+instagram.com##._3v251._br9is
