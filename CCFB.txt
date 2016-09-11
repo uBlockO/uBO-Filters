@@ -434,3 +434,4 @@ kisshentai.net###show_id
 hanime.tv##.header-nav-item:nth-of-type(5)
 ||s3.amazonaws.com^$third-party
 ||medianetworkinternational.com^$third-party
+torrentfreak.com##.comments.pbx-alt.pbx
