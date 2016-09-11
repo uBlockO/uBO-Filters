@@ -423,3 +423,7 @@ cartoonhd.website,movieshd.watch,flixanity.me##a[href="#credits"]
 facebook.com###u_0_29
 instagram.com##._3v251._br9is
 @@||cbr.imgix.net^$image,domain=cbr.com
+||androidauthority.com/wp-admin/admin-ajax.php$xmlhttprequest
+androidauthority.com##.textwidget
+androidauthority.com##.postinfo
+heroichollywood.com##.author-box
