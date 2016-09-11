@@ -432,3 +432,4 @@ kisshentai.net###rightside > .rightBox:nth-of-type(3)
 kisshentai.net###leftside > .bigBarContainer:nth-of-type(6)
 kisshentai.net###show_id
 hanime.tv##.header-nav-item:nth-of-type(5)
+||s3.amazonaws.com^$third-party
