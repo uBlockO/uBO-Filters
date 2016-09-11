@@ -1,6 +1,5 @@
 [Adblock Plus 2.0]
 ! Title: CCFB for uBO
-||bild.de$inline-script
 col126.mail.live.com###RightRailContainer
 ||col126.mail.live.com/Handlers/ImageProxy.mvc$image
 ||watchfree.to/stream.php
