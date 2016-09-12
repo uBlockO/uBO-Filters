@@ -489,3 +489,4 @@ facebook.com##._5asn
 ||wunderloop.net^$third-party   
 ||yceml.net^$third-party
 ||facebook.com^$third-party
+||crashfootwork.com^$third-party
