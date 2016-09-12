@@ -25,7 +25,6 @@ thewatchseries.li##.col-xs-12.col-sm-6.block-left-home-inside:nth-of-type(2)
 ||doubleclick.net^$important
 ||googlesyndication.com^$important
 ||livefyre.com^$important
-||msads.net^$important
 ||mynet.com^$important
 ||poponclick.com^$important
 ||spot.im^$important
@@ -160,7 +159,6 @@ thelocalbay.com##audio
 ###disqus_thread
 bulbapedia.bulbagarden.net###amazon-related
 ||optimizely.com^$important
-||2mdn.net^$important
 ||zendesk.com^$important
 itsupportguides.com##.adblock_wrapper
 itsupportguides.com###right-sidebar
