@@ -436,4 +436,4 @@ hanime.tv##.header-nav-item:nth-of-type(5)
 ||medianetworkinternational.com^$third-party
 torrentfreak.com##.comments.pbx-alt.pbx
 @@||d2zl2pzv2q9dot.cloudfront.net/ads/advertisement.js$script
-
+||1337x.to/assets/js/comment.js$script
