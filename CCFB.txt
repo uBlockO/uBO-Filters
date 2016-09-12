@@ -488,5 +488,5 @@ facebook.com##._5asn
 ||tracking.tomshardware.co.uk^$third-party
 ||wunderloop.net^$third-party   
 ||yceml.net^$third-party
-||facebook.com^$third-party
+||facebook.com^$third-party,important
 ||crashfootwork.com^$third-party
