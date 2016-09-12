@@ -439,3 +439,4 @@ torrentfreak.com##.comments.pbx-alt.pbx
 /comment.js$script,domain=1337x.to
 /jquery-ui.js$script,domain=1337x.to
 /jquery.pagination.js$script,domain=1337x.to
+/jquery.mCustomScrollbar.js$script,domain=1337x.to
