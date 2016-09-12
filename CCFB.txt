@@ -440,3 +440,4 @@ torrentfreak.com##.comments.pbx-alt.pbx
 /jquery-ui.js$script,domain=1337x.to
 /jquery.pagination.js$script,domain=1337x.to
 /jquery.mCustomScrollbar.js$script,domain=1337x.to
+facebook.com##._5asn
