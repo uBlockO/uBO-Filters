@@ -490,3 +490,9 @@ facebook.com##._5asn
 ||yceml.net^$third-party
 ||facebook.com^$third-party,important
 ||crashfootwork.com^$third-party
+5nowvideo.com###aad
+5nowvideo.com###aad2
+5nowvideo.com##.radius5.video_sharing
+5nowvideo.com##.radius5.video_details
+5nowvideo.com##a[href="/premium.php"]
+@@||5nowvideo.com/banner.php
