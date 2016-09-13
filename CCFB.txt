@@ -439,7 +439,7 @@ torrentfreak.com##.comments.pbx-alt.pbx
 /jquery.pagination.js$script,domain=1337x.to
 /jquery.mCustomScrollbar.js$script,domain=1337x.to
 facebook.com##._5asn
-||2mdn.net^$third-party        
+||2mdn.net^$third-party,important        
 ||aad73c550c.se^$third-party       
 ||acxiom-online.com^$third-party   
 ||adextent.com^$third-party        
