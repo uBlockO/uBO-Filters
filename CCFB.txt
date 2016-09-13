@@ -502,3 +502,5 @@ air.irctc.co.in##img[src="/IndianRailways/irctcair/images/freedom_conv.gif"]
 air.irctc.co.in###footerlogo
 @@||kenkenpuzzle.com^$elemhide
 |data:$popup
+||swiftype.com^third-party
+||swiftypecdn.com^$third-party
