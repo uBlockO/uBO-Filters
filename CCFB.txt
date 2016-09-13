@@ -496,3 +496,9 @@ facebook.com##._5asn
 5nowvideo.com##.radius5.video_details
 5nowvideo.com##a[href="/premium.php"]
 @@||5nowvideo.com/banner.php
+air.irctc.co.in###bodyBottom
+air.irctc.co.in##.col2
+air.irctc.co.in##img[src="/IndianRailways/irctcair/images/freedom_conv.gif"]
+air.irctc.co.in###footerlogo
+@@||kenkenpuzzle.com^$elemhide
+|data:$popup
