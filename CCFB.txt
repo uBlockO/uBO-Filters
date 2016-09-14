@@ -506,3 +506,4 @@ air.irctc.co.in###footerlogo
 ||swiftypecdn.com^$third-party
 dailymail.co.uk##iframe
 ||jquery.com^$third-party
+facebook.com###rightCol
