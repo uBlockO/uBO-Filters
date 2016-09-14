@@ -507,3 +507,4 @@ air.irctc.co.in###footerlogo
 dailymail.co.uk##iframe
 ||jquery.com^$third-party
 facebook.com###rightCol
+||sascdn.com^$third-party
