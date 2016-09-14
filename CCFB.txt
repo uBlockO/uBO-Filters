@@ -504,3 +504,5 @@ air.irctc.co.in###footerlogo
 |data:$popup
 ||swiftype.com^third-party
 ||swiftypecdn.com^$third-party
+dailymail.co.uk##iframe
+||jquery.com^$third-party
