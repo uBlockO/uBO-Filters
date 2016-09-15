@@ -509,3 +509,5 @@ dailymail.co.uk##iframe
 facebook.com###rightCol
 ||sascdn.com^$third-party
 @@||brightcove.vo.llnwd.net/e2/hls$xmlhttprequest,domain=players.brightcove.net
+cnet.com##.videoPlayer
+microsoft.com##.social-blade.f-y-top.f-x-center > div:nth-of-type(2)
