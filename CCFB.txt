@@ -513,3 +513,4 @@ cnet.com##.videoPlayer
 microsoft.com##.social-blade.f-y-top.f-x-center > div:nth-of-type(2)
 facebook.com##.rightButtons.snowliftOverlayBar.snowliftOverlay.clearfix
 facebook.com##._53q._53d
+||cbox.ws^$third-party
