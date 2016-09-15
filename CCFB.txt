@@ -511,3 +511,4 @@ facebook.com###rightCol
 @@||brightcove.vo.llnwd.net/e2/hls$xmlhttprequest,domain=players.brightcove.net
 cnet.com##.videoPlayer
 microsoft.com##.social-blade.f-y-top.f-x-center > div:nth-of-type(2)
+facebook.com##.rightButtons.snowliftOverlayBar.snowliftOverlay.clearfix
