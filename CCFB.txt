@@ -516,3 +516,7 @@ facebook.com##._53q._53d
 ||cbox.ws^$third-party
 ||omgtorrent.me/assets/*.js^$script
 omgtorrent.me##.menu-pub
+animmex.*##script:inject(bab-defuser.js)
+animmex.space###M148617ScriptRootC71386
+animmex.space##center
+animmex.space###share_video
