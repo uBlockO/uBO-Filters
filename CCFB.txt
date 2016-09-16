@@ -531,3 +531,6 @@ proxy-nl.hide.me###home5
 proxy-nl.hide.me###home5-profile
 proxy-nl.hide.me###home6-profile
 proxy-nl.hide.me###include
+||ultima.bhaskar.com^$xmlhttprequest
+||notifyvisitors.com^$third-party
+||googletagmanager.com^$third-party
