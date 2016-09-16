@@ -534,3 +534,4 @@ proxy-nl.hide.me###include
 ||ultima.bhaskar.com^$xmlhttprequest
 ||notifyvisitors.com^$third-party
 ||googletagmanager.com^$third-party
+||po.st^$third-party
