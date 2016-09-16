@@ -517,9 +517,9 @@ facebook.com##._53q._53d
 ||omgtorrent.me/assets/*.js^$script
 omgtorrent.me##.menu-pub
 animmex.*##script:inject(bab-defuser.js)
-animmex.space###M148617ScriptRootC71386
-animmex.space##center
-animmex.space###share_video
+animmex.*###M148617ScriptRootC71386
+animmex.*##center
+animmex.*###share_video
 ||animmex.*^$third-party
 ||dmcdn.net^$third-party,domain=cinemablend.com
 ||mmccint.com^$third-party
