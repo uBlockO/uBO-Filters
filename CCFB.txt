@@ -521,3 +521,8 @@ animmex.space###M148617ScriptRootC71386
 animmex.space##center
 animmex.space###share_video
 ||animmex.*^$third-party
+||dmcdn.net^$third-party
+||mmccint.com^$third-party
+||reuters.tv^$third-party
+||streamesh.net^$third-party
+@@||html5player.gamezone.com/ads.js$script
