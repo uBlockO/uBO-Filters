@@ -521,7 +521,7 @@ animmex.space###M148617ScriptRootC71386
 animmex.space##center
 animmex.space###share_video
 ||animmex.*^$third-party
-||dmcdn.net^$third-party
+||dmcdn.net^$third-party,domain=cinemablend.com
 ||mmccint.com^$third-party
 ||reuters.tv^$third-party
 ||streamesh.net^$third-party
