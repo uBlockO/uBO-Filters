@@ -171,7 +171,6 @@ mkvcage.com###text-5
 mkvcage.com##.alignnone
 ##.clear.share
 ||traffichaus.com^$important
-||jsdelivr.net^$important
 porntube.com##.cpp
 porntube.com###main-banner-grid
 ||adblockanalytics.com^$important
