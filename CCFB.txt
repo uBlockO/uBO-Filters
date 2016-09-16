@@ -526,5 +526,3 @@ animmex.*###share_video
 ||streamesh.net^$third-party
 @@||html5player.gamezone.com/ads.js$script
 cinemablend.com##iframe[src="javascript:'%3C!DOCTYPE%20html%3E%3Chtml%3E%3Cbody%20leftMargin=%220%22%20topMargin=%220%22%20marginwidth=%220%22%20marginheight=%220%22%3E%3Cscript%20type=%22text/javascript%22%3Egoogle_ad_client%20=%20%22ca-pub-3512009167303132%22;%20google_ad_slot%20=%20%225344230866%22;%20google_ad_width%20=%20300;%20google_ad_height%20=%20250;%20%3C/script%3E%3Cscript%20type=%22text/javascript%22%20src=%22//pagead2.googlesyndication.com/pagead/show_ads.js%22%3E%3C/script%3E%3C!--%20DO%20NOT%20MODIFY%20--%3E%3C/body%3E%3C/html%3E'"]
-||jsdelivr.net^$third-party,script
-@@||cdn.jsdelivr.net/lazysizes$script,domain=8muses.com
