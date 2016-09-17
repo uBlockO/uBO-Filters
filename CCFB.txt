@@ -536,4 +536,4 @@ proxy-nl.hide.me###include
 ||googletagmanager.com^$third-party
 ||po.st^$third-party
 mrskin.com##.col-xs-12.col-sm-8.col-md-4
-||joo2ieb.bid^$third-party
+||*.bid^$third-party,domain=kisscartoon.me|kissanime.to
