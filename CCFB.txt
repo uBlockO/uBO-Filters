@@ -536,7 +536,7 @@ proxy-nl.hide.me###include
 ||googletagmanager.com^$third-party
 ||po.st^$third-party
 mrskin.com##.col-xs-12.col-sm-8.col-md-4
-||$third-party,domain=kisscartoon.me|kissanime.to|kissmanga.com|readcomiconline.to|hanime.tv
+||$third-party,domain=kisscartoon.me|kissanime.to|kissmanga.com|readcomiconline.to|hanime.tv|digit.in
 @@||googlevideo.com^$domain=kisscartoon.me|kissanime.to|hanime.tv
 kissmanga.com##a[href="#"]
 kissmanga.com###containerRoot > div:nth-of-type(4) > div:nth-of-type(17)
@@ -554,3 +554,7 @@ pcworld.com##.head
 pcworld.com###bottom-promo
 pcworld.com###network
 pcworld.com##.department
+digit.in##.show_In_desktop.iframeZone
+digit.in##.m_list_In
+digit.in###sidebar
+digit.in##.recommended-box
