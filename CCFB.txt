@@ -541,3 +541,4 @@ mrskin.com##.col-xs-12.col-sm-8.col-md-4
 kissmanga.com##a[href="#"]
 kissmanga.com###containerRoot > div:nth-of-type(4) > div:nth-of-type(17)
 @@||blogspot.*^$domain=kissmanga.com|readcomiconline.to
+@@||bootstrapcdn.com^$domain=hanime.tv
