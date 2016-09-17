@@ -538,4 +538,3 @@ proxy-nl.hide.me###include
 mrskin.com##.col-xs-12.col-sm-8.col-md-4
 ||$third-party,domain=kisscartoon.me|kissanime.to
 @@||googlevideo.com^
-@@||blogspot.*^$domain=kisscartoon.me|kissanime.to
