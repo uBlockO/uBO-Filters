@@ -383,7 +383,6 @@ facebook.com##._ipp
 ##[url="data:text/html;base64"]
 ||*$third-party,domain=space.com|indiatimes.com
 ||bild.me^$third-party
-||images-amazon.com^$third-party
 ||petametrics.com^$third-party
 facebook.com##._ohe.lfloat._1bic
 facebook.com###u_f_6
@@ -558,3 +557,7 @@ digit.in##.show_In_desktop.iframeZone
 digit.in##.m_list_In
 digit.in###sidebar
 digit.in##.recommended-box
+digit.in##.authorProfile
+digit.in##.contentGallery
+digit.in##.break
+||digit.in/article-detail-autoload?articleId=$xmlhttprequest
