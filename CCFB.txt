@@ -517,6 +517,7 @@ animmex.*##script:inject(bab-defuser.js)
 animmex.*###M148617ScriptRootC71386
 animmex.*##center
 animmex.*###share_video
+animmex.net##.ad-body.well
 ||animmex.*^$third-party
 ||dmcdn.net^$third-party,domain=cinemablend.com
 ||mmccint.com^$third-party
