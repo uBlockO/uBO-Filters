@@ -380,8 +380,6 @@ facebook.com##._ohf.rfloat._1bic
 facebook.com##._ipp
 ||gadgets.ndtv.com/Scripts/popup/gadgetsnotification.js$script
 @@||gadgets.ndtv.com/scripts/google_zedo__ruby.js$script
-##[url="data:text/html;base64"]
-||*$third-party,domain=space.com|indiatimes.com
 ||bild.me^$third-party
 ||petametrics.com^$third-party
 facebook.com##._ohe.lfloat._1bic
@@ -536,7 +534,7 @@ proxy-nl.hide.me###include
 ||googletagmanager.com^$third-party
 ||po.st^$third-party
 mrskin.com##.col-xs-12.col-sm-8.col-md-4
-||$third-party,domain=kisscartoon.me|kissanime.to|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com
+||$third-party,domain=kisscartoon.me|kissanime.to|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com
 @@||googlevideo.com^$domain=kisscartoon.me|kissanime.to|hanime.tv
 kissmanga.com##a[href="#"]
 kissmanga.com###containerRoot > div:nth-of-type(4) > div:nth-of-type(17)
@@ -565,3 +563,5 @@ digit.in##.break
 timesofindia.indiatimes.com##.sticky.article-social.toiwidgets_social
 timesofindia.indiatimes.com###comment-section
 timesofindia.indiatimes.com##.ctn_ads_AR_1
+indiatimes.com##.footer
+@@||indiatimes.in^$domain=indiatimes.com
