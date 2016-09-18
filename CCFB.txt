@@ -565,3 +565,4 @@ timesofindia.indiatimes.com###comment-section
 timesofindia.indiatimes.com##.ctn_ads_AR_1
 indiatimes.com##.footer
 @@||indiatimes.in^$domain=indiatimes.com
+||indiatimes.com/ajax/newsFeed.json$xmlhttprequest
