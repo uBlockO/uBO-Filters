@@ -536,7 +536,7 @@ proxy-nl.hide.me###include
 ||googletagmanager.com^$third-party
 ||po.st^$third-party
 mrskin.com##.col-xs-12.col-sm-8.col-md-4
-||$third-party,domain=kisscartoon.me|kissanime.to|kissmanga.com|readcomiconline.to|hanime.tv|digit.in
+||$third-party,domain=kisscartoon.me|kissanime.to|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|timesofindia.indiatimes.com
 @@||googlevideo.com^$domain=kisscartoon.me|kissanime.to|hanime.tv
 kissmanga.com##a[href="#"]
 kissmanga.com###containerRoot > div:nth-of-type(4) > div:nth-of-type(17)
@@ -562,3 +562,4 @@ digit.in##.authorProfile
 digit.in##.contentGallery
 digit.in##.break
 ||digit.in/article-detail-autoload?articleId=$xmlhttprequest
+timesofindia.indiatimes.com##.sticky.article-social.toiwidgets_social
