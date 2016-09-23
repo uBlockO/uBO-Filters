@@ -566,3 +566,5 @@ indiatimes.com##.footer
 @@||indiatimes.in^$domain=indiatimes.com
 ||indiatimes.com/ajax/newsFeed.json$xmlhttprequest
 cbr.com##.embed-related-block
+/js/script.js$script,domain=1337x.to
+
