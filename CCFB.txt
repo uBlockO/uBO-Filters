@@ -567,4 +567,4 @@ indiatimes.com##.footer
 ||indiatimes.com/ajax/newsFeed.json$xmlhttprequest
 cbr.com##.embed-related-block
 /js/script.js$script,domain=1337x.to
-
+google.*###contain-402
