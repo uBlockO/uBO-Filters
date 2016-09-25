@@ -46,7 +46,7 @@ cinemablend.com###newsletter-background
 cinemablend.com###newsletter-subscription
 ##.stream_button
 ##.sp-leader-bottom
-##.block-left-home-inside:nth-of-type(2)
+the-watch-series.to##.block-left-home-inside:nth-of-type(2)
 couchtuner.city##.b_items
 thewatchseries.li##.video_holder
 thewatchseries.li##.red.push_button:nth-of-type(1)
@@ -102,7 +102,7 @@ comicbook.com##.below-article-ads
 screenrant.com##.social
 readcomiconline.to##a[href="#"]
 ##.twitter-share-button
-##.ad_300_250
+the-watch-series.to##.ad_300_250
 sexstories.com###bottom_panel
 sexstories.com##.title_panel
 sexstories.com##.block_panel:nth-of-type(4)
@@ -281,10 +281,10 @@ hanime.tv##.align-center.justify-center.flex-row.row:nth-of-type(3)
 speedtest.net##.no-shadow.ad-vertical-tower.ad-vertical-container
 imgpile.com###trumpet_message
 opensubtitles.org##fieldset
-##.add-comment
-##.morecomments.general_button
+the-watch-series.to##.add-comment
+the-watch-series.to##.morecomments.general_button
 ###scroll_comments
-###header-2
+the-watch-series.to###header-2
 ##.shd_button
 ||$websocket
 ||reimsrvcm.com^
@@ -346,7 +346,10 @@ forum.sa-mp.com###signature
 watchfree.to##.link_item:nth-of-type(1)
 ||riowrite.*^
 ||smartadserver.com^$important
-##.fixedepisodetopadd.sp-sidetower
+the-watch-series.to##.fixedepisodetopadd.sp-sidetower
+the-watch-series.to##.download_link_sponsored
+the-watch-series.to##.social-tw.episode-social-btn
+
 tomshardware.com###header_leaderboard
 parentherald.com##.one.bk-community
 parentherald.com##.at_con
