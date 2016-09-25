@@ -10,7 +10,7 @@ watchfree.to##.below_player
 screenrant.com##.info-wrap
 screenrant.com##.load-wrap.ajaxLoader
 screenrant.com##.switch.share-switch
-screenrant.com##.video-block-related-article.video-block
+cbr.com,screenrant.com##.video-block-related-article.video-block
 screenrant.com##.video-disclaimer
 screenrant.com##.email.icon
 screenrant.com##.comment.icon
