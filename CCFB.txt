@@ -576,3 +576,4 @@ google.*###contain-402
 eztv.*##a[href="/e59b6ed6b817dc523c475cf9720478d3"]
 ||$inline-scripts,domain=eztv.*
 @@||fox.com.tr^$elemhide
+fox.com.tr##.vjs-social-share-svg
