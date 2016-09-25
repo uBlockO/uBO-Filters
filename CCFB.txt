@@ -580,6 +580,5 @@ fox.com.tr##.vjs-social-share-svg
 @@||advancedtomato.com^$elemhide
 advancedtomato.com###cookieprivacy-bar
 hentaiplay.net###text-12
-||flowplayer.org^$third-party
 ||neotokyo.com^$third-party
 ||jwpsrv.com^$third-party
