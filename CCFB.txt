@@ -588,4 +588,4 @@ myanimelist.net##.footer-link-icon-block
 facebook.com##.noBgColor.rhcFooter._5ciw
 ||wpcomwidgets.com^$third-party
 ||geekculture.com^$third-party
-||cbr.com/wp-admin/01_temp_share_folder^$script
+||cbr.com/wp-admin^$script,inline-script
