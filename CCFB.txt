@@ -584,3 +584,4 @@ hentaiplay.net###text-12
 ||jwpsrv.com^$third-party
 myanimelist.net##.banner-header-anime-straming
 myanimelist.net##.footer-link-icon-block
+facebook.com##.noBgColor.rhcFooter._5ciw
