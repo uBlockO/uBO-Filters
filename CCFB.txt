@@ -254,7 +254,8 @@ pornhub.com##.clear.hd.jisfhp0w2u
 ||polldaddy.com^
 ||3jsbf5.xyz^
 screenrant.com##.video-block-main.video-block
-||screenrant.com/wp-content/themes/screenrant/js/libs$script
+||screenrant.com^$script
+||screenrant.com/wp-admin$inline-script
 defaultreasoning.com##.mh-container > .clearfix.row
 defaultreasoning.com##.sb-right.mh-sidebar
 defaultreasoning.com##.hp-home-6.sb-right.hp-sidebar
