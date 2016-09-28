@@ -589,3 +589,7 @@ facebook.com##.noBgColor.rhcFooter._5ciw
 ||wpcomwidgets.com^$third-party
 ||geekculture.com^$third-party
 ||cbr.com/wp-admin^$script,inline-script
+||embed.ly^$third-party
+||jwplatform.com^$third-party
+||segment.com^$third-party
+cnbc.com##.optin-message-invite-container
