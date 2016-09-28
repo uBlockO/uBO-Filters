@@ -582,7 +582,6 @@ fox.com.tr##.vjs-social-share-svg
 advancedtomato.com###cookieprivacy-bar
 hentaiplay.net###text-12
 ||neotokyo.com^$third-party
-||jwpsrv.com^$third-party
 myanimelist.net##.banner-header-anime-straming
 myanimelist.net##.footer-link-icon-block
 facebook.com##.noBgColor.rhcFooter._5ciw
