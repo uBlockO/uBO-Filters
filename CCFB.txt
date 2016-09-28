@@ -592,3 +592,5 @@ facebook.com##.noBgColor.rhcFooter._5ciw
 ||jwplatform.com^$third-party
 ||segment.com^$third-party
 cnbc.com##.optin-message-invite-container
+||130.211.198.219^$third-party
+||codeonclick.com^$third-party
