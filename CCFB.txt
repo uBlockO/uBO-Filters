@@ -300,7 +300,7 @@ gadgets.ndtv.com###sharelink
 ||gadgets360.com^$third-party
 gadgets.ndtv.com##.fr.stickysocial
 gadgets.ndtv.com##a[href="http://hi.gadgets360.com/mobiles/xiaomi-redmi-3s-prime-review-hindi-reviews-1442180"]
-amx.4553t5pugtt1qslvsnmpc0tpfz5fo.xyz,fullstuff.co,nmac.to,quickfever.com,avaxhome.co,blockadblock.com##script:inject(bab-defuser.js)
+amx.4553t5pugtt1qslvsnmpc0tpfz5fo.xyz,fullstuff.co,nmac.to,quickfever.com,avaxhome.co,blockadblock.com,usapoliticstoday.com,animmex.*##script:inject(bab-defuser.js)
 ||stats.com^
 techolite.com##.textwidget
 ||namesakeoscilloscopemarquis.*^$important
@@ -515,11 +515,10 @@ facebook.com##._53q._53d
 ||cbox.ws^$third-party
 ||omgtorrent.me/assets/*.js^$script
 omgtorrent.me##.menu-pub
-animmex.*##script:inject(bab-defuser.js)
 animmex.*###M148617ScriptRootC71386
 animmex.*##center
 animmex.*###share_video
-animmex.net##.ad-body.well
+animmex.*##.ad-body.well
 ||animmex.*^$third-party
 ||dmcdn.net^$third-party,domain=cinemablend.com
 ||mmccint.com^$third-party
