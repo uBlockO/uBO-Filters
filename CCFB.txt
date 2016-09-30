@@ -541,7 +541,7 @@ mrskin.com##.col-xs-12.col-sm-8.col-md-4
 @@||googlevideo.com^$domain=kisscartoon.me|kissanime.to|hanime.tv
 kissmanga.com##a[href="#"]
 kissmanga.com###containerRoot > div:nth-of-type(4) > div:nth-of-type(17)
-@@||blogspot.*^$domain=kissmanga.com|readcomiconline.to
+@@||blogspot.*^$domain=kissmanga.com|readcomiconline.to|kisscartoon.me
 @@||bootstrapcdn.com^$domain=hanime.tv
 ||googlecode.com^$third-party
 ||gigya.com^$third-party
