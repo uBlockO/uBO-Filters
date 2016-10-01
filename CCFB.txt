@@ -600,3 +600,5 @@ facebook.com###feed_scoreboard_u_0_w
 ||m-bazaar.in^$third-party
 windowsreport.com##.single-content-section.text-center
 windowsreport.com###dp-social-2
+cbr.com##.video-block-ads.video-block
+cbr.com##.related-section
