@@ -602,3 +602,4 @@ windowsreport.com##.single-content-section.text-center
 windowsreport.com###dp-social-2
 cbr.com##.video-block-ads.video-block
 cbr.com##.related-section
+||$font,third-party
