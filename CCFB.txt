@@ -174,7 +174,6 @@ mkvcage.com##.alignnone
 porntube.com##.cpp
 porntube.com###main-banner-grid
 ||adblockanalytics.com^$important
-||s3.amazonaws.com/cbr_mothership^
 comicbookresources.com###billboard
 hindustantimes.com##.ggl_ads_row
 ||nonkads.com^$important
@@ -429,7 +428,7 @@ kisshentai.net###rightside > .rightBox:nth-of-type(3)
 kisshentai.net###leftside > .bigBarContainer:nth-of-type(6)
 kisshentai.net###show_id
 hanime.tv##.header-nav-item:nth-of-type(5)
-||s3.amazonaws.com^$third-party
+||amazonaws.com^$third-party
 ||medianetworkinternational.com^$third-party
 torrentfreak.com##.comments.pbx-alt.pbx
 @@||d2zl2pzv2q9dot.cloudfront.net/ads/advertisement.js$script
