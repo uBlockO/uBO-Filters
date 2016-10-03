@@ -428,7 +428,7 @@ kisshentai.net###rightside > .rightBox:nth-of-type(3)
 kisshentai.net###leftside > .bigBarContainer:nth-of-type(6)
 kisshentai.net###show_id
 hanime.tv##.header-nav-item:nth-of-type(5)
-||amazonaws.com^$third-party
+||amazonaws.com^$third-party,important
 ||medianetworkinternational.com^$third-party
 torrentfreak.com##.comments.pbx-alt.pbx
 @@||d2zl2pzv2q9dot.cloudfront.net/ads/advertisement.js$script
@@ -598,6 +598,7 @@ facebook.com###feed_scoreboard_u_0_w
 ||bhaskar.com^$third-party
 ||izooto.com^$third-party
 ||m-bazaar.in^$third-party
+||playwire.com^$domain=heroichollywood.com,important
 windowsreport.com##.single-content-section.text-center
 windowsreport.com###dp-social-2
 cbr.com##.video-block-ads.video-block
