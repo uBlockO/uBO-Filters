@@ -213,8 +213,8 @@ ndtv.com##.ad300mrec1
 ndtv.com##.ad300
 ndtv.com##.adcont
 ||dethao.com^$important
-/jquery.cookie.js$script,important,domain=allmyvideos.net|thevideo.me|vodlocker.com|*.vidspot.*|flixanity.*
-/cookie.jquery.js$script,important,domain=allmyvideos.net|thevideo.me|vodlocker.com|*.vidspot.*|flixanity.*
+/jquery.cookie.js$script,important,domain=allmyvideos.net|thevideo.me|vodlocker.com|vidspot.net|flixanity.*
+/cookie.jquery.js$script,important,domain=allmyvideos.net|thevideo.me|vodlocker.com|vidspot.net|flixanity.*
 ||allmyvideos.net/s/ads-01.js$script,important
 ###fixmgh
 ##.adsbygoogle
