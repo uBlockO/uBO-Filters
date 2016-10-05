@@ -613,5 +613,5 @@ cbr.com##.related-section
 ||microsoft.com^$third-party
 windowsreport.com##a[href^="http://www.reimageplus.com/includes/router_land.php"]
 @@||youtube.com^$domain=*
-@@||ytimg.com^$important
-@@||googlevideo.com^$important
+@@||ytimg.com^
+@@||googlevideo.com^
