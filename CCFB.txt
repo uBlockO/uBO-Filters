@@ -608,3 +608,6 @@ cbr.com##.related-section
 @@||bulba-ad-host-website.azurewebsites.net^$domain=bulbagarden.net
 ||glodls.to/*$inline-script
 ||adxprts.com^$third-party,important
+||wunderlist.com^$third-party
+||baydin.com^$third-party
+||microsoft.com^$third-party
