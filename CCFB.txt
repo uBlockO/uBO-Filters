@@ -350,7 +350,6 @@ watchfree.to##.link_item:nth-of-type(1)
 the-watch-series.to##.fixedepisodetopadd.sp-sidetower
 the-watch-series.to##.download_link_sponsored
 the-watch-series.to##.social-tw.episode-social-btn
-
 tomshardware.com###header_leaderboard
 parentherald.com##.one.bk-community
 parentherald.com##.at_con
@@ -366,6 +365,8 @@ facebook.com##.UFIList
 facebook.com##._23ig
 facebook.com###u_18_5
 facebook.com##._2kgg.fbTimelineUFI
+facebook.com##.uiCommentContainer.fbTimelineUFI
+mailinator.com##.visible-sm.visible-md.visible-lg.col-sm-2.col-md-2.col-lg-2
 addons.mozilla.org###promos
 ||msz.gov.pl^$third-party
 cbr.com##.i-comment.icon.btn-comment-article
