@@ -593,7 +593,7 @@ cnbc.com##.optin-message-invite-container
 ||130.211.198.219^$third-party
 ||codeonclick.com^$third-party
 facebook.com###feed_scoreboard_u_0_w
-||googleadservices.com^
+||googleadservices.com^$important
 ||maps.googleapis.com^
 ||bhaskar.com^$third-party
 ||izooto.com^$third-party
