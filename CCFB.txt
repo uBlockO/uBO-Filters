@@ -606,3 +606,4 @@ cbr.com##.related-section
 ||azurewebsites.net^$third-party
 ||outlook.com^$third-party
 @@||bulba-ad-host-website.azurewebsites.net^$domain=bulbagarden.net
+||glodls.to/*$inline-script
