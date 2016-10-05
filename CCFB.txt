@@ -611,3 +611,4 @@ cbr.com##.related-section
 ||wunderlist.com^$third-party
 ||baydin.com^$third-party
 ||microsoft.com^$third-party
+windowsreport.com###content > div:nth-of-type(9)
