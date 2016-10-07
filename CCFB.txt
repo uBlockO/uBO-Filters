@@ -592,8 +592,6 @@ facebook.com##.noBgColor.rhcFooter._5ciw
 cnbc.com##.optin-message-invite-container
 ||130.211.198.219^$third-party
 ||codeonclick.com^$third-party
-facebook.com###feed_scoreboard_u_0_w
-facebook.com###feed_scoreboard_57f5551bb710a4b79936736
 ||googleadservices.com^$important
 ||maps.googleapis.com^
 ||bhaskar.com^$third-party
@@ -618,3 +616,4 @@ windowsreport.com##a[href^="http://www.reimageplus.com/includes/router_land.php"
 torrentsgroup.com##iframe[src="about:blank"]
 ||exoclick.com^$third-party,important
 facebook.com##._52jv._4-u8._1dil._2l9a._2pi1._4-u2
+||thepiratebay.*^$third-party
