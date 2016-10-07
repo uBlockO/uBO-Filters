@@ -618,3 +618,4 @@ torrentsgroup.com##iframe[src="about:blank"]
 facebook.com##._52jv._4-u8._1dil._2l9a._2pi1._4-u2
 ||thepiratebay.*^$third-party
 @@||quoracdn.net^$domain=quora.com
+@@||google.*/recaptcha/api2^
