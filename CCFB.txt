@@ -611,6 +611,8 @@ cbr.com##.related-section
 ||baydin.com^$third-party
 ||microsoft.com^$third-party
 windowsreport.com##a[href^="http://www.reimageplus.com/includes/router_land.php"]
+@@||youtube.com/embed^$third-party
+@@||ytimg.com/yts^$third-party
 @@||googlevideo.com^
 @@||facebook.com/plugins/video.php^$important
 torrentsgroup.com##iframe[src="about:blank"]
