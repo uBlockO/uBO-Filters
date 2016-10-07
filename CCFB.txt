@@ -620,3 +620,4 @@ facebook.com##._52jv._4-u8._1dil._2l9a._2pi1._4-u2
 @@||quoracdn.net^$domain=quora.com
 @@||google.*/recaptcha/api2^
 facebook.com##._5pcr._4ruh
+facebook.com##._3lkn
