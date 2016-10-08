@@ -627,3 +627,4 @@ facebook.com##._3lkn
 mcuexchange.com###sidebar
 mcuexchange.com##.post-footer
 mcuexchange.com##.posts-box-related-posts.posts-box-5.posts-box
+||brightcove.net/*/index.min.js$script
