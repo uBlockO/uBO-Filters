@@ -507,7 +507,7 @@ dailymail.co.uk##iframe
 ||jquery.com^$third-party
 facebook.com###rightCol
 ||sascdn.com^$third-party
-@@||brightcove.vo.llnwd.net/e2/hls$xmlhttprequest,domain=players.brightcove.net
+@@||brightcove.vo.llnwd.net/e2/hls^
 cnet.com##.videoPlayer
 microsoft.com##.social-blade.f-y-top.f-x-center > div:nth-of-type(2)
 facebook.com##.rightButtons.snowliftOverlayBar.snowliftOverlay.clearfix
@@ -628,6 +628,6 @@ facebook.com##._3lkn
 mcuexchange.com###sidebar
 mcuexchange.com##.post-footer
 mcuexchange.com##.posts-box-related-posts.posts-box-5.posts-box
-||brightcove.net/*/index.min.js$script
+||brightcove.net/*/index.min.js$script,domain=cbr.com
 itechpost.com##.story-comment
 itechpost.com###latestbox
