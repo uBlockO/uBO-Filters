@@ -631,3 +631,4 @@ mcuexchange.com##.posts-box-related-posts.posts-box-5.posts-box
 ||brightcove.net/*/index.min.js$script,domain=cbr.com
 itechpost.com##.story-comment
 itechpost.com###latestbox
+facebook.com##.rhcFooter._5ciw
