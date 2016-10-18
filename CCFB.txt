@@ -631,3 +631,8 @@ mcuexchange.com##.posts-box-related-posts.posts-box-5.posts-box
 itechpost.com##.story-comment
 itechpost.com###latestbox
 facebook.com##.rhcFooter._5ciw
+gaming.youtube.com###thirdpartywarning
+||allowmyads.*^
+||cloudinary.com^
+||fonts.googleapis.com^
+||viralsweep.com^
