@@ -572,7 +572,7 @@ cbr.com##.embed-related-block
 /js/script.js$script,domain=1337x.to
 google.*###contain-402
 ||addthis.com^$important
-||$inline-script,domain=eztv.*
+||eztv.*^$inline-script
 @@||fox.com.tr^$elemhide
 fox.com.tr##.vjs-social-share-svg
 @@||advancedtomato.com^$elemhide
