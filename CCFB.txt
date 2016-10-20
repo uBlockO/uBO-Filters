@@ -638,5 +638,5 @@ gaming.youtube.com###thirdpartywarning
 facebook.com##.clearfix.UFIStickersEnabledInput.UFIMentionsInputWrap
 8muses.com##.a-image
 8muses.com#@#[style*="background: transparent url(\"data:image/gif;base64,"]
-||8muses.com/data^$script
-||8muses.com/min/main.js$script
+||8muses.com/data^$script,important
+||8muses.com/min/main.js$script,important
