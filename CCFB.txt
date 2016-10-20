@@ -635,3 +635,5 @@ gaming.youtube.com###thirdpartywarning
 ||cloudinary.com^
 ||fonts.googleapis.com^
 ||viralsweep.com^
+facebook.com##.clearfix.UFIStickersEnabledInput.UFIMentionsInputWrap
+8muses.com##.a-image
