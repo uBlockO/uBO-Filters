@@ -640,3 +640,4 @@ facebook.com##.clearfix.UFIStickersEnabledInput.UFIMentionsInputWrap
 8muses.com#@#[style*="background: transparent url(\"data:image/gif;base64,"]
 ||8muses.com/data^$script,important
 ||8muses.com/min/main.js$script,important
+||proludimpup.com^
