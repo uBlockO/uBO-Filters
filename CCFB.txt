@@ -272,7 +272,7 @@ imgpile.com##.feed_result
 facebook.com##.home_right_column
 hanime.tv##.z-spot.subsection.golden-saucer
 hanime.tv##.z-spot.golden-saucer
-||atas.io^
+||atas.io^$popup,third-party
 ||javhd.com^$third-party
 hanime.tv##.flex-wrap.justify-center.flex-row.after-content
 hanime.tv##.col-md-2.visible-lg.visible-md.golden-saucer-bar
