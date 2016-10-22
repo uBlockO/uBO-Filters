@@ -642,3 +642,4 @@ facebook.com##.clearfix.UFIStickersEnabledInput.UFIMentionsInputWrap
 ||8muses.com/data^$script,important
 ||8muses.com/min/main.js$script,important
 ||proludimpup.com^
+myanimelist.net##.clearfix.index-watch-description
