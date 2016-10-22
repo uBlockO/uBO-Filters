@@ -537,8 +537,9 @@ proxy-nl.hide.me###include
 ||googletagmanager.com^$third-party
 ||po.st^$third-party
 mrskin.com##.col-xs-12.col-sm-8.col-md-4
-||$third-party,domain=kisscartoon.me|kissanime.to|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.*|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to
+||$third-party,domain=kisscartoon.me|kissanime.to|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.*|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co
 kissmanga.com##a[href="#"]
+@@||oloadcdn.net^
 kissmanga.com###containerRoot > div:nth-of-type(4) > div:nth-of-type(17)
 @@||blogspot.*^$domain=kissmanga.com|readcomiconline.to|kisscartoon.me
 @@||bootstrapcdn.com^$domain=hanime.tv
