@@ -644,3 +644,4 @@ facebook.com##.clearfix.UFIStickersEnabledInput.UFIMentionsInputWrap
 ||proludimpup.com^
 myanimelist.net##.clearfix.index-watch-description
 /logpopup
+jaguartrials.net##script:inject(bab-defuser.js)
