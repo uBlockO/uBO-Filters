@@ -216,7 +216,7 @@ ndtv.com##.adcont
 /jquery.cookie.js$script,important,domain=allmyvideos.net|thevideo.me|vodlocker.com|vidspot.net
 /cookie.jquery.js$script,important,domain=allmyvideos.net|thevideo.me|vodlocker.com|vidspot.net
 ||allmyvideos.net/s/ads-01.js$script,important
-###fixmgh
+the-watch-series.to###fixmgh
 ##.adsbygoogle
 comicbook.com##.next-article-tease
 ||mgid.com^$important
