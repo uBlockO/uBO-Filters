@@ -645,3 +645,6 @@ facebook.com##.clearfix.UFIStickersEnabledInput.UFIMentionsInputWrap
 myanimelist.net##.clearfix.index-watch-description
 /logpopup
 jaguartrials.net##script:inject(bab-defuser.js)
+duckduckgo.com##.js-badge-link.ddg-extension-hide.badge-link--fadein.badge-link--top.badge-link
+duckduckgo.com##.js-tag-home.no-js__hide.tag-home--slide.tag-home
+duckduckgo.com##.js-badge-link.ddg-extension-hide.badge-link--serp.badge-link
