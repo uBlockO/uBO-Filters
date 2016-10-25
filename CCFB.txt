@@ -651,3 +651,4 @@ duckduckgo.com##.js-badge-link.ddg-extension-hide.badge-link--serp.badge-link
 @@||facebook.com/en-US/AudienceNetworkPrebid.js$script
 extratorrent.cc##.tztbl
 ||104.154.237.193^$popup,third-party
+||timesofindia.indiatimes.com^$inline-script
