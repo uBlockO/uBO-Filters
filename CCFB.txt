@@ -487,7 +487,7 @@ facebook.com##._5asn
 ||tracking.tomshardware.co.uk^$third-party
 ||wunderloop.net^$third-party   
 ||yceml.net^$third-party
-||facebook.com^$third-party,important
+||facebook.com^$third-party
 ||crashfootwork.com^$third-party
 5nowvideo.com###aad
 5nowvideo.com###aad2
@@ -648,3 +648,6 @@ jaguartrials.net##script:inject(bab-defuser.js)
 duckduckgo.com##.js-badge-link.ddg-extension-hide.badge-link--fadein.badge-link--top.badge-link
 duckduckgo.com##.js-tag-home.no-js__hide.tag-home--slide.tag-home
 duckduckgo.com##.js-badge-link.ddg-extension-hide.badge-link--serp.badge-link
+@@||facebook.com/en-US/AudienceNetworkPrebid.js$script
+extratorrent.cc##.tztbl
+||104.154.237.193^$popup,third-party
