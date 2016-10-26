@@ -654,3 +654,4 @@ extratorrent.cc##.tztbl
 ||timesofindia.indiatimes.com^$inline-script
 @@||cdn-dena.com^$domain=myanimelist.net
 @@||connect.facebook.com/en_US/AudienceNetworkPrebid.js$script
+heroichollywood.com##.crp_related
