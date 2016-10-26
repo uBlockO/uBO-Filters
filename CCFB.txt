@@ -28,13 +28,11 @@ thewatchseries.li##.col-xs-12.col-sm-6.block-left-home-inside:nth-of-type(2)
 ||mynet.com^$important
 ||poponclick.com^$important
 ||spot.im^$important
-||telwrite.com^$important
 pornhub.com###js-abContainterMain
 pornhub.com###under-player-comments
 pornhub.com###welcome
 redtube.com##.tja
 birthmoviesdeath.com##.clearfix.PanelProduct.panel
-||belwrite.com^$important
 ||advserver.xyz^$important
 youtube.com###watch-action-panels
 comicbook.com##.cmp.pubEx
@@ -114,7 +112,6 @@ comingsoon.net##.btn.js-show-comments
 ||cloudfront.net^
 ||evolveplatform.net^$important
 ||gamerevolution.com^$important
-||parwrite.com^$important
 lowendbox.com##a[href="http://www.beastnode.com"]
 theculturetrip.com##.section.row
 theculturetrip.com##.row-hcenter.row-list
@@ -155,7 +152,6 @@ kissanime.to###btnShowComments
 ||staticfiles.org^$important
 ||braintreegateway.com^$important
 thelocalbay.com##audio
-||usswrite.com^$important
 ###disqus_thread
 bulbapedia.bulbagarden.net###amazon-related
 ||optimizely.com^$important
@@ -221,13 +217,11 @@ the-watch-series.to###fixmgh
 comicbook.com##.next-article-tease
 ||mgid.com^$important
 ##.videoAdClose
-||zorwrite.com^$important
 yts.ag##.fd.button-green-download-big
 ||zen.*^$important
 ||stripe.com^$important
 ||berush.com^$important
 /zenmarket^$important
-||monova.org^$popup
 monova.org##.warning-message
 monova.org##._skip.container-bt
 monova.org##.section-b.container-bt
@@ -272,7 +266,7 @@ imgpile.com##.feed_result
 facebook.com##.home_right_column
 hanime.tv##.z-spot.subsection.golden-saucer
 hanime.tv##.z-spot.golden-saucer
-||atas.io^$popup,third-party
+||*$popup,third-party
 ||javhd.com^$third-party
 hanime.tv##.flex-wrap.justify-center.flex-row.after-content
 hanime.tv##.col-md-2.visible-lg.visible-md.golden-saucer-bar
@@ -326,7 +320,6 @@ gorillavid.in###content > form > .video-full > .c1-box > div:nth-of-type(10) > d
 ||ooyala.*^
 ||opinionstage.*^
 ||vrsource.*^
-||ohmwrite.*^
 ||prxio.*^
 ||yahooapis.com^$third-party
 vshare.eu##.download-share
@@ -343,9 +336,8 @@ w3techs.com##.tech_sel
 ||snap-scan.com^
 forum.sa-mp.com###signature
 ||typekit.net^$third-party
-||about:blank$popup,domain=*
 watchfree.to##.link_item:nth-of-type(1)
-||riowrite.*^
+
 ||smartadserver.com^$important
 the-watch-series.to##.fixedepisodetopadd.sp-sidetower
 the-watch-series.to##.download_link_sponsored
@@ -650,7 +642,6 @@ duckduckgo.com##.js-tag-home.no-js__hide.tag-home--slide.tag-home
 duckduckgo.com##.js-badge-link.ddg-extension-hide.badge-link--serp.badge-link
 @@||facebook.com/en-US/AudienceNetworkPrebid.js$script
 extratorrent.cc##.tztbl
-||104.154.237.193^$popup,third-party
 ||timesofindia.indiatimes.com^$inline-script
 @@||cdn-dena.com^$domain=myanimelist.net
 @@||connect.facebook.com/en_US/AudienceNetworkPrebid.js$script
