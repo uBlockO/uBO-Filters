@@ -656,4 +656,4 @@ extratorrent.cc##.tztbl
 @@||connect.facebook.com/en_US/AudienceNetworkPrebid.js$script
 heroichollywood.com##.crp_related
 couchtuner.site##a[href="/download.php"]
-@@||$stylesheet
+@@||$stylesheet,third-party,domain=cloudfront.net
