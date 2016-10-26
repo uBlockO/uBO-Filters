@@ -657,3 +657,5 @@ extratorrent.cc##.tztbl
 heroichollywood.com##.crp_related
 couchtuner.site##a[href="/download.php"]
 @@||$stylesheet,third-party,domain=cloudfront.net
+jaguartrials.net##.warning.alert
+change.org##.js-flash-message-announcement.flash-message
