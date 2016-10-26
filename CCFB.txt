@@ -653,3 +653,4 @@ change.org##.js-flash-message-announcement.flash-message
 ||104.154.237.193^$popup,third-party
 @@||jwpcdn.com^$domain=vidup.me
 ||thevideo.me^$important,third-party,popup
+vidup.me##.col-sm-2
