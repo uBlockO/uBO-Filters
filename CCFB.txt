@@ -652,3 +652,4 @@ change.org##.js-flash-message-announcement.flash-message
 ||atas.io^$popup,third-party
 ||104.154.237.193^$popup,third-party
 @@||jwpcdn.com^$domain=vidup.me
+||thevideo.me^$important,third-party
