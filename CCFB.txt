@@ -654,3 +654,9 @@ change.org##.js-flash-message-announcement.flash-message
 @@||jwpcdn.com^$domain=vidup.me
 ||thevideo.me^$important,third-party,popup
 vidup.me##.col-sm-2
+##.block-left-home-inside:nth-of-type(2)
+##a[href="http://www.projectfree-tv.to"]
+###scroll_comments
+###fixmgh
+##.morecomments.general_button
+##.add-comment:nth-of-type(9)
