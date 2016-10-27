@@ -665,3 +665,4 @@ trailer-track.com###colophon
 trailer-track.com###actionbar
 @@||wp.com^$stylesheet,image
 @@||wordpress.com^$image,stylesheet
+comicbook.com##.tickets.embed
