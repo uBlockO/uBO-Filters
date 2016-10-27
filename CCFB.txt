@@ -660,3 +660,4 @@ trailer-track.com###actionbar
 comicbook.com##.tickets.embed
 facebook.com##.clearfix.UFIMentionsInputWrap
 facebook.com##.uiLayer._1oxj
+facebook.com###u_1i_5
