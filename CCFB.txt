@@ -659,3 +659,4 @@ trailer-track.com###actionbar
 @@||wordpress.com^$image,stylesheet
 comicbook.com##.tickets.embed
 facebook.com##.clearfix.UFIMentionsInputWrap
+facebook.com##.uiLayer._1oxj
