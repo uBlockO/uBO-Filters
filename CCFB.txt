@@ -663,4 +663,5 @@ vidup.me##.col-sm-2
 trailer-track.com##.comments-area-wrapper
 trailer-track.com###colophon
 trailer-track.com###actionbar
-@@||wp.com^$stylesheet
+@@||wp.com^$stylesheet,image
+@@||wordpress.com^$image,stylesheet
