@@ -399,9 +399,9 @@ extratorrent.cc,etmirror.com,etproxy.com,extratorrentonline.com,extratorrentlive
 screenrant.com##.gallery-thumb
 savitahd.com##.leftadsec
 savitahd.com##.rightadsec
-cartoonhd.website,movieshd.watch,flixanity.me###credits
-cartoonhd.website,movieshd.watch,flixanity.me##a[href="#credits"]
-/ajax/view.php$xmlhttprequest,domain=cartoonhd.website|movieshd.watch|flixanity.me
+cartoonhd.website,movieshd.watch,flixanity.*###credits
+cartoonhd.website,movieshd.watch,flixanity.*##a[href="#credits"]
+/ajax/view.php$xmlhttprequest,domain=cartoonhd.website|movieshd.watch|flixanity.*
 ||github.com/_private/browser/errors
 facebook.com###u_0_29
 instagram.com##._3v251._br9is
