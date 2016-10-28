@@ -667,3 +667,4 @@ mediafire.com##.lb-ad.ad
 mediafire.com##.lr-ad.ad
 /Redirect.$popup,domain=mediafire.com
 @@||cdn.engine.4dsply.com/Scripts/infinity.js.aspx$script,domain=mediafire.com
+||mxpnl.com^$third-party
