@@ -672,3 +672,5 @@ mediafire.com##.left
 mediafire.com##.loaded.ad.lb-ad
 facebook.com###pagelet_prompts
 @@||thr.com^$domain=hollywoodreporter.com
+hollywoodreporter.com##.show-disqus-comments.js-show-disqus-comments
+hollywoodreporter.com##.blog-post-syndication-section
