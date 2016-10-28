@@ -676,3 +676,4 @@ hollywoodreporter.com##.show-disqus-comments.js-show-disqus-comments
 hollywoodreporter.com##.blog-post-syndication-section
 ||blbrd.co^$third-party
 ||billboard.com^$third-party
+||myanimelist.net/static/logging.html$xmlhttprequest
