@@ -660,3 +660,4 @@ facebook.com##.clearfix.UFIMentionsInputWrap
 facebook.com##.uiLayer._1oxj
 facebook.com###u_1i_5
 ||data.*.*^$popup
+||mediafire.com/blank.html^$inline-scripts,frame
