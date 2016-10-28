@@ -642,7 +642,7 @@ extratorrent.cc##.tztbl
 @@||connect.facebook.com/en_US/AudienceNetworkPrebid.js$script
 heroichollywood.com##.crp_related
 couchtuner.site##a[href="/download.php"]
-@@||$stylesheet,third-party,domain=cloudfront.net
+@@||$stylesheet,third-party,domain=cloudfront.net|wp.com|wordpress.com|amazonaws.com
 jaguartrials.net##.warning.alert
 change.org##.js-flash-message-announcement.flash-message
 ||atas.io^$popup,third-party
@@ -655,8 +655,6 @@ the-watch-series.to,watchseries.ph,watchseries.ag##a[href="http://www.projectfre
 trailer-track.com##.comments-area-wrapper
 trailer-track.com###colophon
 trailer-track.com###actionbar
-@@||wp.com^$stylesheet,image
-@@||wordpress.com^$image,stylesheet
 comicbook.com##.tickets.embed
 facebook.com##.clearfix.UFIMentionsInputWrap
 facebook.com##.uiLayer._1oxj
