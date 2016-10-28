@@ -524,7 +524,7 @@ proxy-nl.hide.me###include
 ||googletagmanager.com^$third-party
 ||po.st^$third-party
 mrskin.com##.col-xs-12.col-sm-8.col-md-4
-||$third-party,domain=kisscartoon.me|kissanime.to|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.*|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com
+||$third-party,domain=kisscartoon.me|kissanime.to|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.*|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com
 kissmanga.com##a[href="#"]
 @@||oloadcdn.net^
 kissmanga.com###containerRoot > div:nth-of-type(4) > div:nth-of-type(17)
@@ -661,3 +661,9 @@ facebook.com##.uiLayer._1oxj
 facebook.com###u_1i_5
 ||data.*.*^$popup
 ||mediafire.com/blank.html^$inline-script,subdocument
+mediafire.com#@#.dlInfo-Apps
+@@||mediafire.com^$generichide
+mediafire.com##.lb-ad.ad
+mediafire.com##.lr-ad.ad
+/Redirect.$popup,domain=mediafire.com
+@@||cdn.engine.4dsply.com/Scripts/infinity.js.aspx$script,domain=mediafire.com
