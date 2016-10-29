@@ -289,7 +289,7 @@ gadgets.ndtv.com###sharelink
 ||gadgets360.com^$third-party
 gadgets.ndtv.com##.fr.stickysocial
 gadgets.ndtv.com##a[href="http://hi.gadgets360.com/mobiles/xiaomi-redmi-3s-prime-review-hindi-reviews-1442180"]
-amx.4553t5pugtt1qslvsnmpc0tpfz5fo.xyz,fullstuff.co,nmac.to,quickfever.com,avaxhome.co,blockadblock.com,usapoliticstoday.com,animmex.*##script:inject(bab-defuser.js)
+amx.4553t5pugtt1qslvsnmpc0tpfz5fo.xyz,fullstuff.co,nmac.to,quickfever.com,avaxhome.co,blockadblock.com,usapoliticstoday.com,animmex.*,zahipedia.net,jaguartrials.net##script:inject(bab-defuser.js)
 ||stats.com^
 techolite.com##.textwidget
 ||namesakeoscilloscopemarquis.*^$important
@@ -631,7 +631,6 @@ facebook.com##.clearfix.UFIStickersEnabledInput.UFIMentionsInputWrap
 ||proludimpup.com^
 myanimelist.net##.clearfix.index-watch-description
 /logpopup
-jaguartrials.net##script:inject(bab-defuser.js)
 duckduckgo.com##.js-badge-link.ddg-extension-hide.badge-link--fadein.badge-link--top.badge-link
 duckduckgo.com##.js-tag-home.no-js__hide.tag-home--slide.tag-home
 duckduckgo.com##.js-badge-link.ddg-extension-hide.badge-link--serp.badge-link
