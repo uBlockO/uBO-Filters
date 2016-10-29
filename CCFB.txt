@@ -683,3 +683,4 @@ hollywoodreporter.com##.blog-post-syndication-section
 @@||googleusercontent.com^
 @@||openload.co/embed^
 @@||opensubtitles.org$xmlhttprequest,third-party
+||servebom.com^$third-party,important
