@@ -524,7 +524,7 @@ proxy-nl.hide.me###include
 ||googletagmanager.com^$third-party
 ||po.st^$third-party
 mrskin.com##.col-xs-12.col-sm-8.col-md-4
-||$third-party,domain=kisscartoon.me|kissanime.to|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.red|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|hollywoodreporter.com
+||$third-party,domain=kisscartoon.me|kissanime.to|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.red|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|hollywoodreporter.com|flixanity.co
 kissmanga.com##a[href="#"]
 @@||oloadcdn.net^
 kissmanga.com###containerRoot > div:nth-of-type(4) > div:nth-of-type(17)
@@ -677,3 +677,9 @@ hollywoodreporter.com##.blog-post-syndication-section
 ||blbrd.co^$third-party
 ||billboard.com^$third-party
 ||myanimelist.net/static/logging.html$xmlhttprequest
+@@||cdnjs.cloudflare.com/ajax/libs^$script
+@@||ajax.googleapis.com/ajax/libs^$script
+@@||vjs.zencdn.net/5.6.0^$script,stylesheet
+@@||googleusercontent.com^
+@@||openload.co/embed^
+@@||opensubtitles.org$xmlhttprequest,third-party
