@@ -684,3 +684,4 @@ hollywoodreporter.com##.blog-post-syndication-section
 @@||openload.co/embed^
 @@||opensubtitles.org$xmlhttprequest,third-party
 ||servebom.com^$third-party,important
+@@||media.bestofmicro.com^$domain=tomsguide.com
