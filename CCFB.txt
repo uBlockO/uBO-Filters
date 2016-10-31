@@ -685,4 +685,4 @@ hollywoodreporter.com##.blog-post-syndication-section
 ||servebom.com^$third-party,important
 @@||media.bestofmicro.com^$domain=tomsguide.com
 ||bambergerkennanchitinous.com^$third-party,important
-||godaddy.com^$popup,document,third-party
+||godaddy.com^$popup,popunder
