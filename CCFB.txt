@@ -687,3 +687,4 @@ hollywoodreporter.com##.blog-post-syndication-section
 ||bambergerkennanchitinous.com^$third-party,important
 ||godaddy.com^$popup,popunder
 ||safebrowsing-cache.google.com^$domain=behind-the-scene
+@@||mozilla-nightly-updates.s3.amazonaws.com/mozilla-aurora$domain=behind-the-scene
