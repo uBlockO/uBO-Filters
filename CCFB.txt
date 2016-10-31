@@ -1,4 +1,3 @@
-[Adblock Plus 2.0]
 ! Title: CCFB for uBO
 col126.mail.live.com###RightRailContainer
 ||col126.mail.live.com/Handlers/ImageProxy.mvc$image
@@ -641,7 +640,10 @@ extratorrent.cc##.tztbl
 @@||connect.facebook.com/en_US/AudienceNetworkPrebid.js$script
 heroichollywood.com##.crp_related
 couchtuner.site##a[href="/download.php"]
-@@||$stylesheet,domain=cloudfront.net|wp.com|wordpress.com|amazonaws.com
+@@||wp.com^$stylesheet
+@@||cloudfront.com^$stylesheet
+@@||wordpress.com^$stylesheet
+@@||amazonaws.com^$stylesheet
 jaguartrials.net##.warning.alert
 change.org##.js-flash-message-announcement.flash-message
 ||atas.io^$popup,third-party
