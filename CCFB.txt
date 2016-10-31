@@ -688,3 +688,5 @@ hollywoodreporter.com##.blog-post-syndication-section
 ||godaddy.com^$popup,popunder
 ||safebrowsing-cache.google.com^$domain=behind-the-scene
 @@||mozilla-nightly-updates.s3.amazonaws.com/mozilla-aurora$domain=behind-the-scene
+screenrant.com##.read-next
+openload.co##.center
