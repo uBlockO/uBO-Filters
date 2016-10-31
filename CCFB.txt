@@ -698,3 +698,5 @@ wegotthiscovered.com##.print-wrap
 wegotthiscovered.com##.zerg-sidebar-header
 wegotthiscovered.com##.newsletter
 wegotthiscovered.com##.widget-wgtc-social-follow.widget-wrap
+comicbook.com##.clearfix.channel-nav
+comicbook.com##.embed
