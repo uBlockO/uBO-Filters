@@ -692,7 +692,7 @@ screenrant.com##.read-next
 openload.co##.center
 wegotthiscovered.com##.footer.entry-footer.e-footer
 wegotthiscovered.com##.embed-yt-shorcode
-wegotthiscovered.com###facebook-comments-count-564871
+wegotthiscovered.com##.print-wrap
 wegotthiscovered.com##.zerg-sidebar-header
 wegotthiscovered.com##.newsletter
 wegotthiscovered.com##.widget-wgtc-social-follow.widget-wrap
