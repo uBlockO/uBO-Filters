@@ -700,3 +700,4 @@ wegotthiscovered.com##.newsletter
 wegotthiscovered.com##.widget-wgtc-social-follow.widget-wrap
 comicbook.com##.clearfix.channel-nav
 comicbook.com##.embed
+superherohype.com###js-sidebar
