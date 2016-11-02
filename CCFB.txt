@@ -528,7 +528,7 @@ kissmanga.com##a[href="#"]
 @@||oloadcdn.net^
 kissmanga.com###containerRoot > div:nth-of-type(4) > div:nth-of-type(17)
 @@||blogspot.*^$domain=kissmanga.com|readcomiconline.to|kisscartoon.me|flixanity.co
-@@||maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css^
+@@||maxcdn.bootstrapcdn.com/font-awesome^
 ||googlecode.com^$third-party
 ||gigya.com^$third-party
 ||omtrdc.net^$third-party
