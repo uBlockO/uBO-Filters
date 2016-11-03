@@ -702,3 +702,4 @@ comicbook.com##.clearfix.channel-nav
 comicbook.com##.embed
 superherohype.com###js-sidebar
 openload.co##a[href="http://steepto.com/"]
+||abbp1.*^$important
