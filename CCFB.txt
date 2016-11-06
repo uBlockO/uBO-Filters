@@ -707,3 +707,4 @@ comicbook.com##.loading.ph-video-player
 /whatsapp-button.js
 /adflow.js
 /entityrating.js
+flixanity.*##.amazonDeals
