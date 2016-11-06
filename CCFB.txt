@@ -708,4 +708,3 @@ comicbook.com##.loading.ph-video-player
 /adflow.js
 /entityrating.js
 flixanity.*##.amazonDeals
-||browserleaks.com/js^$script
