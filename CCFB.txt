@@ -703,3 +703,7 @@ comicbook.com##.embed
 superherohype.com###js-sidebar
 openload.co##a[href="http://steepto.com/"]
 ||abbp1.*^$important
+comicbook.com##.loading.ph-video-player
+/whatsapp-button.js
+/adflow.js
+/entityrating.js
