@@ -709,3 +709,4 @@ comicbook.com##.loading.ph-video-player
 /entityrating.js
 flixanity.*##.amazonDeals
 crunchyroll.com/*/video.mp4
+/track
