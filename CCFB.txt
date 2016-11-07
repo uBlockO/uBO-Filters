@@ -710,3 +710,5 @@ comicbook.com##.loading.ph-video-player
 flixanity.*##.amazonDeals
 crunchyroll.com/*/video.mp4
 /track
+@@/popunder2.js$domain=openload.co
+@@/googlead.js$domain=openload.co
