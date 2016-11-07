@@ -592,7 +592,7 @@ cbr.com##.related-section
 ||outlook.com^$third-party
 @@||bulba-ad-host-website.azurewebsites.net^$domain=bulbagarden.net
 ||glodls.to/*$inline-script
-||adxprts.com^$third-party,important
+||adxprts.com^$third-party
 ||wunderlist.com^$third-party
 ||baydin.com^$third-party
 ||microsoft.com^$third-party
