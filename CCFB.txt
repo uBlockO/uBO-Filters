@@ -493,7 +493,7 @@ dailymail.co.uk##iframe
 ||jquery.com^$third-party
 m.facebook.com,facebook.com###rightCol
 ||sascdn.com^$third-party
-@@||brightcove.vo.llnwd.net^
+@@||brightcove.vo.llnwd.net^$domain=comicbook.com
 cnet.com##.videoPlayer
 microsoft.com##.social-blade.f-y-top.f-x-center > div:nth-of-type(2)
 m.facebook.com,facebook.com##.rightButtons.snowliftOverlayBar.snowliftOverlay.clearfix
@@ -713,3 +713,8 @@ crunchyroll.com/*/video.mp4
 @@/popunder2.js$domain=openload.co
 browserleaks.com##.twwt
 hanime.tv##.smart-banner-content.transition-all.align-center.justify-center.flex-row
+ugbase.eu###shoutbox
+ugbase.eu##.red_alert
+cinemablend.com##.ad\.criteo.ads_slots_snippet.partial
+cinemablend.com##.sticky.ads_slots_snippet.partial
+
