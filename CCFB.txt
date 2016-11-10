@@ -716,3 +716,5 @@ ugbase.eu###shoutbox
 ugbase.eu##.red_alert
 cinemablend.com##.ad\.criteo.ads_slots_snippet.partial
 cinemablend.com##.sticky.ads_slots_snippet.partial
+screenrant.com##.controler
+screenrant.com##.section-feature.side-featude-wrapper
