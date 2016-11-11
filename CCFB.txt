@@ -719,4 +719,3 @@ screenrant.com##.controler
 screenrant.com##.section-feature.side-featude-wrapper
 /cloudflare/rocket.js
 youtube.com##.ytp-ce-covering-overlay
-@@||the-watch-series.to^$first-party
