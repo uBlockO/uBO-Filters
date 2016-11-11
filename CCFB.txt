@@ -720,4 +720,4 @@ screenrant.com##.section-feature.side-featude-wrapper
 /cloudflare/rocket.js
 youtube.com##.ytp-ce-covering-overlay
 @@||the-watch-series.to^
-the-watch-series.to##a[href*="//data.committeemenencyclopedicrepertory.info/"]
+/js/jquery-1.10.2.min.js$important
