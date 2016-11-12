@@ -401,7 +401,6 @@ savitahd.com##.rightadsec
 cartoonhd.website,movieshd.watch,flixanity.*###credits
 cartoonhd.website,movieshd.watch,flixanity.*##a[href="#credits"]
 /ajax/view.php$xmlhttprequest,domain=cartoonhd.website|movieshd.watch|flixanity.*
-||github.com/_private/browser/errors
 m.facebook.com,facebook.com###u_0_29
 instagram.com##._3v251._br9is
 @@||cbr.imgix.net^$image,domain=cbr.com
@@ -722,3 +721,4 @@ youtube.com##.ytp-ce-covering-overlay
 facebook.com##._5qqe
 wikia.com###WikiaRailWrapper
 facebook.com##.photoUfiContainer.rhc
+couchtuner2.in###iframe
