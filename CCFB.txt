@@ -719,3 +719,6 @@ screenrant.com##.controler
 screenrant.com##.section-feature.side-featude-wrapper
 /cloudflare/rocket.js
 youtube.com##.ytp-ce-covering-overlay
+facebook.com##._5qqe
+wikia.com###WikiaRailWrapper
+facebook.com##.photoUfiContainer.rhc
