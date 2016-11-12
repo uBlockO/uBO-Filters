@@ -708,6 +708,7 @@ flixanity.*##.amazonDeals
 crunchyroll.com/*/video.mp4
 /track
 @@/popunder2.js$domain=openload.co
+@@/googlead.js$domain=openload.co
 browserleaks.com##.twwt
 hanime.tv##.smart-banner-content.transition-all.align-center.justify-center.flex-row
 ugbase.eu###shoutbox
