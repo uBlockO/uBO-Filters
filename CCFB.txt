@@ -723,4 +723,4 @@ facebook.com##._5qqe
 wikia.com###WikiaRailWrapper
 facebook.com##.photoUfiContainer.rhc
 couchtuner2.in###iframe
-||aus5.mozilla.org$domain=behind-the-scene
+||aus5.mozilla.org/update/6/Firefox/51.0a2^$domain=behind-the-scene
