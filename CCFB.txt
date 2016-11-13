@@ -364,8 +364,6 @@ cbr.com##.comment
 cbr.com##.author-tag-block
 ||cbrimages.com^$third-party
 ||cbr.com/wp-content/themes/cbr/ajax-action.php?action=loadMorePost&ajax_post_id=*&hash=*$xmlhttprequest
-||clients*.google.com$domain=behind-the-scene
-||ocsp.digicert.com$domain=behind-the-scene
 m.facebook.com,facebook.com##._ohf.rfloat._1bic
 m.facebook.com,facebook.com##._ipp
 ||gadgets.ndtv.com/Scripts/popup/gadgetsnotification.js$script
