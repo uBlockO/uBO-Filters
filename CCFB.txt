@@ -490,7 +490,6 @@ dailymail.co.uk##iframe
 ||jquery.com^$third-party
 m.facebook.com,facebook.com###rightCol
 ||sascdn.com^$third-party
-@@||brightcove.vo.llnwd.net^$domain=comicbook.com
 cnet.com##.videoPlayer
 microsoft.com##.social-blade.f-y-top.f-x-center > div:nth-of-type(2)
 m.facebook.com,facebook.com##.rightButtons.snowliftOverlayBar.snowliftOverlay.clearfix
@@ -728,3 +727,4 @@ couchtuner2.in###iframe
 @@||c.brightcove.com/services/mobile/streaming^$xmlhttprequest
 @@||platform.twitter.com/widgets.js^$domain=comicbook.com
 @@||players.brightcove.net^$domain=comicbook.com
+@@||brightcove.vo.llnwd.net^$domain=comicbook.com
