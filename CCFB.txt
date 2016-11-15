@@ -726,3 +726,5 @@ couchtuner2.in###iframe
 @@/vttjs/dist/vtt.min.js
 @@||edge.api.brightcove.com/playback/v1/accounts^$xmlhttprequest
 @@||c.brightcove.com/services/mobile/streaming^$xmlhttprequest
+@@||platform.twitter.com/widgets.js^$domain=comicbook.com
+@@||players.brightcove.net^$domain=comicbook.com
