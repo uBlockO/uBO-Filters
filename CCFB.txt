@@ -729,4 +729,3 @@ couchtuner2.in###iframe
 @@||players.brightcove.net^$domain=comicbook.com
 @@||brightcove.vo.llnwd.net^$domain=comicbook.com
 |http://$popup,third-party
-||androidcentral.com/qeunjvssqttfkljh$xmlhttprequest
