@@ -730,3 +730,4 @@ couchtuner2.in###iframe
 @@||brightcove.vo.llnwd.net^$domain=comicbook.com
 |http://$popup,third-party
 ||androidcentral.com/*?nda=*&e=%2F*^$script
+gsmarena.com###subHeader
