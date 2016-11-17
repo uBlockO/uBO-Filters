@@ -731,3 +731,4 @@ couchtuner2.in###iframe
 |http://$popup,third-party
 ||androidcentral.com/*?nda=*&e=%2F*^$script
 gsmarena.com###subHeader
+cbr.com##.injected-video-by-load
