@@ -745,3 +745,4 @@ mrskin.com##.sk-gallery-viewer-az-slide
 mrskin.com###az-responsive-20
 mrskin.com###az-responsive-23
 mrskin.com###az-responsive-26
+androidcentral.com###comments
