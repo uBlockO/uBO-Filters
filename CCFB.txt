@@ -747,3 +747,4 @@ mrskin.com###az-responsive-23
 mrskin.com###az-responsive-26
 androidcentral.com###comments
 @@||srcdn.com^$domain=screenrant.com
+@@||platform.twitter.com/widgets.js$script
