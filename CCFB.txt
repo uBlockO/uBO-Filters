@@ -737,3 +737,11 @@ androidauthority.com##.load-infinite.loading
 flixanity.*##.buttons.dmcaLink
 myanimelist.net##.pr16.fl-r.anime-detail-header-affiliate
 myanimelist.net##.mal-service-style4.btn-mal-service
+/popups/crakmedia_offer
+/ads-
+/sk_blog_manager/core-*.js^$script
+mrskin.com##.sk-gallery-viewer-zone
+mrskin.com##.sk-gallery-viewer-az-slide
+mrskin.com###az-responsive-20
+mrskin.com###az-responsive-23
+mrskin.com###az-responsive-26
