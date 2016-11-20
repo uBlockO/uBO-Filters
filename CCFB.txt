@@ -722,12 +722,6 @@ facebook.com##.photoUfiContainer.rhc
 couchtuner2.in###iframe
 ||aus5.mozilla.org/update/6/Firefox/51.0a2^$domain=behind-the-scene
 @@||platform.twitter.com/*/tweet.*.*^
-@@/vttjs/dist/vtt.min.js
-@@||edge.api.brightcove.com/playback/v1/accounts^$xmlhttprequest
-@@||c.brightcove.com/services/mobile/streaming^$xmlhttprequest
-@@||platform.twitter.com/widgets.js^$domain=comicbook.com
-@@||players.brightcove.net^$domain=comicbook.com
-@@||brightcove.vo.llnwd.net^
 ||androidcentral.com/*?nda=*&e=%2F*^$script
 gsmarena.com###subHeader
 cbr.com##.injected-video-by-load
