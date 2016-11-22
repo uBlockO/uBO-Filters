@@ -401,7 +401,7 @@ cartoonhd.website,movieshd.watch,flixanity.*##a[href="#credits"]
 /ajax/view.php$xmlhttprequest,domain=cartoonhd.website|movieshd.watch|flixanity.*
 m.facebook.com,facebook.com###u_0_29
 instagram.com##._3v251._br9is
-@@||cbr.imgix.net^$image,domain=cbr.com
+@@||imgix.net^$domain=cbr.com|screenrant.com
 ||androidauthority.com/wp-admin/admin-ajax.php$xmlhttprequest
 androidauthority.com##.textwidget
 androidauthority.com##.postinfo
