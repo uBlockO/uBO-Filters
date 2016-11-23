@@ -743,3 +743,5 @@ androidcentral.com###comments
 @@||twitter.com/i/videos/tweet^
 duckduckgo.com##.badge-link
 duckduckgo.com##.js-results-sidebar-alt.results--sidebar--alt
+ndtv.com###showhide
+||ndtv.com^$inline-script
