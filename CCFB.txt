@@ -742,3 +742,4 @@ androidcentral.com###comments
 @@||cdn1b.static.pornhub.phncdn.com/www-static2/js^$script,domain=pornhub.com
 @@||twitter.com/i/videos/tweet^
 duckduckgo.com##.badge-link
+duckduckgo.com##.js-results-sidebar-alt.results--sidebar--alt
