@@ -745,3 +745,10 @@ duckduckgo.com##.badge-link
 duckduckgo.com##.js-results-sidebar-alt.results--sidebar--alt
 ndtv.com###showhide
 ||ndtv.com^$inline-script
+pocketnow.com##.clearfix.reactions-wrapper
+pocketnow.com##.postinfo
+pocketnow.com##.authorinfo
+pocketnow.com##.textwidget
+pocketnow.com###text-18
+pocketnow.com###recommended
+pocketnow.com##.clearfix.big-like
