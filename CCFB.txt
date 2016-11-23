@@ -626,9 +626,7 @@ m.facebook.com,facebook.com##.clearfix.UFIStickersEnabledInput.UFIMentionsInputW
 ||proludimpup.com^
 myanimelist.net##.clearfix.index-watch-description
 /logpopup
-duckduckgo.com##.js-badge-link.ddg-extension-hide.badge-link--fadein.badge-link--top.badge-link
 duckduckgo.com##.js-tag-home.no-js__hide.tag-home--slide.tag-home
-duckduckgo.com##.js-badge-link.ddg-extension-hide.badge-link--serp.badge-link
 @@||facebook.com/en-US/AudienceNetworkPrebid.js$script
 extratorrent.cc##.tztbl
 ||timesofindia.indiatimes.com^$inline-script
@@ -743,3 +741,4 @@ androidcentral.com###comments
 @@||platform.twitter.com/widgets.js$script
 @@||cdn1b.static.pornhub.phncdn.com/www-static2/js^$script,domain=pornhub.com
 @@||twitter.com/i/videos/tweet^
+duckduckgo.com##.badge-link
