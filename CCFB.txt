@@ -16,7 +16,7 @@ screenrant.com##.comment.icon
 screenrant.com##.plus.icon
 screenrant.com##a[href="#comments"]
 screenrant.com##.desktop.comments
-thewatchseries.li##.col-xs-12.col-sm-6.block-left-home-inside:nth-of-type(2)
+\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.col-xs-12.col-sm-6.block-left-home-inside:nth-of-type(2)
 ||disqus.com^$important
 ||advisorded.com^$important
 ||adprotected.com^$important
@@ -41,13 +41,13 @@ kisscartoon.me##.clear:nth-of-type(5)
 kisscartoon.me##.clear:nth-of-type(3)
 cinemablend.com###newsletter-background
 cinemablend.com###newsletter-subscription
-the-watch-series.to,watchseries.ph,watchseries.ag##.stream_button
-the-watch-series.to,watchseries.ph,watchseries.ag##.sp-leader-bottom
-the-watch-series.to,watchseries.ph,watchseries.ag##.block-left-home-inside:nth-of-type(2)
+\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.stream_button
+\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.sp-leader-bottom
+\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.block-left-home-inside:nth-of-type(2)
 couchtuner.city##.b_items
-thewatchseries.li##.video_holder
-thewatchseries.li##.red.push_button:nth-of-type(1)
-thewatchseries.li##.red.push_button:nth-of-type(2)
+\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.video_holder
+\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.red.push_button:nth-of-type(1)
+\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.red.push_button:nth-of-type(2)
 movieweb.com##.reddit.rd.sh
 movieweb.com##.comment.cm.sh
 movieweb.com##.email.em.sh
@@ -99,7 +99,7 @@ comicbook.com##.below-article-ads
 screenrant.com##.social
 readcomiconline.to##a[href="#"]
 ##.twitter-share-button
-the-watch-series.to,watchseries.ph,watchseries.ag##.ad_300_250
+\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.ad_300_250
 sexstories.com###bottom_panel
 sexstories.com##.title_panel
 sexstories.com##.block_panel:nth-of-type(4)
@@ -211,7 +211,7 @@ ndtv.com##.adcont
 /jquery.cookie.js$script,important,domain=allmyvideos.net|thevideo.me|vodlocker.com|vidspot.net
 /cookie.jquery.js$script,important,domain=allmyvideos.net|thevideo.me|vodlocker.com|vidspot.net
 ||allmyvideos.net/s/ads-01.js$script,important
-the-watch-series.to,watchseries.ph,watchseries.ag###fixmgh
+\b[^ ]*watch[^ ]*series[^ ]*\b\.*###fixmgh
 ##.adsbygoogle
 comicbook.com##.next-article-tease
 ||mgid.com^$important
@@ -270,11 +270,11 @@ hanime.tv##.align-center.justify-center.flex-row.row:nth-of-type(3)
 speedtest.net##.no-shadow.ad-vertical-tower.ad-vertical-container
 imgpile.com###trumpet_message
 opensubtitles.org##fieldset
-the-watch-series.to,watchseries.ph,watchseries.ag##.add-comment
-the-watch-series.to,watchseries.ph,watchseries.ag##.morecomments.general_button
-the-watch-series.to,watchseries.ph,watchseries.ag###scroll_comments
-the-watch-series.to,watchseries.ph,watchseries.ag###header-2
-the-watch-series.to,watchseries.ph,watchseries.ag##.shd_button
+\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.add-comment
+\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.morecomments.general_button
+\b[^ ]*watch[^ ]*series[^ ]*\b\.*###scroll_comments
+\b[^ ]*watch[^ ]*series[^ ]*\b\.*###header-2
+\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.shd_button
 ||$websocket
 ||reimsrvcm.com^
 rollingstone.com##.right-rail
@@ -304,10 +304,10 @@ thevideo.me##.col-sm-3
 1337x.to##.link-box
 ###tor2web-header
 dnsleaktest.com##.sponsor
-watchseries.la##.show-social
-watchseries.la##.shd_button
-watchseries.la##.sp-sidetower
-watchseries.la##iframe
+\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.show-social
+\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.shd_button
+\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.sp-sidetower
+\b[^ ]*watch[^ ]*series[^ ]*\b\.*##iframe
 ##img[src^="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAD6CAYAAAAbbXrzAAAACXBIWXMAAAsTAAALEwEAmpwYAAAKT2lDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjanVNnVFPpFj333vRCS4iAlEtvUhUIIFJCi4AUkSYqIQkQSoghodkVUcERRUUEG8igiAOOjoCMFVEsDIoK2AfkIaKOg6OIisr74Xuja9a89+bN/rXXPues852zzwfACAyWSDNRNYAMqUIeEeCDx8TG4eQuQIEKJHAAEAizZCFz/SMBAPh+PDwrIsAHvgABeNMLCADATZvAMByH/w/qQplcAYCEAcB0kThLCIAUAEB6jkKmAEBGAYCdmCZTAKAEAGDLY2LjAFAtAGAnf+bTAICd+Jl7AQBblCEVAaCRACATZYhEAGg7AKzPVopFAFgwABRmS8Q5ANgtADBJV2ZIALC3AMDOEAuyAAgMADBRiIUpAAR7AGDIIyN4AISZABRG8lc88SuuEOcqAAB4mbI8uSQ5RYFbCC1xB1dXLh4ozkkXKxQ2YQJhmkAuwnmZGTKBNA/g88wAAKCRFRHgg/P9eM4Ors7ONo62Dl8t6r8G/yJiYuP+5c+rcEAAAOF0ftH+LC+zGoA7BoBt/qIl7gRoXgugdfeLZrIPQLUAoOnaV/Nw+H48PEWhkLnZ2eXk5NhKxEJbYcpXff5nwl/AV/1s+X48/Pf14L7iJIEyXYFHBPjgwsz0TKUcz5IJhGLc5o9H/LcL//wd0yLESWK5WCoU41EScY5EmozzMqUiiUKSKcUl0v9k4t8s+wM+3zUAsGo+AXuRLahdYwP2SycQWHTA4vcAAPK7b8HUKAgDgGiD4c93/+8//UegJQCAZkmScQAAXkQkLlTKsz/HCAAARKCBKrBBG/TBGCzABhzBBdzBC/xgNoRCJMTCQhBCCmSAHHJgKayCQiiGzbAdKmAv1EAdNMBRaIaTcA4uwlW4Dj1wD/phCJ7BKLyBCQRByA"]
 gorillavid.in###content > form > .video-full > .c1-box > div:nth-of-type(10) > div
 ||daclips.in^$third-party
@@ -333,9 +333,9 @@ forum.sa-mp.com###signature
 ||typekit.net^$third-party
 watchfree.to##.link_item:nth-of-type(1)
 ||smartadserver.com^$important
-the-watch-series.to,watchseries.ph,watchseries.ag##.fixedepisodetopadd.sp-sidetower
-the-watch-series.to,watchseries.ph,watchseries.ag##.download_link_sponsored
-the-watch-series.to,watchseries.ph,watchseries.ag##.social-tw.episode-social-btn
+\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.fixedepisodetopadd.sp-sidetower
+\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.download_link_sponsored
+\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.social-tw.episode-social-btn
 tomshardware.com###header_leaderboard
 parentherald.com##.one.bk-community
 parentherald.com##.at_con
@@ -644,8 +644,8 @@ change.org##.js-flash-message-announcement.flash-message
 @@||jwpcdn.com^$domain=vidup.me
 ||thevideo.me^$important,third-party,popup
 vidup.me##.col-sm-2
-the-watch-series.to,watchseries.ph,watchseries.ag##.block-left-home-inside:nth-of-type(2)
-the-watch-series.to,watchseries.ph,watchseries.ag##a[href="http://www.projectfree-tv.to"]
+\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.block-left-home-inside:nth-of-type(2)
+\b[^ ]*watch[^ ]*series[^ ]*\b\.*##a[href="http://www.projectfree-tv.to"]
 trailer-track.com##.comments-area-wrapper
 trailer-track.com###colophon
 trailer-track.com###actionbar
