@@ -16,7 +16,6 @@ screenrant.com##.comment.icon
 screenrant.com##.plus.icon
 screenrant.com##a[href="#comments"]
 screenrant.com##.desktop.comments
-\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.col-xs-12.col-sm-6.block-left-home-inside:nth-of-type(2)
 ||disqus.com^$important
 ||advisorded.com^$important
 ||adprotected.com^$important
@@ -41,13 +40,6 @@ kisscartoon.me##.clear:nth-of-type(5)
 kisscartoon.me##.clear:nth-of-type(3)
 cinemablend.com###newsletter-background
 cinemablend.com###newsletter-subscription
-\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.stream_button
-\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.sp-leader-bottom
-\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.block-left-home-inside:nth-of-type(2)
-couchtuner.city##.b_items
-\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.video_holder
-\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.red.push_button:nth-of-type(1)
-\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.red.push_button:nth-of-type(2)
 movieweb.com##.reddit.rd.sh
 movieweb.com##.comment.cm.sh
 movieweb.com##.email.em.sh
@@ -99,7 +91,6 @@ comicbook.com##.below-article-ads
 screenrant.com##.social
 readcomiconline.to##a[href="#"]
 ##.twitter-share-button
-\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.ad_300_250
 sexstories.com###bottom_panel
 sexstories.com##.title_panel
 sexstories.com##.block_panel:nth-of-type(4)
@@ -164,7 +155,6 @@ postimg.org##.td-ad
 ||constantcontact.com^$important
 mkvcage.com###text-5
 mkvcage.com##.alignnone
-##.clear.share
 ||traffichaus.com^$important
 porntube.com##.cpp
 porntube.com###main-banner-grid
@@ -177,7 +167,6 @@ thevideo.me##.alert-signup.alert-default.alert
 ||elasticbeanstalk.*^$important
 .androidcentral.com##img[src="http://www.androidcentral.com/sites/androidcentral.com/files/styles/larger/public/article_images/2016/04/mobilenations-snapchat.jpg"]
 .androidcentral.com##.sidebar-body
-###video_overlays
 ||mrperfect.in^$important
 ||longtailvideo.com^$important
 ||dubshub.com^$important
@@ -187,7 +176,6 @@ dailycaller.com##.comments-link
 dailycaller.com###outbrain_widget_0
 ||stackcommerce.com^$important
 ||stacksocial.com^$important
-##.adsbytwo
 twoo.com##.tw3-profile__ad.jsNoMoreAds.text--center.mb--tight.text--small
 putlocker.is##.movgr
 ||104.198.198.188^$important
@@ -208,10 +196,8 @@ ndtv.com##.ad300mrec1
 ndtv.com##.ad300
 ndtv.com##.adcont
 ||dethao.com^$important
-/jquery.cookie.js$script,important,domain=allmyvideos.net|thevideo.me|vodlocker.com|vidspot.net
-/cookie.jquery.js$script,important,domain=allmyvideos.net|thevideo.me|vodlocker.com|vidspot.net
-||allmyvideos.net/s/ads-01.js$script,important
-\b[^ ]*watch[^ ]*series[^ ]*\b\.*###fixmgh
+/jquery.cookie.js$script,important,domain=thevideo.me|vidspot.net
+/cookie.jquery.js$script,important,domain=thevideo.me|vidspot.net
 ##.adsbygoogle
 comicbook.com##.next-article-tease
 ||mgid.com^$important
@@ -238,7 +224,6 @@ gyazo.com###versionup
 pornhub.com##.abovePlayer
 pornhub.com##.clear.hd.jisfhp0w2u
 ||taboola.com^$important
-##.sources
 ||putlocker-movies.tv/ajax/view.php$xmlhttprequest,important
 ||polldaddy.com^
 ||3jsbf5.xyz^
@@ -270,11 +255,6 @@ hanime.tv##.align-center.justify-center.flex-row.row:nth-of-type(3)
 speedtest.net##.no-shadow.ad-vertical-tower.ad-vertical-container
 imgpile.com###trumpet_message
 opensubtitles.org##fieldset
-\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.add-comment
-\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.morecomments.general_button
-\b[^ ]*watch[^ ]*series[^ ]*\b\.*###scroll_comments
-\b[^ ]*watch[^ ]*series[^ ]*\b\.*###header-2
-\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.shd_button
 ||$websocket
 ||reimsrvcm.com^
 rollingstone.com##.right-rail
@@ -302,12 +282,7 @@ thevideo.me##.col-sm-3
 ||adblockerkillswebsites.*^
 1337x.to###mgbl49472
 1337x.to##.link-box
-###tor2web-header
 dnsleaktest.com##.sponsor
-\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.show-social
-\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.shd_button
-\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.sp-sidetower
-\b[^ ]*watch[^ ]*series[^ ]*\b\.*##iframe
 ##img[src^="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAD6CAYAAAAbbXrzAAAACXBIWXMAAAsTAAALEwEAmpwYAAAKT2lDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjanVNnVFPpFj333vRCS4iAlEtvUhUIIFJCi4AUkSYqIQkQSoghodkVUcERRUUEG8igiAOOjoCMFVEsDIoK2AfkIaKOg6OIisr74Xuja9a89+bN/rXXPues852zzwfACAyWSDNRNYAMqUIeEeCDx8TG4eQuQIEKJHAAEAizZCFz/SMBAPh+PDwrIsAHvgABeNMLCADATZvAMByH/w/qQplcAYCEAcB0kThLCIAUAEB6jkKmAEBGAYCdmCZTAKAEAGDLY2LjAFAtAGAnf+bTAICd+Jl7AQBblCEVAaCRACATZYhEAGg7AKzPVopFAFgwABRmS8Q5ANgtADBJV2ZIALC3AMDOEAuyAAgMADBRiIUpAAR7AGDIIyN4AISZABRG8lc88SuuEOcqAAB4mbI8uSQ5RYFbCC1xB1dXLh4ozkkXKxQ2YQJhmkAuwnmZGTKBNA/g88wAAKCRFRHgg/P9eM4Ors7ONo62Dl8t6r8G/yJiYuP+5c+rcEAAAOF0ftH+LC+zGoA7BoBt/qIl7gRoXgugdfeLZrIPQLUAoOnaV/Nw+H48PEWhkLnZ2eXk5NhKxEJbYcpXff5nwl/AV/1s+X48/Pf14L7iJIEyXYFHBPjgwsz0TKUcz5IJhGLc5o9H/LcL//wd0yLESWK5WCoU41EScY5EmozzMqUiiUKSKcUl0v9k4t8s+wM+3zUAsGo+AXuRLahdYwP2SycQWHTA4vcAAPK7b8HUKAgDgGiD4c93/+8//UegJQCAZkmScQAAXkQkLlTKsz/HCAAARKCBKrBBG/TBGCzABhzBBdzBC/xgNoRCJMTCQhBCCmSAHHJgKayCQiiGzbAdKmAv1EAdNMBRaIaTcA4uwlW4Dj1wD/phCJ7BKLyBCQRByA"]
 gorillavid.in###content > form > .video-full > .c1-box > div:nth-of-type(10) > div
 ||daclips.in^$third-party
@@ -333,9 +308,6 @@ forum.sa-mp.com###signature
 ||typekit.net^$third-party
 watchfree.to##.link_item:nth-of-type(1)
 ||smartadserver.com^$important
-\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.fixedepisodetopadd.sp-sidetower
-\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.download_link_sponsored
-\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.social-tw.episode-social-btn
 tomshardware.com###header_leaderboard
 parentherald.com##.one.bk-community
 parentherald.com##.at_con
@@ -644,8 +616,6 @@ change.org##.js-flash-message-announcement.flash-message
 @@||jwpcdn.com^$domain=vidup.me
 ||thevideo.me^$important,third-party,popup
 vidup.me##.col-sm-2
-\b[^ ]*watch[^ ]*series[^ ]*\b\.*##.block-left-home-inside:nth-of-type(2)
-\b[^ ]*watch[^ ]*series[^ ]*\b\.*##a[href="http://www.projectfree-tv.to"]
 trailer-track.com##.comments-area-wrapper
 trailer-track.com###colophon
 trailer-track.com###actionbar
@@ -753,5 +723,6 @@ pocketnow.com##.clearfix.big-like
 wikia.com###WikiaBar
 extratorrent.cc##.tztblsearch
 screenrant.com##.desktop-vertical.video-block-with-playlist
+||\b[^ ]*watch[^ ]*series[^ ]*\b\.to^$important
 
 ||$third-party,domain=kisscartoon.me|kissanime.to|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.red|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|hollywoodreporter.com|flixanity.co|tomsguide.com|flixanity.watch|flixanity.me|flixanity.in|thepiratebay.org|comicbook.com|androidcentral.com|screenrant.com|pornhub.com|pocketnow.com|freeadultcomix.com
