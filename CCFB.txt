@@ -723,8 +723,12 @@ pocketnow.com##.clearfix.big-like
 wikia.com###WikiaBar
 extratorrent.cc##.tztblsearch
 screenrant.com##.desktop-vertical.video-block-with-playlist
-\b[^ ]*watch[^ ]*series[^ ]*\b\.to$important
+|\b[^ ]*watch[^ ]*series[^ ]*\b\.to$important
 facebook.com##.pinnedUfi.photoUfiContainer.rhc
 facebook.com###snowliftStageActions
+gamenguide.com##span
+gamenguide.com##.bk-desktop_related
+gamenguide.com##h4
+gamenguide.com##.product-box1
 
 ||$third-party,domain=kisscartoon.me|kissanime.to|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.red|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|hollywoodreporter.com|flixanity.co|tomsguide.com|flixanity.watch|flixanity.me|flixanity.in|thepiratebay.org|comicbook.com|androidcentral.com|screenrant.com|pornhub.com|pocketnow.com|freeadultcomix.com
