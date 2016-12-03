@@ -752,7 +752,7 @@ onhax.*###prologue-143412 > h3
 onhax.*###prologue-143412 > hr:nth-of-type(1)
 onhax.*##.yarpp-related
 onhax.*###text-6
-onhax.*###text-
+onhax.*###text-3
 imagefap.com###top_announce
 imagefap.com##center > center > div
 imagefap.com###jobs_announce
