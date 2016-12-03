@@ -752,6 +752,14 @@ onhax.*###prologue-143412 > h3
 onhax.*###prologue-143412 > hr:nth-of-type(1)
 onhax.*##.yarpp-related
 onhax.*###text-6
-onhax.*###text-3
+onhax.*###text-
+imagefap.com###top_announce
+imagefap.com##center > center > div
+imagefap.com###jobs_announce
+imagefap.com##.outer > .mainouter > tbody > tr > td:nth-of-type(2)
+imagefap.com###comment_head
+imagefap.com###comments
+imagefap.com##.tnaBarBlueWrap
+
 
 ||$third-party,domain=kisscartoon.me|kissanime.to|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.red|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|hollywoodreporter.com|flixanity.co|tomsguide.com|flixanity.watch|flixanity.me|flixanity.in|thepiratebay.org|comicbook.com|androidcentral.com|screenrant.com|pornhub.com|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me
