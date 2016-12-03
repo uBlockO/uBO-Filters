@@ -1,3 +1,8 @@
-Custom Cosmetic Filters for uBlock Origin
+# uBO-Personal-Filters
+A filterlist with additional filters for uBlock Origin to block third-party, tracking and all other unwarranted resources from loading.
 
-[Click to Subscribe](abp:subscribe?location=https://gitlab.com/MarkTheFucker/Custom-Cosmetic-Filters/raw/master/CCFB.txt&title=CCFB for uBO)
+Contains filters specific to uBlock Origin and some filters that have not yet been added to other filterlists.
+
+Add the list from here: [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/uBlock-user/uBO-Personal-Filters/master/uPF.txt&title=uBO-Personal-Filters)
+
+Direct link: https://raw.githubusercontent.com/uBlock-user/uBO-Personal-Filters/master/uPF.txt
