@@ -1,4 +1,4 @@
-! Title: CCFB for uBO
+! Title: uBO-Personal-Filters
 col126.mail.live.com###RightRailContainer
 ||col126.mail.live.com/Handlers/ImageProxy.mvc$image
 ||watchfree.to/stream.php
