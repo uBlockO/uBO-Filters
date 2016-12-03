@@ -605,10 +605,10 @@ extratorrent.cc##.tztbl
 @@||connect.facebook.com/en_US/AudienceNetworkPrebid.js$script
 heroichollywood.com##.crp_related
 couchtuner.site##a[href="/download.php"]
-@@||wp.com^$stylesheet
-@@||cloudfront.com^$stylesheet
+@@||wp.com^$stylesheet,image
+@@||cloudfront.com^$stylesheet,image
 @@||wordpress.com^$stylesheet,image
-@@||amazonaws.com^$stylesheet
+@@||amazonaws.com^$stylesheet,image
 jaguartrials.net##.warning.alert
 change.org##.js-flash-message-announcement.flash-message
 ||atas.io^$popup,third-party
