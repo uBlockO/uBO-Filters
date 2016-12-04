@@ -1,6 +1,4 @@
 ! Title: uBO-Personal-Filters
-col126.mail.live.com###RightRailContainer
-||col126.mail.live.com/Handlers/ImageProxy.mvc$image
 ||watchfree.to/stream.php
 watchfree.to##.get_vpn
 watchfree.to##.comment_box
@@ -762,6 +760,7 @@ imagefap.com###comments
 imagefap.com##.tnaBarBlueWrap
 ||pixel.wp.com^$important
 /ads.js/*?*$domain=pornhub.com|redtube.com|youporn.com|tube8.com|pornmd.com|thumbzilla.com|xtube.com|gaytube.com|youporngay.com|spreadshirt.com|natsfornetworks.com|pornhubpremium.com|porniq.com|peeperz.com|pornhubcasino.com,important
-
+medium.com##.u-fixed
+facebook.com##._1z0-
 
 ||$third-party,domain=kisscartoon.me|kissanime.to|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.red|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|hollywoodreporter.com|flixanity.co|tomsguide.com|flixanity.watch|flixanity.me|flixanity.in|thepiratebay.org|comicbook.com|androidcentral.com|screenrant.com|pornhub.com|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me
