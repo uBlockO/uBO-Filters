@@ -606,7 +606,7 @@ extratorrent.cc##.tztbl
 heroichollywood.com##.crp_related
 couchtuner.site##a[href="/download.php"]
 @@||wp.com^$stylesheet,image
-@@||cloudfront.com^$stylesheet,image
+@@||cloudfront.net^$stylesheet,image
 @@||wordpress.com^$stylesheet,image
 @@||amazonaws.com^$stylesheet,image
 jaguartrials.net##.warning.alert
