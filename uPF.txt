@@ -769,7 +769,6 @@ facebook.com###u_jsonp_11_1
 @@||brightcove.vo.llnwd.net^$image,xmlhttprequest
 @@||c.brightcove.com/services/mobile/streaming/index/*.m3u8^$xmlhttprequest
 @@||players.brightcove.net/*/vttjs/dist/vtt.min.js$script
-@@||edge.api.brightcove.com/playback/*/videos^$xmlhttprequest
 @@||players.brightcove.net/*/index.min.js^$script
 @@||players.brightcove.net/*/index.html?videoId=*^$subdocument
 @@||edge.api.brightcove.com/playback/*/videos/*^$xmlhttprequest
