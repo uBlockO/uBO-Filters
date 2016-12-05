@@ -584,7 +584,7 @@ itechpost.com###latestbox
 m.facebook.com,facebook.com##.rhcFooter._5ciw
 gaming.youtube.com###thirdpartywarning
 ||allowmyads.*^
-||cloudinary.com^
+@@||cloudinary.com^$image,stylesheet
 ||fonts.googleapis.com^
 ||viralsweep.com^
 m.facebook.com,facebook.com##.clearfix.UFIStickersEnabledInput.UFIMentionsInputWrap
