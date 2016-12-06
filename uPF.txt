@@ -779,5 +779,6 @@ facebook.com###u_jsonp_11_1
 @@||s3.amazonaws.com/html5player.gamezone.com/video-ad-unit.js$script
 outlook.live.com##a[href^="http://www.myfreecams.com/"]
 venturebeat.com##.xoxo
+1337x.to###bbbabbac
 
 ||$third-party,domain=kisscartoon.me|kissanime.to|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.red|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|hollywoodreporter.com|flixanity.co|tomsguide.com|flixanity.watch|flixanity.me|flixanity.in|thepiratebay.org|comicbook.com|androidcentral.com|screenrant.com|pornhub.com|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me
