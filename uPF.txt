@@ -764,8 +764,6 @@ medium.com##.u-fixed
 facebook.com##._1z0-
 cinemablend.com##.social_counts.partial
 cinemablend.com##.plugins_corpfooter
-facebook.com###u_ps_0_0_0
-facebook.com###u_jsonp_11_1
 @@||brightcove.vo.llnwd.net^$image,xmlhttprequest
 @@||c.brightcove.com/services/mobile/streaming/index/*.m3u8^$xmlhttprequest
 @@||players.brightcove.net/*/vttjs/dist/vtt.min.js$script
