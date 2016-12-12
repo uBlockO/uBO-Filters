@@ -799,5 +799,13 @@ windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,tesla
 instagram.com##._e616g._csy1m
 diverxity.com##.subscribe_banner
 ||rule34hentai.net^$script,first-party
+rule34hentai.net###Check_This_Outmain
+rule34hentai.net###main
+rule34hentai.net###Our_Partnersleft
+rule34hentai.net###Our_Partnersmain
+rule34hentai.net###Related_Contentleft
+rule34hentai.net###QR_Codeleft
+rule34hentai.net###left
+rule34hentai.net###comment-list-image
 
 ||$third-party,domain=kisscartoon.me|kissanime.to|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.red|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|hollywoodreporter.com|flixanity.co|tomsguide.com|flixanity.watch|flixanity.me|flixanity.in|thepiratebay.org|comicbook.com|androidcentral.com|screenrant.com|pornhub.com|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|9anime.to|windowscentral.com|imore.com|crackberry.com|vrheads.com|teslacentral.com|connectedly.com|diverxity.com|rule34hentai.net
