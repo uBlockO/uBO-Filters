@@ -88,7 +88,6 @@ comicbook.com##.below-article-ads
 ||wibbitz.com^$important
 screenrant.com##.social
 readcomiconline.to##a[href="#"]
-##.twitter-share-button
 sexstories.com###bottom_panel
 sexstories.com##.title_panel
 sexstories.com##.block_panel:nth-of-type(4)
@@ -140,7 +139,6 @@ kissanime.to###btnShowComments
 ||staticfiles.org^$important
 ||braintreegateway.com^$important
 thelocalbay.com##audio
-###disqus_thread
 bulbapedia.bulbagarden.net###amazon-related
 ||optimizely.com^$important
 ||zendesk.com^$important
@@ -196,10 +194,8 @@ ndtv.com##.adcont
 ||dethao.com^$important
 /jquery.cookie.js$script,important,domain=thevideo.me|vidspot.net
 /cookie.jquery.js$script,important,domain=thevideo.me|vidspot.net
-##.adsbygoogle
 comicbook.com##.next-article-tease
 ||mgid.com^$important
-##.videoAdClose
 yts.ag##.fd.button-green-download-big
 ||zen.*^$important
 ||stripe.com^$important
@@ -208,7 +204,6 @@ yts.ag##.fd.button-green-download-big
 monova.org##.warning-message
 monova.org##._skip.container-bt
 monova.org##.section-b.container-bt
-##.adv_box
 ||sharethis.com^$important
 ||openload.co/reward$xmlhttprequest,important
 ||www.putlocker.systems/ajax/view.php$xmlhttprequest,important
@@ -217,8 +212,6 @@ monova.org##.section-b.container-bt
 ||vizplay.org^$important
 gyazo.com###versionup
 ||livemint.com^$important
-###player-facebook-share
-###player-twitter-share
 pornhub.com##.abovePlayer
 pornhub.com##.clear.hd.jisfhp0w2u
 ||taboola.com^$important
@@ -310,7 +303,6 @@ tomshardware.com###header_leaderboard
 parentherald.com##.one.bk-community
 parentherald.com##.at_con
 parentherald.com###comment
-||*$third-party,domain=parentherald.com
 ||yahooapis.*^$important
 ||104.198.*.*^
 ||leadzupc.com^
@@ -343,7 +335,6 @@ m.facebook.com,facebook.com##._ipp
 m.facebook.com,facebook.com##._ohe.lfloat._1bic
 m.facebook.com,facebook.com###u_f_6
 kissanime.to##strong
-##.googlead
 timesofindia.indiatimes.com##.sidebar
 timesofindia.indiatimes.com##strong
 timesofindia.indiatimes.com##.comments
@@ -353,13 +344,11 @@ timesofindia.indiatimes.com###livetv
 timesofindia.indiatimes.com##.relatedarticle
 timesofindia.indiatimes.com##.partners-wrapper
 ||timesofindia.indiatimes.com/ads_homepage^$script
-###socialbuttons
 timesofindia.indiatimes.com###LargeWrapper
 ||aolcdn.com^$third-party
 ||goal.com^$third-party
 ||techradar.com^$important
 ||timesofindia.indiatimes.com^$xmlhttprequest,important
-##.mr_socialshare
 extratorrent.cc,etmirror.com,etproxy.com,extratorrentonline.com,extratorrentlive.com##table[width="1070"]
 extratorrent.cc,etmirror.com,etproxy.com,extratorrentonline.com,extratorrentlive.com##table[width="900"]
 extratorrent.cc,etmirror.com,etproxy.com,extratorrentonline.com,extratorrentlive.com###chat_body
@@ -812,5 +801,7 @@ rule34hentai.net###comment-list-image
 @@||bp.blogspot.com^$image,third-party
 sexolic.com###modal
 sexolic.com##.animated4.fade-in:nth-of-type(1)
+apkmos.com##.adsbygoogle
+apkmos.com##.td_block_wrap
 
-||$third-party,domain=kisscartoon.me|kissanime.to|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.red|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|hollywoodreporter.com|flixanity.co|tomsguide.com|flixanity.watch|flixanity.me|flixanity.in|thepiratebay.org|comicbook.com|androidcentral.com|screenrant.com|pornhub.com|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|9anime.to|windowscentral.com|imore.com|crackberry.com|vrheads.com|teslacentral.com|connectedly.com|diverxity.com|rule34hentai.net|sexolic.com
+||$third-party,domain=kisscartoon.me|kissanime.to|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.red|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|hollywoodreporter.com|flixanity.co|tomsguide.com|flixanity.watch|flixanity.me|flixanity.in|thepiratebay.org|comicbook.com|androidcentral.com|screenrant.com|pornhub.com|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|9anime.to|windowscentral.com|imore.com|crackberry.com|vrheads.com|teslacentral.com|connectedly.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com
