@@ -803,7 +803,6 @@ sexolic.com###modal
 sexolic.com##.animated4.fade-in:nth-of-type(1)
 apkmos.com##.adsbygoogle
 apkmos.com##.td_block_wrap
-/standard-wide-new-1button.swf$important
 comicbook.com##.aligncenter
 imdb.com##.ab_widget
 apkmos.com##.td-header-top-menu-full
