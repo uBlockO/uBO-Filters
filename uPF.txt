@@ -825,5 +825,8 @@ forbes.com##.ng-scope.items
 forbes.com##.default-expanded.article-trending-panel.article-sidebar-panel
 forbes.com##.\{\{vertical_class\}\}.\{\{sidebar_state\}\}.slash-background.article-sidebar.article-top-navigation
 forbes.com###fbs-ad-rail-article-\{\{article\.index\}\}
+/wp-content^$script
+/wp-includes^$script
+@@||cbr.com/wp-content/plugins/wp-minify/min^$script,domain=cbr.com
 
 ||$third-party,domain=kisscartoon.me|kissanime.to|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.red|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|hollywoodreporter.com|flixanity.co|tomsguide.com|flixanity.watch|flixanity.me|flixanity.in|thepiratebay.org|comicbook.com|androidcentral.com|screenrant.com|pornhub.com|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|9anime.to|windowscentral.com|imore.com|crackberry.com|vrheads.com|teslacentral.com|connectedly.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com
