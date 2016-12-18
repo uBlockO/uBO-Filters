@@ -744,7 +744,6 @@ imagefap.com###comment_head
 imagefap.com###comments
 imagefap.com##.tnaBarBlueWrap
 ||pixel.wp.com^$important
-/ads*^$domain=pornhub.com|redtube.com|youporn.com|tube8.com|pornmd.com|thumbzilla.com|xtube.com|gaytube.com|youporngay.com|spreadshirt.com|natsfornetworks.com|pornhubpremium.com|porniq.com|peeperz.com|pornhubcasino.com,important
 medium.com##.u-fixed
 facebook.com##._1z0-
 cinemablend.com##.social_counts.partial
@@ -769,7 +768,7 @@ mrskin.com##.sk-wallpaper-riseup.sk-wallpaper.sk-wallpaper-item
 /sk_special_offer_video
 /popup
 /ph-tracking.js^$important
-/adv*^$important,domain=pornhub.com|redtube.com|youporn.com|tube8.com|pornmd.com|thumbzilla.com|xtube.com|gaytube.com|youporngay.com|spreadshirt.com|natsfornetworks.com|pornhubpremium.com|porniq.com|peeperz.com|pornhubcasino.com
+/ad*^$important,domain=pornhub.com|redtube.com|youporn.com|tube8.com|pornmd.com|thumbzilla.com|xtube.com|gaytube.com|youporngay.com|spreadshirt.com|natsfornetworks.com|pornhubpremium.com|porniq.com|peeperz.com|pornhubcasino.com
 /premium/*^$important
 /promo-banner.js^$important
 @@||dfcdn.net^$domain=pornovau.com
