@@ -1,4 +1,3 @@
-! Title: uBO-Personal-Filters
 ||watchfree.to/stream.php
 watchfree.to##.get_vpn
 watchfree.to##.comment_box
@@ -587,7 +586,7 @@ duckduckgo.com##.js-tag-home.no-js__hide.tag-home--slide.tag-home
 @@||facebook.com/en-US/AudienceNetworkPrebid.js$script
 extratorrent.cc##.tztbl
 ||timesofindia.indiatimes.com^$inline-script
-@@||cdn-dena.com^$domain=myanimelist.net
+@@||cdn-dena.com^$image,stylesheet,other
 @@||connect.facebook.com/en_US/AudienceNetworkPrebid.js$script
 heroichollywood.com##.crp_related
 couchtuner.site##a[href="/download.php"]
