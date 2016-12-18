@@ -594,7 +594,7 @@ couchtuner.site##a[href="/download.php"]
 @@||wp.com^$stylesheet,image
 @@||cloudfront.net^$stylesheet,image
 @@||wordpress.com^$stylesheet,image
-@@||amazonaws.com^$stylesheet,image
+@@||amazonaws.com^$stylesheet,image,other
 jaguartrials.net##.warning.alert
 change.org##.js-flash-message-announcement.flash-message
 ||atas.io^$popup,third-party
@@ -622,7 +622,7 @@ mediafire.com##.left
 mediafire.com##.loaded.ad.lb-ad
 m.facebook.com,facebook.com###pagelet_prompts
 @@||thr.com^$domain=hollywoodreporter.com
-hollywoodreporter.com##.show-disqus-comments.js-show-disqus-comments
+hollywoodreporter.com##.js-show-disqus-comments
 hollywoodreporter.com##.blog-post-syndication-section
 ||blbrd.co^$third-party
 ||billboard.com^$third-party
@@ -681,9 +681,7 @@ cbr.com##.injected-video-by-load
 @@||instagram.com/*/embed/captioned^
 androidauthority.com##.load-infinite.loading
 flixanity.*##.buttons.dmcaLink
-myanimelist.net##.pr16.fl-r.anime-detail-header-affiliate
-myanimelist.net##.mal-service-style4.btn-mal-service
-/popups/crakmedia_offer
+/popups/
 /ads-
 /sk_blog_manager/core-*.js^$script
 mrskin.com##.sk-gallery-viewer-zone
@@ -830,7 +828,7 @@ forbes.com###fbs-ad-rail-article-\{\{article\.index\}\}
 /iFramedAdTemplate/
 hentaiplay.net###video_overlays
 myanimelist.net##.btn-mal-service
-myanimelist.net##.pr8.fl-r.anime-detail-header-affiliate
+myanimelist.net##.anime-detail-header-affiliate
 ||*$inline-script,domain=orlandosentinel.com|sandiegouniontribune.com|sun-sentinel.com|mcall.com|boston.com
 @@||github-cloud.s3.amazonaws.com^$domain=github.com
 
