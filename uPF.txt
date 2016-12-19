@@ -714,7 +714,7 @@ forbes.com###fbs-ad-rail-article-\{\{article\.index\}\}
 hentaiplay.net###video_overlays
 myanimelist.net##.btn-mal-service
 myanimelist.net##.anime-detail-header-affiliate
-||*$inline-script,domain=orlandosentinel.com|sandiegouniontribune.com|sun-sentinel.com|mcall.com|boston.com
+! ||*$inline-script,domain=orlandosentinel.com|sandiegouniontribune.com|sun-sentinel.com|mcall.com|boston.com
 @@||github-cloud.s3.amazonaws.com^$domain=github.com
 @@||gannett-cdn.com^$image,stylesheet,domain=usatoday.com
 /abtesting/
