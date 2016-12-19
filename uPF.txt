@@ -716,5 +716,6 @@ myanimelist.net##.btn-mal-service
 myanimelist.net##.anime-detail-header-affiliate
 ||*$inline-script,domain=orlandosentinel.com|sandiegouniontribune.com|sun-sentinel.com|mcall.com|boston.com
 @@||github-cloud.s3.amazonaws.com^$domain=github.com
+@@||gannett-cdn.com^$image,stylesheet,domain=usatoday.com
 
 ||$third-party,domain=kisscartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.red|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|hollywoodreporter.com|flixanity.co|tomsguide.com|flixanity.watch|flixanity.me|flixanity.in|thepiratebay.org|comicbook.com|androidcentral.com|screenrant.com|pornhub.com|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|9anime.to|windowscentral.com|imore.com|crackberry.com|vrheads.com|teslacentral.com|connectedly.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com
