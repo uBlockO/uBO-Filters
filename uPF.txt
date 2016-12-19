@@ -68,12 +68,13 @@ howtogeek.com##span
 howtogeek.com##.articleExtras
 howtogeek.com###sb2
 ||hollywoodreporter.com/fe_data$xmlhttprequest
-hollywoodreporter.com##.autoload-spinner.is-infinite-scroll-processed.js-leftRail-loadNewContent
+hollywoodreporter.com##.js-leftRail-loadNewContent
 hollywoodreporter.com##.author
 hollywoodreporter.com###show-disqus-comments
 hollywoodreporter.com##.autoload-spinner.processed-by-autoloader.autoload-direct-render
 hollywoodreporter.com##.fa-comment.post-has-comments.comments-square.js-scroll-to-comments
 hollywoodreporter.com##.blog-post-author-section
+hollywoodreporter.com##.article-meta-bottom
 comicbook.com##.author-comp
 comicbook.com##.below-article-ads
 ||wibbitz.com^$important
