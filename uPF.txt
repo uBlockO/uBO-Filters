@@ -31,10 +31,6 @@ birthmoviesdeath.com##.clearfix.PanelProduct.panel
 ||advserver.xyz^$important
 youtube.com###watch-action-panels
 comicbook.com##.cmp.pubEx
-kisscartoon.me##.bigBarContainer:nth-of-type(5)
-kisscartoon.me##.rightBox:nth-of-type(1)
-kisscartoon.me##.clear:nth-of-type(5)
-kisscartoon.me##.clear:nth-of-type(3)
 cinemablend.com###newsletter-background
 cinemablend.com###newsletter-subscription
 movieweb.com##.reddit.rd.sh
@@ -54,10 +50,9 @@ heroichollywood.com##.sidebar
 ||doubleclick.net^$important
 ||pleaseletmeadvertise.com^$important
 ||adblockdetect.xyz^$important
-kisscartoon.me##.rightBox:nth-of-type(5)
 ||cdn2.computerworlduk.com/scripts/libs/jquery.js$script
-kissanime.to,kissanime.ru##.rightBox:nth-of-type(7)
-kissanime.to,kissanime.ru##.rightBox:nth-of-type(3)
+kissanime.*##.rightBox:nth-of-type(7)
+kissanime.*##.rightBox:nth-of-type(3)
 cinemablend.com##.StoryContent2
 cinemablend.com##.twitter-share-button
 cinemablend.com##a[href="#discuss"]
@@ -120,7 +115,7 @@ cinemablend.com##.blue_banner.snippet.partial
 cinemablend.com##.share_sharethis.partial
 ||adexp.net^$important
 ||criteo.com^$important
-kissanime.to,kissanime.ru###btnShowComments
+kissanime.*###btnShowComments
 ||ukstatic.com^$important
 ||staticswind.club^$important
 ||staticfiles.org^$important
@@ -288,7 +283,7 @@ m.facebook.com,facebook.com##._ipp
 ||petametrics.com^$third-party
 m.facebook.com,facebook.com##._ohe.lfloat._1bic
 m.facebook.com,facebook.com###u_f_6
-kissanime.to,kissanime.ru##strong
+kissanime.*##strong
 timesofindia.indiatimes.com##.sidebar
 timesofindia.indiatimes.com##strong
 timesofindia.indiatimes.com##.comments
