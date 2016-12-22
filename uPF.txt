@@ -414,7 +414,7 @@ mrskin.com##.col-xs-12.col-sm-8.col-md-4
 kissmanga.com##a[href="#"]
 @@||oloadcdn.net^
 kissmanga.com###containerRoot > div:nth-of-type(4) > div:nth-of-type(17)
-@@||blogspot.*^$domain=kissmanga.com|readcomiconline.to|kisscartoon.me|flixanity.co|flixanity.in|flixanity.watch
+@@||blogspot.*^$image,stylesheet,other,media
 @@||maxcdn.bootstrapcdn.com/font-awesome^
 ||googlecode.com^$third-party
 ||gigya.com^$third-party
@@ -678,7 +678,6 @@ instagram.com##._e616g._csy1m
 diverxity.com##.subscribe_banner
 /wp-adblock-dedect*^$important
 /fuckadblock*^$important
-@@||bp.blogspot.com^$image,third-party
 apkmos.com##.adsbygoogle
 apkmos.com##.td_block_wrap
 comicbook.com##.aligncenter
