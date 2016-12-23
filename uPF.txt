@@ -479,7 +479,7 @@ windowsreport.com##a[href^="http://www.reimageplus.com/includes/router_land.php"
 @@||facebook.com/plugins/video.php^$important
 @@||soundcloud.com^$third-party
 torrentsgroup.com##iframe[src="about:blank"]
-||exoclick.com^$third-party,important
+||exoclick.com^$third-party
 m.facebook.com,facebook.com##._52jv._4-u8._1dil._2l9a._2pi1._4-u2
 m.facebook.com,facebook.com##._5pcr._4nef._5pcr.userContentWrapper
 ||thepiratebay.*^$third-party
@@ -497,9 +497,6 @@ m.facebook.com,facebook.com##.rhcFooter._5ciw
 ||viralsweep.com^
 m.facebook.com,facebook.com##.clearfix.UFIStickersEnabledInput.UFIMentionsInputWrap
 8muses.com##.a-image
-8muses.com#@#[style*="background: transparent url(\"data:image/gif;base64,"]
-||8muses.com/data^$script,important
-||8muses.com/min/main.js$script,important
 ||proludimpup.com^
 myanimelist.net##.clearfix.index-watch-description
 /logpopup
