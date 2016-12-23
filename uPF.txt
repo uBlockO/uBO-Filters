@@ -479,7 +479,7 @@ windowsreport.com##a[href^="http://www.reimageplus.com/includes/router_land.php"
 @@||facebook.com/plugins/video.php^$important
 @@||soundcloud.com^$third-party
 torrentsgroup.com##iframe[src="about:blank"]
-||exoclick.com^$third-party
+||exoclick.com^$third-party,important
 m.facebook.com,facebook.com##._52jv._4-u8._1dil._2l9a._2pi1._4-u2
 m.facebook.com,facebook.com##._5pcr._4nef._5pcr.userContentWrapper
 ||thepiratebay.*^$third-party
