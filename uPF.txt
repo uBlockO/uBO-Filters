@@ -746,7 +746,7 @@ windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,tesla
 porncomics.biz,milftoon.info###popupOverlay
 @@||myanimelist.cdn-dena.com/static/assets/js/pc/*.js^$domain=myanimelist.net
 /fp.eng^$popup,important
-||$inline-script,domain=windowscentral.com|androidcentral.com|imore.com|crackberry.com|vrheads.com|teslacentral.com|connectedly.com
+! ||$inline-script,domain=windowscentral.com|androidcentral.com|imore.com|crackberry.com|vrheads.com|teslacentral.com|connectedly.com
 speedtest.net##.alert-container
 xhamster.com###supportAds
 ||xhamster.com^$popunder
