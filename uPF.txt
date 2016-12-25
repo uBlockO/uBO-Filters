@@ -735,8 +735,6 @@ cinemablend.com##.content_story_pages_nextstory.partial
 katcr.co##.myBlock:nth-of-type(1)
 facebook.com###u_jsonp_2_2f
 windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com###comments
-windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com#@#.side-ad-inner
-windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com#@#.gpt
 windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com###Leaderboard_Footer_BTF-wrap
 windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##.ad.narrow.container
 windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com###InArticle_BTF3-wrap
@@ -746,7 +744,6 @@ windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,tesla
 porncomics.biz,milftoon.info###popupOverlay
 @@||myanimelist.cdn-dena.com/static/assets/js/pc/*.js^$domain=myanimelist.net
 /fp.eng^$popup,important
-! ||$inline-script,domain=windowscentral.com|androidcentral.com|imore.com|crackberry.com|vrheads.com|teslacentral.com|connectedly.com
 speedtest.net##.alert-container
 xhamster.com###supportAds
 ||xhamster.com^$popunder
