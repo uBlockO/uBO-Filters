@@ -751,7 +751,6 @@ crackberry.com,windowscentral.com,androidcentral.com##script:inject(setTimeout-d
 windowscentral.com##.extra.col-right
 /pubmedia.js
 comicbook.com##.menu_wpr
-sexwebvideo.com##script:inject(abort-on-property-read.js, canRunAds)
 androgalaxy.in##script:inject(noeval.js)
 @@/googlead.js$domain=openload.co
 @@/popunder2.js$domain=openload.co
