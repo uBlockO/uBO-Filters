@@ -216,7 +216,7 @@ gadgets.ndtv.com###sharelink
 ||gadgets360.com^$third-party
 gadgets.ndtv.com##.fr.stickysocial
 gadgets.ndtv.com##a[href="http://hi.gadgets360.com/mobiles/xiaomi-redmi-3s-prime-review-hindi-reviews-1442180"]
-amx.4553t5pugtt1qslvsnmpc0tpfz5fo.xyz,fullstuff.co,nmac.to,quickfever.com,avaxhome.co,blockadblock.com,usapoliticstoday.com,animmex.*,zahipedia.net,jaguartrials.net,onhax.me,apkmos.com,sadeemapk.com,zahitvstation.com##script:inject(bab-defuser.js)
+milfzr.com,amx.4553t5pugtt1qslvsnmpc0tpfz5fo.xyz,fullstuff.co,nmac.to,quickfever.com,avaxhome.co,blockadblock.com,usapoliticstoday.com,animmex.*,zahipedia.net,jaguartrials.net,onhax.me,apkmos.com,sadeemapk.com,zahitvstation.com##script:inject(bab-defuser.js)
 ||stats.com^
 ||namesakeoscilloscopemarquis.*^$important
 cnet.com##.hide.popOut.videoContainer
@@ -751,10 +751,15 @@ crackberry.com,windowscentral.com,androidcentral.com##script:inject(setTimeout-d
 windowscentral.com##.extra.col-right
 /pubmedia.js
 comicbook.com##.menu_wpr
-androgalaxy.in##script:inject(noeval.js)
 @@/googlead.js$domain=openload.co
 @@/popunder2.js$domain=openload.co
 /uploads/*/*.js?ver=2.0.12
 /magnific-popup.js/
+milfzr.com###sidebar
+milfzr.com###actions
+milfzr.com###extras
+milfzr.com###respond
+milfzr.com###footbar
+milfzr.com##.su-row
 
 ||$third-party,domain=kisscartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.red|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|hollywoodreporter.com|flixanity.co|tomsguide.com|flixanity.watch|flixanity.me|flixanity.in|thepiratebay.org|comicbook.com|androidcentral.com|screenrant.com|pornhub.com|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|9anime.to|windowscentral.com|imore.com|crackberry.com|vrheads.com|teslacentral.com|connectedly.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com
