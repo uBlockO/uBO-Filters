@@ -200,7 +200,6 @@ screenrant.com##.video-block-main.video-block
 ||sc-f6eade8.js^$important
 ||nanufeed.com^$important
 ||maxcdn.com^$domain=imgpile.com
-m.facebook.com,facebook.com##.home_right_column
 hanime.tv##.z-spot.subsection.golden-saucer
 hanime.tv##.z-spot.golden-saucer
 ||javhd.com^$third-party
@@ -262,14 +261,6 @@ parentherald.com##.at_con
 parentherald.com###comment
 ||104.198.*.*^
 ||leadzupc.com^
-m.facebook.com,facebook.com##._4_dr._1f6t._3399
-m.facebook.com,facebook.com##.clearfix._a7s._3399
-m.facebook.com,facebook.com###addComment_1336965312982121
-m.facebook.com,facebook.com##.UFIList
-m.facebook.com,facebook.com##._23ig
-m.facebook.com,facebook.com###u_18_5
-m.facebook.com,facebook.com##._2kgg.fbTimelineUFI
-m.facebook.com,facebook.com##.uiCommentContainer.fbTimelineUFI
 mailinator.com##.visible-sm.visible-md.visible-lg.col-sm-2.col-md-2.col-lg-2
 addons.mozilla.org###promos
 cbr.com##.i-comment.icon.btn-comment-article
@@ -281,14 +272,10 @@ cbr.com##.comment
 cbr.com##.author-tag-block
 ||cbrimages.com^$third-party
 ||cbr.com/wp-content/themes/cbr/ajax-action.php?action=loadMorePost&ajax_post_id=*&hash=*$xmlhttprequest
-m.facebook.com,facebook.com##._ohf.rfloat._1bic
-m.facebook.com,facebook.com##._ipp
 ||gadgets.ndtv.com/Scripts/popup/gadgetsnotification.js$script
 @@||gadgets.ndtv.com/scripts/google_zedo__ruby.js$script
 ||bild.me^$third-party
 ||petametrics.com^$third-party
-m.facebook.com,facebook.com##._ohe.lfloat._1bic
-m.facebook.com,facebook.com###u_f_6
 kissanime.*##strong
 timesofindia.indiatimes.com##.sidebar
 timesofindia.indiatimes.com##strong
@@ -310,7 +297,6 @@ extratorrent.cc,etmirror.com,etproxy.com,extratorrentonline.com,extratorrentlive
 screenrant.com##.gallery-thumb
 cartoonhd.*,movieshd.watch,flixanity.*###credits
 cartoonhd.*,movieshd.watch,flixanity.*##a[href="#credits"]
-m.facebook.com,facebook.com###u_0_29
 instagram.com##._3v251._br9is
 @@||imgix.net^$domain=cbr.com|screenrant.com
 ||androidauthority.com/wp-admin/admin-ajax.php$xmlhttprequest
@@ -331,7 +317,6 @@ torrentfreak.com##.comments.pbx-alt.pbx
 /jquery-ui.js$script,domain=1337x.to
 /jquery.pagination.js$script,domain=1337x.to
 /jquery.mCustomScrollbar.js$script,domain=1337x.to
-m.facebook.com,facebook.com##._5asn
 ||2mdn.net^$important        
 ||aad73c550c.se^$third-party       
 ||acxiom-online.com^$third-party   
@@ -392,13 +377,9 @@ air.irctc.co.in###footerlogo
 ||swiftype.com^third-party
 ||swiftypecdn.com^$third-party
 dailymail.co.uk##iframe
-||jquery.com^$third-party
-m.facebook.com,facebook.com###rightCol
 ||sascdn.com^$third-party
 cnet.com##.videoPlayer
 microsoft.com##.social-blade.f-y-top.f-x-center > div:nth-of-type(2)
-m.facebook.com,facebook.com##.rightButtons.snowliftOverlayBar.snowliftOverlay.clearfix
-m.facebook.com,facebook.com##._53q._53d
 ||cbox.ws^$third-party
 ||omgtorrent.me/assets/*.js^$script
 animmex.*###M148617ScriptRootC71386
@@ -450,7 +431,6 @@ hentaiplay.net###text-12
 ||neotokyo.com^$third-party
 myanimelist.net##.banner-header-anime-straming
 myanimelist.net##.footer-link-icon-block
-m.facebook.com,facebook.com##.noBgColor.rhcFooter._5ciw
 ||wpcomwidgets.com^$third-party
 ||geekculture.com^$third-party
 ||cbr.com/wp-admin^$script,inline-script
@@ -486,32 +466,24 @@ windowsreport.com##a[href^="http://www.reimageplus.com/includes/router_land.php"
 @@||soundcloud.com^$third-party
 torrentsgroup.com##iframe[src="about:blank"]
 ||exoclick.com^$third-party,important
-m.facebook.com,facebook.com##._52jv._4-u8._1dil._2l9a._2pi1._4-u2
-m.facebook.com,facebook.com##._5pcr._4nef._5pcr.userContentWrapper
 ||thepiratebay.*^$third-party
 @@||quoracdn.net^$domain=quora.com
 @@||google.*/recaptcha/api2^
-m.facebook.com,facebook.com##._5pcr._4ruh
-m.facebook.com,facebook.com##._3lkn
 mcuexchange.com###sidebar
 mcuexchange.com##.post-footer
 mcuexchange.com##.posts-box-related-posts.posts-box-5.posts-box
-m.facebook.com,facebook.com##.rhcFooter._5ciw
 ||allowmyads.*^
 @@||cloudinary.com^$image,stylesheet
 @@||fonts.googleapis.com^$stylesheet
 ||viralsweep.com^
-m.facebook.com,facebook.com##.clearfix.UFIStickersEnabledInput.UFIMentionsInputWrap
 8muses.com##.a-image
 ||proludimpup.com^
 myanimelist.net##.clearfix.index-watch-description
 /logpopup
 duckduckgo.com##.js-tag-home.no-js__hide.tag-home--slide.tag-home
-@@||facebook.com/en-US/AudienceNetworkPrebid.js$script
 extratorrent.cc##.tztbl
 ||timesofindia.indiatimes.com^$inline-script
 @@||cdn-dena.com^$image,stylesheet,font,other,media
-@@||connect.facebook.com/en_US/AudienceNetworkPrebid.js$script
 heroichollywood.com##.crp_related
 couchtuner.site##a[href="/download.php"]
 @@||wp.com^$stylesheet,image
@@ -528,9 +500,6 @@ trailer-track.com##.comments-area-wrapper
 trailer-track.com###colophon
 trailer-track.com###actionbar
 comicbook.com##.tickets.embed
-m.facebook.com,facebook.com##.clearfix.UFIMentionsInputWrap
-m.facebook.com,facebook.com##.uiLayer._1oxj
-m.facebook.com,facebook.com###u_1i_5
 ||data.*.*^$popup
 ||mediafire.com/blank.html^$inline-script,subdocument
 mediafire.com#@#.dlInfo-Apps
@@ -542,7 +511,6 @@ mediafire.com##.lr-ad.ad
 ||mxpnl.com^$third-party,important
 mediafire.com##.left
 mediafire.com##.loaded.ad.lb-ad
-m.facebook.com,facebook.com###pagelet_prompts
 @@||thr.com^$domain=hollywoodreporter.com
 hollywoodreporter.com##.js-show-disqus-comments
 hollywoodreporter.com##.blog-post-syndication-section
@@ -588,9 +556,7 @@ cinemablend.com##.sticky.ads_slots_snippet.partial
 screenrant.com##.controler
 screenrant.com##.section-feature.side-featude-wrapper
 youtube.com##.ytp-ce-covering-overlay
-facebook.com##._5qqe
 wikia.com###WikiaRailWrapper
-facebook.com##.photoUfiContainer.rhc
 @@||platform.twitter.com/*/tweet.*.*^
 gsmarena.com###subHeader
 cbr.com##.injected-video-by-load
@@ -616,8 +582,6 @@ ndtv.com###showhide
 wikia.com###WikiaBar
 extratorrent.cc##.tztblsearch
 screenrant.com##.desktop-vertical.video-block-with-playlist
-facebook.com##.pinnedUfi.photoUfiContainer.rhc
-facebook.com###snowliftStageActions
 ||adsidme.com^$third-party
 ||m5zn.com^$third-party
 addons.mozilla.org###site-nonfx
@@ -647,7 +611,6 @@ imagefap.com###comments
 imagefap.com##.tnaBarBlueWrap
 ||pixel.wp.com^$important
 medium.com##.u-fixed
-facebook.com##._1z0-
 cinemablend.com##.social_counts.partial
 cinemablend.com##.plugins_corpfooter
 @@||akamaihd.net^$image,media,stylesheet,xmlhttprequest
@@ -686,7 +649,6 @@ apkmos.com##.td-header-top-menu-full
 readcomics.tv##.main-share
 quora.com##.footer_alphabet
 quora.com##.ContentPageFeed
-facebook.com##._1dw
 9cartoon.me##.anime_video_body_watch_items > .anime_video_body_watch_items > div:nth-of-type(1)
 ghacks.net###sidebar
 birthmoviesdeath.com##.Article-authorContainer.Article-aside
@@ -737,7 +699,6 @@ kisscartoon.me##div:nth-of-type(7) > div:nth-of-type(5)
 /advagg_js^$important
 cinemablend.com##.content_story_pages_nextstory.partial
 katcr.co##.myBlock:nth-of-type(1)
-facebook.com###u_jsonp_2_2f
 windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com###comments
 windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com###Leaderboard_Footer_BTF-wrap
 windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##.ad.narrow.container
