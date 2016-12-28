@@ -1,3 +1,9 @@
+[Adblock Plus 2.0]
+! Title: uBO-Personal-Filters
+! Author: uBlock-user
+! Expires: 1 day (update frequency)
+
+
 ||watchfree.to/stream.php
 watchfree.to##.get_vpn
 watchfree.to##.comment_box
