@@ -375,7 +375,7 @@ m.facebook.com,facebook.com##._5asn
 ||tracking.tomshardware.co.uk^$third-party
 ||wunderloop.net^$third-party   
 ||yceml.net^$third-party
-||facebook.com^$third-party,domain=~facebook.com
+||facebook.com^$third-party
 ||crashfootwork.com^$third-party
 air.irctc.co.in###bodyBottom
 air.irctc.co.in##.col2
