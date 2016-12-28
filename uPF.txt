@@ -493,7 +493,7 @@ mcuexchange.com##.posts-box-related-posts.posts-box-5.posts-box
 m.facebook.com,facebook.com##.rhcFooter._5ciw
 ||allowmyads.*^
 @@||cloudinary.com^$image,stylesheet
-||fonts.googleapis.com^
+@@||fonts.googleapis.com^$stylesheet
 ||viralsweep.com^
 m.facebook.com,facebook.com##.clearfix.UFIStickersEnabledInput.UFIMentionsInputWrap
 8muses.com##.a-image
