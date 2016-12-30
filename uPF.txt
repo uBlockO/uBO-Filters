@@ -696,7 +696,6 @@ kisscartoon.me##div:nth-of-type(5) > div:nth-oftype(3)
 kisscartoon.me##.bigBarContainer:nth-of-type(5)
 kisscartoon.me##.rightBox:nth-of-type(1)
 kisscartoon.me##div:nth-of-type(7) > div:nth-of-type(5)
-/advagg_js^
 cinemablend.com##.content_story_pages_nextstory.partial
 katcr.co##.myBlock:nth-of-type(1)
 windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com###comments
