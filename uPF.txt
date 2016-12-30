@@ -720,7 +720,7 @@ windowscentral.com##.extra.col-right
 comicbook.com##.menu_wpr
 @@/googlead.js$domain=openload.co
 @@/popunder2.js$domain=openload.co
-/uploads/*/*.js?ver=2.0.12
+/wp-content/uploads/*.js
 /magnific-popup.js/
 milfzr.com###sidebar
 milfzr.com###actions
