@@ -735,7 +735,7 @@ onhax.me##div[id^="top-promo-dload"]
 9anime.to##.ads.toggler.mbtn.item
 /*tracking
 /ab_appeal
-technobuffalo.com##script:inject(nowebrtc.js)
+crackberry.com,technobuffalo.com##script:inject(nowebrtc.js)
 google.*###prm-pt
 crackberry.com,windowscentral.com###Leaderboard_Header_ATF-wrap
 
