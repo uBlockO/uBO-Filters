@@ -737,7 +737,6 @@ onhax.me##div[id^="top-promo-dload"]
 9anime.to##.ads.toggler.mbtn.item
 /*tracking
 /ab_appeal
-crackberry.com,technobuffalo.com##script:inject(nowebrtc.js)
 google.*###prm-pt
 kissanime.*##script:inject(kissanime-defuser.js)
 .*/ads/$important,subdocument,domain=kissanime.ru|kissanime.to|kissanime.com
