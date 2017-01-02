@@ -402,7 +402,7 @@ kissmanga.com##a[href="#"]
 @@||oloadcdn.net^
 kissmanga.com###containerRoot > div:nth-of-type(4) > div:nth-of-type(17)
 @@||blogspot.*^$image,stylesheet,other,media
-@@||maxcdn.bootstrapcdn.com/font-awesome^
+@@||bootstrapcdn.com^$stylesheet,image
 ||googlecode.com^$third-party
 ||gigya.com^$third-party
 ||omtrdc.net^$third-party
