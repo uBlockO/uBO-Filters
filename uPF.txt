@@ -738,8 +738,6 @@ onhax.me##div[id^="top-promo-dload"]
 /*tracking
 /ab_appeal
 google.*###prm-pt
-kissanime.*##script:inject(kissanime-defuser.js)
-.*/ads/$important,subdocument,domain=kissanime.ru|kissanime.to|kissanime.com
 kissanime.*##.divCloseBut
 kisscartoon.*##.divCloseBut
 kisscartoon.*##.barContent > div > div:nth-of-type(12)
