@@ -402,7 +402,7 @@ kissmanga.com##a[href="#"]
 @@||oloadcdn.net^
 kissmanga.com###containerRoot > div:nth-of-type(4) > div:nth-of-type(17)
 @@||blogspot.*^$image,stylesheet,other,media
-@@||bootstrapcdn.com^$stylesheet,image
+@@||bootstrapcdn.com^$stylesheet,image,font
 ||googlecode.com^$third-party
 ||gigya.com^$third-party
 ||omtrdc.net^$third-party
@@ -474,7 +474,7 @@ mcuexchange.com##.post-footer
 mcuexchange.com##.posts-box-related-posts.posts-box-5.posts-box
 ||allowmyads.*^
 @@||cloudinary.com^$image,stylesheet
-@@||fonts.googleapis.com^$stylesheet
+@@||fonts.googleapis.com^$stylesheet,font
 ||viralsweep.com^
 8muses.com##.a-image
 ||proludimpup.com^
