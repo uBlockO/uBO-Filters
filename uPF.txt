@@ -625,7 +625,6 @@ mrskin.com##.sk-wallpaper-riseup.sk-wallpaper.sk-wallpaper-item
 /sk_special_offer_video
 /popup
 /ph-tracking.js^$important
-/ad*^$important,domain=pornhub.com|redtube.com|youporn.com|tube8.com|pornmd.com|thumbzilla.com|xtube.com|gaytube.com|youporngay.com|spreadshirt.com|natsfornetworks.com|pornhubpremium.com|porniq.com|peeperz.com|pornhubcasino.com
 /premium/*^$important
 /promo-banner.js^$important
 @@||dfcdn.net^$domain=pornovau.com
@@ -745,5 +744,7 @@ kisscartoon.*##.divCloseBut
 kisscartoon.*##.barContent > div > div:nth-of-type(12)
 kisscartoon.*##.barContent > div > div:nth-of-type(14)
 9anime.to##.widget-title
+wikia.com###WikiaFooter
+wikia.com###WikiaArticleBottomAd
 
 ||$third-party,domain=kisscartoon.se|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.red|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|hollywoodreporter.com|flixanity.co|tomsguide.com|flixanity.watch|flixanity.me|flixanity.in|thepiratebay.org|comicbook.com|androidcentral.com|screenrant.com|pornhub.com|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|9anime.to|windowscentral.com|imore.com|crackberry.com|vrheads.com|teslacentral.com|connectedly.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com
