@@ -704,6 +704,10 @@ windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,tesla
 windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com###InArticle_BTF3-wrap
 windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##.side-ad-inner
 windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com###Leaderboard_Header_ATF-wrap
+windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##.netshelter-ad-inner
+windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##.extra.col-right
+windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##.visor-breaker-ad.container
+crackberry.com,windowscentral.com,androidcentral.com##script:inject(setTimeout-defuser.js, checkBlocked, 100)
 ||8muses.com/min/main.js$script,important
 @@/lazysizes.min.js^$script,domain=8muses.com
 @@/fontawesome^$stylesheet,font
@@ -715,8 +719,6 @@ xhamster.com###supportAds
 ||xhamster.com^$popunder
 ||wct.link^$popup,popunder
 /*tracker=popunder^$popup,popunder
-crackberry.com,windowscentral.com,androidcentral.com##script:inject(setTimeout-defuser.js, checkBlocked, 100)
-windowscentral.com##.extra.col-right
 /pubmedia.js
 comicbook.com##.menu_wpr
 @@/googlead.js$domain=openload.co
