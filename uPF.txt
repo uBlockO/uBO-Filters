@@ -706,6 +706,7 @@ windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,tesla
 windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##.netshelter-ad-inner
 windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##.extra.col-right
 windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##.visor-breaker-ad.container
+windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##.container-breaker.hidden-gems-widget
 crackberry.com,windowscentral.com,androidcentral.com##script:inject(setTimeout-defuser.js, checkBlocked, 100)
 ||8muses.com/min/main.js$script,important
 @@/lazysizes.min.js^$script,domain=8muses.com
