@@ -308,7 +308,6 @@ kisshentai.net###rightside > .rightBox:nth-of-type(3)
 kisshentai.net###leftside > .bigBarContainer:nth-of-type(6)
 kisshentai.net###show_id
 hanime.tv##.header-nav-item:nth-of-type(5)
-||amazonaws.com^$third-party
 ||medianetworkinternational.com^$third-party
 torrentfreak.com##.comments.pbx-alt.pbx
 @@||d2zl2pzv2q9dot.cloudfront.net/ads/advertisement.js$script
@@ -736,7 +735,7 @@ tmz.com###sidebar
 onhax.me##div[id^="bottom-promo-abdload"]
 onhax.me##div[id^="top-promo-dload"]
 9anime.to##.ads.toggler.mbtn.item
-/*tracking
+/*tracking^$script
 /ab_appeal
 google.*###prm-pt
 kissanime.*##.divCloseBut
