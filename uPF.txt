@@ -24,7 +24,6 @@ screenrant.com##.desktop.comments
 ||adprotected.com^$important
 ||amazon-adsystem.com^$important
 ||doubleclick.net^$important
-||googlesyndication.com^$important
 ||livefyre.com^$important
 ||mynet.com^$important
 ||poponclick.com^$important
