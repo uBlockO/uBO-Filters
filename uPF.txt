@@ -585,6 +585,8 @@ screenrant.com##.desktop-vertical.video-block-with-playlist
 addons.mozilla.org###site-nonfx
 @@||phubcdn.com^$stylesheet,image,domain=pornhub.com
 /snowstorm.js$domain=flixanity.in|flixanity.co|flixanity.me|flixanity.watch|flixanity.is
+/*snow.js$script
+wikia.com##.wds-global-footer
 /js/tracking/
 onhax.*###text-5
 onhax.*###text-17
