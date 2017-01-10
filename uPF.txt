@@ -563,7 +563,7 @@ cbr.com##.injected-video-by-load
 androidauthority.com##.load-infinite.loading
 flixanity.*##.buttons.dmcaLink
 /popups/
-/ads-
+/ads-^$script
 /sk_blog_manager/core-*.js^$script
 mrskin.com##.sk-gallery-viewer-zone
 mrskin.com##.sk-gallery-viewer-az-slide
