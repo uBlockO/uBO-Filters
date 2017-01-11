@@ -722,8 +722,6 @@ xhamster.com###supportAds
 /*tracker=popunder^$popup,popunder
 /pubmedia.js
 comicbook.com##.menu_wpr
-@@/googlead.js$domain=openload.co
-@@/popunder2.js$domain=openload.co
 /wp-content/uploads/*.js
 /magnific-popup.js/
 milfzr.com###sidebar
