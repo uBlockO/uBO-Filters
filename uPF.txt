@@ -762,6 +762,8 @@ cnbc.com##script:inject(abort-on-property-write.js, cnbc.canShowAds)
 openload.co##script:inject(abort-on-property-read.js, adblock2)
 openload.co##script:inject(setTimeout-defuser)
 openload.co##script:inject(abort-on-property-read.js, adblock)
+openload.co##script:inject(abort-on-property-write.js, window.popAdsLoaded)
+openload.co##script:inject(abort-on-property-write.js, window.noPopunder)
 ||openload.co/*license
 
 
