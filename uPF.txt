@@ -763,6 +763,7 @@ openload.co##script:inject(abort-on-property-read.js, adblock2)
 openload.co##script:inject(setTimeout-defuser)
 ||openload.co/*license
 oload.tv##script:inject(openload.co.js)
+||adsjudo.com^$important
 
 ||$third-party,popup,domain=solidfiles.com
 
