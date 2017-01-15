@@ -764,6 +764,7 @@ openload.co##script:inject(setTimeout-defuser)
 oload.tv##script:inject(openload.co.js)
 ||adsjudo.com^$important
 collider.com##.amcfooter
+youtube.com###watch-sidebar-live-chat
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me
 
