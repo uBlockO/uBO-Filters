@@ -763,6 +763,7 @@ openload.co##script:inject(setTimeout-defuser)
 ||openload.co/*license
 oload.tv##script:inject(openload.co.js)
 ||adsjudo.com^$important
+collider.com##.amcfooter
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me
 
