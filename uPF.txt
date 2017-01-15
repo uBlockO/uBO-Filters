@@ -765,6 +765,8 @@ oload.tv##script:inject(openload.co.js)
 ||adsjudo.com^$important
 collider.com##.amcfooter
 youtube.com###watch-sidebar-live-chat
+windowscentral.com,androidcentral.com##.cta.container
+windowscentral.com,androidcentral.com##.shop
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me
 
