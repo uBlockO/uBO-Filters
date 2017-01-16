@@ -538,7 +538,6 @@ comicbook.com##.clearfix.channel-nav
 comicbook.com##.embed
 superherohype.com###js-sidebar
 openload.co##a[href="http://steepto.com/"]
-||abbp1.*^$important
 /whatsapp-button.js
 /adflow.js
 /entityrating.js
@@ -618,7 +617,6 @@ cinemablend.com##.plugins_corpfooter
 /infinite-articles
 @@||s3.amazonaws.com/html5player.gamezone.com/video-ad-unit.js$script
 outlook.live.com##a[href^="http://www.myfreecams.com/"]
-1337x.to###bbbabbac
 flixanity.*##.sources
 mrskin.com##a[href^="/account/purchase"]
 mrskin.com##.sk-wallpaper-riseup.sk-wallpaper.sk-wallpaper-item
@@ -627,8 +625,6 @@ mrskin.com##.sk-wallpaper-riseup.sk-wallpaper.sk-wallpaper-item
 /ph-tracking.js^$important
 /premium/*^$important
 /promo-banner.js^$important
-@@||dfcdn.net^$domain=pornovau.com
-@@||pornovau.com/player/player_ads.html$subdocument,first-party
 /cdn-cgi/pe/bag2
 ||openload.co^$popup,third-party
 9anime.to##.notice.alert-primary.alert
@@ -638,7 +634,7 @@ mrskin.com##.sk-wallpaper-riseup.sk-wallpaper.sk-wallpaper-item
 instagram.com##._e616g._csy1m
 diverxity.com##.subscribe_banner
 /wp-adblock-dedect*^$important
-/fuckadblock*^$important
+/fuckadblock.js
 apkmos.com##.adsbygoogle
 apkmos.com##.td_block_wrap
 comicbook.com##.aligncenter
