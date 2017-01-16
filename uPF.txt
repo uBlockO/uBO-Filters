@@ -768,6 +768,7 @@ youtube.com###watch-sidebar-live-chat
 windowscentral.com,androidcentral.com##.cta.container
 windowscentral.com,androidcentral.com##.shop
 ||fastly.net^$important
+/mod_a*blockdetector/
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me
 
