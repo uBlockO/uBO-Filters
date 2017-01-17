@@ -522,7 +522,6 @@ hollywoodreporter.com##.blog-post-syndication-section
 @@||openload.co/embed^
 @@||opensubtitles.org$xmlhttprequest,third-party
 ||servebom.com^$third-party,important
-@@||media.bestofmicro.com^$domain=tomsguide.com
 ||bambergerkennanchitinous.com^$third-party,important
 ||godaddy.com^$popup,popunder
 ||safebrowsing-cache.google.com^$domain=behind-the-scene
@@ -749,7 +748,7 @@ sciencechannel.com##.share-menu-container
 123movies.is###commentfb
 123movies.is##.container > p
 123music.to##.sb-follow
-@@||123cdn.ru^$domain=123movies.is|123movies.to|123movies.gs|123movies.msk.ru|123movies.moscow|123-movie.ru|123movies-proxy.ru|123movies.ru|123movies.vc|123movies.cz|123movies.pp.ru
+@@||123data.ru^$domain=123movies.is|123movies.to|123movies.gs|123movies.msk.ru|123movies.moscow|123-movie.ru|123movies-proxy.ru|123movies.ru|123movies.vc|123movies.cz|123movies.pp.ru
 rodale.tv,rodalewellness.com,rodalesorganiclife.com,bicycling.com,runnersworld.com,prevention.com,menshealth.com,womenshealthmag.com##script:inject(setTimeout-defuser.js, showForm, 100)
 /adblock-detector^$script,important
 ||hackintosh.zone/advjs/bin/jso.php^$script
@@ -765,6 +764,8 @@ windowscentral.com,androidcentral.com##.cta.container
 windowscentral.com,androidcentral.com##.shop
 ||fastly.net^$important
 /mod_a*blockdetector/
+@@||cloudflare.com^$image,stylesheet,font
+@@||gstatic.com^$image,stylesheet,font
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me
 
