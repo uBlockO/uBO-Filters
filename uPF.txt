@@ -766,6 +766,10 @@ windowscentral.com,androidcentral.com##.shop
 /mod_a*blockdetector/
 @@||cloudflare.com^$image,stylesheet,font
 @@||gstatic.com^$image,stylesheet,font
+youtube.com##.subscribecard-endscreen
+youtube.com##.ytp-ce-element
+||youtube.com/get_endscreen?
+youtube.com#ytd-promoted-video-renderer
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me
 
