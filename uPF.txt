@@ -773,6 +773,7 @@ youtube.com#ytd-promoted-video-renderer
 facebook.com##._4u6m
 facebook.com###u_0_1
 facebook.com##._5pcr._4nef._5pcr.userContentWrapper
+facebook.com###rightCol
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me
 
