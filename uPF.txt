@@ -764,8 +764,8 @@ windowscentral.com,androidcentral.com##.cta.container
 windowscentral.com,androidcentral.com##.shop
 ||fastly.net^$important
 /mod_a*blockdetector/
-@@||cloudflare.com^$image,stylesheet,font
-@@||gstatic.com^$image,stylesheet,font
+@@||cloudflare.com^$stylesheet
+@@||gstatic.com^$stylesheet
 youtube.com##.subscribecard-endscreen
 youtube.com##.ytp-ce-element
 ||youtube.com/get_endscreen?
