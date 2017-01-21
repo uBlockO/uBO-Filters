@@ -763,7 +763,7 @@ youtube.com###watch-sidebar-live-chat
 windowscentral.com,androidcentral.com##.cta.container
 windowscentral.com,androidcentral.com##.shop
 ||fastly.net^$important
-/mod_a*blockdetector/
+/mod_a*blockdetector^$script
 @@||cloudflare.com^$stylesheet
 @@||gstatic.com^$stylesheet
 youtube.com##.subscribecard-endscreen
