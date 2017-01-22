@@ -207,7 +207,7 @@ hanime.tv##.col-md-2.visible-lg.visible-md.golden-saucer-bar
 hanime.tv##.align-center.justify-center.flex-row.row:nth-of-type(3)
 ||htvanime.com^$third-party
 speedtest.net##.no-shadow.ad-vertical-tower.ad-vertical-container
-||$websocket,important
+||$websocket
 ||reimsrvcm.com^
 rollingstone.com##.right-rail
 rollingstone.com###card-container
@@ -778,7 +778,6 @@ facebook.com##._4-u8._24on._4-u2
 forbes.com##[id^="google_ads_iframe_"]
 facebook.com##.rhc
 /.*watch.series.*/
-.g00.
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me
 
