@@ -778,6 +778,7 @@ facebook.com##._4-u8._24on._4-u2
 forbes.com##[id^="google_ads_iframe_"]
 facebook.com##.rhc
 /.*watch*series.*/
+.g00.
 
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me
