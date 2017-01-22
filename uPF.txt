@@ -776,6 +776,7 @@ facebook.com##._5pcr._4nef._5pcr.userContentWrapper
 facebook.com###rightCol
 facebook.com##._4-u8._24on._4-u2
 forbes.com##[id^="google_ads_iframe_"]
+facebook.com##.rhc
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me
 
