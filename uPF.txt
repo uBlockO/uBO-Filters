@@ -625,7 +625,6 @@ mrskin.com##.sk-wallpaper-riseup.sk-wallpaper.sk-wallpaper-item
 /premium/*^$important
 /promo-banner.js^$important
 /cdn-cgi/pe/bag2
-||openload.co^$popup,third-party
 9anime.to##.notice.alert-primary.alert
 9anime.to##.home-socials
 @@||jwpcdn.com^$font
