@@ -761,7 +761,6 @@ youtube.com##.ytp-ce-element
 ||youtube.com/get_endscreen?
 youtube.com#ytd-promoted-video-renderer
 facebook.com##._4u6m
-facebook.com###u_0_1
 facebook.com##._5pcr._4nef._5pcr.userContentWrapper
 facebook.com###rightCol
 facebook.com##._4-u8._24on._4-u2
