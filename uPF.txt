@@ -458,7 +458,7 @@ windowsreport.com##a[href^="http://www.reimageplus.com/includes/router_land.php"
 @@||facebook.com/plugins/video.php^$important
 @@||soundcloud.com^$third-party
 torrentsgroup.com##iframe[src="about:blank"]
-||exoclick.com^$third-party
+||exoclick.com^$third-party,important
 ||thepiratebay.*^$third-party
 @@||quoracdn.net^$domain=quora.com
 @@||google.*/recaptcha/api2^
@@ -693,12 +693,11 @@ windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,tesla
 windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##.visor-breaker-ad.container
 windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##.container-breaker.hidden-gems-widget
 crackberry.com,windowscentral.com,androidcentral.com##script:inject(setTimeout-defuser.js, checkBlocked, 100)
-||8muses.com/min/main.js$script,important
 @@/lazysizes.min.js^$script,domain=8muses.com
 @@/fontawesome^$stylesheet,font
 porncomics.biz,milftoon.info###popupOverlay
 @@||myanimelist.cdn-dena.com/static/assets/js/pc/*.js^$domain=myanimelist.net
-/fp.eng^$popup,popunder,important
+/fp.*^$popup,popunder,important
 speedtest.net##.alert-container
 xhamster.com###supportAds
 ||xhamster.com^$popunder
@@ -753,7 +752,7 @@ youtube.com###watch-sidebar-live-chat
 windowscentral.com,androidcentral.com##.cta.container
 windowscentral.com,androidcentral.com##.shop
 ||fastly.net^$important
-/mod_a*blockdetector^$script
+/mod_atblockdetector^$script
 @@||cloudflare.com^$stylesheet
 @@||gstatic.com^$stylesheet
 youtube.com##.subscribecard-endscreen
