@@ -458,7 +458,7 @@ windowsreport.com##a[href^="http://www.reimageplus.com/includes/router_land.php"
 @@||facebook.com/plugins/video.php^$important
 @@||soundcloud.com^$third-party
 torrentsgroup.com##iframe[src="about:blank"]
-||exoclick.com^$third-party,important
+||exoclick.com^$third-party
 ||thepiratebay.*^$third-party
 @@||quoracdn.net^$domain=quora.com
 @@||google.*/recaptcha/api2^
