@@ -52,10 +52,8 @@ movieweb.com##.head-1.heading
 heroichollywood.com##.adbox-long
 heroichollywood.com##.adbox-sidebar
 heroichollywood.com##.sidebar
-||doubleclick.net^$important
 ||pleaseletmeadvertise.com^$important
 ||adblockdetect.xyz^$important
-||cdn2.computerworlduk.com/scripts/libs/jquery.js$script
 kissanime.*##.rightBox:nth-of-type(7)
 kissanime.*##.rightBox:nth-of-type(3)
 cinemablend.com##.StoryContent2
@@ -440,7 +438,7 @@ cnbc.com##.optin-message-invite-container
 ||bhaskar.com^$third-party
 ||izooto.com^$third-party
 ||m-bazaar.in^$third-party
-||playwire.com^$domain=heroichollywood.com,important
+||playwire.com^$important
 windowsreport.com##.single-content-section.text-center
 windowsreport.com###dp-social-2
 cbr.com##.video-block-ads.video-block
