@@ -768,7 +768,7 @@ facebook.com##.rhc
 myanimelist.net##.amazon.btn-affiliate
 xvideos.com,xnxx.com##script:inject(noeval.js)
 @@||$websocket,domain=speedtest.net
-@@||jsdelivr.net^$script,domain=8muses.com
+@@||jsdelivr.net^$domain=8muses.com
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me
 
