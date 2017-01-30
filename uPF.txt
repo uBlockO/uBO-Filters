@@ -678,9 +678,6 @@ dictionary.cambridge.org##.smartt
 dictionary.cambridge.org##.mod-pronounce.mod
 dictionary.cambridge.org###page-content > .clrd:nth-of-type(2)
 imdb.com##.aux-content-widget-2
-imdb.com##.mini-article:nth-of-type(4)
-imdb.com###main_bottom > .article:nth-of-type(1)
-imdb.com##.article:nth-of-type(3)
 imdb.com##.footer-grid-wrapper.container
 kisscartoon.*##.rightBox:nth-of-type(3)
 kisscartoon.*##.rightBox:nth-of-type(7)
