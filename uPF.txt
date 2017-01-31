@@ -630,7 +630,6 @@ diverxity.com##.subscribe_banner
 apkmos.com##.adsbygoogle
 apkmos.com##.td_block_wrap
 comicbook.com##.aligncenter
-imdb.com##.ab_widget
 apkmos.com##.td-header-top-menu-full
 /standard-wide-new-1button.swf^$important
 readcomics.tv##.main-share
@@ -671,8 +670,8 @@ dictionary.cambridge.org##.cdo-link.cdo-topic
 dictionary.cambridge.org##.smartt
 dictionary.cambridge.org##.mod-pronounce.mod
 dictionary.cambridge.org###page-content > .clrd:nth-of-type(2)
-imdb.com##.aux-content-widget-2
 imdb.com##.footer-grid-wrapper.container
+imdb.com###sidebar
 kisscartoon.*##.rightBox:nth-of-type(3)
 kisscartoon.*##.rightBox:nth-of-type(7)
 kisscartoon.*###disqus_thread
@@ -769,7 +768,6 @@ myanimelist.net##.amazon.btn-affiliate
 xvideos.com,xnxx.com##script:inject(noeval.js)
 @@||$websocket,domain=speedtest.net
 @@||jsdelivr.net^$domain=8muses.com
-
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me
 
 ||$third-party,domain=kisscartoon.se|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.red|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|hollywoodreporter.com|flixanity.co|tomsguide.com|flixanity.watch|flixanity.me|flixanity.in|thepiratebay.org|comicbook.com|androidcentral.com|screenrant.com|pornhub.com|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|9anime.to|windowscentral.com|imore.com|crackberry.com|vrheads.com|teslacentral.com|connectedly.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|123movies.is|123movies.to|123movies.gs|123movies.msk.ru|123movies.moscow|123-movie.ru|123movies-proxy.ru|123movies.ru|123movies.vc|123movies.cz|123movies.pp.ru
