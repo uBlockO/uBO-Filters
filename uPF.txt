@@ -270,7 +270,6 @@ cbr.com##.author-tag-block
 ||cbrimages.com^$third-party
 ||cbr.com/wp-content/themes/cbr/ajax-action.php?action=loadMorePost&ajax_post_id=*&hash=*$xmlhttprequest
 ||gadgets.ndtv.com/Scripts/popup/gadgetsnotification.js$script
-@@||gadgets.ndtv.com/scripts/google_zedo__ruby.js$script
 ||bild.me^$third-party
 ||petametrics.com^$third-party
 kissanime.*##strong
@@ -308,7 +307,6 @@ kisshentai.net###show_id
 hanime.tv##.header-nav-item:nth-of-type(5)
 ||medianetworkinternational.com^$third-party
 torrentfreak.com##.comments.pbx-alt.pbx
-@@||d2zl2pzv2q9dot.cloudfront.net/ads/advertisement.js$script
 /comment.js$script,domain=1337x.to
 /jquery-ui.js$script,domain=1337x.to
 /jquery.pagination.js$script,domain=1337x.to
@@ -499,7 +497,6 @@ mediafire.com#@#.dlInfo-Apps
 mediafire.com##.lb-ad.ad
 mediafire.com##.lr-ad.ad
 /Redirect.$popup,domain=mediafire.com
-@@||cdn.engine.4dsply.com/Scripts/infinity.js.aspx$script,domain=mediafire.com
 ||mxpnl.com^$third-party,important
 mediafire.com##.left
 mediafire.com##.loaded.ad.lb-ad
