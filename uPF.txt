@@ -757,6 +757,7 @@ youtube.com##.ytp-ce-element
 youtube.com#ytd-promoted-video-renderer
 facebook.com##._4u6m
 facebook.com##._5pcr._4nef._5pcr.userContentWrapper
+facebook.com##._5pcr._4nef._5pcr.fbUserContent
 facebook.com###rightCol
 facebook.com##._4-u8._24on._4-u2
 forbes.com##[id^="google_ads_iframe_"]
