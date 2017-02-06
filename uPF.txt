@@ -763,11 +763,13 @@ facebook.com##._4-u8._24on._4-u2
 forbes.com##[id^="google_ads_iframe_"]
 facebook.com##.rhc
 facebook.com##._s15
+facebook.com###snowliftStageActions
 myanimelist.net##.amazon.btn-affiliate
 xvideos.com,xnxx.com##script:inject(noeval.js)
 @@||$websocket,domain=speedtest.net
 @@||jsdelivr.net^$domain=8muses.com
 imdb.com##.aux-content-widget-2:nth-of-type(4)
+imdb.com###title-overview-widget > .article
 /annotations
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me
