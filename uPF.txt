@@ -732,7 +732,7 @@ sciencechannel.com##.share-menu-container
 123movies.is###commentfb
 123movies.is##.container > p
 123music.to##.sb-follow
-@@||123data.ru^$domain=123movies.is|123movies.to|123movies.gs|123movies.msk.ru|123movies.moscow|123-movie.ru|123movies-proxy.ru|123movies.ru|123movies.vc|123movies.cz|123movies.pp.ru
+@@||123*.ru^$domain=123movies.is|123movies.to|123movies.gs|123movies.msk.ru|123movies.moscow|123-movie.ru|123movies-proxy.ru|123movies.ru|123movies.vc|123movies.cz|123movies.pp.ru
 rodale.tv,rodalewellness.com,rodalesorganiclife.com,bicycling.com,runnersworld.com,prevention.com,menshealth.com,womenshealthmag.com##script:inject(setTimeout-defuser.js, showForm, 100)
 /adblock-detector^$script,important
 ||hackintosh.zone/advjs/bin/jso.php^$script
@@ -748,8 +748,8 @@ windowscentral.com,androidcentral.com##.cta.container
 windowscentral.com,androidcentral.com##.shop
 ||fastly.net^$important
 /mod_atblockdetector^$script
-@@||cloudflare.com^$stylesheet
-@@||gstatic.com^$stylesheet
+@@||cloudflare.com^$stylesheet,font,image
+@@||gstatic.com^$stylesheet,font,image
 youtube.com##.subscribecard-endscreen
 youtube.com##.ytp-ce-element
 ||youtube.com/get_endscreen?
