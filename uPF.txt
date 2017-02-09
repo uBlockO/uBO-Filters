@@ -773,6 +773,8 @@ imdb.com###title-overview-widget > .article
 /annotations
 |about:blank$popup,popunder
 |javascript:$popup,popunder
+8muses.com##.top-warning
+8muses.com##script:inject(abort-on-property-read.js, _$_ea6c)
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me
 
