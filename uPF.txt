@@ -689,7 +689,6 @@ windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,tesla
 windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##.visor-breaker-ad.container
 windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##.container-breaker.hidden-gems-widget
 crackberry.com,windowscentral.com,androidcentral.com##script:inject(setTimeout-defuser.js, checkBlocked, 100)
-@@/lazysizes.min.js^$script,domain=8muses.com
 @@/fontawesome^$stylesheet,font
 porncomics.biz,milftoon.info###popupOverlay
 @@||myanimelist.cdn-dena.com/static/assets/js/pc/*.js^$domain=myanimelist.net
@@ -775,6 +774,7 @@ imdb.com###title-overview-widget > .article
 |javascript:$popup,popunder
 8muses.com##.top-warning
 8muses.com##script:inject(abort-on-property-read.js, _$_ea6c)
+@@||ampproject.org^$image,domain=8muses.com
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me
 
