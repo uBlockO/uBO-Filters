@@ -776,6 +776,7 @@ imdb.com###title-overview-widget > .article
 @@||ampproject.org^$image,domain=8muses.com
 9cartoon.me##.avm
 9cartoon.me##.banner_center
+9cartoon.me##.more_anime
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me
 
