@@ -770,7 +770,7 @@ xvideos.com,xnxx.com##script:inject(noeval.js)
 imdb.com##.aux-content-widget-2:nth-of-type(4)
 imdb.com###title-overview-widget > .article
 /annotations
-|about:blank$popup,popunder
+|about:blank$popup,popunder,third-party
 |javascript:$popup,popunder
 8muses.com##.top-warning
 8muses.com##script:inject(abort-on-property-read.js, _$_ea6c)
