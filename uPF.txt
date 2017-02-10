@@ -777,6 +777,7 @@ imdb.com###title-overview-widget > .article
 9cartoon.me##.avm
 9cartoon.me##.banner_center
 9cartoon.me##.more_anime
+||github.com/_private/browser/errors
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me|mediafire.com|hanime.tv
 
