@@ -749,7 +749,7 @@ windowscentral.com,androidcentral.com##.shop
 ||fastly.net^$important
 /mod_atblockdetector^$script
 @@||cloudflare.com^$stylesheet,font,image
-@@||gstatic.com^$stylesheet,font,image
+@@||gstatic.com^$stylesheet,font
 youtube.com##.subscribecard-endscreen
 youtube.com##.ytp-ce-element
 ||youtube.com/get_endscreen?
