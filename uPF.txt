@@ -780,6 +780,7 @@ imdb.com###title-overview-widget > .article
 9cartoon.me##.more_anime
 ||github.com/_private/browser/errors
 ||concernrain.com^
+thewindowsclub.com##.ad-widget
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me|mediafire.com|hanime.tv
 
