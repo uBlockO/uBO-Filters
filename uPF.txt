@@ -763,8 +763,9 @@ forbes.com##[id^="google_ads_iframe_"]
 facebook.com##.rhc
 facebook.com##._s15
 facebook.com###snowliftStageActions
+facebook.com##._1z0-
 myanimelist.net##.amazon.btn-affiliate
-xvideos.com,xnxx.com##script:inject(noeval.js)
+zippyshare.com,xvideos.com,xnxx.com##script:inject(noeval.js)
 @@||$websocket,domain=speedtest.net
 @@||jsdelivr.net^$domain=8muses.com
 imdb.com##.aux-content-widget-2:nth-of-type(4)
