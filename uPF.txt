@@ -764,6 +764,8 @@ facebook.com##.rhc
 facebook.com##._s15
 facebook.com###snowliftStageActions
 facebook.com##._1z0-
+facebook.com###u_ps_0_0_1
+facebook.com###u_ps_jsonp_4_0_1
 myanimelist.net##.amazon.btn-affiliate
 zippyshare.com,xvideos.com,xnxx.com##script:inject(noeval.js)
 @@||$websocket,domain=speedtest.net
