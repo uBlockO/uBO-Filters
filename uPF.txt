@@ -783,6 +783,7 @@ imdb.com###title-overview-widget > .article
 9anime.*##.alert.mt20
 ||github.com/_private/browser/errors
 thewindowsclub.com##.ad-widget
+@@||netdna-cdn.com^$image,stylesheet
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me|mediafire.com|hanime.tv
 
