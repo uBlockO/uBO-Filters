@@ -784,7 +784,14 @@ imdb.com###title-overview-widget > .article
 ||github.com/_private/browser/errors
 thewindowsclub.com##.ad-widget
 @@||netdna-cdn.com^$image,stylesheet
-fmovies.se##script:inject(abort-on-property-read.js, _0x34a8)
+fmovies.*##a[href="http://9anime.to/"]
+fmovies.*##.home-socials
+fmovies.*##.alert
+fmovies.*##.remove-ad
+fmovies.*##.widget:nth-of-type(5)
+fmovies.*###tags
+fmovies.*##.hidden-sm.widget
+fmovies.*##script:inject(abort-on-property-read.js, _0x34a8)
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me|mediafire.com|hanime.tv
 
