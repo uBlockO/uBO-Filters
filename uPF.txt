@@ -784,6 +784,7 @@ imdb.com###title-overview-widget > .article
 ||github.com/_private/browser/errors
 thewindowsclub.com##.ad-widget
 @@||netdna-cdn.com^$image,stylesheet
+fmovies.se##script:inject(abort-on-property-read.js, _0x34a8)
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me|mediafire.com|hanime.tv
 
