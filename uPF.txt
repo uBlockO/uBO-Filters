@@ -757,15 +757,13 @@ youtube.com#ytd-promoted-video-renderer
 facebook.com##._4u6m
 facebook.com##._5pcr._4nef._5pcr.userContentWrapper
 facebook.com##._5pcr._4nef._5pcr.fbUserContent
-facebook.com###rightCol
 facebook.com##._4-u8._24on._4-u2
 forbes.com##[id^="google_ads_iframe_"]
 facebook.com##.rhc
 facebook.com##._s15
 facebook.com###snowliftStageActions
 facebook.com##._1z0-
-facebook.com###u_ps_0_0_1
-facebook.com###u_ps_jsonp_4_0_1
+facebook.com##.home_right_column
 myanimelist.net##.amazon.btn-affiliate
 zippyshare.com,xvideos.com,xnxx.com##script:inject(noeval.js)
 @@||$websocket,domain=speedtest.net
