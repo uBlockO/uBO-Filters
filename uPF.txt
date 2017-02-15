@@ -417,7 +417,6 @@ cbr.com##.embed-related-block
 /js/script.js$script,domain=1337x.to
 google.*###contain-402
 ||addthis.com^$important
-||eztv.*^$inline-script
 hentaiplay.net###text-12
 ||neotokyo.com^$third-party
 myanimelist.net##.banner-header-anime-straming
@@ -790,6 +789,7 @@ fmovies.*##.widget:nth-of-type(5)
 fmovies.*###tags
 fmovies.*##.hidden-sm.widget
 fmovies.*##script:inject(abort-on-property-read.js, _0x34a8)
+eztv.*##script:inject(abort-on-property-write.js, window.admvpu)
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me|mediafire.com|hanime.tv
 
