@@ -285,7 +285,6 @@ timesofindia.indiatimes.com##.partners-wrapper
 timesofindia.indiatimes.com###LargeWrapper
 ||aolcdn.com^$third-party
 ||goal.com^$third-party
-||techradar.com^$important
 ||timesofindia.indiatimes.com^$xmlhttprequest,important
 extratorrent.cc,etmirror.com,etproxy.com,extratorrentonline.com,extratorrentlive.com##table[width="1070"]
 extratorrent.cc,etmirror.com,etproxy.com,extratorrentonline.com,extratorrentlive.com##table[width="900"]
