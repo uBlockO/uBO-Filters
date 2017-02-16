@@ -789,6 +789,7 @@ fmovies.*###tags
 fmovies.*##.hidden-sm.widget
 fmovies.*##script:inject(abort-on-property-read.js, _0x34a8)
 eztv.*##script:inject(abort-on-property-write.js, window.admvpu)
+/scriptv2.js$domain=1337x.to
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me|mediafire.com|hanime.tv
 
