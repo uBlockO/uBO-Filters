@@ -769,6 +769,7 @@ zippyshare.com,xvideos.com,xnxx.com##script:inject(noeval.js)
 @@||jsdelivr.net^$domain=8muses.com
 imdb.com##.aux-content-widget-2:nth-of-type(4)
 imdb.com###title-overview-widget > .article
+imdb.com##.ab_ninja
 /annotations
 |javascript:$popup,popunder
 8muses.com##.top-warning
@@ -792,6 +793,7 @@ fmovies.*##script:inject(abort-on-property-read.js, N8G5)
 eztv.*,zippyshare.com##script:inject(abort-on-property-write.js, window.admvpu)
 /scriptv2.js$domain=1337x.to
 1337x.to##.box-info-detail > div.torrent-detail+div[class]:not([class="manage-box"]):not([class^="torrent-"])
+
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me|mediafire.com|hanime.tv
 
