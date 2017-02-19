@@ -738,6 +738,7 @@ cnbc.com##script:inject(abort-on-property-write.js, cnbc.canShowAds)
 openload.co##script:inject(abort-on-property-read.js, adblock2)
 openload.co##script:inject(setTimeout-defuser)
 ||openload.co/*license
+||openload.co/script*
 oload.tv##script:inject(openload.co.js)
 ||adsjudo.com^$important
 collider.com##.amcfooter
@@ -793,7 +794,6 @@ fmovies.*##script:inject(abort-on-property-read.js, N8G5)
 eztv.*,zippyshare.com##script:inject(abort-on-property-write.js, window.admvpu)
 /scriptv2.js$domain=1337x.to
 1337x.to##.box-info-detail > div.torrent-detail+div[class]:not([class="manage-box"]):not([class^="torrent-"])
-
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me|mediafire.com|hanime.tv
 
