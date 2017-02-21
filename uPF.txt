@@ -434,7 +434,6 @@ cnbc.com##.optin-message-invite-container
 ||bhaskar.com^$third-party
 ||izooto.com^$third-party
 ||m-bazaar.in^$third-party
-||playwire.com^$important
 windowsreport.com##.single-content-section.text-center
 windowsreport.com###dp-social-2
 cbr.com##.video-block-ads.video-block
