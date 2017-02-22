@@ -794,6 +794,7 @@ eztv.*,zippyshare.com##script:inject(abort-on-property-write.js, window.admvpu)
 /scriptv2.js$domain=1337x.to
 1337x.to##.box-info-detail > div.torrent-detail+div[class]:not([class="manage-box"]):not([class^="torrent-"])
 ||deadline.com^$inline-script
+forbes.com##script:inject(abort-on-property-read.js, isIe)
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me|mediafire.com|hanime.tv
 
