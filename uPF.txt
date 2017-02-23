@@ -794,6 +794,7 @@ forbes.com##script:inject(abort-on-property-read.js, isIe)
 8muses.com##script:inject(abort-on-property-read.js, _$_eb9c)
 onwatchseries.to##.ad_300_300
 onwatchseries.to##.fullwrap > div > div:nth-of-type(4)
+||contentabc.com^$important
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me|mediafire.com
 
