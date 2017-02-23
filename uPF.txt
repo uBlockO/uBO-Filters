@@ -770,7 +770,6 @@ imdb.com##.ab_ninja
 /annotations
 |javascript:$popup,popunder
 8muses.com##.top-warning
-8muses.com##script:inject(abort-on-property-read.js, _$_ea6c)
 @@||ampproject.org^$image,domain=8muses.com
 9cartoon.me##.avm
 9cartoon.me##.banner_center
