@@ -461,7 +461,6 @@ mcuexchange.com##.posts-box-related-posts.posts-box-5.posts-box
 @@||cloudinary.com^$image,stylesheet
 @@||fonts.googleapis.com^$stylesheet,font
 ||viralsweep.com^
-8muses.com##.a-image
 ||proludimpup.com^
 myanimelist.net##.clearfix.index-watch-description
 /logpopup
@@ -769,7 +768,6 @@ imdb.com###title-overview-widget > .article
 imdb.com##.ab_ninja
 /annotations
 |javascript:$popup,popunder
-8muses.com##.top-warning
 @@||ampproject.org^$image,domain=8muses.com
 9cartoon.me##.avm
 9cartoon.me##.banner_center
@@ -791,7 +789,8 @@ gorillavid.in,eztv.*,zippyshare.com##script:inject(abort-on-property-write.js, w
 1337x.to##.box-info-detail > div.torrent-detail+div[class]:not([class="manage-box"]):not([class^="torrent-"])
 ||deadline.com^$inline-script
 forbes.com##script:inject(abort-on-property-read.js, isIe)
-8muses.com##script:inject(abort-on-property-read.js, _$_eb9c)
+||8muses.com^$inline-script
+@@||8muses.com/comix/picture^$inline-script
 onwatchseries.to##.ad_300_300
 onwatchseries.to##.fullwrap > div > div:nth-of-type(4)
 ||contentabc.com^$important
