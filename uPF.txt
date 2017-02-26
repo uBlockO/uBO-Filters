@@ -796,6 +796,9 @@ onwatchseries.to##.ad_300_300
 onwatchseries.to##.fullwrap > div > div:nth-of-type(4)
 ||contentabc.com^$important
 .*/ads/
+adf.ly,ay.gy,j.gs,q.gs###fade
+adf.ly,ay.gy,j.gs,q.gs###_bd
+||static.adf.ly^$script,important
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me|mediafire.com
 
