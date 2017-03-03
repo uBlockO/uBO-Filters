@@ -784,7 +784,7 @@ fmovies.*##.remove-ad
 fmovies.*##.widget:nth-of-type(5)
 fmovies.*###tags
 fmovies.*##.hidden-sm.widget
-fmovies.*##script:inject(abort-on-property-read.js, N8G5)
+fmovies.*,9anime.*##script:inject(abort-on-property-read.js, N8G5)
 fmovies.*##.hd-buttons.row
 torrentz2.eu,gorillavid.in,eztv.*,zippyshare.com##script:inject(abort-on-property-write.js, window.admvpu)
 /scriptv2.js$domain=1337x.to
