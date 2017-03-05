@@ -809,6 +809,7 @@ hentaihaven.org##script:inject(abort-on-property-read.js, desktop_variants)
 hentaihaven.org##.entry-meta
 @@/chrome/newtab-serviceworker.js^$domain=behind-the-scene
 ||allmusic.com^$inline-script
+sidereel.com##script:inject(abort-on-property-read.js, setTimeout)
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me|mediafire.com
 
