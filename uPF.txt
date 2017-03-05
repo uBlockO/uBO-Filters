@@ -508,7 +508,7 @@ hollywoodreporter.com##.blog-post-syndication-section
 ||servebom.com^$third-party,important
 ||bambergerkennanchitinous.com^$third-party,important
 ||godaddy.com^$popup,popunder
-||safebrowsing-cache.google.com^$domain=behind-the-scene
+
 screenrant.com##.read-next
 openload.co##.center
 wegotthiscovered.com##.footer.entry-footer.e-footer
@@ -718,7 +718,6 @@ kisscartoon.*##.barContent > div > div:nth-of-type(14)
 wikia.com###WikiaFooter
 wikia.com###WikiaArticleBottomAd
 quora.com##.PromptsList
-||datasaver.googleapis.com^$domain=behind-the-scene
 kissanime.*,kisscartoon.*##.videoAdClose
 sciencechannel.com##.share-menu-container
 ||googlesyndication.com^$important
@@ -807,9 +806,7 @@ flixanity.*##.button
 pornhub.*##script:inject(abort-on-property-write.js, UAParser)
 hentaihaven.org##script:inject(abort-on-property-read.js, desktop_variants)
 hentaihaven.org##.entry-meta
-@@/chrome/newtab-serviceworker.js^$domain=behind-the-scene
 ||allmusic.com^$inline-script
-sidereel.com##script:inject(abort-on-property-read.js, setTimeout)
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me|mediafire.com
 
