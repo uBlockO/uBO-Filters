@@ -807,7 +807,6 @@ pornhub.*##script:inject(abort-on-property-write.js, UAParser)
 hentaihaven.org##script:inject(abort-on-property-read.js, desktop_variants)
 hentaihaven.org##.entry-meta
 ||allmusic.com^$inline-script
-||comicbook.com^$inline-script
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me|mediafire.com
 
