@@ -639,7 +639,7 @@ forbes.com##.ng-scope.items
 forbes.com##.default-expanded.article-trending-panel.article-sidebar-panel
 forbes.com##.\{\{vertical_class\}\}.\{\{sidebar_state\}\}.slash-background.article-sidebar.article-top-navigation
 forbes.com###fbs-ad-rail-article-\{\{article\.index\}\}
-||$script,domain=screenrant.com|comicbook.com
+||$script,domain=screenrant.com
 @@||cbr.com/wp-content/plugins/wp-minify/min^$script,domain=cbr.com
 /iFramedAdTemplate/
 hentaiplay.net###video_overlays
@@ -808,6 +808,7 @@ hentaihaven.org##script:inject(abort-on-property-read.js, desktop_variants)
 hentaihaven.org##.entry-meta
 ||allmusic.com^$inline-script
 ||comicbook.com^$inline-script
+@@||comicbook.com^$elemhide
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me|mediafire.com
 
