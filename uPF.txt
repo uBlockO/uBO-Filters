@@ -808,7 +808,6 @@ hentaihaven.org##script:inject(abort-on-property-read.js, desktop_variants)
 hentaihaven.org##.entry-meta
 ||allmusic.com^$inline-script
 ||comicbook.com^$inline-script
-@@||comicbook.com^$elemhide
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me|mediafire.com
 
