@@ -807,6 +807,9 @@ pornhub.*##script:inject(abort-on-property-write.js, UAParser)
 hentaihaven.org##script:inject(abort-on-property-read.js, desktop_variants)
 hentaihaven.org##.entry-meta
 ||allmusic.com^$inline-script
+4553t5pugtt1qslvsnmpc0tpfz5fo.xyz##script:inject(abort-on-property-read.js, _gunggo)
+4553t5pugtt1qslvsnmpc0tpfz5fo.xyz###babasbmsgx
+animmex.*###M148617ScriptRootC75329
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me|mediafire.com
 
