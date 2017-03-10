@@ -499,7 +499,7 @@ hollywoodreporter.com##.blog-post-syndication-section
 ||blbrd.co^$third-party
 ||billboard.com^$third-party
 ||myanimelist.net/static/logging.html$xmlhttprequest
-@@||cdnjs.cloudflare.com/ajax/libs^$script,domain=flixanity.watch|flixanity.co|flixanity.is|flixanity.me|flixanity.in
+@@||cdnjs.cloudflare.com/ajax/libs^$script,domain=flixanity.watch|flixanity.co|flixanity.is|flixanity.me|flixanity.in|flixanity.online
 @@||ajax.googleapis.com/ajax/libs^$script
 @@||vjs.zencdn.net/5.6.0^$script,stylesheet
 @@||googleusercontent.com^
@@ -566,7 +566,7 @@ screenrant.com##.desktop-vertical.video-block-with-playlist
 ||m5zn.com^$third-party
 addons.mozilla.org###site-nonfx
 @@||phubcdn.com^$stylesheet,image,domain=pornhub.com
-/snowstorm.js$domain=flixanity.in|flixanity.co|flixanity.me|flixanity.watch|flixanity.is
+/snowstorm.js$domain=flixanity.in|flixanity.co|flixanity.me|flixanity.watch|flixanity.is|flixanity.online
 /*snow.js$script
 wikia.com##.wds-global-footer
 /js/tracking/
@@ -813,4 +813,4 @@ animmex.*###M148617ScriptRootC75329
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me|mediafire.com
 
-||$third-party,domain=kisscartoon.se|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.red|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|hollywoodreporter.com|flixanity.co|tomsguide.com|flixanity.watch|flixanity.me|flixanity.in|thepiratebay.org|comicbook.com|androidcentral.com|screenrant.com|pornhub.com|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|9anime.to|9anime.tv|windowscentral.com|imore.com|crackberry.com|vrheads.com|teslacentral.com|connectedly.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|123movies.is|123movies.to|123movies.gs|123movies.msk.ru|123movies.moscow|123-movie.ru|123movies-proxy.ru|123movies.ru|123movies.vc|123movies.cz|123movies.pp.ru|thewindowsclub.com
+||$third-party,domain=kisscartoon.se|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.red|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|hollywoodreporter.com|flixanity.co|flixanity.online|tomsguide.com|flixanity.watch|flixanity.me|flixanity.in|thepiratebay.org|comicbook.com|androidcentral.com|screenrant.com|pornhub.com|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|9anime.to|9anime.tv|windowscentral.com|imore.com|crackberry.com|vrheads.com|teslacentral.com|connectedly.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|123movies.is|123movies.to|123movies.gs|123movies.msk.ru|123movies.moscow|123-movie.ru|123movies-proxy.ru|123movies.ru|123movies.vc|123movies.cz|123movies.pp.ru|thewindowsclub.com
