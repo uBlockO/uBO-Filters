@@ -729,8 +729,8 @@ rodale.tv,rodalewellness.com,rodalesorganiclife.com,bicycling.com,runnersworld.c
 /adblock-detector^$script,important
 ||hackintosh.zone/advjs/bin/jso.php^$script
 cnbc.com##script:inject(abort-on-property-write.js, cnbc.canShowAds)
-openload.co##script:inject(abort-on-property-read.js, adblock2)
-openload.co##script:inject(setTimeout-defuser)
+openload.co,oload.tv##script:inject(abort-on-property-read.js, adblock2)
+openload.co,oload.tv##script:inject(setTimeout-defuser)
 ||openload.co/*license
 ||openload.co/*script
 oload.tv##script:inject(openload.co.js)
