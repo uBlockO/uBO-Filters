@@ -796,9 +796,6 @@ onwatchseries.to##.ad_300_300
 onwatchseries.to##.fullwrap > div > div:nth-of-type(4)
 ||contentabc.com^$important
 .*/ads/
-adf.ly,ay.gy,j.gs,q.gs###fade
-adf.ly,ay.gy,j.gs,q.gs###_bd
-||static.adf.ly^$script,important
 torrentz2.eu##a[href="https://s3-us-west-2.amazonaws.com/www.movie4all.co/torrentz2/Download.html"]
 torrentz2.eu###M207402Composite105225
 torrentz2.eu##.download > dl:nth-of-type(1) > dd
@@ -810,6 +807,7 @@ hentaihaven.org##.entry-meta
 4553t5pugtt1qslvsnmpc0tpfz5fo.xyz##script:inject(abort-on-property-read.js, _gunggo)
 4553t5pugtt1qslvsnmpc0tpfz5fo.xyz###babasbmsgx
 animmex.*###M148617ScriptRootC75329
+speedtest.net##script:inject(abort-on-property-write.js, _sp_)
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me|mediafire.com
 
