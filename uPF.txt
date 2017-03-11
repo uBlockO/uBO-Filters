@@ -807,7 +807,7 @@ hentaihaven.org##.entry-meta
 4553t5pugtt1qslvsnmpc0tpfz5fo.xyz##script:inject(abort-on-property-read.js, _gunggo)
 4553t5pugtt1qslvsnmpc0tpfz5fo.xyz###babasbmsgx
 animmex.*###M148617ScriptRootC75329
-speedtest.net##script:inject(abort-on-property-write.js, _sp_)
+chip.*,speedtest.net##script:inject(abort-on-property-write.js, _sp_)
 ||contributor.google.com/scripts/
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me|mediafire.com
