@@ -810,6 +810,7 @@ animmex.*###M148617ScriptRootC75329
 chip.*,speedtest.net##script:inject(abort-on-property-write.js, _sp_)
 ||contributor.google.com/scripts/
 ||damoh.*^$media,other
+29443kmq.video###a
 
 ||$third-party,popup,popunder,domain=solidfiles.com|thevideo.me|mediafire.com
 
