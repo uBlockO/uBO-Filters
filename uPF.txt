@@ -812,6 +812,7 @@ chip.*,speedtest.net##script:inject(abort-on-property-write.js, _sp_)
 ||damoh.*^$media,other
 29443kmq.video###a
 /wigetmedia.js
+androidcentral.com,windowscentral.com##.mn_mbn_share
 
 ||$third-party,popup,popunder,domain=solidfiles.com|mediafire.com
 
