@@ -813,7 +813,7 @@ chip.*,speedtest.net##script:inject(abort-on-property-write.js, _sp_)
 29443kmq.video###a
 /wigetmedia.js
 androidcentral.com,windowscentral.com##.mn_mbn_share
-sandiegouniontribune.com,baltimoresun.com,boston.com,capitalgazette.com,carrollcountytimes.com,celebuzz.com,celebslam.com,chicagotribune.com,computershopper.com,courant.com,dailypress.com,deathandtaxesmag.com,extremetech.com,gamerevolution.com,geek.com,gofugyourself.com,hearthhead.com,infinitiev.com,lolking.net,mcall.com,mmo-champion.com,nasdaq.com,orlandosentinel.com,pcmag.com,ranker.com,saveur.com,sherdog.com,spin.com,sporcle.com,stereogum.com,sun-sentinel.com,thefrisky.com,thesuperficial.com,timeanddate.com,tmn.today,twincities.com,vancouversun.com,vibe.com,weather.com,wowhead.com##script:inject(abort-on-property-read.js, navigator)
+sandiegouniontribune.com,baltimoresun.com,boston.com,capitalgazette.com,carrollcountytimes.com,celebuzz.com,celebslam.com,chicagotribune.com,computershopper.com,courant.com,dailypress.com,deathandtaxesmag.com,extremetech.com,gamerevolution.com,geek.com,gofugyourself.com,hearthhead.com,infinitiev.com,lolking.net,mcall.com,mmo-champion.com,nasdaq.com,orlandosentinel.com,pcmag.com,ranker.com,saveur.com,sherdog.com,spin.com,sporcle.com,stereogum.com,sun-sentinel.com,thefrisky.com,thesuperficial.com,timeanddate.com,tmn.today,twincities.com,vancouversun.com,vibe.com,weather.com,wowhead.com##script:inject(abort-on-property-write.js, navigator)
 
 
 ||$third-party,popup,popunder,domain=solidfiles.com|mediafire.com
