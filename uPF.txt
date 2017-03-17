@@ -774,6 +774,7 @@ imdb.com##.ab_ninja
 9cartoon.me##.more_anime
 9anime.*##.alert.mt20
 9anime.*##.alert
+9anime.*##.popover
 ||github.com/_private/browser/errors
 thewindowsclub.com##.ad-widget
 @@||netdna-cdn.com^$image,stylesheet
