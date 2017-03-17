@@ -725,7 +725,7 @@ sciencechannel.com##.share-menu-container
 123movies.is##.container > p
 123music.to##.sb-follow
 @@||123*.ru^$domain=123movies.is|123movies.to|123movies.gs|123movies.msk.ru|123movies.moscow|123-movie.ru|123movies-proxy.ru|123movies.ru|123movies.vc|123movies.cz|123movies.pp.ru
-rodale.tv,rodalewellness.com,rodalesorganiclife.com,bicycling.com,runnersworld.com,prevention.com,menshealth.com,womenshealthmag.com##script:inject(setTimeout-defuser.js, showForm, 100)
+rodale.tv,rodalewellness.com,rodalesorganiclife.com,bicycling.com,runnersworld.com,prevention.com,menshealth.com,womenshealthmag.com##script:inject(setTimeout-defuser.js, showForm)
 /adblock-detector^$script,important
 ||hackintosh.zone/advjs/bin/jso.php^$script
 cnbc.com##script:inject(abort-on-property-write.js, cnbc.canShowAds)
