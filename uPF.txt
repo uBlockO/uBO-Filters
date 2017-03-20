@@ -283,7 +283,6 @@ timesofindia.indiatimes.com##.relatedarticle
 timesofindia.indiatimes.com##.partners-wrapper
 ||timesofindia.indiatimes.com/ads_homepage^$script
 timesofindia.indiatimes.com###LargeWrapper
-||aolcdn.com^$third-party
 ||goal.com^$third-party
 ||timesofindia.indiatimes.com^$xmlhttprequest,important
 extratorrent.cc,etmirror.com,etproxy.com,extratorrentonline.com,extratorrentlive.com##table[width="1070"]
