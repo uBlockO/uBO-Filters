@@ -500,14 +500,13 @@ hollywoodreporter.com##.blog-post-syndication-section
 ||myanimelist.net/static/logging.html$xmlhttprequest
 @@||cdnjs.cloudflare.com/ajax/libs^$script,domain=flixanity.watch|flixanity.co|flixanity.is|flixanity.me|flixanity.in|flixanity.online
 @@||ajax.googleapis.com/ajax/libs^$script
-@@||vjs.zencdn.net/5.6.0^$script,stylesheet
+@@||zencdn.net^$script,stylesheet,domain=flixanity.watch|flixanity.online
 @@||googleusercontent.com^
 @@||openload.co/embed^
 @@||opensubtitles.org$xmlhttprequest,third-party
 ||servebom.com^$third-party,important
 ||bambergerkennanchitinous.com^$third-party,important
 ||godaddy.com^$popup,popunder
-
 screenrant.com##.read-next
 openload.co##.center
 wegotthiscovered.com##.footer.entry-footer.e-footer
