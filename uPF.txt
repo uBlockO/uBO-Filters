@@ -833,5 +833,6 @@ kissanime.*###adsIfrme7
 ||0mme.com^$important
 zippyshare.com##script:inject(abort-on-property-read.js, navigator)
 pornhub.com##script:inject(abort-on-property-read.js, zone_32)
+pornhub.com##script:inject(abort-on-property-read.js, zone_5)
 
 ||$third-party,domain=kisscartoon.se|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.red|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|hollywoodreporter.com|flixanity.co|flixanity.online|tomsguide.com|flixanity.watch|flixanity.me|flixanity.in|thepiratebay.org|comicbook.com|androidcentral.com|screenrant.com|pornhub.com|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|9anime.to|9anime.tv|windowscentral.com|imore.com|crackberry.com|vrheads.com|teslacentral.com|connectedly.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|123movies.is|123movies.to|123movies.gs|123movies.msk.ru|123movies.moscow|123-movie.ru|123movies-proxy.ru|123movies.ru|123movies.vc|123movies.cz|123movies.pp.ru|thewindowsclub.com|fmovies.to|fmovies.is|fmovies.se
