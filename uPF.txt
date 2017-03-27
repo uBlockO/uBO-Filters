@@ -826,6 +826,7 @@ celebjihad.com##a[href^="https://www.celebjihad.com/widget/"]
 aol.*,huffingtonpost.*##script:inject(abort-on-property-write.js, _sp_)
 thefappening.*###id-vidgeta-primary
 fmovies.*,9anime.*##a[href^="https://mgid.com/"]
+fmovies.*##script:inject(abort-on-property-write.js, N2y9)
 9anime.*##.a_d
 pornhub.com##.adlink2
 kissanime.*###adsIfrme7
