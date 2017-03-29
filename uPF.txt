@@ -602,7 +602,7 @@ flixanity.*##.sources
 mrskin.com##a[href^="/account/purchase"]
 mrskin.com##.sk-wallpaper-riseup.sk-wallpaper.sk-wallpaper-item
 /sk_special_offer_video
-/popup
+/popup^$script
 /ph-tracking.js^$important
 /premium/*^$important
 /promo-banner.js^$important
