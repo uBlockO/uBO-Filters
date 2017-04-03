@@ -795,8 +795,8 @@ torrentz2.eu,gorillavid.in,eztv.*,zippyshare.com##script:inject(abort-on-propert
 forbes.com##script:inject(abort-on-property-read.js, isIe)
 ||8muses.com^$inline-script
 @@||8muses.com/comix/picture^$inline-script
-onwatchseries.to##.ad_300_300
-onwatchseries.to##.fullwrap > div > div:nth-of-type(4)
+mywatchseries.to##.ad_300_300
+mywatchseries.to##.fullwrap > div > div:nth-of-type(4)
 ||contentabc.com^$important
 .*/ads/
 torrentz2.eu##a[href="https://s3-us-west-2.amazonaws.com/www.movie4all.co/torrentz2/Download.html"]
