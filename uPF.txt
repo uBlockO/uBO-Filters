@@ -777,7 +777,6 @@ imdb.com##.ab_ninja
 9anime.*##.popover
 ||github.com/_private/browser/errors
 thewindowsclub.com##.ad-widget
-@@||netdna-cdn.com^$image,stylesheet
 fmovies.*##a[href="http://9anime.to/"]
 fmovies.*##.home-socials
 fmovies.*##.alert
