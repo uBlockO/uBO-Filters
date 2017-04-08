@@ -218,7 +218,7 @@ gadgets.ndtv.com###sharelink
 ||gadgets360.com^$third-party
 gadgets.ndtv.com##.fr.stickysocial
 gadgets.ndtv.com##a[href="http://hi.gadgets360.com/mobiles/xiaomi-redmi-3s-prime-review-hindi-reviews-1442180"]
-milfzr.com,4553t5pugtt1qslvsnmpc0tpfz5fo.xyz,fullstuff.co,nmac.to,quickfever.com,avaxhome.co,blockadblock.com,usapoliticstoday.com,animmex.*,zahipedia.net,jaguartrials.net,onhax.me,apkmos.com,sadeemapk.com,zahitvstation.com##script:inject(bab-defuser.js)
+milfzr.com,finalservers.net,fullstuff.co,nmac.to,quickfever.com,avaxhome.co,blockadblock.com,usapoliticstoday.com,animmex.*,zahipedia.net,jaguartrials.net,onhax.me,apkmos.com,sadeemapk.com,zahitvstation.com##script:inject(bab-defuser.js)
 ||stats.com^
 ||namesakeoscilloscopemarquis.*^$important
 cnet.com##.hide.popOut.videoContainer
@@ -808,8 +808,8 @@ pornhub.*##script:inject(abort-on-property-write.js, UAParser)
 hentaihaven.org##script:inject(abort-on-property-read.js, desktop_variants)
 hentaihaven.org##.entry-meta
 ||allmusic.com^$inline-script
-4553t5pugtt1qslvsnmpc0tpfz5fo.xyz##script:inject(abort-on-property-read.js, _gunggo)
-4553t5pugtt1qslvsnmpc0tpfz5fo.xyz###babasbmsgx
+finalservers.net##script:inject(abort-on-property-read.js, _gunggo)
+finalservers.net###babasbmsgx
 animmex.*###M148617ScriptRootC75329
 chip.*,speedtest.net##script:inject(abort-on-property-write.js, _sp_)
 ||contributor.google.com/scripts/
