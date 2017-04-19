@@ -761,7 +761,7 @@ facebook.com##._4zp_._5pcr._3j6k
 ||facebook.com/*/logging^$important
 myanimelist.net##.amazon.btn-affiliate
 zippyshare.com,xvideos.com,xnxx.com##script:inject(noeval.js)
-@@||jsdelivr.net^$domain=8muses.com
+@@||jsdelivr.net^$domain=8muses.com|hanime.tv
 imdb.com##.aux-content-widget-2:nth-of-type(4)
 imdb.com###title-overview-widget > .article
 imdb.com##.ab_ninja
