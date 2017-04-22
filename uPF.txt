@@ -679,7 +679,7 @@ windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,tesla
 windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##.extra.col-right
 windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##.visor-breaker-ad.container
 windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##.container-breaker.hidden-gems-widget
-crackberry.com,windowscentral.com,androidcentral.com##script:inject(setTimeout-defuser.js, checkBlocked, 100)
+windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##script:inject(setTimeout-defuser.js, e)
 @@/fontawesome^$stylesheet,font
 porncomics.biz,milftoon.info###popupOverlay
 @@||myanimelist.cdn-dena.com/static/assets/js/pc/*.js^$domain=myanimelist.net
