@@ -832,8 +832,8 @@ kissanime.*###adsIfrme7
 ||kissasian.com/*.aspx
 ||0mme.com^$important
 zippyshare.com##script:inject(abort-on-property-read.js, userAgent)
-pornhub.com##script:inject(abort-on-property-read.js, zone_32)
-pornhub.com##script:inject(abort-on-property-read.js, zone_5)
+pornhub.com##script:inject(abort-on-property-read.js, open)
+
 /metrics:recordPageloadMetrics
 ||marinetraffic.com^$inline-script
 gogoanime.*##.add_ads3
