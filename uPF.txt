@@ -500,7 +500,7 @@ hollywoodreporter.com##.blog-post-syndication-section
 ||myanimelist.net/static/logging.html$xmlhttprequest
 @@||cdnjs.cloudflare.com/ajax/libs^$script,domain=flixanity.watch|flixanity.co|flixanity.is|flixanity.me|flixanity.in|flixanity.online
 @@||ajax.googleapis.com/ajax/libs^$script
-@@||zencdn.net^$script,stylesheet,domain=flixanity.watch|flixanity.online
+@@||zencdn.net^$script,stylesheet,domain=flixanity.watch|flixanity.online|kimcartoon.me
 @@||googleusercontent.com^
 @@||openload.co/embed^
 @@||opensubtitles.org$xmlhttprequest,third-party
