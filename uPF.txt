@@ -889,7 +889,7 @@ kimcartoon.*###disqus_thread
 ||connect.facebook.net^$script,important
 @@||lightboxcdn.com^$script,domain=androidcentral.com|crackberry.com|imore.com|windowscentral.com,badfilter
 @@||passport.mobilenations.com^$script,domain=androidcentral.com|crackberry.com|imore.com|windowscentral.com,badfilter
-@@||platform.twitter.com^$script,domain=9anime.to
+@@||platform.twitter.com^$script,domain=9anime.to,badfilter
 ndtv.com##a[href^="https://gadgets360.com/"]
 ||ajax.cloudflare.com/cdn-cgi/nexp^$script,important
 9anime.*##.ads
