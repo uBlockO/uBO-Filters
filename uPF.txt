@@ -289,8 +289,8 @@ extratorrent.cc,etmirror.com,etproxy.com,extratorrentonline.com,extratorrentlive
 extratorrent.cc,etmirror.com,etproxy.com,extratorrentonline.com,extratorrentlive.com##table[width="900"]
 extratorrent.cc,etmirror.com,etproxy.com,extratorrentonline.com,extratorrentlive.com###chat_body
 screenrant.com##.gallery-thumb
-cartoonhd.*,movieshd.watch,flixanity.*###credits
-cartoonhd.*,movieshd.watch,flixanity.*##a[href="#credits"]
+cartoonhd.*,movieshd.watch,istream.*###credits
+cartoonhd.*,movieshd.watch,istream.is##a[href="#credits"]
 instagram.com##._3v251._br9is
 @@||imgix.net^$domain=cbr.com|screenrant.com
 ||androidauthority.com/wp-admin/admin-ajax.php$xmlhttprequest
@@ -498,9 +498,9 @@ hollywoodreporter.com##.blog-post-syndication-section
 ||blbrd.co^$third-party
 ||billboard.com^$third-party
 ||myanimelist.net/static/logging.html$xmlhttprequest
-@@||cdnjs.cloudflare.com/ajax/libs^$script,domain=flixanity.watch|flixanity.co|flixanity.is|flixanity.me|flixanity.in|flixanity.online
+@@||cdnjs.cloudflare.com/ajax/libs^$script,domain=istream.is
 @@||ajax.googleapis.com/ajax/libs^$script
-@@||zencdn.net^$script,stylesheet,domain=flixanity.watch|flixanity.online|kimcartoon.me
+@@||zencdn.net^$script,stylesheet,domain=istream.is|kimcartoon.me
 @@||googleusercontent.com^
 @@||openload.co/embed^
 @@||opensubtitles.org$xmlhttprequest,third-party
@@ -522,7 +522,7 @@ openload.co##a[href="http://steepto.com/"]
 /whatsapp-button.js
 /adflow.js
 /entityrating.js
-flixanity.*##.amazonDeals
+istream.*##.amazonDeals
 crunchyroll.com/*/video.mp4
 /track
 browserleaks.com##.twwt
@@ -541,7 +541,7 @@ cbr.com##.injected-video-by-load
 @@||platform.instagram.com/en_US/embeds.js^$script
 @@||instagram.com/*/embed/captioned^
 androidauthority.com##.load-infinite.loading
-flixanity.*##.buttons.dmcaLink
+istream.*##.buttons.dmcaLink
 /popups^$script
 /ads-^$script
 /sk_blog_manager/core-*.js^$script
@@ -598,7 +598,7 @@ cinemablend.com##.plugins_corpfooter
 /infinite-articles
 @@||s3.amazonaws.com/html5player.gamezone.com/video-ad-unit.js$script
 outlook.live.com##a[href^="http://www.myfreecams.com/"]
-flixanity.*##.sources
+istream.*##.sources
 mrskin.com##a[href^="/account/purchase"]
 mrskin.com##.sk-wallpaper-riseup.sk-wallpaper.sk-wallpaper-item
 /sk_special_offer_video
@@ -804,7 +804,7 @@ torrentz2.eu##a[href="https://s3-us-west-2.amazonaws.com/www.movie4all.co/torren
 torrentz2.eu###M207402Composite105225
 torrentz2.eu##.download > dl:nth-of-type(1) > dd
 torrentz2.eu##.AcceptableTextAds
-flixanity.*##.button
+istream.*##.button
 pornhub.*##script:inject(abort-on-property-write.js, UAParser)
 hentaihaven.org##script:inject(abort-on-property-read.js, desktop_variants)
 hentaihaven.org##.entry-meta
@@ -893,4 +893,4 @@ kimcartoon.*###disqus_thread
 ndtv.com##a[href^="https://gadgets360.com/"]
 @@||ajax.cloudflare.com/cdn-cgi/nexp/$third-party,script,badfilter
 
-||$third-party,domain=kisscartoon.se|kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.red|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|hollywoodreporter.com|flixanity.co|flixanity.online|tomsguide.com|flixanity.watch|flixanity.me|flixanity.in|thepiratebay.org|comicbook.com|androidcentral.com|screenrant.com|pornhub.com|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|9anime.to|9anime.tv|windowscentral.com|imore.com|crackberry.com|vrheads.com|teslacentral.com|connectedly.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|123movies.is|123movies.to|123movies.gs|123movies.msk.ru|123movies.moscow|123-movie.ru|123movies-proxy.ru|123movies.ru|123movies.vc|123movies.cz|123movies.pp.ru|thewindowsclub.com|fmovies.to|fmovies.is|fmovies.se
+||$third-party,domain=kisscartoon.se|kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.red|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|hollywoodreporter.com|flixanity.co|flixanity.online|tomsguide.com|flixanity.watch|flixanity.me|flixanity.in|istream.is|thepiratebay.org|comicbook.com|androidcentral.com|screenrant.com|pornhub.com|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|9anime.to|9anime.tv|windowscentral.com|imore.com|crackberry.com|vrheads.com|teslacentral.com|connectedly.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|123movies.is|123movies.to|123movies.gs|123movies.msk.ru|123movies.moscow|123-movie.ru|123movies-proxy.ru|123movies.ru|123movies.vc|123movies.cz|123movies.pp.ru|thewindowsclub.com|fmovies.to|fmovies.is|fmovies.se
