@@ -890,7 +890,8 @@ kimcartoon.*###disqus_thread
 @@||passport.mobilenations.com^$script,domain=androidcentral.com|crackberry.com|imore.com|windowscentral.com,badfilter
 @@||platform.twitter.com^$script,domain=9anime.to,badfilter
 ndtv.com##a[href^="https://gadgets360.com/"]
-||ajax.cloudflare.com/cdn-cgi/nexp^$script,important
+||ajax.cloudflare.com/cdn-cgi/nexp^$script
+@@||ajax.cloudflare.com/cdn-cgi/nexp/dok3v=*/cloudflare.min.js$domain=lanik.us
 9anime.*##.ads
 digit.in##.m_list_In
 ||digit.in/blockarticledetailad/$subdocument
