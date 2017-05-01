@@ -788,6 +788,7 @@ fmovies.*##.hidden-sm.widget
 fmovies.*##.hd-buttons.row
 fmovies.*##.popover
 fmovies.*##.col-right
+fmovies.*##.widget:nth-of-type(4)
 torrentz2.eu,gorillavid.in,eztv.*,zippyshare.com##script:inject(abort-on-property-write.js, window.admvpu)
 /scriptv2.js$domain=1337x.to
 1337x.to##.box-info-detail > div.torrent-detail+div[class]:not([class="manage-box"]):not([class^="torrent-"])
