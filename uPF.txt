@@ -878,6 +878,7 @@ torrentz2.*##.SemiAcceptableAds
 @@||algolianet.com^$script,xmlhttprequest,domain=hanime.tv
 raymondhill.net,anilinkz.*##script:inject(abort-on-property-read.js, open)
 anilinkz.*,vidstreaming.*##script:inject(noeval.js)
+anilinkz.*##script:inject(abort-on-property-write.js, Fingerprint2)
 anilinkz.*###playinfo
 anilinkz.*###commentinfo
 anilinkz.*###disclaimer
