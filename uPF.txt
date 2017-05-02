@@ -847,7 +847,7 @@ kissanime.*###rightside > div:nth-of-type(5) > div > div
 kissanime.*##.rightBox:nth-of-type(1)
 gamereactor.*##script:inject(abort-on-property-read.js, detectAdblockUser)
 animmex.*##a[href^="https://forum.animmex.com/viewtopic.php"]
-||cse.google.com^
+||cse.google.com/cse.js^$important
 torrentz2.eu##a[href^="/inago.php"]
 outlook.live.com##._n_15
 */ads^$script
