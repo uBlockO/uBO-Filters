@@ -226,7 +226,8 @@ comicbook.com##a[href="http://amzn.to/28Wrjtb"]
 ||airtel.*^$third-party
 thevideo.me##.text-right.col-lg-3
 thevideo.me##.col-sm-3
-thevideo.me,watchers.to##script:inject(abort-on-property-read.js, open)
+thevideo.me,watchers.to,daclips.in##script:inject(abort-on-property-read.js, open)
+daclips.in###hd_btn.btn
 ||bestarmour4u.*^
 ||adblockerkillswebsites.*^
 1337x.to###mgbl49472
