@@ -226,6 +226,7 @@ comicbook.com##a[href="http://amzn.to/28Wrjtb"]
 ||airtel.*^$third-party
 thevideo.me##.text-right.col-lg-3
 thevideo.me##.col-sm-3
+thevideo.me,watchers.to##script:inject(abort-on-property-read.js, open)
 ||bestarmour4u.*^
 ||adblockerkillswebsites.*^
 1337x.to###mgbl49472
@@ -798,6 +799,20 @@ forbes.com##script:inject(abort-on-property-read.js, isIe)
 @@||8muses.com/comix/picture^$inline-script
 mywatchseries.to##.ad_300_300
 mywatchseries.to##.fullwrap > div > div:nth-of-type(4)
+mywatchseries.to##.block-left-home-inside:nth-of-type(2)
+mywatchseries.to##.show-social
+mywatchseries.to##.sp-leader
+mywatchseries.to###go_scrolling_comments
+mywatchseries.to##.sp-leader-bottom
+mywatchseries.to###scroll_comments
+mywatchseries.to##.sp-sidetower
+mywatchseries.to##.shd_button
+mywatchseries.to##.episode-social
+mywatchseries.to##a[href^="http://178.175.132.130/"]
+mywatchseries.to##.add-comment
+mywatchseries.to##.general_button
+mywatchseries.to##a[href^="http://watchos.tv/"]
+mywatchseries.to###header-2
 ||contentabc.com^$important
 .*/ads/
 torrentz2.eu##a[href="https://s3-us-west-2.amazonaws.com/www.movie4all.co/torrentz2/Download.html"]
