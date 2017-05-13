@@ -3,7 +3,6 @@
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
 
-
 ||watchfree.to/stream.php
 watchfree.to##.get_vpn
 watchfree.to##.comment_box
@@ -750,17 +749,10 @@ youtube.com##.subscribecard-endscreen
 youtube.com##.ytp-ce-element
 ||youtube.com/get_endscreen?
 youtube.com#ytd-promoted-video-renderer
-facebook.com##._4u6m
-facebook.com##._5pcr._4nef._5pcr.userContentWrapper
-facebook.com##._5pcr._4nef._5pcr.fbUserContent
-facebook.com##._4-u8._24on._4-u2
 forbes.com##[id^="google_ads_iframe_"]
 facebook.com##.rhc
-facebook.com##._s15
 facebook.com###snowliftStageActions
-facebook.com##._1z0-
 facebook.com##.home_right_column
-facebook.com##._4zp_._5pcr._3j6k
 ||facebook.com/*/logging^$important
 myanimelist.net##.amazon.btn-affiliate
 zippyshare.com,xvideos.com,xnxx.com##script:inject(noeval.js)
@@ -881,7 +873,6 @@ solarmovie.st###tags
 boxofficemojo.com##.survey
 ||youtube.com/api/stats^$important
 /log_event
-facebook.com##._5pcr._3j6k
 @@||cdnjs.cloudflare.com/ajax/libs^$script,domain=hanime.tv
 kisshentai.net##script:inject(abort-on-property-read.js, BetterJsPop)
 torrentz2.*##.SemiAcceptableAds
