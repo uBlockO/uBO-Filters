@@ -1,4 +1,4 @@
-# uBO-Personal-Filters
+# uBlock-Personal-Filters
 A filterlist with additional filters for uBlock Origin to block third-party, tracking, annoyances and all other unwarranted resources from loading.
 
 Contains filters specific to uBlock Origin and some filters that have not yet been added to other filterlists.
