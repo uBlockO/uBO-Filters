@@ -260,7 +260,7 @@ parentherald.com###comment
 ||104.198.*.*^
 ||leadzupc.com^
 mailinator.com##.visible-sm.visible-md.visible-lg.col-sm-2.col-md-2.col-lg-2
-addons.mozilla.org###promos
+mozilla.org###promos
 cbr.com##.i-comment.icon.btn-comment-article
 cbr.com##.right-content.footer-content
 cbr.com##.social-title
@@ -563,7 +563,7 @@ extratorrent.cc##.tztblsearch
 screenrant.com##.desktop-vertical.video-block-with-playlist
 ||adsidme.com^$third-party
 ||m5zn.com^$third-party
-addons.mozilla.org###site-nonfx
+mozilla.org###site-nonfx
 @@||phubcdn.com^$stylesheet,image,domain=pornhub.com
 /snowstorm*.js$script
 /*snow.js$script
@@ -948,5 +948,7 @@ moviepilot.com##.poll
 moviepilot.com##.latest-content
 #@#[jsaction] > [data-ved][style]:first-child
 @@||www.google.*/ads/$first-party,domain=google.ca|google.co.in|google.co.nz|google.co.uk|google.com|google.com.au|google.com.eg|google.de|google.es,badfilter
+9anime.to##.mb20
+mozilla.org##.announce-bar
 
 ||$third-party,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.red|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|hollywoodreporter.com|flixanity.co|flixanity.online|tomsguide.com|flixanity.watch|flixanity.me|flixanity.in|istream.is|thepiratebay.org|comicbook.com|androidcentral.com|screenrant.com|pornhub.com|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|9anime.to|9anime.tv|windowscentral.com|imore.com|crackberry.com|vrheads.com|teslacentral.com|connectedly.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|123movies.is|123movies.to|123movies.gs|123movies.msk.ru|123movies.moscow|123-movie.ru|123movies-proxy.ru|123movies.ru|123movies.vc|123movies.cz|123movies.pp.ru|thewindowsclub.com|fmovies.to|fmovies.is|fmovies.se
