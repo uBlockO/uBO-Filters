@@ -286,9 +286,6 @@ timesofindia.indiatimes.com##.partners-wrapper
 timesofindia.indiatimes.com###LargeWrapper
 ||goal.com^$third-party
 ||timesofindia.indiatimes.com^$xmlhttprequest,important
-extratorrent.cc,etmirror.com,etproxy.com,extratorrentonline.com,extratorrentlive.com##table[width="1070"]
-extratorrent.cc,etmirror.com,etproxy.com,extratorrentonline.com,extratorrentlive.com##table[width="900"]
-extratorrent.cc,etmirror.com,etproxy.com,extratorrentonline.com,extratorrentlive.com###chat_body
 screenrant.com##.gallery-thumb
 cartoonhd.*,movieshd.watch,istream.*###credits
 cartoonhd.*,movieshd.watch,istream.is##a[href="#credits"]
@@ -465,7 +462,6 @@ mcuexchange.com##.posts-box-related-posts.posts-box-5.posts-box
 myanimelist.net##.clearfix.index-watch-description
 /logpopup
 duckduckgo.com##.js-tag-home.no-js__hide.tag-home--slide.tag-home
-extratorrent.cc##.tztbl
 ||timesofindia.indiatimes.com^$inline-script
 @@||cdn-dena.com^$image,stylesheet,font,other,media
 heroichollywood.com##.crp_related
@@ -559,7 +555,6 @@ duckduckgo.com##.js-results-sidebar-alt.results--sidebar--alt
 ndtv.com###showhide
 ||ndtv.com^$inline-script
 wikia.com###WikiaBar
-extratorrent.cc##.tztblsearch
 screenrant.com##.desktop-vertical.video-block-with-playlist
 ||adsidme.com^$third-party
 ||m5zn.com^$third-party
