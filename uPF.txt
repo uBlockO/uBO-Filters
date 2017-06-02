@@ -288,7 +288,7 @@ timesofindia.indiatimes.com###LargeWrapper
 ||timesofindia.indiatimes.com^$xmlhttprequest,important
 screenrant.com##.gallery-thumb
 cartoonhd.*,movieshd.watch,istream.*###credits
-cartoonhd.*,movieshd.watch,istream.is##a[href="#credits"]
+cartoonhd.*,movieshd.watch,istream.is,flixanity.*##a[href="#credits"]
 instagram.com##._3v251._br9is
 @@||imgix.net^$domain=cbr.com|screenrant.com
 ||androidauthority.com/wp-admin/admin-ajax.php$xmlhttprequest
@@ -495,9 +495,9 @@ hollywoodreporter.com##.blog-post-syndication-section
 ||blbrd.co^$third-party
 ||billboard.com^$third-party
 ||myanimelist.net/static/logging.html$xmlhttprequest
-@@||cdnjs.cloudflare.com/ajax/libs^$script,domain=istream.is
+@@||cdnjs.cloudflare.com/ajax/libs^$script
 @@||ajax.googleapis.com/ajax/libs^$script
-@@||zencdn.net^$script,stylesheet,domain=istream.is|kimcartoon.me
+@@||zencdn.net^$script,stylesheet,domain=istream.is|kimcartoon.me|flixanity.online
 @@||googleusercontent.com^$stylesheet,media,font,image,xmlhttprequest
 @@||openload.co/embed^
 @@||opensubtitles.org$xmlhttprequest,third-party
