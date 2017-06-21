@@ -497,7 +497,8 @@ hollywoodreporter.com##.blog-post-syndication-section
 ||myanimelist.net/static/logging.html$xmlhttprequest
 @@||cdnjs.cloudflare.com/ajax/libs^$script
 @@||ajax.googleapis.com/ajax/libs^$script
-@@||zencdn.net^$script,stylesheet,domain=istream.is|kimcartoon.me|flixanity.online
+@@||zencdn.net^$script,domain=istream.is|kimcartoon.me|flixanity.online
+@@||zencdn.net^$stylesheet,font
 @@||googleusercontent.com^$stylesheet,media,font,image,xmlhttprequest
 @@||openload.co/embed^
 @@||opensubtitles.org$xmlhttprequest,third-party
