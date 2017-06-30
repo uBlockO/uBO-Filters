@@ -853,7 +853,6 @@ mrskin.com##a[href^="http://www.amazon.com/gp/search"]
 ||fzpwll.mrskin.com^
 solarmovie.st###comment
 solarmovie.st###tags
-@@||$websocket,domain=speedtest.net
 @@||speedtest.net/javascript/jquery-*.min.js$badfilter
 @@||d3ujids68p6xmq.cloudfront.net^$script,badfilter
 boxofficemojo.com##.survey
