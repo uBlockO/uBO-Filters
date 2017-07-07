@@ -1006,9 +1006,9 @@ autoplay=1^$inline-script,script
 1337x.to##script:inject(abort-on-property-read.js, open)
 ||github.com/_private/browser/errors
 |https://jspenguin.com/API/uBlockProtector/Solutions/Blocked.php$important
-||moatads.com/*/MoatFreeWheelJSPEM.js$script,redirect=noopjs
-||mmod.v.fwmrm.net/ad/g/*$script,domain=ncaa.com,redirect=noopjs
-@@||fwmrm.net/ad/g/$script,domain=ncaa.com,badfilter
+@@|https://imasdk.googleapis.com/js/sdkloader/ima3.js*$script
+|https://jspenguin.com/API/uBlockProtector/Solutions/
+@@|https://jspenguin.com/API/uBlockProtector/Solutions/MoatFreeWheelJSPEM.js|$script
 ||messenger.com/ajax/bz
 
 ||$third-party,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.red|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|hollywoodreporter.com|tomsguide.com|istream.is|thepiratebay.org|comicbook.com|screenrant.com|pornhub.com|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|123movies.is|123movies.to|123movies.gs|123movies.msk.ru|123movies.moscow|123-movie.ru|123movies-proxy.ru|123movies.ru|123movies.vc|123movies.cz|123movies.pp.ru|thewindowsclub.com
