@@ -977,7 +977,6 @@ mywatchseries.to##a[href^="/redirect.php"]
 9anime.*,fmovies.*##script:inject(csp.js, script-src 'self' * 'unsafe-eval')
 /endscreen
 ||xmovies8.org/ads_$xmlhttprequest,important
-xmovies8.org###debridnok
 ultra-h.com##script:inject(abort-on-property-read.js, open)
 ultra-h.com##script:inject(abort-on-property-read.js, adBlockDetected)
 /plg_jchoptimize/
@@ -1006,7 +1005,6 @@ autoplay=1^$inline-script,script
 1337x.to##script:inject(abort-on-property-read.js, open)
 ||github.com/_private/browser/errors
 |https://jspenguin.com/API/uBlockProtector/Solutions/Blocked.php$important
-@@|https://imasdk.googleapis.com/js/sdkloader/ima3.js*$script
 |https://jspenguin.com/API/uBlockProtector/Solutions/
 @@|https://jspenguin.com/API/uBlockProtector/Solutions/MoatFreeWheelJSPEM.js|$script
 ||messenger.com/ajax/bz
