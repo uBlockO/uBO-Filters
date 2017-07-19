@@ -1,4 +1,4 @@
-[uBlock Origin 1.13.2]
+[uBlock Origin 1.13.8]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -1021,5 +1021,7 @@ howtogeek.com###purch_Y_R_1_1
 howtogeek.com###purch_Y_L_0_1
 howtogeek.com##.social-follows > .top-bar
 ||fmovies.is^$xmlhttprequest,domain=fmovies.is,badfilter
+@@||loudloss.com^$xmlhttprequest,domain=windowscentral.com,badfilter
+@@||sneakystamp.com^$xmlhttprequest,domain=androidcentral.com,badfilter
 
 ||$third-party,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.red|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|hollywoodreporter.com|tomsguide.com|istream.is|thepiratebay.org|comicbook.com|screenrant.com|pornhub.com|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|123movies.is|123movies.to|123movies.gs|123movies.msk.ru|123movies.moscow|123-movie.ru|123movies-proxy.ru|123movies.ru|123movies.vc|123movies.cz|123movies.pp.ru|thewindowsclub.com
