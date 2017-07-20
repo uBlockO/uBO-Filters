@@ -974,7 +974,7 @@ dato.porn##script:inject(abort-on-property-read.js, open)
 fmovies.*,dato.porn##script:inject(noeval-if.js, xhr.status == 200)
 /analytics
 mywatchseries.to##a[href^="/redirect.php"]
-9anime.*,fmovies.*##script:inject(csp.js, script-src 'self' 'unsafe-eval')
+9anime.*,fmovies.*##script:inject(csp.js, script-src 'self' *.jwpcdn.com 'unsafe-eval')
 /endscreen
 ||xmovies8.org/ads_$xmlhttprequest,important
 ultra-h.com##script:inject(abort-on-property-read.js, open)
