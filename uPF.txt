@@ -1031,6 +1031,7 @@ collider.com##.icon-facebook-messenger.cmplx-icon
 collider.com##.youtubefooter
 collider.com###latest-news
 collider.com##.go90--widget
+collider.com##.relevancy-widget
 /infinite-newsfeed*/
 /sranalytics/
 ||collider.com^$csp=script-src 'self' *.collider.com 'unsafe-inline'
