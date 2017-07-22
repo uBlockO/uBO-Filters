@@ -1024,7 +1024,7 @@ howtogeek.com##.social-follows > .top-bar
 @@||loudloss.com^$xmlhttprequest,domain=windowscentral.com,badfilter
 @@||sneakystamp.com^$xmlhttprequest,domain=androidcentral.com,badfilter
 |https:$third-party,popup,domain=fmovies.is,badfilter
-||youtube.com^$csp=script-src 'self' 'unsafe-inline'
+||youtube.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 collider.com###after-post-stuff
 collider.com##.facebook-comments-cover
 collider.com##.icon-facebook-messenger.cmplx-icon
