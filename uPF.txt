@@ -1033,21 +1033,21 @@ collider.com##.go90--widget
 collider.com##.relevancy-widget
 /infinite-newsfeed*/
 /sranalytics/
-||collider.com^$csp=script-src 'self' *.collider.com 'unsafe-inline' platform.twitter.com platform.instagram.com
+||collider.com^$csp=script-src 'self' *.collider.com 'unsafe-inline' platform.twitter.com *.instagram.com *.twimg.com
 comicbook.com##.categorysocial_lst
 comicbook.com##.about
 comicbook.com##.server_blk
-||comicbook.com^$csp=script-src 'self' *.comicbook.com 'unsafe-inline' platform.twitter.com platform.instagram.com
+||comicbook.com^$csp=script-src 'self' *.comicbook.com 'unsafe-inline' platform.twitter.com *.instagram.com *.twimg.com
 variety.com###leaderboard
 variety.com##.header-utilities
 variety.com##.subscribe-aside
-||variety.com^$csp=script-src 'self' 'unsafe-inline' *.wp.com platform.twitter.com platform.instagram.com
+||variety.com^$csp=script-src 'self' 'unsafe-inline' *.wp.com platform.twitter.com *.instagram.com *.twimg.com
 truecaller.com##.ad
 twitter.com#@#.message-drawer.dialog, #react-root > div[data-reactroot] > div:last-child:not([aria-hidden])
 mega.nz##.red.download-button.button
 hollywoodreporter.com##.leaderboard-wrapper
 /01_temp_share_folder/
-||screenrant.com^$csp=script-src 'self' 'unsafe-inline' platform.twitter.com platform.instagram.com
+||screenrant.com^$csp=script-src 'self' 'unsafe-inline' platform.twitter.com *.instagram.com *.twimg.com
 bleedingcool.com###footer-widgets
 bleedingcool.com##.site-info
 bleedingcool.com###single-below-comments
