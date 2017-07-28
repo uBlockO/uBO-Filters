@@ -1037,7 +1037,7 @@ collider.com##.relevancy-widget
 comicbook.com##.categorysocial_lst
 comicbook.com##.about
 comicbook.com##.server_blk
-||comicbook.com^$csp=script-src 'self' * 'unsafe-inline'
+||comicbook.com^$csp=script-src 'self' *.comicbook.com 'unsafe-inline' platform.twitter.com *.instagram.com *.twimg.com 
 variety.com###leaderboard
 variety.com##.header-utilities
 variety.com##.subscribe-aside
