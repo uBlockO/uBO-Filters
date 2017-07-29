@@ -776,8 +776,7 @@ dato.porn##script:inject(abort-on-property-read.js, open)
 fmovies.*,dato.porn##script:inject(noeval-if.js, xhr.status == 200)
 /analytics/
 mywatchseries.to##a[href^="/redirect.php"]
-||9anime.*^$csp=script-src 'self' *.jwpcdn.com 'unsafe-eval'
-||fmovies.*^$csp=script-src 'self' *.jwpcdn.com 'unsafe-eval'
+||$csp=script-src 'self' *.jwpcdn.com 'unsafe-eval',domain=9anime.to|9anime.is|fmovies.to|fmovies.is|solarmovie.st|fmovies.me|9anime.me
 /endscreen/
 /ads_*/$xmlhttprequest,important
 ultra-h.com##script:inject(abort-on-property-read.js, open)
