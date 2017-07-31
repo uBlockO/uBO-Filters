@@ -126,7 +126,7 @@ ndtv.com##.adcont
 comicbook.com##.next-article-tease
 ||mgid.com^$important
 yts.ag##.fd.button-green-download-big
-/zenmarket/$important
+zenmarket$important
 monova.org##.warning-message
 monova.org##._skip.container-bt
 monova.org##.section-b.container-bt
@@ -216,9 +216,9 @@ kisshentai.net##a[href="#"]
 kisshentai.net###show_id
 hanime.tv##.header-nav-item:nth-of-type(5)
 torrentfreak.com##.comments.pbx-alt.pbx
-/comment.js/$script,domain=1337x.to
-/jquery.pagination.js/$script,domain=1337x.to
-/jquery.mCustomScrollbar.js/$script,domain=1337x.to
+comment.js$script,domain=1337x.to
+jquery.pagination.js$script,domain=1337x.to
+jquery.mCustomScrollbar.js$script,domain=1337x.to
 ||facebook.com^$third-party
 air.irctc.co.in###bodyBottom
 air.irctc.co.in##.col2
@@ -255,7 +255,7 @@ indiatimes.com##.footer
 @@||indiatimes.in^$domain=indiatimes.com
 ||indiatimes.com/ajax/newsFeed.json$xmlhttprequest
 cbr.com##.embed-related-block
-/js/script.js$script,domain=1337x.to
+script.js$script,domain=1337x.to
 google.*###contain-402
 ||addthis.com^$important
 hentaiplay.net###text-12
@@ -289,7 +289,7 @@ mcuexchange.com##.posts-box-related-posts.posts-box-5.posts-box
 @@||cloudinary.com^$image,stylesheet
 @@||fonts.googleapis.com^$stylesheet,font
 myanimelist.net##.clearfix.index-watch-description
-/logpopup/
+logpopup
 duckduckgo.com##.js-tag-home.no-js__hide.tag-home--slide.tag-home
 ||timesofindia.indiatimes.com^$inline-script
 @@||cdn-dena.com^$image,stylesheet,font,media
@@ -336,12 +336,12 @@ comicbook.com##.clearfix.channel-nav
 comicbook.com##.embed
 superherohype.com###js-sidebar
 openload.co##a[href="http://steepto.com/"]
-/whatsapp-button.js
-/adflow.js
-/entityrating.js
+whatsapp-button.js
+adflow.js
+entityrating.js
 istream.*##.amazonDeals
 crunchyroll.com/*/video.mp4
-/track
+track
 browserleaks.com##.twwt
 hanime.tv##.smart-banner-content.transition-all.align-center.justify-center.flex-row
 ugbase.eu###shoutbox
@@ -359,9 +359,9 @@ cbr.com##.injected-video-by-load
 @@||instagram.com/*/embed/captioned^
 androidauthority.com##.load-infinite.loading
 istream.*##.buttons.dmcaLink
-/popups/$script
-/ads-*/$script
-/sk_blog_manager/core-*.js^$script
+popups$script
+ads-*$script
+sk_blog_manager/core-*.js^$script
 mrskin.com##.sk-gallery-viewer-zone
 mrskin.com##.sk-gallery-viewer-az-slide
 mrskin.com###az-responsive-20
@@ -378,10 +378,10 @@ wikia.com###WikiaBar
 screenrant.com##.desktop-vertical.video-block-with-playlist
 mozilla.org###site-nonfx
 @@||phubcdn.com^$stylesheet,image,domain=pornhub.com
-/snowstorm*.js$script
-/*snow.js$script
+snowstorm*.js$script
+*snow.js$script
 wikia.com##.wds-global-footer
-/js/tracking/
+js/tracking
 onhax.*###text-5
 onhax.*###text-17
 onhax.*###respond
@@ -408,26 +408,26 @@ cinemablend.com##.social_counts.partial
 cinemablend.com##.plugins_corpfooter
 @@||akamaihd.net^$image,media,stylesheet,xmlhttprequest
 @@||platform.twitter.com/css^$image,stylesheet
-/infinite-articles/
+infinite-articles
 @@||s3.amazonaws.com/html5player.gamezone.com/video-ad-unit.js$script
 outlook.live.com##a[href^="http://www.myfreecams.com/"]
 istream.*##.sources
 mrskin.com##a[href^="/account/purchase"]
 mrskin.com##.sk-wallpaper-riseup.sk-wallpaper.sk-wallpaper-item
-/sk_special_offer_video/
-/popup/$script
-/ph-tracking.js^$important
-/premium/*^$important
-/promo-banner.js^$important
-/cdn-cgi/pe/bag2
+sk_special_offer_video
+popup$script
+ph-tracking.js^$important
+premium*^$important
+promo-banner.js^$important
+cdn-cgi/pe/bag2
 9anime.*##.notice.alert-primary.alert
 9anime.*##.home-socials
 @@||jwpcdn.com^$font
 9anime.*###comment
 instagram.com##._e616g._csy1m
 diverxity.com##.subscribe_banner
-/wp-adblock-dedect*/$important
-/fuckadblock.js
+wp-adblock-dedect*$important
+fuckadblock.js
 apkmos.com##.adsbygoogle
 apkmos.com##.td_block_wrap
 comicbook.com##.aligncenter
@@ -451,13 +451,13 @@ forbes.com##.\{\{vertical_class\}\}.\{\{sidebar_state\}\}.slash-background.artic
 forbes.com###fbs-ad-rail-article-\{\{article\.index\}\}
 ||$script,domain=screenrant.com
 @@||cbr.com/wp-content/plugins/wp-minify/min^$script,domain=cbr.com
-/iFramedAdTemplate/
+iFramedAdTemplate
 hentaiplay.net###video_overlays
 myanimelist.net##.btn-mal-service
 myanimelist.net##.anime-detail-header-affiliate
 @@||github-cloud.s3.amazonaws.com^$domain=github.com
 @@||gannett-cdn.com^$image,stylesheet,domain=usatoday.com
-/abtesting/
+abtesting
 @@||wikia.com^$elemhide
 mrskin.com##.sk-wallpaper-riseup
 xhamster.com##.clearfix.videoList.boxC > div:nth-of-type(3)
@@ -488,15 +488,15 @@ windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,tesla
 windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##a[href^="https://ad.doubleclick.net/"]
 windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##a[href^="https://www.mintsim.com/"]
 ||$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval',domain=windowscentral.com|androidcentral.com|imore.com|crackberry.com|vrheads.com|teslacentral.com|connectedly.com
-@@/fontawesome^$stylesheet,font
+@@fontawesome^$stylesheet,font
 porncomics.biz,milftoon.info###popupOverlay
 @@||myanimelist.cdn-dena.com/static/assets/js/pc/*.js^$domain=myanimelist.net
 speedtest.net##.alert-container
 xhamster.com###supportAds
-/pubmedia.js
+pubmedia.js
 comicbook.com##.menu_wpr
-/wp-content/uploads/*.js
-/magnific-popup.js/
+wp-content/uploads/*.js
+magnific-popup.js
 milfzr.com###sidebar
 milfzr.com###actions
 milfzr.com###extras
@@ -509,8 +509,8 @@ tmz.com###sidebar
 onhax.me##div[id^="bottom-promo-abdload"]
 onhax.me##div[id^="top-promo-dload"]
 9anime.*##.ads.toggler.mbtn.item
-/*tracking/$script
-/ab_appeal/
+*tracking/$script
+ab_appeal
 google.*###prm-pt
 kissanime.*##.divCloseBut
 9anime.*##.widget-title
@@ -521,7 +521,7 @@ kissanime.*##.videoAdClose
 sciencechannel.com##.share-menu-container
 ||googlesyndication.com^$important
 rodale.tv,rodalewellness.com,rodalesorganiclife.com,bicycling.com,runnersworld.com,prevention.com,menshealth.com,womenshealthmag.com##script:inject(setTimeout-defuser.js, showForm)
-/adblock-detector/$script,important
+adblock-detector$script,important
 ||hackintosh.zone/advjs/bin/jso.php^$script
 cnbc.com##script:inject(abort-on-property-write.js, cnbc.canShowAds)
 openload.*,oload.tv##script:inject(abort-on-property-read.js, adblock2)
@@ -536,7 +536,7 @@ youtube.com###watch-sidebar-live-chat
 windowscentral.com,androidcentral.com##.cta.container
 windowscentral.com,androidcentral.com##.shop
 ||fastly.net^$script,important
-/mod_atblockdetector/$script
+mod_atblockdetector$script
 @@||cloudflare.com^$stylesheet,font,image
 @@||gstatic.com^$stylesheet,font
 youtube.com##.subscribecard-endscreen
@@ -554,7 +554,7 @@ zippyshare.com,xvideos.com,xnxx.com##script:inject(noeval.js)
 imdb.com##.aux-content-widget-2:nth-of-type(4)
 imdb.com###title-overview-widget > .article
 imdb.com##.ab_ninja
-/annotations/
+annotations
 @@||ampproject.org^$image
 9cartoon.me##.avm
 9cartoon.me##.banner_center
@@ -575,7 +575,7 @@ fmovies.*##.popover
 fmovies.*##.col-right
 fmovies.*##.widget:nth-of-type(4)
 torrentz2.eu,gorillavid.in,eztv.*,zippyshare.com##script:inject(abort-on-property-write.js, admvpu)
-/scriptv2.js$domain=1337x.to
+scriptv2.js$domain=1337x.to
 1337x.to##.box-info-detail > div.torrent-detail+div[class]:not([class="manage-box"]):not([class^="torrent-"])
 ||deadline.com^$inline-script
 forbes.com##script:inject(abort-on-property-read.js, isIe)
@@ -614,7 +614,7 @@ chip.*,speedtest.net##script:inject(abort-on-property-write.js, _sp_)
 ||contributor.google.com/scripts/
 ||damoh.*^$media,other,script
 29443kmq.video,dato.porn###a
-/wigetmedia.js
+wigetmedia.js
 androidcentral.com,windowscentral.com##.mn_mbn_share
 gyazo.com##.image-infos
 @@||mycloud.to/embed^$third-party
@@ -631,7 +631,7 @@ kissanime.*###adsIfrme7
 ||kissasian.com/*.aspx
 zippyshare.com##script:inject(abort-on-property-read.js, userAgent)
 pornhub.com##script:inject(abort-on-property-read.js, open)
-/metrics:recordPageloadMetrics/
+metrics:recordPageloadMetrics
 gogoanime.*##.add_ads3
 gogoanime.*##.ads
 gogoanime.*##.banner_center
@@ -645,7 +645,7 @@ animmex.*##a[href^="https://forum.animmex.com/viewtopic.php"]
 ||cse.google.com/cse.js^$important
 torrentz2.eu##a[href^="/inago.php"]
 outlook.live.com##._n_15
-*/ads/$script
+*ads$script
 youtube.com##.hats-categorical-style-vertical
 opengapps.org##.advertisement
 solarmovie.st##.home-socials
@@ -660,13 +660,13 @@ solarmovie.st###tags
 @@||d3ujids68p6xmq.cloudfront.net^$script,badfilter
 boxofficemojo.com##.survey
 ||youtube.com/api/stats^$important
-/log_event/
+log_event
 @@||cdnjs.cloudflare.com/ajax/libs^$script,domain=hanime.tv
 kisshentai.net##script:inject(abort-on-property-read.js, BetterJsPop)
 torrentz2.*##.SemiAcceptableAds
 @@||imgclick.net^$image,domain=freeadultcomix.com
 @@||netdna-cdn.com/wp-content^$image,stylesheet
-/doubleclick^$script,important
+doubleclick^$script,important
 @@||algolia.net^$script,xmlhttprequest,domain=hanime.tv
 @@||algolianet.com^$script,xmlhttprequest,domain=hanime.tv
 raymondhill.net,anilinkz.*##script:inject(abort-on-property-read.js, open)
@@ -697,7 +697,7 @@ digit.in##iframe[src^="http://phando"]
 digit.in##.advertisements
 digit.in##.gadgetDealSideBar
 digit.in##.top-promo
-/jquery-analytics.min.js$important
+jquery-analytics.min.js$important
 speedtest.net##.high-placeholder.pure-u-1
 speedtest.net##.u-c.pure-u-custom-ad-rectangle
 speedtest.net##.u-c.pure-u-custom-ad-skyscraper
@@ -716,8 +716,8 @@ screenrant.com##.video.browse-content
 screenrant.com##.related.browse-content
 screenrant.com###tags-anchor
 speedtest.net##.result-item-share.result-item
-/backend_ptc.php/
-/frontend_ptc.js/
+backend_ptc.php
+frontend_ptc.js
 screenrant.com##.wrap-pad.article > .thumbs-wrapper
 screenrant.com##.quiz-share-btn.quiz-action-btn
 beta.speedtest.net##a[href^="http://www.speedtest.net/"]
@@ -730,8 +730,8 @@ comicbook.com###comments
 comicbook.com##.slide-nav-wpr
 comicbook.com##.videoad
 kimcartoon.me###hideAds
-/analytics/$important
-/reporter.js/
+analytics$important
+reporter.js
 denofgeek.com##a[href^="https://www.amazon"]
 chromium.org##.__crdxFeedbackButton
 denofgeek.com##a[href^="http://www.amazon"]
@@ -774,14 +774,14 @@ comicbook.com##.feature-column.contentset
 mega.nz##.active.top-login-warning
 dato.porn##script:inject(abort-on-property-read.js, open)
 fmovies.*,dato.porn##script:inject(noeval-if.js, xhr.status == 200)
-/analytics/
+analytics
 mywatchseries.to##a[href^="/redirect.php"]
 ||$csp=script-src 'self' *.jwpcdn.com 'unsafe-eval',domain=9anime.to|9anime.is|fmovies.to|fmovies.is|solarmovie.st|fmovies.me|9anime.me
-/endscreen/
-/ads_*$xmlhttprequest,important
+endscreen
+ads_*$xmlhttprequest,important
 ultra-h.com##script:inject(abort-on-property-read.js, open)
 ultra-h.com##script:inject(abort-on-property-read.js, adBlockDetected)
-/plg_jchoptimize/
+plg_jchoptimize
 xmovies8.org##script:inject(abort-on-property-read.js, $.getScript)
 solidfiles.com##script:inject(abort-on-property-read.js, open)
 solidfiles.com#@#.buttons
@@ -801,7 +801,7 @@ uplod.ws##.fmore
 uplod.ws##.boxa
 kimcartoon.*##a[href^="//"]
 ||scorecardresearch.com^$important
-/ads.js/$script,important
+ads.js$script,important
 autoplay=1^$inline-script,script
 1337x.to##script:inject(abort-on-property-read.js, Fingerprint2)
 1337x.to##script:inject(abort-on-property-read.js, open)
@@ -810,8 +810,8 @@ autoplay=1^$inline-script,script
 |https://jspenguin.com/API/uBlockProtector/Solutions/
 @@|https://jspenguin.com/API/uBlockProtector/Solutions/MoatFreeWheelJSPEM.js|$script
 ||messenger.com/ajax/bz
-/popup.js/
-/noadblock.js/
+popup.js
+noadblock.js
 kimcartoon.*##.kcAds
 ||tom.itv.com/itv/tserver/
 @@||phprcdn.com^$media,domain=hanime.tv
@@ -834,8 +834,8 @@ collider.com##.youtubefooter
 collider.com###latest-news
 collider.com##.go90--widget
 collider.com##.relevancy-widget
-/infinite-newsfeed*/
-/sranalytics/
+infinite-newsfeed*
+sranalytics
 ||collider.com^$csp=script-src 'self' *.collider.com 'unsafe-inline' platform.twitter.com *.instagram.com *.twimg.com
 comicbook.com##.categorysocial_lst
 comicbook.com##.about
@@ -849,7 +849,7 @@ truecaller.com##.ad
 twitter.com#@#.message-drawer.dialog, #react-root > div[data-reactroot] > div:last-child:not([aria-hidden])
 mega.nz##.red.download-button.button
 hollywoodreporter.com##.leaderboard-wrapper
-/01_temp_share_folder/
+01_temp_share_folder
 ||screenrant.com^$csp=script-src 'self' 'unsafe-inline' platform.twitter.com *.instagram.com *.twimg.com
 bleedingcool.com###footer-widgets
 bleedingcool.com##.site-info
@@ -869,7 +869,7 @@ moviepilot.com##.hashtag-widget
 ||moviepilot.com^$csp=script-src 'self' 'unsafe-inline' *.moviepilot.com platform.twitter.com *.twimg.com *.instagram.com
 moviepilot.com##.layout--ad__sidebar.article-sidebar
 comicbook.com##.contentset
-/promo/$script
+promo$script
 ||pornhub.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.phncdn.com
 ||wikia.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.nocookie.net *.youtube.com *.ytimg.com
 
