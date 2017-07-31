@@ -888,5 +888,8 @@ ghacks.net##.post-entries
 ghacks.net##strong
 ghacks.net##.tags
 ||ghacks.net^$csp=script-src 'self' 'unsafe-inline'
+youtube.com###movie-upsell-card
+youtube.com##.yt-lockup-movie-vertical-poster.yt-lockup-tile.yt-lockup
+||cnn.com^$csp=script-src 'self' 'unsafe-inline' *.cnn.com  *.turner.com *.cnn.io
 
 ||$third-party,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.red|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|hollywoodreporter.com|tomsguide.com|istream.is|thepiratebay.org|comicbook.com|screenrant.com|pornhub.com|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|123movies.is|123movies.to|123movies.gs|123movies.msk.ru|123movies.moscow|123-movie.ru|123movies-proxy.ru|123movies.ru|123movies.vc|123movies.cz|123movies.pp.ru|thewindowsclub.com
