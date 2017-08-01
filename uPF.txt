@@ -645,7 +645,7 @@ animmex.*##a[href^="https://forum.animmex.com/viewtopic.php"]
 ||cse.google.com/cse.js^$important
 torrentz2.eu##a[href^="/inago.php"]
 outlook.live.com##._n_15
-*ads$script
+ads$script
 youtube.com##.hats-categorical-style-vertical
 opengapps.org##.advertisement
 solarmovie.st##.home-socials
