@@ -554,7 +554,7 @@ zippyshare.com,xvideos.com,xnxx.com##script:inject(noeval.js)
 imdb.com##.aux-content-widget-2:nth-of-type(4)
 imdb.com###title-overview-widget > .article
 imdb.com##.ab_ninja
-annotations
+annotations$script
 @@||ampproject.org^$image
 9cartoon.me##.avm
 9cartoon.me##.banner_center
@@ -777,7 +777,7 @@ fmovies.*,dato.porn##script:inject(noeval-if.js, xhr.status == 200)
 analytics
 mywatchseries.to##a[href^="/redirect.php"]
 ||$csp=script-src 'self' *.jwpcdn.com 'unsafe-eval',domain=9anime.to|9anime.is|fmovies.to|fmovies.is|solarmovie.st|fmovies.me|9anime.me
-endscreen
+endscreen$script
 ads_*$xmlhttprequest,important
 ultra-h.com##script:inject(abort-on-property-read.js, open)
 ultra-h.com##script:inject(abort-on-property-read.js, adBlockDetected)
