@@ -457,7 +457,7 @@ myanimelist.net##.btn-mal-service
 myanimelist.net##.anime-detail-header-affiliate
 @@||github-cloud.s3.amazonaws.com^$domain=github.com
 @@||gannett-cdn.com^$image,stylesheet,domain=usatoday.com
-abtesting
+abtesting$important
 @@||wikia.com^$elemhide
 mrskin.com##.sk-wallpaper-riseup
 xhamster.com##.clearfix.videoList.boxC > div:nth-of-type(3)
