@@ -835,7 +835,7 @@ sranalytics
 comicbook.com##.categorysocial_lst
 comicbook.com##.about
 comicbook.com##.server_blk
-||comicbook.com^$csp=script-src 'self' *.comicbook.com 'unsafe-inline' platform.twitter.com *.instagram.com *.twimg.com 
+||comicbook.com^$csp=script-src 'self' *.comicbook.com 'unsafe-inline' platform.twitter.com *.instagram.com *.twimg.com *.redditmedia.com
 variety.com###leaderboard
 variety.com##.header-utilities
 variety.com##.subscribe-aside
@@ -919,5 +919,8 @@ deadline.com##.related-article
 ||deadline.com^$csp=script-src 'self' platform.twitter.com *.twimg.com *.deadline.com
 screenrant.com##h3
 screenrant.com##.article-body > h2
+comicbook.com##.sidebar-sticky.sidebar
+comicbook.com##strong
+comicbook.com##.gallery-preview-link
 
 ||$third-party,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.red|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|hollywoodreporter.com|tomsguide.com|istream.is|thepiratebay.org|comicbook.com|screenrant.com|pornhub.com|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|123movies.is|123movies.to|123movies.gs|123movies.msk.ru|123movies.moscow|123-movie.ru|123movies-proxy.ru|123movies.ru|123movies.vc|123movies.cz|123movies.pp.ru|thewindowsclub.com
