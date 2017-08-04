@@ -77,7 +77,7 @@ lowendbox.com##a[href="http://www.beastnode.com"]
 arstechnica.com###article-footer-wrap
 solidfiles.com##.remove
 solidfiles.com##.buttons
-/js/advertisement*/$script,important
+advertisement$script,important
 ||microsofttranslator.com^$important
 ||skype.com^$important
 ||skypeassets.com^$important
@@ -121,8 +121,8 @@ ndtv.com##.mastheadwrap
 ndtv.com##.ad300mrec1
 ndtv.com##.ad300
 ndtv.com##.adcont
-/jquery.cookie.js$script,important,domain=thevideo.me|vidspot.net
-/cookie.jquery.js$script,important,domain=thevideo.me|vidspot.net
+jquery.cookie.js$script,important,domain=thevideo.me|vidspot.net
+cookie.jquery.js$script,important,domain=thevideo.me|vidspot.net
 comicbook.com##.next-article-tease
 ||mgid.com^$important
 yts.ag##.fd.button-green-download-big
@@ -340,7 +340,6 @@ whatsapp-button.js
 adflow.js
 entityrating.js
 istream.*##.amazonDeals
-crunchyroll.com/*/video.mp4
 track
 browserleaks.com##.twwt
 hanime.tv##.smart-banner-content.transition-all.align-center.justify-center.flex-row
@@ -381,7 +380,7 @@ mozilla.org###site-nonfx
 snowstorm*.js$script
 *snow.js$script
 wikia.com##.wds-global-footer
-js/tracking
+tracking$script
 onhax.*###text-5
 onhax.*###text-17
 onhax.*###respond
@@ -449,7 +448,6 @@ forbes.com##.ng-scope.items
 forbes.com##.default-expanded.article-trending-panel.article-sidebar-panel
 forbes.com##.\{\{vertical_class\}\}.\{\{sidebar_state\}\}.slash-background.article-sidebar.article-top-navigation
 forbes.com###fbs-ad-rail-article-\{\{article\.index\}\}
-||$script,domain=screenrant.com
 @@||cbr.com/wp-content/plugins/wp-minify/min^$script,domain=cbr.com
 iFramedAdTemplate
 hentaiplay.net###video_overlays
@@ -509,8 +507,7 @@ tmz.com###sidebar
 onhax.me##div[id^="bottom-promo-abdload"]
 onhax.me##div[id^="top-promo-dload"]
 9anime.*##.ads.toggler.mbtn.item
-*tracking/$script
-ab_appeal
+ab_appeal$script
 google.*###prm-pt
 kissanime.*##.divCloseBut
 9anime.*##.widget-title
@@ -597,7 +594,7 @@ mywatchseries.to##.add-comment
 mywatchseries.to##.general_button
 mywatchseries.to##a[href^="http://watchos.tv/"]
 mywatchseries.to###header-2
-.*/ads/
+ads$script
 torrentz2.eu##a[href="https://s3-us-west-2.amazonaws.com/www.movie4all.co/torrentz2/Download.html"]
 torrentz2.eu###M207402Composite105225
 torrentz2.eu##.download > dl:nth-of-type(1) > dd
@@ -921,5 +918,7 @@ deadline.com##.tags
 deadline.com##.pmc-related-link
 deadline.com##.related-article
 ||deadline.com^$csp=script-src 'self' platform.twitter.com *.twimg.com *.deadline.com
+screenrant.com##h3
+screenrant.com##.article-body > h2
 
 ||$third-party,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.red|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|hollywoodreporter.com|tomsguide.com|istream.is|thepiratebay.org|comicbook.com|screenrant.com|pornhub.com|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|123movies.is|123movies.to|123movies.gs|123movies.msk.ru|123movies.moscow|123-movie.ru|123movies-proxy.ru|123movies.ru|123movies.vc|123movies.cz|123movies.pp.ru|thewindowsclub.com
