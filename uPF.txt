@@ -911,5 +911,11 @@ deadline.com##.pmc-properties
 deadline.com###deadline-latest-vertical-news-3
 deadline.com##.marketplace-title.widget-title
 deadline.com##.markplace-ads
+deadline.com###cse-search-form
+deadline.com##.widget_deadline_voices_widget.widget-container
+deadline.com##.widget_deadline_in_preview.widget-container
+deadline.com##.widget_deadline_featured_comment.widget-container
+deadline.com##.dl-now-widget
+deadline.com##.widget_deadline_by_numbers_widget.widget-container
 
 ||$third-party,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|thepiratebay.red|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|hollywoodreporter.com|tomsguide.com|istream.is|thepiratebay.org|comicbook.com|screenrant.com|pornhub.com|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|123movies.is|123movies.to|123movies.gs|123movies.msk.ru|123movies.moscow|123-movie.ru|123movies-proxy.ru|123movies.ru|123movies.vc|123movies.cz|123movies.pp.ru|thewindowsclub.com
