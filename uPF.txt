@@ -7,7 +7,6 @@
 watchfree.to##.get_vpn
 watchfree.to##.comment_box
 watchfree.to##.below_player
-||screenrant.com/wp-content/themes/screenrant/ajax-action.php$xmlhttprequest
 screenrant.com##.info-wrap
 screenrant.com##.load-wrap.ajaxLoader
 screenrant.com##.switch.share-switch
