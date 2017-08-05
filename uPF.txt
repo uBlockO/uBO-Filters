@@ -594,10 +594,8 @@ mywatchseries.to##.general_button
 mywatchseries.to##a[href^="http://watchos.tv/"]
 mywatchseries.to###header-2
 ads$script
-torrentz2.eu##a[href="https://s3-us-west-2.amazonaws.com/www.movie4all.co/torrentz2/Download.html"]
-torrentz2.eu###M207402Composite105225
-torrentz2.eu##.download > dl:nth-of-type(1) > dd
-torrentz2.eu##.AcceptableTextAds
+torrentz2.eu##.downlinks > dl:nth-of-type(1) > dd
+torrentz2.eu##a[href="/ipsum"]
 istream.*##.button
 pornhub.*##script:inject(abort-on-property-write.js, UAParser)
 hentaihaven.org##script:inject(abort-on-property-read.js, desktop_variants)
