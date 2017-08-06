@@ -869,7 +869,7 @@ denofgeek.com##.block-facebook-comments-block.block
 denofgeek.com##.breadcrumb-list
 denofgeek.com##.field-group-simplediv.group-tags.group_tags.field-group-format
 denofgeek.com##.field-name-field-see-related.field
-||denofgeek.com^$csp=script-src 'self' 'unsafe-inline' *.denofgeek.com
+||denofgeek.com^$csp=script-src 'self' 'unsafe-inline' *.denofgeek.com platform.twitter.com *.twimg.com platform.instagram.com
 ghacks.net###snippet-box
 ghacks.net###post-author
 ghacks.net##hr
