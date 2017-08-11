@@ -921,7 +921,7 @@ comicbook.com##strong
 comicbook.com##.gallery-preview-link
 ||torrentz2.eu^$csp=script-src 'self' 'unsafe-inline'
 ||thepiratebay.*^$csp=script-src 'self' 'unsafe-inline'
-||ugbase.eu^$csp=script-src 'self' 'unsafe-inline'
+||ugbase.eu^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 ||cinemablend.com^$csp=script-src 'self' 'unsafe-inline' platform.twitter.com *.twimg.com platform.instagram.com
 flickr.com##.fluid-modal-overlay
 flickr.com###preloaded-ad-frame
