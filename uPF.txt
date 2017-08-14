@@ -484,6 +484,7 @@ windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,tesla
 windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##script:inject(setTimeout-defuser.js, displayNoneImportant)
 windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##a[href^="https://ad.doubleclick.net/"]
 windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##a[href^="https://www.mintsim.com/"]
+windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##.grid_comm
 ||$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval',domain=windowscentral.com|androidcentral.com|imore.com|crackberry.com|vrheads.com|teslacentral.com|connectedly.com|youtube.com
 @@fontawesome^$stylesheet,font
 porncomics.biz,milftoon.info###popupOverlay
