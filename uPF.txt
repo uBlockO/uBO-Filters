@@ -971,5 +971,17 @@ ign.com###promo_breakingnews_img_container
 @@||imgur.com^$image,third-party
 mcuexchange.com##a[href^="http://astore.amazon.com"]
 mcuexchange.com##.aalb-pa-ad-unit
+movieweb.com##.site-nav-social
+movieweb.com##.site-footer-social-links
+movieweb.com##.media-nav
+movieweb.com##.article-header-social
+movieweb.com##.current-article-actions
+movieweb.com##.sidebar
+movieweb.com##.article-followistic
+movieweb.com##.article-more
+movieweb.com##.article-ad-content
+movieweb.com##.article-more-videos
+movieweb.com##.article-tags
+||movieweb.com^$csp=script-src 'self' platform.twitter.com *.twimg.com
 
 ||$third-party,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|tomsguide.com|istream.is|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|thewindowsclub.com
