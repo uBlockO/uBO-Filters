@@ -155,7 +155,7 @@ gadgets.ndtv.com##.fr.stickysocial
 gadgets.ndtv.com##a[href="http://hi.gadgets360.com/mobiles/xiaomi-redmi-3s-prime-review-hindi-reviews-1442180"]
 milfzr.com,finalservers.net,fullstuff.co,nmac.to,quickfever.com,avaxhome.co,blockadblock.com,usapoliticstoday.com,animmex.*,zahipedia.net,jaguartrials.net,onhax.me,apkmos.com,sadeemapk.com,zahitvstation.com##script:inject(bab-defuser.js)
 cnet.com##.hide.popOut.videoContainer
-comicbook.com##a[href="http://amzn.to/28Wrjtb"]
+comicbook.com##a[href^="http://amzn.to/"]
 ||airtel.*^$third-party
 thevideo.me##.text-right.col-lg-3
 thevideo.me##.col-sm-3
@@ -832,7 +832,7 @@ sranalytics
 comicbook.com##.categorysocial_lst
 comicbook.com##.about
 comicbook.com##.server_blk
-||comicbook.com^$csp=script-src 'self' *.comicbook.com 'unsafe-inline' platform.twitter.com *.instagram.com *.twimg.com *.redditmedia.com
+||comicbook.com^$csp=script-src 'self' *.comicbook.com 'unsafe-inline' 'unsafe-eval' platform.twitter.com *.instagram.com *.twimg.com 
 variety.com###leaderboard
 variety.com##.header-utilities
 variety.com##.subscribe-aside
@@ -983,5 +983,9 @@ movieweb.com##.article-ad-content
 movieweb.com##.article-more-videos
 movieweb.com##.article-tags
 ||movieweb.com^$csp=script-src 'self' platform.twitter.com *.twimg.com
+screenrant.com##.sidebar
+cbr.com##.section-right
+cbr.com###secondary
+comicbook.com##.slider-component
 
 ||$third-party,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|tomsguide.com|istream.is|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|thewindowsclub.com
