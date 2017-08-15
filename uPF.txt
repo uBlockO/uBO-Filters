@@ -428,7 +428,6 @@ wp-adblock-dedect*$important
 fuckadblock.js
 apkmos.com##.adsbygoogle
 apkmos.com##.td_block_wrap
-comicbook.com##.aligncenter
 apkmos.com##.td-header-top-menu-full
 readcomics.tv##.main-share
 quora.com##.footer_alphabet
