@@ -965,6 +965,7 @@ ign.com##.info-container
 ign.com##.clear-fix.article-tail
 ign.com##.widget-objectcard
 ign.com##.hero-unit-sidekick
+ign.com###promo_breakingnews_img_container
 ||ign.com/video-player/$script
 ||ign.com^$csp=script-src 'self' *.ign.com *.ignimgs.com platform.twitter.com *.twimg.com *.instagram.com 'unsafe-inline' 'unsafe-eval'
 
