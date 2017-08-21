@@ -521,7 +521,6 @@ adblock-detector$script,important
 ||hackintosh.zone/advjs/bin/jso.php^$script
 cnbc.com##script:inject(abort-on-property-write.js, cnbc.canShowAds)
 openload.*,oload.tv##script:inject(abort-on-property-read.js, adblock2)
-openload.*,oload.tv##script:inject(setTimeout-defuser)
 openload.*,oload.tv##script:inject(abort-on-property-read.js, adblock)
 openload.*,oload.tv##script:inject(abort-on-property-read.js, popAdsLoaded)
 ||openload.*/*license
@@ -995,5 +994,6 @@ cookieconsent.min$important
 @@||$media,domain=kimcartoon.me|kissanime.ru
 @@||9anime.*^$elemhide
 @@||fmovies.*^$elemhide
+@@||openload.co/assets/js/script.*.js$domain=openload.co,badfilter
 
 ||$third-party,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|tomsguide.com|istream.is|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|thewindowsclub.com
