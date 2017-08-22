@@ -936,7 +936,6 @@ myanimelist.net##.icon-block-small.js-sns-icon-container
 |http:$third-party,popup,domain=fmovies.is,badfilter
 ||milfzr.com^$csp=script-src 'self' *.jwpcdn.com 'unsafe-inline'
 milfzr.com##a[href^="//"]
-outlook.live.com##._n_25
 myanimelist.net##.js-sns-icon-container
 screenrant.com,cbr.com##.injected-video-by-load
 ~$badfilter
