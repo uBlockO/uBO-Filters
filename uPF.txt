@@ -772,7 +772,7 @@ endscreen$script
 ads_*$xmlhttprequest,important
 ultra-h.com##script:inject(abort-on-property-read.js, open)
 ultra-h.com##script:inject(abort-on-property-read.js, adBlockDetected)
-plg_jchoptimize
+plg_jchoptimize$script
 xmovies8.org##script:inject(abort-on-property-read.js, $.getScript)
 solidfiles.com##script:inject(abort-on-property-read.js, open)
 solidfiles.com#@#.buttons
