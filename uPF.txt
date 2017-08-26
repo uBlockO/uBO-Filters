@@ -621,7 +621,7 @@ fmovies.*,9anime.*##a[href^="https://mgid.com/"]
 pornhub.com##.adlink2
 kissanime.*###adsIfrme7
 ||kissasian.com/*.aspx
-zippyshare.com##script:inject(abort-on-property-read.js, userAgent)
+zippyshare.com##script:inject(abort-on-property-read.js, navigator.userAgent)
 pornhub.com##script:inject(abort-on-property-read.js, open)
 metrics:recordPageloadMetrics
 gogoanime.*##.add_ads3
