@@ -977,5 +977,13 @@ showads.js$important
 receive-a-sms.com##script:inject(abort-current-inline-script.js, $, showads.js)
 flixanity.*##.sources
 comicbook.com##.button-wide.button-blue-gradient.button
+comicbook.com##.vdb_player
+comicbook.com##.clearfix.channel-nav
+comicbook.com##.embed
+comicbook.com##.sidebar-sticky.sidebar
+comicbook.com##.gallery-preview-link
+comicbook.com##.about
+comicbook.com##.header-still.article-centered.footer-set.feature-row.contentset
+comicbook.com##.footer-set.feature-column.contentset
 
 ||$third-party,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|tomsguide.com|istream.is|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|thewindowsclub.com
