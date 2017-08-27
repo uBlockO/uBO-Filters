@@ -758,7 +758,7 @@ omegaunderground.com##.youtube_embed_widget.widget
 omegaunderground.com##.widget_text.widget
 omegaunderground.com###sidebar-footer
 comicbook.com##.photo-gallery.content-gallery > footer
-comicbook.com##.button
+
 comicbook.com##.modern-slide-show.content-gallery > footer
 comicbook.com##.five-feature.contentset
 comicbook.com##.feature-column.contentset
@@ -916,7 +916,6 @@ screenrant.com##h3
 screenrant.com##.article-body > h2
 comicbook.com##.sidebar-sticky.sidebar
 comicbook.com##strong
-comicbook.com##.gallery-preview-link
 ||torrentz2.eu^$csp=script-src 'self' 'unsafe-inline'
 ||thepiratebay.*^$csp=script-src 'self' 'unsafe-inline'
 ||ugbase.eu^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
