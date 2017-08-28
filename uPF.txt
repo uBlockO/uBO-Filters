@@ -990,5 +990,8 @@ comicbook.com##.footer-set.feature-column.contentset
 ||office.*^$behind-the-scene
 ||microsoft.com^$third-party,behind-the-scene
 ||evernote.com^$behind-the-scene
+||baydin.com^$behind-the-scene
+||bing.com^$behind-the-scene
+||olsvc.com^$behind-the-scene
 
 ||$third-party,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|tomsguide.com|istream.is|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|thewindowsclub.com
