@@ -127,6 +127,7 @@ monova.org##._skip.container-bt
 monova.org##.section-b.container-bt
 ||sharethis.com^$important
 ||openload.co/reward$xmlhttprequest,important
+||oload.tv/reward$xmlhttprequest,important
 gyazo.com###versionup
 pornhub.com##.abovePlayer
 pornhub.com##.clear.hd.jisfhp0w2u
@@ -317,9 +318,10 @@ hollywoodreporter.com##.blog-post-syndication-section
 @@||zencdn.net^$stylesheet,font
 @@||googleusercontent.com^$stylesheet,media,font,image,xmlhttprequest
 @@||openload.co/embed^
+@@||oload.tv/embed^
 @@||opensubtitles.org$xmlhttprequest,third-party
 screenrant.com##.read-next
-openload.co##.center
+openload.co,oload.tv##.center
 wegotthiscovered.com##.footer.entry-footer.e-footer
 wegotthiscovered.com##.embed-yt-shorcode
 wegotthiscovered.com##.print-wrap
@@ -327,7 +329,7 @@ wegotthiscovered.com##.zerg-sidebar-header
 wegotthiscovered.com##.newsletter
 wegotthiscovered.com##.widget-wgtc-social-follow.widget-wrap
 superherohype.com###js-sidebar
-openload.co##a[href="http://steepto.com/"]
+openload.co,oload.tv##a[href="http://steepto.com/"]
 whatsapp-button.js
 adflow.js
 entityrating.js
@@ -733,7 +735,7 @@ prnt.sc##.social
 prnt.sc##.top-grundik
 ||thepiratebay.org/*.php?$badfilter
 kimcartoon.*##.videoAdClose
-openload.co##script:inject(abort-on-property-read.js, open)
+openload.co,oload.tv##script:inject(abort-on-property-read.js, open)
 xnxx.com,xvideos.com##.sponsor-popup
 facebook.com##._5pcr._7xp
 @@||d3ujids68p6xmq.cloudfront.net^$script,domain=beta.speedtest.net,badfilter
@@ -910,6 +912,7 @@ myanimelist.net##.icon-block-small.js-sns-icon-container
 ||hentaihaven.org^$csp=script-src 'self' 'unsafe-eval' 'unsafe-inline'
 @@||spotscenered.info/scripts/infinity.js.aspx?guid=$script,domain=watchfree.to,badfilter
 ||openload.co^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
+||oload.tv^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 |http:$third-party,popup,domain=fmovies.is,badfilter
 ||milfzr.com^$csp=script-src 'self' *.jwpcdn.com 'unsafe-inline'
 milfzr.com##a[href^="//"]
