@@ -963,7 +963,7 @@ movieweb.com##.article-tags
 screenrant.com##.sidebar
 cbr.com##.section-right
 cbr.com###secondary
-||dailymail.co.uk^$csp=script-src 'self' 'unsafe-inline' *.dailymail.co.uk
+||dailymail.co.uk^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.dailymail.co.uk
 ||mywatchseries.to^$csp=script-src 'self' 'unsafe-inline' *.mywatchseries.to
 mywatchseries.to##a[href^="//"]
 watchfree.to##.header_docs
