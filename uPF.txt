@@ -184,7 +184,6 @@ cbr.com##.is-visible.w-sticky-header
 cbr.com##.load-wrap.ajaxLoader
 cbr.com##.comment
 cbr.com##.author-tag-block
-||cbrimages.com^$third-party
 ||cbr.com/wp-content/themes/cbr/ajax-action.php?action=loadMorePost&ajax_post_id=*&hash=*$xmlhttprequest
 ||gadgets.ndtv.com/Scripts/popup/gadgetsnotification.js$script
 kissanime.*##strong
