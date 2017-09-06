@@ -775,7 +775,6 @@ uplod.ws##script:inject(abort-on-property-read.js, $.ready)
 uplod.ws##.dl-plus
 uplod.ws##.fmore
 uplod.ws##.boxa
-kimcartoon.*##a[href^="//"]
 ||scorecardresearch.com^$important
 ads.js$script,important
 autoplay=1^$inline-script,script
@@ -914,7 +913,6 @@ myanimelist.net##.icon-block-small.js-sns-icon-container
 ||oload.tv^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 |http:$third-party,popup,domain=fmovies.is,badfilter
 ||milfzr.com^$csp=script-src 'self' *.jwpcdn.com 'unsafe-inline'
-milfzr.com##a[href^="//"]
 myanimelist.net##.js-sns-icon-container
 screenrant.com,cbr.com##.injected-video-by-load
 ~$badfilter
@@ -964,7 +962,6 @@ cbr.com##.section-right
 cbr.com###secondary
 ||dailymail.co.uk^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.dailymail.co.uk
 ||mywatchseries.to^$csp=script-src 'self' 'unsafe-inline' *.mywatchseries.to
-mywatchseries.to##a[href^="//"]
 watchfree.to##.header_docs
 cookieconsent.min$important
 @@||$media,domain=kimcartoon.me|kissanime.ru
@@ -1015,7 +1012,7 @@ forbes.com##.top-ad-container
 forbes.com##.fs-text-l
 portableapps.com##script:inject(setTimeout-defuser.js, ad blocker)
 googleblog.com##a[href^="https://plus.google.com/"]
-kisscartoon.io,kissasian.*##script:inject(abort-current-inline-script.js, eval, catch(l))
+kisscartoon.io,kissasian.*,milfzr.com,kimcartoon.*##script:inject(abort-current-inline-script.js, eval, catch(l))
 @@||kisscartoon.io^$first-party,script,badfilter
 kisscartoon.io##script:inject(adb.js)
 
