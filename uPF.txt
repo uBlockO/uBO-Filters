@@ -1012,7 +1012,7 @@ forbes.com##.top-ad-container
 forbes.com##.fs-text-l
 portableapps.com##script:inject(setTimeout-defuser.js, ad blocker)
 googleblog.com##a[href^="https://plus.google.com/"]
-kisscartoon.io,kissasian.*,milfzr.com,kimcartoon.*##script:inject(abort-current-inline-script.js, eval, catch(l))
+kisscartoon.io,kissasian.*,milfzr.com,kimcartoon.*##script:inject(abort-current-inline-script.js, eval, catch)
 @@||kisscartoon.io^$first-party,script,badfilter
 kisscartoon.io##script:inject(adb.js)
 ||googlevideo.io^
