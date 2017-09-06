@@ -69,7 +69,8 @@ truecaller.com###result-page-top-unit
 truecaller.com##main > .page--search.page > div:nth-of-type(2)
 comingsoon.net##.btn.js-show-comments
 ||cloudfront.net^$script
-lowendbox.com##a[href="http://www.beastnode.com"]
+lowendbox.com##a[href^="https://buysellads.com/"]
+lowendbox.com##a[href^="http://www.colocrossing.com"]
 arstechnica.com###article-footer-wrap
 solidfiles.com##.remove
 solidfiles.com##.buttons
