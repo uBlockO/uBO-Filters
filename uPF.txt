@@ -893,8 +893,6 @@ deadline.com##.tags
 deadline.com##.pmc-related-link
 deadline.com##.related-article
 ||deadline.com^$csp=script-src 'self' platform.twitter.com *.twimg.com *.deadline.com
-screenrant.com##h3
-screenrant.com##.article-body > h2
 ||torrentz2.eu^$csp=script-src 'self' 'unsafe-inline'
 ||thepiratebay.*^$csp=script-src 'self' 'unsafe-inline'
 ||ugbase.eu^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
