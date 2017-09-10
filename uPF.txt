@@ -511,7 +511,7 @@ quora.com##.PromptsList
 kissanime.*##.videoAdClose
 sciencechannel.com##.share-menu-container
 ||googlesyndication.com$important
-rodale.tv,rodalewellness.com,rodalesorganiclife.com,bicycling.com,runnersworld.com,prevention.com,menshealth.com,womenshealthmag.com##script:inject(setTimeout-defuser.js, showForm)
+rodale.tv,rodalewellness.com,rodalesorganiclife.com,bicycling.com,runnersworld.com,prevention.com,menshealth.com,womenshealthmag.com##script:inject(setTimeout-defuser.js, adblock)
 adblock-detector$script,important
 ||hackintosh.zone/advjs/bin/jso.php^$script
 cnbc.com##script:inject(abort-on-property-write.js, cnbc.canShowAds)
