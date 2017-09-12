@@ -1019,8 +1019,8 @@ kisscartoon.io##script:inject(adb.js)
 @@||startpage.com/js/abp.js^$badfilter
 rexdlfile.com##script:inject(abort-current-inline-script.js, onload, catch)
 ||datasaver.googleapis.com^$domain=behind-the-scene
-||ugbase.eu^$csp=frame-src 'self'
-||cbr.com^$csp=frame-src 'self'
+||ugbase.eu^$csp=frame-src 'self' *.youtube.com *.ytimg.com
+||cbr.com^$csp=frame-src 'self' *.youtube.com *.ytimg.com
 ||fmovies.to^$first-party,popup,badfilter
 youtube.com##.style-default.force-icon-button.ytd-menu-renderer.style-scope
 jessehakanen.net##script:inject(od.js)
