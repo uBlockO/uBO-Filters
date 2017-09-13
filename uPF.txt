@@ -35,7 +35,7 @@ movieweb.com##.head-1.heading
 ||forbes.com/ajax/getUniregUserData?naturalId=blogAndPostId%2Fblog%2Fpost%2F2595-31057$xmlhttprequest,domain=www.forbes.com
 ||forbes.com/forbesapi/stats/topStories.json?channel=channel_1&fields=primaryChannelId,storyType,blogType,advoiceBrand,shortUri,title,naturalId,authors,image&mobile=false&naturalid=blogAndPostId%2Fblog%2Fpost%2F2595-31057&objects=true&stream=true$xmlhttprequest,domain=www.forbes.com
 ||forbes.com/statsapi/page/all/20/id.json2?id=blogAndPostId%2Fblog%2Fpost%2F2595-31057$xmlhttprequest,domain=www.forbes.com
-||forbes.com/forbesapi/promote/get.json?all=true&location=header&type=map$xmlhttprequest,domain=www.forbes.com
+||forbes.com/forbesapi/promote/$xmlhttprequest,domain=www.forbes.com
 ###comments
 heroichollywood.com##.adbox-long
 heroichollywood.com##.adbox-sidebar
@@ -918,7 +918,7 @@ screenrant.com,cbr.com##.injected-video-by-load
 whatismyreferer.com##a[href^="https://en.ryte.com/"]
 forbes.com##.collapse-sharing-login.slash-background.article-sidebar.article-top-navigation
 forbes.com##.ng-scope.video_placeholder
-||forbes.com^$csp=script-src 'self' 'unsafe-inline' *.forbesimg.com platform.twitter.com *.twimg.com
+||forbes.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.forbesimg.com platform.twitter.com *.twimg.com
 androidpolice.com###sbar
 androidpolice.com##.ap-hottest-content-wrapper
 androidpolice.com##.post-footer-meta
@@ -1030,6 +1030,5 @@ adblock$important,script
 facebook.com##._50z3._9bp._1ltv
 facebook.com##._55ob._4kqp
 baltimoresun.com,boston.com,calgaryherald.com,calgarysun.com,capitalgazette.com,carrollcountytimes.com,chicagotribune.com,chowhound.com,chroniclelive.co.uk,citypaper.com,cnet.com,comingsoon.net,computershopper.com,courant.com,csgoutpost.com,ctnow.com,cycleworld.com,dailypress.com,deathandtaxesmag.com,delmartimes.net,dogtime.com,edmontonjournal.com,edmontonsun.com,edmunds.com,everydayhealth.com,extremetech.com,fieldandstream.com,financialpost.com,gamerevolution.com,gofugyourself.com,growthspotter.com,hearthhead.com,hockeysfuture.com,hoylosangeles.com,ibtimes.com,infinitiev.com,lajollalight.com,leaderpost.com,legacy.com,lifewire.com,lolking.net,mcall.com,mamaslatinas.com,metacritic.com,metrolyrics.com,mmo-champion.com,montrealgazette.com,msn.com,nasdaq.com,nationalpost.com,newsarama.com,orlandosentinel.com,ottawacitizen.com,ottawasun.com,pcmag.com,popphoto.com,popsci.com,ranchosantafereview.com,ranker.com,realclearpolitics.com,redeyechicago.com,sandiegouniontribune.com,saveur.com,seattlepi.com,sherdog.com,southflorida.com,spin.com,sporcle.com,stereogum.com,sun-sentinel.com,tf2outpost.com,thebalance.com,theprovince.com,thespruce.com,thestarphoenix.com,thoughtco.com,timeanddate.com,torontosun.com,tv.com,twincities.com,vancouversun.com,vibe.com,wikia.com,windsorstar.com,winnipegsun.com,wowhead.com,wrestlezone.com,zam.com##script:inject(abort-on-property-read.js, atob)
-
 
 ||$third-party,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|tomsguide.com|istream.is|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|thewindowsclub.com
