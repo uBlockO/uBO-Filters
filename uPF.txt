@@ -540,12 +540,13 @@ facebook.com##.home_right_column
 ||facebook.com/*/logging^$important
 myanimelist.net##.amazon.btn-affiliate
 zippyshare.com,xvideos.com,xnxx.com##script:inject(noeval.js)
-@@||jsdelivr.net^$domain=8muses.com|hanime.tv
+@@||jsdelivr.net^$stylesheet,image,media
+@@||jsdelivr.net^$script,domain=8muses.com|hanime.tv
 imdb.com##.aux-content-widget-2:nth-of-type(4)
 imdb.com###title-overview-widget > .article
 imdb.com##.ab_ninja
 annotations$script
-@@||ampproject.org^$image
+@@||ampproject.org^$image,stylesheet,media
 9cartoon.me##.avm
 9cartoon.me##.banner_center
 9cartoon.me##.more_anime
