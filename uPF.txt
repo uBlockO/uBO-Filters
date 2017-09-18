@@ -1013,7 +1013,7 @@ portableapps.com##script:inject(setTimeout-defuser.js, ad blocker)
 googleblog.com##a[href^="https://plus.google.com/"]
 kissasian.*,milfzr.com,kimcartoon.*##script:inject(noeval-if.js, catch)
 @@||kisscartoon.*^$first-party,script,badfilter
-kisscartoon.*##script:inject(adb.js)
+kisscartoon.*,kimcartoon.*##script:inject(adb.js)
 ||googlevideo.io^
 ||free-contents.org^
 @@||startpage.com/js/abp.js^$badfilter
@@ -1040,6 +1040,9 @@ moviepilot.com###mc_embed_signup
 9cartoon.me##a[href^="http://chiaanime.co/"]
 9cartoon.me##a[href^="https://goo.gl/"]
 ||piguiqproxy.com/*^$xmlhttprequest,important,redirect=nooptext,domain=kimcartoon.me|kissanime.ru
-kisscartoon.*##a[href^="//"]
+kisscartoon.*,kimcartoon.*##a[href^="//"]
+kimcartoon.*,kisscartoon.*##.alert-info.alert
+kimcartoon.*,kisscartoon.*##.mb15.full
+kimcartoon.*,kisscartoon.*###btnShowComments
 
 ||$third-party,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|tomsguide.com|istream.is|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|thewindowsclub.com
