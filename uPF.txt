@@ -1020,8 +1020,6 @@ kisscartoon.*##script:inject(adb.js)
 @@||startpage.com/js/abp.js^$badfilter
 rexdlfile.com##script:inject(abort-current-inline-script.js, onload, catch)
 ||datasaver.googleapis.com^$domain=behind-the-scene
-||ugbase.eu^$csp=frame-src 'self' *.youtube.com *.ytimg.com
-||cbr.com^$csp=frame-src 'self' *.youtube.com *.ytimg.com
 ||fmovies.to^$first-party,popup,badfilter
 youtube.com##.style-default.force-icon-button.ytd-menu-renderer.style-scope
 jessehakanen.net##script:inject(od.js)
@@ -1042,6 +1040,6 @@ moviepilot.com###mc_embed_signup
 1337x.to##.bitcoin
 9cartoon.me##a[href^="http://chiaanime.co/"]
 9cartoon.me##a[href^="https://goo.gl/"]
-||piguiqproxy.com^$xmlhttprequest,important,redirect=nooptext,domain=kimcartoon.me|kissanime.ru
+||*.piguiqproxy.com/*^$xmlhttprequest,important,redirect=nooptext,domain=kimcartoon.me|kissanime.ru
 
 ||$third-party,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|tomsguide.com|istream.is|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|thewindowsclub.com
