@@ -1039,7 +1039,7 @@ moviepilot.com###mc_embed_signup
 1337x.to##.bitcoin
 9cartoon.me##a[href^="http://chiaanime.co/"]
 9cartoon.me##a[href^="https://goo.gl/"]
-||piguiqproxy.com^$xmlhttprequest,important,redirect=nooptext,domain=kimcartoon.me|kissanime.ru|torrentz2.eu
+||torrentz2.eu^$inline-script
 kisscartoon.*,kimcartoon.*##a[href^="//"]
 kimcartoon.*,kisscartoon.*##.alert-info.alert
 kimcartoon.*,kisscartoon.*##.mb15.full
