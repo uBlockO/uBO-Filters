@@ -607,7 +607,7 @@ androidcentral.com,windowscentral.com##.mn_mbn_share
 gyazo.com##.image-infos
 @@||mycloud.to/embed^$third-party
 @@||fmovies.*/assets/movie^$image
-thepiratebay.*##script:inject(abort-on-property-read.js, _wm_settings)
+thepiratebay.*##script:inject(abort-on-property-read.js, open)
 cbr.com##.quiz-share-btn-wrapper
 celebjihad.com##a[href^="https://www.celebjihad.com/widget/"]
 aol.*,huffingtonpost.*##script:inject(abort-on-property-write.js, _sp_)
