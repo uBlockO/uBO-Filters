@@ -1048,5 +1048,6 @@ torrentz2.eu,watchcartoonsonline.eu##script:inject(abort-on-property-read.js, pe
 ||thepiratebay.*/*/$inline-script,subdocument
 @@||screenrant.com^$elemhide
 screenrant.com##.ad-zone-container
+||kimcartoon.me^$csp=script-src 'self' 'unsafe-eval' 'unsafe-inline' *.zencdn.net blob:
 
 ||$third-party,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|tomsguide.com|istream.is|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|thewindowsclub.com
