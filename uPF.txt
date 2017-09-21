@@ -869,7 +869,7 @@ thathashtagshow.com###respond
 thathashtagshow.com##.widget_recent_comments.widget
 ||thathashtagshow.com^$csp=script-src 'self'
 hollywoodreporter.com##.readmore
-||hollywoodreporter.com^$csp=script-src 'self' 'unsafe-inline' *.instagram.com platform.twitter.com *.twimg.com players.brightcove.net *.zencdn.net
+||hollywoodreporter.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.instagram.com platform.twitter.com *.twimg.com players.brightcove.net *.zencdn.net
 techcrunch.com##.article-extra
 techcrunch.com##.demo-block.l-sidebar
 techcrunch.com##.nav-fb-messenger
