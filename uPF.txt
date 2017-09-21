@@ -1043,7 +1043,7 @@ kimcartoon.*,kisscartoon.*##.alert-info.alert
 kimcartoon.*,kisscartoon.*##.mb15.full
 kimcartoon.*,kisscartoon.*###btnShowComments
 torrentz2.eu,watchcartoonsonline.eu##script:inject(abort-on-property-read.js, performance)
-||piguiqproxy.com$xmlhttprequest,redirect=noopjs,domain=kimcartoon.me
+||piguiqproxy.com^$xmlhttprequest,redirect=noopjs,domain=kimcartoon.me
 @@||fastly.net/assets/$script,domain=gitlab.com
 ||thepiratebay.*/*/$inline-script,subdocument
 
