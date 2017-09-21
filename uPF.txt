@@ -902,7 +902,7 @@ flickr.com###preloaded-ad-frame
 flickr.com##.flickr-view-root-view.fluid-modal-view.view
 ad-view$script,important
 ||kissanime.ru^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
-||kimcartoon.me^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.zencdn.net
+||kimcartoon.me^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.zencdn.net blob:
 ||myanimelist.net^$csp=script-src 'self' *.cdn-dena.com 'unsafe-eval' 'unsafe-inline'
 @@||myanimelist.net^$elemhide
 myanimelist.net##.icon-block-small.js-sns-icon-container
@@ -1011,9 +1011,9 @@ forbes.com##.top-ad-container
 forbes.com##.fs-text-l
 portableapps.com##script:inject(setTimeout-defuser.js, ad blocker)
 googleblog.com##a[href^="https://plus.google.com/"]
-kissasian.*,milfzr.com,kimcartoon.*##script:inject(noeval-if.js, catch)
+kissasian.*,milfzr.com##script:inject(noeval-if.js, catch)
 @@||kisscartoon.*^$first-party,script,badfilter
-kisscartoon.*,kimcartoon.*##script:inject(adb.js)
+kisscartoon.*,kimcartoon.io##script:inject(adb.js)
 ||googlevideo.io^
 ||free-contents.org^
 @@||startpage.com/js/abp.js^$badfilter
@@ -1045,7 +1045,6 @@ kimcartoon.*,kisscartoon.*##.mb15.full
 kimcartoon.*,kisscartoon.*###btnShowComments
 torrentz2.eu,watchcartoonsonline.eu##script:inject(abort-on-property-read.js, performance)
 @@||fastly.net/assets/$script,domain=gitlab.com
-||piguiqproxy.com^$xmlhttprequest,redirect=noopjs,domain=kimcartoon.me
 ||thepiratebay.*/*/$inline-script,subdocument
 
 ||$third-party,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|tomsguide.com|istream.is|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|thewindowsclub.com
