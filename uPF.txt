@@ -891,7 +891,7 @@ deadline.com##.widget_deadline_by_numbers_widget.widget-container
 deadline.com##.tags
 deadline.com##.pmc-related-link
 deadline.com##.related-article
-||deadline.com^$csp=script-src 'self' platform.twitter.com *.twimg.com *.deadline.com *.wp.com
+||deadline.com^$csp=script-src 'self' platform.twitter.com *.twimg.com *.deadline.com *.wp.com 'unsafe-inline'
 ||torrentz2.eu^$csp=script-src 'self' 'unsafe-inline'
 ||thepiratebay.*^$csp=script-src 'self' 'unsafe-inline'
 ||ugbase.eu^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
@@ -1031,7 +1031,7 @@ howtogeek.com##.article-extras
 howtogeek.com##.third.footer-col
 ||howtogeek.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 comicbook.com##.aligncenter
-||appshot.com^$domain=~first-party
+||appspot.com^$domain=behind-the-scene
 /([0-9]{1,3}\.){3}[0-9]{1,3}/$popup,domain=briansarmiento.website|divxatope1.com|kissanime.ru|newpct.com|pelisplus.tv|rapidvideo.com|strikeout.co|torrentz2.eu,badfilter
 moviepilot.com###mc_embed_signup
 1337x.to##.bitcoin
