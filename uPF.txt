@@ -1056,7 +1056,6 @@ comicbook.com##.modernInContent
 comicbook.com##a[href^="https://app.viralsweep.com/"]
 comicbook.com##a[href^="http://regmovi.es/"]
 facebook.com##._4nef.fbUserContent._5pcr
-||gstatic.com/og/*/rt=j/m=ld$script
 comicbook.com##P.aligncenter
 comicbook.com##IMG[alt="Kingsman_Banner"][title="Kingsman_Banner"]
 @@||embed.tawk.to^$script,domain=andrija-i-andjelka.com|clik.pw|debrideco.com|streamlord.com,badfilter
