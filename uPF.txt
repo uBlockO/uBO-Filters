@@ -428,7 +428,6 @@ readcomics.tv##.main-share
 quora.com##.footer_alphabet
 quora.com##.ContentPageFeed
 9cartoon.me##.anime_video_body_watch_items > .anime_video_body_watch_items > div:nth-of-type(1)
-ghacks.net###sidebar
 birthmoviesdeath.com##.Article-authorContainer.Article-aside
 birthmoviesdeath.com##.Ad--footer.Ad
 birthmoviesdeath.com##.ssk-grayscale.ssk-count.ssk-group
@@ -858,6 +857,10 @@ ghacks.net##.nav-prev
 ghacks.net##.post-entries
 ghacks.net##strong
 ghacks.net##.tags
+ghacks.net###sidebar
+ghacks.net##.entry > div:has-text(Advertisement)
+ghacks.net##.entry > div:has-text(Read)
+ghacks.net##.post-comments
 ||ghacks.net^$csp=script-src 'self' 'unsafe-inline'
 youtube.com###movie-upsell-card
 youtube.com##.yt-lockup-movie-vertical-poster.yt-lockup-tile.yt-lockup
@@ -1086,12 +1089,12 @@ batman-news.com##.spread
 batman-news.com###disqus_thread
 batman-news.com##.entry-meta--footer.entry-meta
 facebook.com##._5pcr:has-text(People you may know)
+facebook.com##._5pcr:has-text(Connect with Facebook)
 kirtuclub.com##a[href^="http://sexdug.com/"]
 kirtuclub.com##a[href^="http://nudedesigirls.net/"]
 kirtuclub.com###foxyform_embed_link_885594
 kirtuclub.com##.widget_text.widget
 kirtuclub.com##.entry-meta:has-text(Posted in)
 kirtuclub.com##.wp_rp_wrap
-facebook.com##._5pcr:has-text(Connect with Facebook)
 
 ||$third-party,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|tomsguide.com|istream.is|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|thewindowsclub.com
