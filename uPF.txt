@@ -1086,5 +1086,11 @@ batman-news.com##.spread
 batman-news.com###disqus_thread
 batman-news.com##.entry-meta--footer.entry-meta
 facebook.com##._5pcr:has-text(People you may know)
+kirtuclub.com##a[href^="http://sexdug.com/"]
+kirtuclub.com##a[href^="http://nudedesigirls.net/"]
+kirtuclub.com###foxyform_embed_link_885594
+kirtuclub.com##.widget_text.widget
+kirtuclub.com##.entry-meta:has-text(Posted in)
+kirtuclub.com##.wp_rp_wrap
 
 ||$third-party,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|tomsguide.com|istream.is|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|thewindowsclub.com
