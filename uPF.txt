@@ -95,7 +95,7 @@ cinemablend.com##.facebook
 cinemablend.com##.blue_banner.snippet.partial
 cinemablend.com##.share_sharethis.partial
 kissanime.*###btnShowComments
-bulbapedia.bulbagarden.net###amazon-related
+bulbagarden.net###amazon-related
 mkvcage.com###text-5
 mkvcage.com##.alignnone
 porntube.com##.cpp
@@ -266,7 +266,7 @@ cbr.com##.video-block-ads.video-block
 cbr.com##.related-section
 azurewebsites.net^$third-party
 outlook.com^$third-party
-@@bulba-ad-host-website.azurewebsites.net^$domain=bulbagarden.net
+@@bulba-ad-host-website.azurewebsites.net^$stylesheet,domain=bulbagarden.net
 glodls.to/*/$inline-script
 microsoft.com^$third-party
 windowsreport.com##a[href^="http://www.reimageplus.com/includes/router_land.php"]
