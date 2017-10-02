@@ -289,7 +289,7 @@ duckduckgo.com##.js-tag-home.no-js__hide.tag-home--slide.tag-home
 timesofindia.indiatimes.com^$inline-script
 @@cdn-dena.com^$image,stylesheet,font,media
 heroichollywood.com##.crp_related
-couchtuner.site##a[href="/download.php"]
+mycouchtuner.ag##.comments_part
 @@wp.com^$stylesheet,image,font
 @@cloudfront.net^$stylesheet,image,media,font
 @@wordpress.com^$stylesheet,image,font
