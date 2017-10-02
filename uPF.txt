@@ -1103,5 +1103,11 @@ pornhub.com##.streamatesModelsContainer.sectionWrapper
 pornhub.com###under-player-playlists
 pornhub.com##.underplayer-thumbs.videos
 pornhub.com##.item-6.menu
+@@||speedtest.net/*/*bundle$script,first-party,badfilter
+@@||mapbox.com^$xmlhttprequest,domain=speedtest.net,badfilter
+@@/hello^$xmlhttprequest,domain=speedtest.net,badfilter
+@@/download^$xmlhttprequest,domain=speedtest.net,badfilter 
+@@/upload^$xmlhttprequest,domain=speedtest.net,badfilter
+|http://$xmlhttprequest,domain=speedtest.net,badfilter
 
 $third-party,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|tomsguide.com|istream.is|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|thewindowsclub.com
