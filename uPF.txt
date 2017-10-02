@@ -209,8 +209,6 @@ androidauthority.com/wp-admin/admin-ajax.php$xmlhttprequest
 androidauthority.com##.textwidget
 androidauthority.com##.postinfo
 heroichollywood.com##.author-box
-kisshentai.net##a[href="#"]
-kisshentai.net###show_id
 hanime.tv##.header-nav-item:nth-of-type(5)
 torrentfreak.com##.comments.pbx-alt.pbx
 comment.js$script,domain=1337x.to
@@ -647,7 +645,11 @@ boxofficemojo.com##.survey
 youtube.com/api/stats^$important
 log_event
 @@cdnjs.cloudflare.com/ajax/libs^$script,domain=hanime.tv
-kisshentai.net##script:inject(abort-on-property-read.js, BetterJsPop)
+kisshentai.*##script:inject(abort-on-property-read.js, BetterJsPop)
+kisshentai.*##a[href="#"]
+kisshentai.*###show_id
+kisshentai.*$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
+kisshentai.*##script:inject(abort-on-property-read.js, adblock)
 torrentz2.*##.SemiAcceptableAds
 @@imgclick.net^$image,domain=freeadultcomix.com
 @@netdna-cdn.com/wp-content^$image,stylesheet
@@ -1111,5 +1113,10 @@ pornhub.com##.item-6.menu
 @@/download^$xmlhttprequest,domain=speedtest.net,badfilter 
 @@/upload^$xmlhttprequest,domain=speedtest.net,badfilter
 |http://$xmlhttprequest,domain=speedtest.net,badfilter
+c-hive$script,important
+coinhive$script,important
+betterpop$script,important
+BetterJsPop$script,important
+@@/js/adframe.js$first-party,script,badfilter
 
 $third-party,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|tomsguide.com|istream.is|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|thewindowsclub.com
