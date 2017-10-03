@@ -1124,7 +1124,6 @@ screengeek.net##.td-post-source-tags
 screengeek.net##.author-box-wrap
 screengeek.net##.td-main-sidebar
 screengeek.net^$csp=script-src 'self' 'unsafe-inline' platform.twitter.com *.twimg.com platform.instagram.com
-||facebook.com/common/scribe_endpoint.php$badfilter
 @@||fastly.net/ad2/$xmlhttprequest,badfilter
 @@||fastly.net/ad2/$script,badfilter
 @@||fastly.net/ad2/$image,badfilter
