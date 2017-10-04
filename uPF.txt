@@ -320,7 +320,7 @@ myanimelist.net/static/logging.html$xmlhttprequest
 @@oload.*/embed^
 @@opensubtitles.org$xmlhttprequest,third-party
 screenrant.com##.read-next
-openload.co,oload.tv##.center
+openload.co,oload.*##.center
 wegotthiscovered.com##.footer.entry-footer.e-footer
 wegotthiscovered.com##.embed-yt-shorcode
 wegotthiscovered.com##.print-wrap
@@ -328,7 +328,7 @@ wegotthiscovered.com##.zerg-sidebar-header
 wegotthiscovered.com##.newsletter
 wegotthiscovered.com##.widget-wgtc-social-follow.widget-wrap
 superherohype.com###js-sidebar
-openload.co,oload.tv##a[href="http://steepto.com/"]
+openload.co,oload.*##a[href="http://steepto.com/"]
 whatsapp-button.js
 adflow.js
 entityrating.js
@@ -736,7 +736,7 @@ prnt.sc##.social
 prnt.sc##.top-grundik
 ||thepiratebay.org/*.php?$badfilter
 kimcartoon.*##.videoAdClose
-openload.co,oload.tv##script:inject(abort-on-property-read.js, open)
+openload.co,oload.*##script:inject(abort-on-property-read.js, open)
 xnxx.com,xvideos.com##.sponsor-popup
 facebook.com##._5pcr._7xp
 @@||d3ujids68p6xmq.cloudfront.net^$script,domain=beta.speedtest.net,badfilter
