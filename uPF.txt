@@ -517,6 +517,8 @@ openload.*,oload.*##script:inject(abort-on-property-read.js, adblock)
 openload.*,oload.*##script:inject(abort-on-property-read.js, popAdsLoaded)
 openload.*/*license
 openload.*/*script
+oload.*/*license
+oload.*/*script
 oload.*##script:inject(openload.co.js)
 collider.com##.amcfooter
 youtube.com###watch-sidebar-live-chat
