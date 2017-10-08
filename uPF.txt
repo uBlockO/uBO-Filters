@@ -74,7 +74,8 @@ lowendbox.com##a[href^="http://www.colocrossing.com"]
 arstechnica.com###article-footer-wrap
 solidfiles.com##.remove
 solidfiles.com##.buttons
-advertisement$script,important
+advertisement.js$script,important
+*/advertisement.js$script,important,redirect=noopjs
 microsofttranslator.com^$important
 skype.com^$important
 skypeassets.com^$important
@@ -1083,6 +1084,7 @@ nukethefridge.com###cb-top-menu
 nukethefridge.com##.cb-slider-b
 nukethefridge.com##.cb-sidebar
 advertising.js$important,script
+*/advertising.js$script,important,redirect=noopjs
 batman-news.com##.network-bar-container
 batman-news.com##.wp_rp_wrap
 batman-news.com##.jp-relatedposts
