@@ -74,7 +74,6 @@ lowendbox.com##a[href^="http://www.colocrossing.com"]
 arstechnica.com###article-footer-wrap
 solidfiles.com##.remove
 solidfiles.com##.buttons
-advertisement.js$script,important
 */advertisement.js$script,important,redirect=noopjs
 microsofttranslator.com^$important
 skype.com^$important
@@ -781,7 +780,6 @@ uplod.ws##.dl-plus
 uplod.ws##.fmore
 uplod.ws##.boxa
 scorecardresearch.com^$important
-ads.js$script,important
 autoplay=1^$inline-script,script
 1337x.to##script:inject(abort-on-property-read.js, Fingerprint2)
 1337x.to##script:inject(abort-on-property-read.js, open)
@@ -1084,7 +1082,6 @@ nukethefridge.com##.article-footer
 nukethefridge.com###cb-top-menu
 nukethefridge.com##.cb-slider-b
 nukethefridge.com##.cb-sidebar
-advertising.js$important,script
 */advertising.js$script,important,redirect=noopjs
 batman-news.com##.network-bar-container
 batman-news.com##.wp_rp_wrap
