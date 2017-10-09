@@ -75,7 +75,7 @@ arstechnica.com###article-footer-wrap
 solidfiles.com##.remove
 solidfiles.com##.buttons
 advertisement.js$script,important
-*/advertisement.js$script,first-party,important,redirect=noopjs
+*/advertisement.js$script,important,redirect=noopjs
 microsofttranslator.com^$important
 skype.com^$important
 skypeassets.com^$important
@@ -1085,7 +1085,7 @@ nukethefridge.com###cb-top-menu
 nukethefridge.com##.cb-slider-b
 nukethefridge.com##.cb-sidebar
 advertising.js$important,script
-*/advertising.js$script,first-party,important,redirect=noopjs
+*/advertising.js$script,important,redirect=noopjs
 batman-news.com##.network-bar-container
 batman-news.com##.wp_rp_wrap
 batman-news.com##.jp-relatedposts
@@ -1144,8 +1144,8 @@ howtogeek.com##iframe
 imdb.com###social-share-widget
 imdb.com##.aux-content-widget-2:has-text(Connect)
 imdb.com##.aux-content-widget-2:nth-of-type(6)
-*/ads.js$script,first-party,important,redirect=noopjs
-*/*.ads.js$script,first-party,important,redirect=noopjs
+*/ads.js$script,important,redirect=noopjs
+*/*.ads.js$script,important,redirect=noopjs
 dailymail.co.uk##.facebook-like-static
 hanime.tv^$csp=script-src 'self' 'unsafe-inline' *.hanime.tv *.googleusercontent.com *.google.com *.algolia.net *.algolianet.com
 @@||hanime.tv/*.ads.js$badfilter
