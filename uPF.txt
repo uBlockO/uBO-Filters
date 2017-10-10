@@ -91,20 +91,20 @@ cinemablend.com##.blue_banner.snippet.partial
 cinemablend.com##.share_sharethis.partial
 kissanime.*###btnShowComments
 bulbagarden.net###amazon-related
-porntube.com##.cpp
-porntube.com###main-banner-grid
 comicbookresources.com###billboard
-hindustantimes.com##.ggl_ads_row
 thevideo.me##.alert-signup.alert-default.alert
 androidcentral.com##img[src="http://www.androidcentral.com/sites/androidcentral.com/files/styles/larger/public/article_images/2016/04/mobilenations-snapchat.jpg"]
 androidcentral.com##.sidebar-body
+androidcentral.com##.cta
+androidcentral.com##.devicebox
+androidcentral.com##.tab-comments
 indiansexstories.net##.visible-lg.visible-md.fit-width.vashvash-zone.col-md-12
 indiansexstories.net##.bottom-right.sticky-queue
 indiansexstories.net##.sidebar.col-md-4
 indiansexstories.net##.col-md-12
 indiansexstories.net##.read-more
-alerts.ndtv.com/js/notify.js$script
-social.ndtv.com/static/Comment$first-party
+ndtv.com/js/notify.js$script
+ndtv.com/static/Comment$first-party
 ndtv.com##.left_head
 ndtv.com##.mastheadwrap
 ndtv.com##.ad300mrec1
@@ -113,11 +113,7 @@ ndtv.com##.adcont
 jquery.cookie.js$script,important,domain=thevideo.me|vidspot.net
 cookie.jquery.js$script,important,domain=thevideo.me|vidspot.net
 mgid.com^$important
-yts.ag##.fd.button-green-download-big
 zenmarket$important
-monova.org##.warning-message
-monova.org##._skip.container-bt
-monova.org##.section-b.container-bt
 sharethis.com^$important
 openload.co/reward$xmlhttprequest,important
 oload.*/reward$xmlhttprequest,important
@@ -214,14 +210,6 @@ kissmanga.com##a[href="#"]
 kissmanga.com###containerRoot > div:nth-of-type(4) > div:nth-of-type(17)
 @@blogspot.*^$image,stylesheet,other,media
 @@bootstrapcdn.com^$stylesheet,image,font
-pcworld.com###hed-span
-pcworld.com###side
-pcworld.com##.end-byline.author.vcard.byline
-pcworld.com##.head
-pcworld.com###bottom-promo
-pcworld.com###network
-pcworld.com##.department
-digit.in/article-detail-autoload?articleId=$xmlhttprequest
 timesofindia.indiatimes.com##.sticky.article-social.toiwidgets_social
 timesofindia.indiatimes.com###comment-section
 timesofindia.indiatimes.com##.ctn_ads_AR_1
@@ -232,7 +220,7 @@ cbr.com##.embed-related-block
 script.js$script,domain=1337x.to
 google.*###contain-402
 addthis.com^$important
-hentaiplay.net###text-12
+
 myanimelist.net##.banner-header-anime-straming
 myanimelist.net##.footer-link-icon-block
 cbr.com/wp-admin^$script,inline-script
@@ -262,16 +250,13 @@ mcuexchange.com##.posts-box-related-posts.posts-box-5.posts-box
 @@fonts.googleapis.com^$stylesheet,font
 myanimelist.net##.clearfix.index-watch-description
 logpopup
-duckduckgo.com##.js-tag-home.no-js__hide.tag-home--slide.tag-home
 timesofindia.indiatimes.com^$inline-script
 @@cdn-dena.com^$image,stylesheet,font,media
 heroichollywood.com##.crp_related
-mycouchtuner.ag##.comments_part
 @@wp.com^$stylesheet,image,font
 @@cloudfront.net^$stylesheet,image,media,font
 @@wordpress.com^$stylesheet,image,font
 @@amazonaws.com^$stylesheet,image,media,font
-change.org##.js-flash-message-announcement.flash-message
 @@jwpcdn.com^$domain=vidup.me
 vidup.me##.col-sm-2
 trailer-track.com##.comments-area-wrapper
@@ -339,8 +324,6 @@ mrskin.com###az-responsive-26
 @@platform.twitter.com/widgets.js$script
 @@cdn1b.static.pornhub.phncdn.com/www-static2/js^$script,domain=pornhub.com
 @@twitter.com/i/videos/tweet^
-duckduckgo.com##.badge-link
-duckduckgo.com##.js-results-sidebar-alt.results--sidebar--alt
 ndtv.com###showhide
 ndtv.com^$inline-script
 wikia.com###WikiaBar
@@ -417,7 +400,6 @@ myanimelist.net##.anime-detail-header-affiliate
 abtesting$important
 @@wikia.com^$elemhide
 mrskin.com##.sk-wallpaper-riseup
-xhamster.com##.clearfix.videoList.boxC > div:nth-of-type(3)
 dictionary.cambridge.org##.js-share.rounded.share
 dictionary.cambridge.org##.cdo-promo
 dictionary.cambridge.org##.cols__col
@@ -476,7 +458,6 @@ wikia.com###WikiaFooter
 wikia.com###WikiaArticleBottomAd
 quora.com##.PromptsList
 kissanime.*##.videoAdClose
-sciencechannel.com##.share-menu-container
 googlesyndication.com$important
 adblock-detector$script,important
 cnbc.com##script:inject(abort-on-property-write.js, cnbc.canShowAds)
@@ -562,7 +543,6 @@ hentaihaven.org##.entry-meta
 chip.*,speedtest.net##script:inject(abort-on-property-write.js, _sp_)
 contributor.google.com/scripts/
 damoh.*^$media,other,script
-29443kmq.video,dato.porn###a
 wigetmedia.js
 androidcentral.com,windowscentral.com##.mn_mbn_share
 gyazo.com##.image-infos
@@ -592,7 +572,6 @@ cse.google.com/cse.js^$important
 outlook.live.com##._n_15
 ads$script
 youtube.com##.hats-categorical-style-vertical
-opengapps.org##.advertisement
 solarmovie.st##.home-socials
 solarmovie.st##.alert
 @@twitter.com/i/cards/tfw^
@@ -637,14 +616,6 @@ ndtv.com##a[href^="https://gadgets360.com/"]
 ajax.cloudflare.com/cdn-cgi/nexp^$script
 @@ajax.cloudflare.com/cdn-cgi/nexp/dok3v=*/cloudflare.min.js$domain=lanik.us
 9anime.*##.ads
-digit.in##.m_list_In
-digit.in/blockarticledetailad/$subdocument
-digit.in##.gift
-digit.in##.recommended-box
-digit.in##iframe[src^="http://phando"]
-digit.in##.advertisements
-digit.in##.gadgetDealSideBar
-digit.in##.top-promo
 jquery-analytics.min.js$important
 speedtest.net##.high-placeholder.pure-u-1
 speedtest.net##.u-c.pure-u-custom-ad-rectangle
@@ -691,10 +662,6 @@ moviepilot.com##.latest-content
 9anime.to##.mb20
 mozilla.org##.announce-bar
 pornhub.com##.kzpcaw
-prnt.sc##.js-report-misleadin-grundik
-prnt.sc##.additional
-prnt.sc##.social
-prnt.sc##.top-grundik
 ||thepiratebay.org/*.php?$badfilter
 kimcartoon.*##.videoAdClose
 openload.co,oload.*##script:inject(abort-on-property-read.js, open)
@@ -711,7 +678,7 @@ omegaunderground.com##.youtube_embed_widget.widget
 omegaunderground.com##.widget_text.widget
 omegaunderground.com###sidebar-footer
 mega.nz##.active.top-login-warning
-analytics
+analytics$script
 ewatchseries.to##a[href^="/redirect.php"]
 $csp=script-src 'self' *.jwpcdn.com 'unsafe-eval',domain=9anime.to|9anime.is|fmovies.to|fmovies.is|solarmovie.st|fmovies.me|9anime.me
 endscreen$script
