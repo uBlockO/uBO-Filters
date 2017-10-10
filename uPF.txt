@@ -990,7 +990,6 @@ kisscartoon.*,kimcartoon.*##a[href^="//"]
 kimcartoon.*,kisscartoon.*##.alert-info.alert
 kimcartoon.*,kisscartoon.*##.mb15.full
 kimcartoon.*,kisscartoon.*###btnShowComments
-watchcartoonsonline.eu##script:inject(pd.js)
 kimcartoon.*^$csp=connect-src 'self'
 torrentz2.eu^$csp=connect-src 'self'
 @@fastly.net/assets/$script,domain=gitlab.com
