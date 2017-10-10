@@ -22,7 +22,6 @@ doubleclick.net^$important
 pornhub.com###js-abContainterMain
 pornhub.com###under-player-comments
 pornhub.com###welcome
-redtube.com##.tja
 birthmoviesdeath.com##.clearfix.PanelProduct.panel
 youtube.com###watch-action-panels
 cinemablend.com###newsletter-background
@@ -69,16 +68,12 @@ truecaller.com###result-page-top-unit
 truecaller.com##main > .page--search.page > div:nth-of-type(2)
 comingsoon.net##.btn.js-show-comments
 cloudfront.net^$script
-lowendbox.com##a[href^="https://buysellads.com/"]
-lowendbox.com##a[href^="http://www.colocrossing.com"]
-arstechnica.com###article-footer-wrap
 solidfiles.com##.remove
 solidfiles.com##.buttons
 */advertisement.js$script,important,redirect=noopjs
 microsofttranslator.com^$important
 skype.com^$important
 skypeassets.com^$important
-mspoweruser.com###shunno_widget_sidebar_msft-4
 chatango.com^$important
 disquscdn.com^$important
 wsj.com###article_tools
@@ -96,13 +91,10 @@ cinemablend.com##.blue_banner.snippet.partial
 cinemablend.com##.share_sharethis.partial
 kissanime.*###btnShowComments
 bulbagarden.net###amazon-related
-mkvcage.com###text-5
-mkvcage.com##.alignnone
 porntube.com##.cpp
 porntube.com###main-banner-grid
 comicbookresources.com###billboard
 hindustantimes.com##.ggl_ads_row
-youporn.com##.trafficjunky-video-being-watched-section.eight-column
 thevideo.me##.alert-signup.alert-default.alert
 androidcentral.com##img[src="http://www.androidcentral.com/sites/androidcentral.com/files/styles/larger/public/article_images/2016/04/mobilenations-snapchat.jpg"]
 androidcentral.com##.sidebar-body
@@ -133,7 +125,6 @@ gyazo.com###versionup
 pornhub.com##.abovePlayer
 pornhub.com##.clear.hd.jisfhp0w2u
 taboola.com^$important
-putlocker-movies.tv/ajax/view.php$xmlhttprequest,important
 screenrant.com##.video-block-main.video-block
 hanime.tv##.z-spot.subsection.golden-saucer
 hanime.tv##.z-spot.golden-saucer
@@ -144,15 +135,12 @@ hanime.tv##.align-center.justify-center.flex-row.row:has-text(Discover)
 htvanime.com^$third-party
 speedtest.net##.no-shadow.ad-vertical-tower.ad-vertical-container
 $websocket
-rollingstone.com##.right-rail
-rollingstone.com###card-container
-rollingstone.com###content-card-footer
 googletagmanager.com^
 gadgets.ndtv.com###RightControlContainer_pnl
 gadgets.ndtv.com###sharelink
 gadgets.ndtv.com##.fr.stickysocial
 gadgets.ndtv.com##a[href="http://hi.gadgets360.com/mobiles/xiaomi-redmi-3s-prime-review-hindi-reviews-1442180"]
-milfzr.com,finalservers.net,fullstuff.co,nmac.to,quickfever.com,avaxhome.co,blockadblock.com,usapoliticstoday.com,animmex.*,zahipedia.net,jaguartrials.net,onhax.me,apkmos.com,sadeemapk.com,zahitvstation.com##script:inject(bab-defuser.js)
+milfzr.com,blockadblock.com,onhax.me##script:inject(bab-defuser.js)
 cnet.com##.hide.popOut.videoContainer
 comicbook.com##a[href^="http://amzn.to/"]
 airtel.*^$third-party
@@ -173,11 +161,6 @@ whatismybrowser.com##.leaderboard.hidden-xs.content-block
 xnxx.com###content-ad-side
 forum.sa-mp.com###signature
 watchfree.to##.link_item:nth-of-type(1)
-tomshardware.com###header_leaderboard
-parentherald.com##.one.bk-community
-parentherald.com##.at_con
-parentherald.com###comment
-mailinator.com##.visible-sm.visible-md.visible-lg.col-sm-2.col-md-2.col-lg-2
 mozilla.org###promos
 cbr.com##.i-comment.icon.btn-comment-article
 cbr.com##.right-content.footer-content
@@ -223,10 +206,6 @@ dailymail.co.uk##iframe
 cnet.com##.videoPlayer
 microsoft.com##.social-blade.f-y-top.f-x-center > div:nth-of-type(2)
 omgtorrent.me/assets/*.js^$script
-animmex.*###M148617ScriptRootC71386
-animmex.*##center
-animmex.*###share_video
-animmex.*##.ad-body.well
 cinemablend.com##iframe[src="javascript:'%3C!DOCTYPE%20html%3E%3Chtml%3E%3Cbody%20leftMargin=%220%22%20topMargin=%220%22%20marginwidth=%220%22%20marginheight=%220%22%3E%3Cscript%20type=%22text/javascript%22%3Egoogle_ad_client%20=%20%22ca-pub-3512009167303132%22;%20google_ad_slot%20=%20%225344230866%22;%20google_ad_width%20=%20300;%20google_ad_height%20=%20250;%20%3C/script%3E%3Cscript%20type=%22text/javascript%22%20src=%22//pagead2.googlesyndication.com/pagead/show_ads.js%22%3E%3C/script%3E%3C!--%20DO%20NOT%20MODIFY%20--%3E%3C/body%3E%3C/html%3E'"]
 googletagmanager.com^$third-party
 mrskin.com##.col-xs-12.col-sm-8.col-md-4
@@ -266,7 +245,6 @@ cbr.com##.related-section
 azurewebsites.net^$third-party
 outlook.com^$third-party
 @@bulba-ad-host-website.azurewebsites.net^$stylesheet,domain=bulbagarden.net
-glodls.to/*/$inline-script
 microsoft.com^$third-party
 windowsreport.com##a[href^="http://www.reimageplus.com/includes/router_land.php"]
 @@youtube.com/embed^$third-party
@@ -274,7 +252,6 @@ windowsreport.com##a[href^="http://www.reimageplus.com/includes/router_land.php"
 @@googlevideo.com^$media,xmlhttprequest
 @@facebook.com/plugins/video.php^$important
 @@soundcloud.com^$third-party
-torrentsgroup.com##iframe[src="about:blank"]
 thepiratebay.*^$third-party
 @@quoracdn.net^$domain=quora.com
 @@google.*/recaptcha/api2^
@@ -388,14 +365,6 @@ onhax.*###prologue-143412 > hr:nth-of-type(1)
 onhax.*##.yarpp-related
 onhax.*###text-6
 onhax.*###text-3
-imagefap.com###top_announce
-imagefap.com##center > center > div
-imagefap.com###jobs_announce
-imagefap.com##.outer > .mainouter > tbody > tr > td:nth-of-type(2)
-imagefap.com###comment_head
-imagefap.com###comments
-imagefap.com##.tnaBarBlueWrap
-medium.com##.u-fixed
 cinemablend.com##.social_counts.partial
 cinemablend.com##.plugins_corpfooter
 @@akamaihd.net^$image,media,stylesheet,xmlhttprequest
@@ -509,7 +478,6 @@ quora.com##.PromptsList
 kissanime.*##.videoAdClose
 sciencechannel.com##.share-menu-container
 googlesyndication.com$important
-rodale.tv,rodalewellness.com,rodalesorganiclife.com,bicycling.com,runnersworld.com,prevention.com,menshealth.com,womenshealthmag.com##script:inject(setTimeout-defuser.js, adblock)
 adblock-detector$script,important
 cnbc.com##script:inject(abort-on-property-write.js, cnbc.canShowAds)
 openload.*,oload.*##script:inject(abort-on-property-read.js, adblock2)
@@ -586,16 +554,11 @@ ewatchseries.to##.general_button
 ewatchseries.to##a[href^="http://watchos.tv/"]
 ewatchseries.to###header-2
 ads$script
-torrentz2.eu##.downlinks > dl:nth-of-type(1) > dd
-torrentz2.eu##a[href="/ipsum"]
+torrentz2.eu##a[href^="/"]:has-text(Download Direct)
 istream.*##.button
 pornhub.*##script:inject(abort-on-property-write.js, UAParser)
 hentaihaven.org##script:inject(abort-on-property-read.js, desktop_variants)
 hentaihaven.org##.entry-meta
-allmusic.com^$inline-script
-finalservers.net##script:inject(abort-on-property-read.js, _gunggo)
-finalservers.net###babasbmsgx
-animmex.*###M148617ScriptRootC75329
 chip.*,speedtest.net##script:inject(abort-on-property-write.js, _sp_)
 contributor.google.com/scripts/
 damoh.*^$media,other,script
@@ -617,7 +580,6 @@ kissanime.*###adsIfrme7
 kissasian.com/*.aspx
 zippyshare.com##script:inject(abort-on-property-read.js, navigator.userAgent)
 pornhub.com##script:inject(abort-on-property-read.js, open)
-metrics:recordPageloadMetrics
 gogoanime.*##.add_ads3
 gogoanime.*##.ads
 gogoanime.*##.banner_center
@@ -626,8 +588,6 @@ gogoanime.*##.facebook.btn
 github.com##.survey-container
 kissanime.*###rightside > div:nth-of-type(5) > div > div
 kissanime.*##.rightBox:nth-of-type(1)
-gamereactor.*##script:inject(abort-on-property-read.js, detectAdblockUser)
-animmex.*##a[href^="https://forum.animmex.com/viewtopic.php"]
 cse.google.com/cse.js^$important
 outlook.live.com##._n_15
 ads$script
@@ -652,7 +612,6 @@ kisshentai.*##a[href="#"]
 kisshentai.*###show_id
 kisshentai.*$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 kisshentai.*##script:inject(abort-on-property-read.js, adblock)
-torrentz2.*##.SemiAcceptableAds
 @@imgclick.net^$image,domain=freeadultcomix.com
 @@netdna-cdn.com/wp-content^$image,stylesheet
 doubleclick^$script,important
@@ -752,17 +711,12 @@ omegaunderground.com##.youtube_embed_widget.widget
 omegaunderground.com##.widget_text.widget
 omegaunderground.com###sidebar-footer
 mega.nz##.active.top-login-warning
-dato.porn##script:inject(abort-on-property-read.js, open)
-dato.porn##script:inject(noeval-if.js, xhr.status == 200)
 analytics
 ewatchseries.to##a[href^="/redirect.php"]
 $csp=script-src 'self' *.jwpcdn.com 'unsafe-eval',domain=9anime.to|9anime.is|fmovies.to|fmovies.is|solarmovie.st|fmovies.me|9anime.me
 endscreen$script
 ads_$xmlhttprequest,important
-ultra-h.com##script:inject(abort-on-property-read.js, open)
-ultra-h.com##script:inject(abort-on-property-read.js, adBlockDetected)
 plg_jchoptimize$script
-xmovies8.org##script:inject(abort-on-property-read.js, $.getScript)
 solidfiles.com##script:inject(abort-on-property-read.js, open)
 solidfiles.com#@#.buttons
 solidfiles.com##.premium-promo.box
@@ -775,10 +729,6 @@ cnet.com##.tags.row
 cnet.com##.sticky-leader
 cnet.com##.ad-flex-leader-plus-incontent-bottom
 cnet.com##.col-3
-uplod.ws##script:inject(abort-on-property-read.js, $.ready)
-uplod.ws##.dl-plus
-uplod.ws##.fmore
-uplod.ws##.boxa
 scorecardresearch.com^$important
 autoplay=1^$inline-script,script
 1337x.to##script:inject(abort-on-property-read.js, Fingerprint2)
@@ -876,9 +826,6 @@ thathashtagshow.com##.widget_recent_comments.widget
 thathashtagshow.com^$csp=script-src 'self'
 hollywoodreporter.com##.readmore
 hollywoodreporter.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.instagram.com platform.twitter.com *.twimg.com players.brightcove.net *.zencdn.net blob:
-techcrunch.com##.article-extra
-techcrunch.com##.demo-block.l-sidebar
-techcrunch.com##.nav-fb-messenger
 gtpl.net##.modal
 gtpl.net##.modal-backdrop
 deadline.com##.ppp-ad
@@ -977,7 +924,6 @@ fmovies.*,9anime.*##.ads
 outlook.live.com##a[href^="https://aka.ms"]
 myanimelist.net##.video-providers
 showads.js$important
-receive-a-sms.com##script:inject(abort-current-inline-script.js, $, showads.js)
 flixanity.*##.sources
 comicbook.com##.button-wide.button-blue-gradient.button
 comicbook.com##.vdb_player
@@ -1021,7 +967,6 @@ kisscartoon.*,kimcartoon.io##script:inject(adb.js)
 googlevideo.io^
 free-contents.org^
 @@||startpage.com/js/abp.js^$badfilter
-rexdlfile.com##script:inject(abort-current-inline-script.js, onload, catch)
 datasaver.googleapis.com^$domain=behind-the-scene
 ||fmovies.to^$first-party,popup,badfilter
 youtube.com##.style-default.force-icon-button.ytd-menu-renderer.style-scope
