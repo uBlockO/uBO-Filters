@@ -988,6 +988,7 @@ screenrant.com##H3:has-text(NEXT:)
 screenrant.com##H2:has-text(Page)
 screenrant.com##H4:has-text(Read More:)
 screenrant.com##P:has-text(Related:)
+screenrant.com##H6:has-text(Follow)
 screenrant.com##.social-list
 screenrant.com##.li-premium-zone
 nukethefridge.com##.cb-related-posts-block
