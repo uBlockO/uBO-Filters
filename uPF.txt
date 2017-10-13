@@ -219,7 +219,6 @@ cbr.com##.embed-related-block
 script.js$script,domain=1337x.to
 google.*###contain-402
 addthis.com^$important
-
 myanimelist.net##.banner-header-anime-straming
 myanimelist.net##.footer-link-icon-block
 cbr.com/wp-admin^$script,inline-script
@@ -459,7 +458,6 @@ quora.com##.PromptsList
 kissanime.*##.videoAdClose
 googlesyndication.com$important
 adblock-detector$script,important
-cnbc.com##script:inject(abort-on-property-write.js, cnbc.canShowAds)
 openload.*,oload.*##script:inject(abort-on-property-read.js, adblock2)
 openload.*,oload.*##script:inject(abort-on-property-read.js, adblock)
 openload.*,oload.*##script:inject(abort-on-property-read.js, popAdsLoaded)
@@ -615,7 +613,6 @@ ndtv.com##a[href^="https://gadgets360.com/"]
 ajax.cloudflare.com/cdn-cgi/nexp^$script
 @@ajax.cloudflare.com/cdn-cgi/nexp/dok3v=*/cloudflare.min.js$domain=lanik.us
 9anime.*##.ads
-jquery-analytics.min.js$important
 speedtest.net##.high-placeholder.pure-u-1
 speedtest.net##.u-c.pure-u-custom-ad-rectangle
 speedtest.net##.u-c.pure-u-custom-ad-skyscraper
@@ -677,7 +674,6 @@ omegaunderground.com##.youtube_embed_widget.widget
 omegaunderground.com##.widget_text.widget
 omegaunderground.com###sidebar-footer
 mega.nz##.active.top-login-warning
-analytics$script
 ewatchseries.to##a[href^="/redirect.php"]
 $csp=script-src 'self' *.jwpcdn.com 'unsafe-eval',domain=9anime.to|9anime.is|fmovies.to|fmovies.is|solarmovie.st|fmovies.me|9anime.me
 endscreen$script
@@ -815,9 +811,6 @@ torrentz2.eu^$csp=script-src 'self' 'unsafe-inline'
 thepiratebay.*^$csp=script-src 'self' 'unsafe-inline'
 ugbase.eu^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 cinemablend.com^$csp=script-src 'self' 'unsafe-inline' platform.twitter.com *.twimg.com *.instagram.com
-flickr.com##.fluid-modal-overlay
-flickr.com###preloaded-ad-frame
-flickr.com##.flickr-view-root-view.fluid-modal-view.view
 ad-view$script,important
 kissanime.ru^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 myanimelist.net^$csp=script-src 'self' *.cdn-dena.com 'unsafe-eval' 'unsafe-inline'
