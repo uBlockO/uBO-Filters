@@ -23,6 +23,7 @@ pornhub.com###under-player-comments
 pornhub.com###welcome
 birthmoviesdeath.com##.clearfix.PanelProduct.panel
 youtube.com###watch-action-panels
+youtube.com###chat
 cinemablend.com###newsletter-background
 cinemablend.com###newsletter-subscription
 movieweb.com##.reddit.rd.sh
