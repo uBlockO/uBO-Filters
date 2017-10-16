@@ -675,8 +675,7 @@ omegaunderground.com##.widget_text.widget
 omegaunderground.com###sidebar-footer
 mega.nz##.active.top-login-warning
 ewatchseries.to##a[href^="/redirect.php"]
-fmovies.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.jwpcdn.com blob:
-fmovies.*##script:inject(noeval-if.js, catch)
+fmovies.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.jwpcdn.com
 9anime.*^$csp=script-src 'self' *.jwpcdn.com 'unsafe-eval'
 solarmovie.*^$csp=script-src 'self' *.jwpcdn.com 'unsafe-eval'
 endscreen$script
