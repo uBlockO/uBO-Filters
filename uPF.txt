@@ -788,7 +788,7 @@ ghacks.net##.post-comments
 ghacks.net^$csp=script-src 'self' 'unsafe-inline'
 youtube.com###movie-upsell-card
 youtube.com##.yt-lockup-movie-vertical-poster.yt-lockup-tile.yt-lockup
-cnn.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.cnn.com  *.turner.com *.cnn.io
+cnn.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: *.cnn.com  *.turner.com *.cnn.io
 @@||ads.clubedohardware.com.br/$badfilter
 @@||ads.clubedohardware.com.br/www/delivery/$script,badfilter
 thathashtagshow.com##.related-posts
