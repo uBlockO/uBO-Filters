@@ -960,9 +960,6 @@ kisscartoon.*,kimcartoon.*##a[href^="//"]
 kimcartoon.*,kisscartoon.*##.alert-info.alert
 kimcartoon.*,kisscartoon.*##.mb15.full
 kimcartoon.*,kisscartoon.*###btnShowComments
-kimcartoon.*^$csp=connect-src 'self'
-torrentz2.eu^$csp=connect-src 'self'
-@@fastly.net/assets/$script,domain=gitlab.com
 thepiratebay.*/*/$inline-script,subdocument
 @@screenrant.com^$elemhide
 screenrant.com##.ad-zone-container
@@ -1063,7 +1060,6 @@ comicbook.com##.contentgroup:nth-of-type(4) > header
 comicbook.com##.contentgroup:nth-of-type(4) > article
 comicbook.com##.contentgroup:nth-of-type(4)
 comicbook.com##.categorysocial_lst
-kimcartoon.*##script:inject(pd.js)
 kisshentai.net##a[href^="https://theporndude.com/"]
 kisshentai.net##a[href^="http://kissdoujin.com/"]
 kisshentai.net##img[src^="https://theporndude.com/"]
