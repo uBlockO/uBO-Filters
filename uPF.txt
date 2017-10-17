@@ -1084,7 +1084,7 @@ hentaieng.com##.player_online
 hentaieng.com##a[href^="https://twitter.com/"]
 hentaieng.com##.black2.jumbotron:nth-of-type(9)
 hentaieng.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com code.jquery.com
-||piguiqproxy.com/api$xmlhttprequest,redirect=noopjs,important
+piguiqproxy.com/api^$xmlhttprequest,redirect=noopjs,important
 kisshentai.net##.rightBox:has-text(/Announcement|Like me/)
 /\.com\/.*[a-f0-9]{110}/$third-party,image,badfilter
 imgur.com##li:has-text(/report ad|advertise|ad choices/)
