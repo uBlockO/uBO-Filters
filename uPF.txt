@@ -876,7 +876,7 @@ movieweb.com##.article-more
 movieweb.com##.article-ad-content
 movieweb.com##.article-more-videos
 movieweb.com##.article-tags
-movieweb.com^$csp=script-src 'self' 'unsafe-inline' platform.twitter.com *.twimg.com platform.instagram.com *.movieweb.com
+movieweb.com^$csp=script-src 'self' 'unsafe-inline' platform.twitter.com *.twimg.com platform.instagram.com *.movieweb.com ajax.googleapis.com
 screenrant.com##.sidebar
 cbr.com##.section-right
 cbr.com###secondary
