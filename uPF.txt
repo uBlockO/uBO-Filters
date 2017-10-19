@@ -1094,7 +1094,6 @@ myanimelist.net##.anime_discussions.widget
 myanimelist.net##.promotional-video.video-block
 kimcartoon.*##script:inject(pd.js)
 adblocker$script
-facebook.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 facebook.com###pagelet_page_cover
 report-uri.*^$third-party
 csp^$first-party,third-party
