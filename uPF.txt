@@ -762,7 +762,7 @@ moviepilot.com##.read-next
 moviepilot.com##.hashtag-widget__cta
 moviepilot.com##.article-main > .section-header
 moviepilot.com##.hashtag-widget
-moviepilot.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.moviepilot.com platform.twitter.com *.twimg.com platform.instagram.com assets.creators.co cdnjs.cloudflare.com
+moviepilot.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.moviepilot.com platform.twitter.com *.twimg.com platform.instagram.com assets.creators.co cdnjs.cloudflare.com *.jwplatform.com
 moviepilot.com##.layout--ad__sidebar.article-sidebar
 promo$script
 pornhub.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.phncdn.com
