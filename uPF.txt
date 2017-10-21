@@ -1106,5 +1106,15 @@ lib/*.wasm^$important
 @@chromium.org/*/popup_controller.js$script
 screenrant.com##strong:has-text(RELATED:)
 jwpcdn.com/*/related.js$script
+readcomics.*##.panel-body
+readcomics.*##.alert-success.alert
+readcomics.*##.panel-default.panel
+readcomics.*##.col-sm-push-8.col-sm-4 > .row:nth-of-type(1) > .col-xs-12
+readcomics.*##.pager-cnt:nth-of-type(5) > .row:nth-of-type(3) > .col-xs-12
+readcomics.*##.pager-cnt:nth-of-type(5) > .row:nth-of-type(2) > .col-xs-12
+readcomics.*##.hrule
+readcomics.*##.nav-tabs.nav
+readcomics.*##a[href^="http://getcomics.info"]
+readcomics.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 
 $third-party,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|tomsguide.com|istream.is|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|thewindowsclub.com
