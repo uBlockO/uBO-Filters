@@ -1097,7 +1097,6 @@ kimcartoon.*##script:inject(pd.js)
 adblocker$script
 facebook.com###pagelet_page_cover
 report-uri.*^$third-party
-||facebook.com/ajax/bz$important,xmlhttprequest,badfilter
 @@||facebook.com/common/referer_frame.php$subdocument,domain=facebook.com,badfilter
 facebook.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 authedmine.com^
