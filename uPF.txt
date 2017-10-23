@@ -840,7 +840,7 @@ screenrant.com,cbr.com##.injected-video-by-load
 whatismyreferer.com##a[href^="https://en.ryte.com/"]
 forbes.com##.collapse-sharing-login.slash-background.article-sidebar.article-top-navigation
 forbes.com##.ng-scope.video_placeholder
-forbes.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.forbesimg.com platform.twitter.com *.twimg.com
+forbes.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' platform.twitter.com *.twimg.com
 androidpolice.com###sbar
 androidpolice.com##.ap-hottest-content-wrapper
 androidpolice.com##.post-footer-meta
