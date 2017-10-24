@@ -494,7 +494,7 @@ facebook.com###snowliftStageActions
 facebook.com##.home_right_column
 facebook.com/*/logging^$important
 myanimelist.net##.amazon.btn-affiliate
-zippyshare.com,xvideos.com,xnxx.com##script:inject(noeval.js)
+xvideos.com,xnxx.com##script:inject(noeval.js)
 @@jsdelivr.net^$stylesheet,image,media
 @@jsdelivr.net^$script,domain=8muses.com|hanime.tv
 imdb.com##.aux-content-widget-2:nth-of-type(4)
