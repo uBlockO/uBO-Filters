@@ -785,7 +785,7 @@ ghacks.net##strong:has-text(share)
 ghacks.net##.tags
 ghacks.net###sidebar
 ghacks.net##.entry > div:has-text(/Advertisement|Read/)
-ghacks.net##P:has-text(/Tips|Now You|Tips/)
+ghacks.net##P:has-text(/Tip|Now You|Tips/)
 ghacks.net##.entry > ul
 ghacks.net##.post-comments
 ghacks.net^$csp=script-src 'self' 'unsafe-inline'
