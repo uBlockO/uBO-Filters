@@ -1,4 +1,4 @@
-[uBlock Origin 1.14.17.2]
+[uBlock Origin 1.14.17.5]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -180,7 +180,7 @@ timesofindia.indiatimes.com##.partners-wrapper
 timesofindia.indiatimes.com/ads_homepage^$script
 timesofindia.indiatimes.com###LargeWrapper
 timesofindia.indiatimes.com^$xmlhttprequest,important
-screenrant.com##.gallery-thumb
+screenrant.com##.sg-sharing-option
 cartoonhd.*,movieshd.watch,istream.*###credits
 cartoonhd.*,movieshd.watch,istream.is,flixanity.*##a[href="#credits"]
 instagram.com##._3v251._br9is
@@ -977,10 +977,10 @@ facebook.com##._4nef.fbUserContent._5pcr
 comicbook.com##IMG[alt="Kingsman_Banner"][title="Kingsman_Banner"]
 @@||embed.tawk.to^$script,domain=andrija-i-andjelka.com|clik.pw|debrideco.com|streamlord.com,badfilter
 cbr.com##P:has-text(RELATED:)
-screenrant.com##H4:has-text(/Related|RELATED|Read More/)
+screenrant.com##H4:has-text(/Related:|RELATED:|Read More:/)
 screenrant.com##H2:has-text(/RELATED:|More:|Next:|NEXT:|MORE:|Page:/)
-screenrant.com##H3:has-text(/Related|RELATED|NEXT/)
-screenrant.com##P:has-text(Related)
+screenrant.com##H3:has-text(/Related:|RELATED:|NEXT:/)
+screenrant.com##P:has-text(Related:)
 screenrant.com##H6:has-text(Follow)
 screenrant.com##.social-list
 screenrant.com##.li-premium-zone
