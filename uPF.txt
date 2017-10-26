@@ -1093,7 +1093,6 @@ imgur.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.imgur.com ajax.
 facebook.com##._4-u2:has-text(Mark!)
 myanimelist.net##.anime_discussions.widget
 myanimelist.net##.promotional-video.video-block
-kimcartoon.*##script:inject(pd.js)
 adblocker$script
 facebook.com###pagelet_page_cover
 report-uri.*^$third-party
