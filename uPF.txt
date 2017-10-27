@@ -920,7 +920,7 @@ outlook.live.com^$csp=script-src 'self' 'unsafe-inline' *.office365.com 'unsafe-
 @@||oload.tv/assets/js/license.*.js$badfilter
 videoplayer$script,stylesheet,domain=dailymail.co.uk
 vidup.me/mba^
-thepiratebay.org##a[href^="http://www.bitlord"]
+thepiratebay.*###details > div:nth-of-type(3) > div:has-text(magnets)
 9anime.*###tags
 wikia.com##.article-video
 @@||googletagmanager.com/gtm.js?$domain=airasia.com|bhaskar.com|broadcom.com|computerworlduk.com|desigual.com|drumstick.com|ebuyer.com|elevationscu.com|gamepix.com|git-tower.com|google.com|itv.com|jobs.net|keygames.com|magicjack.com|moviefone.com|nestio.com|newsy.com|optus.com.au|rebtel.com|rockstargames.com|rollingstone.com|rozetka.com.ua|sixflags.com|support.amd.com|talktalk.co.uk|techradar.com|toto.co.jp|usmagazine.com,badfilter
