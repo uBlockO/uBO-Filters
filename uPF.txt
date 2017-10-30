@@ -1,4 +1,4 @@
-[uBlock Origin 1.14.17.8]
+[uBlock Origin 1.14.17.9]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -1010,7 +1010,6 @@ kirtuclub.com##.entry-meta:has-text(Posted in)
 kirtuclub.com##.wp_rp_wrap
 tmz.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.tmz.com ajax.googleapis.com cdnjs.cloudflare.com
 bulbagarden.net###upper-article
-||youtube.com/comment_service_ajax?$domain=youtube.com,badfilter
 metrics$script,important
 pornhub.com##.streamatesModelsContainer.sectionWrapper
 pornhub.com###under-player-playlists
