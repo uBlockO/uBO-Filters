@@ -1116,6 +1116,7 @@ readcomics.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 @@||facebook.com/share/share_now_menu/$domain=facebook.com,badfilter
 comicbook.com##.aligncenter:has-text(NEXT:)
 kimcartoon.me##script:inject(pd.js)
+kimcartoon.me##.barContent:has-text(fake)
 watchfree.to^$csp=script-src 'self' 'unsafe-inline' ajax.googleapis.com
 facebook.com##._31qy:has-text(related)
 facebook.com##._4-u2:has-text(Page stories you may like)
