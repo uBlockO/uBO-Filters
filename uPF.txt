@@ -978,7 +978,7 @@ comicbook.com##IMG[alt="Kingsman_Banner"][title="Kingsman_Banner"]
 @@||embed.tawk.to^$script,domain=andrija-i-andjelka.com|clik.pw|debrideco.com|streamlord.com,badfilter
 cbr.com##P:has-text(RELATED:)
 screenrant.com##H4:has-text(/Related:|RELATED:|Read More:/)
-screenrant.com##H2:has-text(/RELATED:|More|Next:|NEXT:|MORE|Page:/)
+screenrant.com##H2:has-text(/RELATED:|More:|Next:|NEXT:|MORE:|Page:/)
 screenrant.com##H3:has-text(/Related:|RELATED:|NEXT:/)
 screenrant.com##P:has-text(Related:)
 screenrant.com##H6:has-text(Follow)
