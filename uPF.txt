@@ -358,7 +358,7 @@ onhax.*###text-6
 onhax.*###text-3
 cinemablend.com##.social_counts.partial
 cinemablend.com##.plugins_corpfooter
-@@akamaihd.net^$image,media,stylesheet,xmlhttprequest
+@@akamaihd.net^$image,media,stylesheet
 @@platform.twitter.com/css^$image,stylesheet
 infinite-articles
 outlook.live.com##a[href^="http://www.myfreecams.com/"]
