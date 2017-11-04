@@ -980,7 +980,7 @@ cbr.com##P:has-text(RELATED:)
 screenrant.com##.article-body > h2
 screenrant.com##.article-body > h4
 screenrant.com##.article-body > h3
-screenrant.com##P:has-text(Related:|RELATED:)
+screenrant.com##P:has-text(/Related:|RELATED:/)
 screenrant.com##H6:has-text(Follow)
 screenrant.com##.social-list
 screenrant.com##.li-premium-zone
