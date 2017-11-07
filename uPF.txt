@@ -523,22 +523,22 @@ fmovies.*##.widget:nth-of-type(4)
 gorillavid.in,eztv.*,zippyshare.com##script:inject(abort-on-property-write.js, admvpu)
 scriptv2.js$domain=1337x.to
 1337x.to##.box-info-detail > div.torrent-detail+div[class]:not([class="manage-box"]):not([class^="torrent-"])
-ewatchseries.to##.ad_300_300
-ewatchseries.to##.fullwrap > div > div:nth-of-type(4)
-ewatchseries.to##.block-left-home-inside:nth-of-type(2)
-ewatchseries.to##.show-social
-ewatchseries.to##.sp-leader
-ewatchseries.to###go_scrolling_comments
-ewatchseries.to##.sp-leader-bottom
-ewatchseries.to###scroll_comments
-ewatchseries.to##.sp-sidetower
-ewatchseries.to##.shd_button
-ewatchseries.to##.episode-social
-ewatchseries.to##a[href^="http://178.175.132.130/"]
-ewatchseries.to##.add-comment
-ewatchseries.to##.general_button
-ewatchseries.to##a[href^="http://watchos.tv/"]
-ewatchseries.to###header-2
+/[a-z]watchseries.to/##.ad_300_300
+/[a-z]watchseries.to/##.fullwrap > div > div:nth-of-type(4)
+/[a-z]watchseries.to/##.block-left-home-inside:nth-of-type(2)
+/[a-z]watchseries.to/##.show-social
+/[a-z]watchseries.to/##.sp-leader
+/[a-z]watchseries.to/###go_scrolling_comments
+/[a-z]watchseries.to/##.sp-leader-bottom
+/[a-z]watchseries.to/###scroll_comments
+/[a-z]watchseries.to/##.sp-sidetower
+/[a-z]watchseries.to/##.shd_button
+/[a-z]watchseries.to/##.episode-social
+/[a-z]watchseries.to/##a[href^="http://178.175.132.130/"]
+/[a-z]watchseries.to/##.add-comment
+/[a-z]watchseries.to/##.general_button
+/[a-z]watchseries.to/##a[href^="http://watchos.tv/"]
+/[a-z]watchseries.to/###header-2
 ads$script
 torrentz2.eu##a[href^="/"]:has-text(Download Direct)
 istream.*##.button
@@ -682,7 +682,7 @@ omegaunderground.com##.youtube_embed_widget.widget
 omegaunderground.com##.widget_text.widget
 omegaunderground.com###sidebar-footer
 mega.nz##.active.top-login-warning
-ewatchseries.to##a[href^="/redirect.php"]
+/[a-z]watchseries.to/##a[href^="/redirect.php"]
 fmovies.*^$csp=script-src 'self' 'unsafe-eval' *.jwpcdn.com
 9anime.*^$csp=script-src 'self' *.jwpcdn.com 'unsafe-eval'
 solarmovie.*^$csp=script-src 'self' *.jwpcdn.com 'unsafe-eval'
@@ -880,7 +880,7 @@ screenrant.com##.sidebar
 cbr.com##.section-right
 cbr.com###secondary
 dailymail.co.uk^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.dailymail.co.uk
-ewatchseries.to^$csp=script-src 'self' 'unsafe-inline' *.ewatchseries.to
+/[a-z]watchseries.to/^$csp=script-src 'self' 'unsafe-inline' *./[a-z]watchseries.to/
 watchfree.to##.header_docs
 cookieconsent.min$important
 @@$media,domain=kimcartoon.me|kissanime.ru
