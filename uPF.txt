@@ -523,8 +523,6 @@ fmovies.*##.widget:nth-of-type(4)
 gorillavid.in,eztv.*,zippyshare.com##script:inject(abort-on-property-write.js, admvpu)
 scriptv2.js$domain=1337x.to
 1337x.to##.box-info-detail > div.torrent-detail+div[class]:not([class="manage-box"]):not([class^="torrent-"])
-8muses.com^$inline-script
-@@8muses.com/comix/picture^$inline-script
 ewatchseries.to##.ad_300_300
 ewatchseries.to##.fullwrap > div > div:nth-of-type(4)
 ewatchseries.to##.block-left-home-inside:nth-of-type(2)
