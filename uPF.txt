@@ -973,7 +973,7 @@ comicbook.com##a[href^="http://regmovi.es/"]
 facebook.com##._4nef.fbUserContent._5pcr
 comicbook.com##IMG[alt="Kingsman_Banner"][title="Kingsman_Banner"]
 @@||embed.tawk.to^$script,domain=andrija-i-andjelka.com|clik.pw|debrideco.com|streamlord.com,badfilter
-cbr.com##P:has-text(RELATED:)
+cbr.com##P:has-text(/RELATED:|Related:/)
 screenrant.com##.article-body > h2
 screenrant.com##.article-body > h4
 screenrant.com##.article-body > h3
@@ -1117,7 +1117,6 @@ variety.com##script:inject(abort-on-property-read.js, pmc_admanager)
 ||piguiqproxy.com/api$xmlhttprequest,redirect=nooptext
 google.*##._Ubu
 cbr.com##.link:has-text(FindaComicShop.com)
-cbr.com##strong:has-text(REPORT:)
 myanimelist.net##.anime-detail-header-video
 avclub.com/wisp/
 avclub.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.kinja-static.com
