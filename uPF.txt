@@ -973,7 +973,7 @@ comicbook.com##a[href^="http://regmovi.es/"]
 facebook.com##._4nef.fbUserContent._5pcr
 comicbook.com##IMG[alt="Kingsman_Banner"][title="Kingsman_Banner"]
 @@||embed.tawk.to^$script,domain=andrija-i-andjelka.com|clik.pw|debrideco.com|streamlord.com,badfilter
-cbr.com##P:has-text(/RELATED:|Related:/)
+cbr.com##p > strong
 screenrant.com##.article-body > h2
 screenrant.com##.article-body > h4
 screenrant.com##.article-body > h3
