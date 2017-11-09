@@ -437,7 +437,7 @@ windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,tesla
 windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##.grid_comm
 windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##.other-channels
 $csp=script-src 'self' 'unsafe-inline' 'unsafe-eval',domain=windowscentral.com|androidcentral.com|imore.com|crackberry.com|vrheads.com|teslacentral.com|connectedly.com
-youtube.com^$csp=default-src  'self' 'unsafe-inline' 'unsafe-eval' *.ytimg.com *.googlevideo.com *.ggpht.com *.google.com *.gstatic.com blob: data:
+youtube.com^$csp=default-src  'self' 'unsafe-inline' 'unsafe-eval' *.ytimg.com *.googlevideo.com *.ggpht.com *.google.com *.googleusercontent.com *.gstatic.com blob: data:
 @@fontawesome^$stylesheet,font
 porncomics.biz,milftoon.info###popupOverlay
 @@myanimelist.cdn-dena.com/static/assets/js/pc/*.js^$domain=myanimelist.net
