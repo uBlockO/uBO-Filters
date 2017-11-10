@@ -509,17 +509,17 @@ annotations$script
 9anime.*##.alert
 9anime.*##.popover
 thewindowsclub.com##.ad-widget
-fmovies.*##a[href="http://9anime.to/"]
-fmovies.*##.home-socials
-fmovies.*##.alert
-fmovies.*##.remove-ad
-fmovies.*##.widget:nth-of-type(5)
-fmovies.*###tags
-fmovies.*##.hidden-sm.widget
-fmovies.*##.hd-buttons.row
-fmovies.*##.popover
-fmovies.*##.col-right
-fmovies.*##.widget:nth-of-type(4)
+bmovies.*##a[href="http://9anime.to/"]
+bmovies.*##.home-socials
+bmovies.*##.alert
+bmovies.*##.remove-ad
+bmovies.*##.widget:nth-of-type(5)
+bmovies.*###tags
+bmovies.*##.hidden-sm.widget
+bmovies.*##.hd-buttons.row
+bmovies.*##.popover
+bmovies.*##.col-right
+bmovies.*##.widget:nth-of-type(4)
 gorillavid.in,eztv.*,zippyshare.com##script:inject(abort-on-property-write.js, admvpu)
 scriptv2.js$domain=1337x.to
 1337x.to##.box-info-detail > div.torrent-detail+div[class]:not([class="manage-box"]):not([class^="torrent-"])
@@ -552,13 +552,13 @@ wigetmedia.js
 androidcentral.com,windowscentral.com##.mn_mbn_share
 gyazo.com##.image-infos
 @@mycloud.to/embed^$third-party
-@@fmovies.*/assets/movie^$image
+@@bmovies.*/assets/movie^$image
 thepiratebay.*##script:inject(abort-on-property-read.js, open)
 cbr.com##.quiz-share-btn-wrapper
 celebjihad.com##a[href^="https://www.celebjihad.com/widget/"]
 aol.*,huffingtonpost.*##script:inject(abort-on-property-write.js, _sp_)
 thefappening.*###id-vidgeta-primary
-fmovies.*,9anime.*##a[href^="https://mgid.com/"]
+bmovies.*,9anime.*##a[href^="https://mgid.com/"]
 9anime.*##.a_d
 pornhub.com##.adlink2
 kissanime.*###adsIfrme7
@@ -683,7 +683,7 @@ omegaunderground.com##.widget_text.widget
 omegaunderground.com###sidebar-footer
 mega.nz##.active.top-login-warning
 /[a-z]watchseries.to/##a[href^="/redirect.php"]
-fmovies.*^$csp=script-src 'self' 'unsafe-eval' *.jwpcdn.com
+bmovies.*^$csp=script-src 'self' 'unsafe-eval' *.jwpcdn.com
 9anime.*^$csp=script-src 'self' *.jwpcdn.com 'unsafe-eval'
 solarmovie.*^$csp=script-src 'self' *.jwpcdn.com 'unsafe-eval'
 endscreen$script
@@ -885,11 +885,11 @@ watchfree.to##.header_docs
 cookieconsent.min$important
 @@$media,domain=kimcartoon.me|kissanime.ru
 @@9anime.*^$elemhide
-@@fmovies.*^$elemhide
+@@bmovies.*^$elemhide
 @@||openload.co/assets/js/script.*.js$domain=openload.co,badfilter
-fmovies.*,9anime.*##.socials
-fmovies.*,9anime.*##.twitter-follow-button
-fmovies.*,9anime.*##.ads
+bmovies.*,9anime.*##.socials
+bmovies.*,9anime.*##.twitter-follow-button
+bmovies.*,9anime.*##.ads
 outlook.live.com##a[href^="https://aka.ms"]
 myanimelist.net##.video-providers
 showads.js$important
