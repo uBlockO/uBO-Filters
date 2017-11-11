@@ -1081,7 +1081,7 @@ kisshentai.net##.rightBox:has-text(/Announcement|Like me/)
 /\.com\/.*[a-f0-9]{110}/$third-party,image,badfilter
 imgur.com##li:has-text(/report ad|advertise|ad choices/)
 imgur.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.imgur.com ajax.googleapis.com apis.google.com cdn-enterprise.discourse.org
-facebook.com##._4-u2:has-text(Mark!)
+bmovies.*##.widget-title:has-text(Sponsored)
 myanimelist.net##.anime_discussions.widget
 myanimelist.net##.promotional-video.video-block
 adblocker$script
