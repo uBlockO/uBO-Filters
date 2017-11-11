@@ -1088,7 +1088,7 @@ adblocker$script
 facebook.com###pagelet_page_cover
 report-uri.*^$third-party
 @@||facebook.com/common/referer_frame.php$subdocument,domain=facebook.com,badfilter
-facebook.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
+facebook.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data:
 authedmine.com^
 lib/*.wasm^$important
 @@chromium.org/*/popup_controller.js$script
