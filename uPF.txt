@@ -684,7 +684,7 @@ omegaunderground.com###sidebar-footer
 mega.nz##.active.top-login-warning
 /[a-z]watchseries.to/##a[href^="/redirect.php"]
 bmovies.*^$csp=script-src 'self' 'unsafe-eval' *.jwpcdn.com *.akacdn.ru
-9anime.*^$csp=script-src 'self' *.jwpcdn.com 'unsafe-eval'
+9anime.*^$csp=script-src 'self' *.jwpcdn.com 'unsafe-eval' *.akacdn.ru
 solarmovie.*^$csp=script-src 'self' *.jwpcdn.com 'unsafe-eval'
 endscreen$script
 ads_$xmlhttprequest,important
