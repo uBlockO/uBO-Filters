@@ -1124,7 +1124,7 @@ youtube.com^$important,domain=kirtuclub.com
 comicbook.com/article/json/$xmlhttprequest
 comicbook.com##.article-break
 comicbook.com##.modern-embed
-youtube.com##.ytd-pla-shelf-renderer.style-scope
+youtube.com###pla-shelf
 bmovies.*##a[href^="https://twitter.com/"]
 kissanime.*##.bigBarContainer:has-text(Comments)
 kissanime.*##a[href^="https://animemerchant.com/"]
