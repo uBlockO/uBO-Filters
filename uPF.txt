@@ -930,7 +930,7 @@ forbes.com##.top-ad-container
 forbes.com##.fs-text-l
 portableapps.com##script:inject(setTimeout-defuser.js, ad blocker)
 googleblog.com##a[href^="https://plus.google.com/"]
-kissasian.*,milfzr.com##script:inject(noeval-if.js, catch)
+kissasian.*,milfzr.com##script:inject(abort-current-inline-script.js, parseInt, tabunder)
 @@||kisscartoon.*^$first-party,script,badfilter
 kisscartoon.*,kimcartoon.io##script:inject(adb.js)
 googlevideo.io^
