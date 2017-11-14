@@ -1,4 +1,4 @@
-[uBlock Origin 1.14.19.2]
+[uBlock Origin 1.14.19.4]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -998,4 +998,4 @@ kissanime.*##a[href^="https://animemerchant.com/"]
 rapidvideo.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 kissanime.*##.rightBox:has-text(Like me)
 
-$third-party,domain=|kissmanga.com|readcomiconline.to|torrentfreak.com|scribblrs.com|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|istream.is|freeadultcomix.com|onhax.me|cinemablend.com|8muses.com
+$third-party,script,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
