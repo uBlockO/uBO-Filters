@@ -718,7 +718,7 @@ thepiratebay.*^$csp=script-src 'self' 'unsafe-inline'
 ugbase.eu^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 cinemablend.com^$csp=script-src 'self' 'unsafe-inline' platform.twitter.com *.twimg.com *.instagram.com
 ad-view$script,important
-kissanime.ru^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
+kissanime.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 myanimelist.net^$csp=script-src 'self' *.cdn-dena.com 'unsafe-eval' 'unsafe-inline'
 @@myanimelist.net^$elemhide
 myanimelist.net##.icon-block-small.js-sns-icon-container
@@ -996,5 +996,6 @@ kissanime.*##.bigBarContainer:has-text(Comments)
 kissanime.*##a[href^="https://animemerchant.com/"]
 |https://$third-party,script,domain=9anime.to,badfilter
 rapidvideo.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
+kissanime.*##.rightBox:has-text(Like me)
 
-$third-party,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|hanime.tv|digit.in|indiatimes.com|space.com|torrentfreak.com|scribblrs.com|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|checkmytrip.com|itechpost.com|watchfree.to|openload.co|gsmarena.com|myanimelist.net|vidup.me|trailer-track.com|mediafire.com|tomsguide.com|istream.is|pocketnow.com|freeadultcomix.com|streamflix.org|onhax.me|pornovau.com|diverxity.com|rule34hentai.net|sexolic.com|parentherald.com|9cartoon.me|birthmoviesdeath.com|animmex.com|cinemablend.com|wired.com|usatoday.com|8muses.com|thewindowsclub.com
+$third-party,domain=|kissmanga.com|readcomiconline.to|torrentfreak.com|scribblrs.com|bulbagarden.net|torrentsgroup.com|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|istream.is|freeadultcomix.com|onhax.me|cinemablend.com|8muses.com
