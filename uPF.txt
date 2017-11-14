@@ -997,5 +997,6 @@ kissanime.*##a[href^="https://animemerchant.com/"]
 |https://$third-party,script,domain=9anime.to,badfilter
 rapidvideo.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 kissanime.*##.rightBox:has-text(Like me)
+@@||akamaihd.net^*/ad*.js$script,badfilter
 
 $third-party,script,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
