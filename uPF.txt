@@ -842,7 +842,7 @@ moviepilot.com###mc_embed_signup
 1337x.to##.bitcoin
 9cartoon.me##a[href^="http://chiaanime.co/"]
 9cartoon.me##a[href^="https://goo.gl/"]
-kisscartoon.*,kimcartoon.*##a[href^="//"]
+kisscartoon.*,kimcartoon.*##script:inject(abort-current-inline-script.js, parseInt, tabunder)
 kimcartoon.*,kisscartoon.*##.alert-info.alert
 kimcartoon.*,kisscartoon.*##.mb15.full
 kimcartoon.*,kisscartoon.*###btnShowComments
