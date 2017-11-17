@@ -596,9 +596,9 @@ omegaunderground.com##.widget_text.widget
 omegaunderground.com###sidebar-footer
 mega.nz##.active.top-login-warning
 xwatchseries.to##a[href^="/redirect.php"]
-bmovies.*^$csp=script-src 'self' 'unsafe-eval' *.jwpcdn.com *.akacdn.ru
-9anime.*^$csp=script-src 'self' *.jwpcdn.com 'unsafe-eval' *.akacdn.ru
-solarmovie.*^$csp=script-src 'self' *.jwpcdn.com 'unsafe-eval'
+bmovies.*^$csp=script-src 'self' 'unsafe-eval' *.jwpcdn.com 
+9anime.*^$csp=script-src 'self' 'unsafe-eval' *.jwpcdn.com 
+solarmovie.*^$csp=script-src 'self' 'unsafe-eval' *.jwpcdn.com
 endscreen$script
 ads_$xmlhttprequest,important
 plg_jchoptimize$script
