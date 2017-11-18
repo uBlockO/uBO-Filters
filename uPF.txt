@@ -773,7 +773,6 @@ cbr.com###secondary
 xwatchseries.to^$csp=script-src 'self' 'unsafe-inline' *.xwatchseries.to
 watchfree.to##.header_docs
 cookieconsent.min$important
-@@$media,domain=kimcartoon.me|kissanime.ru
 @@9anime.*^$elemhide
 @@bmovies.*^$elemhide
 @@||openload.co/assets/js/script.*.js$domain=openload.co,badfilter
