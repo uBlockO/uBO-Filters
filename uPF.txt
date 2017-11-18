@@ -1003,5 +1003,6 @@ boxofficemojo.com###Player_82160f42-9620-4d0a-b79a-18b1abd853fb
 bmovies.*##.col-lg-12:has-text(blockbuster)
 bmovies.*##.footerdesc
 cbr.com##p:has-text(RELATED:)
+adbd^
 
 $third-party,script,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
