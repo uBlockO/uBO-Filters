@@ -305,7 +305,7 @@ mrskin.com##.sk-wallpaper-riseup.sk-wallpaper.sk-wallpaper-item
 sk_special_offer_video
 popup$script
 ph-tracking.js^$important
-premium^$important
+premium^$script,important
 promo-banner.js^$important
 cdn-cgi/pe/bag2
 9anime.*##.notice.alert-primary.alert
