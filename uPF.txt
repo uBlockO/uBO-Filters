@@ -435,9 +435,9 @@ bmovies.*##.home-socials
 bmovies.*##.alert
 bmovies.*##.remove-ad
 bmovies.*##.widget:nth-of-type(5)
-bmovies.*,9anime.*,solarmovie.*,putlockertv.*###tags
+bmovies.*,9anime.*,solarmoviex.*,putlockertv.*###tags
 bmovies.*##.hidden-sm.widget
-bmovies.*,9anime.*,solarmovie.*,putlockertv.*##.hd-buttons.row
+bmovies.*,9anime.*,solarmoviex.*,putlockertv.*##.hd-buttons.row
 bmovies.*##.popover
 bmovies.*##.col-right
 bmovies.*##.widget:nth-of-type(4)
@@ -490,13 +490,13 @@ cse.google.com/cse.js^$important
 outlook.live.com##._n_15
 ads$script
 youtube.com##.hats-categorical-style-vertical
-solarmovie.st##.home-socials
-solarmovie.st##.alert
+solarmoviex.*##.home-socials
+solarmoviex.*##.alert
 @@twitter.com/i/cards/tfw^
 mozilla.org##.global-notice
 mrskin.com##a[href^="http://www.amazon.com/gp/search"]
 fzpwll.mrskin.com^
-solarmovie.*,bmovies.*,9anime.*,putlockertv.*###comment
+solarmoviex.*,bmovies.*,9anime.*,putlockertv.*###comment
 @@||speedtest.net/javascript/jquery-*.min.js$badfilter
 @@||d3ujids68p6xmq.cloudfront.net^$script,badfilter
 boxofficemojo.com##.survey
@@ -595,7 +595,7 @@ xwatchseries.to##a[href^="/redirect.php"]
 bmovies.*^$csp=script-src 'self' 'unsafe-eval' *.jwpcdn.com 
 9anime.*^$csp=script-src 'self' 'unsafe-eval' *.jwpcdn.com
 putlockertv.*^$csp=script-src 'self' 'unsafe-eval' *.jwpcdn.com
-solarmovie.*^$csp=script-src 'self' 'unsafe-eval' *.jwpcdn.com
+solarmoviex.*^$csp=script-src 'self' 'unsafe-eval' *.jwpcdn.com
 endscreen$script
 ads_$xmlhttprequest,important
 plg_jchoptimize$script
