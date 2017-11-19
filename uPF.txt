@@ -311,14 +311,11 @@ cdn-cgi/pe/bag2
 9anime.*##.notice.alert-primary.alert
 9anime.*##.home-socials
 @@jwpcdn.com^$font
-9anime.*###comment
-instagram.com##._e616g._csy1m
 wp-adblock-dedect$important
 fuckadblock.js
 readcomics.tv##.main-share
 quora.com##.footer_alphabet
 quora.com##.ContentPageFeed
-9cartoon.me##.anime_video_body_watch_items > .anime_video_body_watch_items > div:nth-of-type(1)
 cinemablend.com##.content_story_pages_playwire.partial
 forbes.com##.ng-scope.items
 forbes.com##.default-expanded.article-trending-panel.article-sidebar-panel
@@ -438,9 +435,9 @@ bmovies.*##.home-socials
 bmovies.*##.alert
 bmovies.*##.remove-ad
 bmovies.*##.widget:nth-of-type(5)
-bmovies.*###tags
+bmovies.*,9anime.*,solarmovie.*,putlockertv.*###tags
 bmovies.*##.hidden-sm.widget
-bmovies.*##.hd-buttons.row
+bmovies.*,9anime.*,solarmovie.*,putlockertv.*##.hd-buttons.row
 bmovies.*##.popover
 bmovies.*##.col-right
 bmovies.*##.widget:nth-of-type(4)
@@ -499,8 +496,7 @@ solarmovie.st##.alert
 mozilla.org##.global-notice
 mrskin.com##a[href^="http://www.amazon.com/gp/search"]
 fzpwll.mrskin.com^
-solarmovie.st###comment
-solarmovie.st###tags
+solarmovie.*,bmovies.*,9anime.*,putlockertv.*###comment
 @@||speedtest.net/javascript/jquery-*.min.js$badfilter
 @@||d3ujids68p6xmq.cloudfront.net^$script,badfilter
 boxofficemojo.com##.survey
@@ -806,7 +802,6 @@ outlook.live.com^$csp=script-src 'self' 'unsafe-inline' *.office365.com 'unsafe-
 @@||oload.tv/assets/js/script.*.js$badfilter
 @@||oload.tv/assets/js/license.*.js$badfilter
 thepiratebay.*###details > div:nth-of-type(3) > div:has-text(magnets)
-9anime.*###tags
 wikia.com##.article-video
 @@||googletagmanager.com/gtm.js?$domain=airasia.com|bhaskar.com|broadcom.com|computerworlduk.com|desigual.com|drumstick.com|ebuyer.com|elevationscu.com|gamepix.com|git-tower.com|google.com|itv.com|jobs.net|keygames.com|magicjack.com|moviefone.com|nestio.com|newsy.com|optus.com.au|rebtel.com|rockstargames.com|rollingstone.com|rozetka.com.ua|sixflags.com|support.amd.com|talktalk.co.uk|techradar.com|toto.co.jp|usmagazine.com,badfilter
 wibbitz.com^
