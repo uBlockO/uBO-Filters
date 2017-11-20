@@ -144,9 +144,6 @@ androidauthority.com##.postinfo
 heroichollywood.com##.author-box
 hanime.tv##.header-nav-item:nth-of-type(5)
 torrentfreak.com##.comments.pbx-alt.pbx
-comment.js$script,domain=1337x.to
-jquery.pagination.js$script,domain=1337x.to
-jquery.mCustomScrollbar.js$script,domain=1337x.to
 air.irctc.co.in###bodyBottom
 air.irctc.co.in##.col2
 air.irctc.co.in##img[src="/IndianRailways/irctcair/images/freedom_conv.gif"]
