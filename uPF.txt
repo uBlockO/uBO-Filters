@@ -680,9 +680,9 @@ ghacks.net##.post-entries
 ghacks.net##strong:has-text(share)
 ghacks.net##.tags
 ghacks.net###sidebar
-ghacks.net##ul:has-text(.)
+ghacks.net##.entry > ul:has-text(.)
 ghacks.net##.entry > div:has-text(/Advertisement|Read/)
-ghacks.net##P:has-text(/Tip|Now You|Tips|Related articles/)
+ghacks.net##P:has-text(/Tip|Now You|Tips|related/)
 ghacks.net##.post-comments
 ghacks.net^$csp=script-src 'self' 'unsafe-inline'
 youtube.com###movie-upsell-card
