@@ -340,22 +340,21 @@ imdb.com##.footer-grid-wrapper.container
 imdb.com###sidebar
 cinemablend.com##.content_story_pages_nextstory.partial
 katcr.co##.myBlock:nth-of-type(1)
-windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com###comments
-windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com###Leaderboard_Footer_BTF-wrap
-windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##.ad.narrow.container
-windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com###InArticle_BTF3-wrap
-windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##.side-ad-inner
-windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com###Leaderboard_Header_ATF-wrap
-windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##.netshelter-ad-inner
-windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##.extra.col-right
-windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##.visor-breaker-ad.container
-windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##.container-breaker.hidden-gems-widget
-windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##script:inject(setTimeout-defuser.js, displayNoneImportant)
-windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##a[href^="https://ad.doubleclick.net/"]
-windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##a[href^="https://www.mintsim.com/"]
-windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##.grid_comm
-windowscentral.com,androidcentral.com,imore.com,crackberry.com,vrheads.com,teslacentral.com,connectedly.com##.other-channels
-$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval',domain=windowscentral.com|androidcentral.com|imore.com|crackberry.com|vrheads.com|teslacentral.com|connectedly.com
+windowscentral.com,androidcentral.com###comments
+windowscentral.com,androidcentral.com###Leaderboard_Footer_BTF-wrap
+windowscentral.com,androidcentral.com##.ad.narrow.container
+windowscentral.com,androidcentral.com###InArticle_BTF3-wrap
+windowscentral.com,androidcentral.com##.side-ad-inner
+windowscentral.com,androidcentral.com###Leaderboard_Header_ATF-wrap
+windowscentral.com,androidcentral.com##.netshelter-ad-inner
+windowscentral.com,androidcentral.com##.extra.col-right
+windowscentral.com,androidcentral.com##.visor-breaker-ad.container
+windowscentral.com,androidcentral.com##.container-breaker.hidden-gems-widget
+windowscentral.com,androidcentral.com##a[href^="https://ad.doubleclick.net/"]
+windowscentral.com,androidcentral.com##a[href^="https://www.mintsim.com/"]
+windowscentral.com,androidcentral.com##.grid_comm
+windowscentral.com,androidcentral.com##.other-channels
+$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval',domain=windowscentral.com|androidcentral.com
 youtube.com^$csp=script-src  'self' 'unsafe-inline' 'unsafe-eval'
 @@/fontawesome^$stylesheet,font
 porncomics.biz,milftoon.info###popupOverlay
