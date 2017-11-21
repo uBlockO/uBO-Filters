@@ -1002,5 +1002,6 @@ rapidvideo.com##script:inject(abort-on-property-read.js, atob)
 androidcentral.com,windowscentral.com##.author-info-top-wrap
 androidcentral.com,windowscentral.com##script:inject(setTimeout-defuser.js)
 windowscentral.com##.visor-block--destination.visor-block
+androidcentral.com,windowscentral.com##.usr-msg
 
 $third-party,script,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
