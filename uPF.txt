@@ -1,4 +1,4 @@
-[uBlock Origin 1.14.19.7]
+[uBlock Origin 1.14.19.8]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -977,7 +977,7 @@ cbr.com##.link:has-text(FindaComicShop.com)
 myanimelist.net##.anime-detail-header-video
 avclub.com/wisp/
 avclub.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.kinja-static.com
-youtube.com^$important,domain=kirtuclub.com
+kirtuclub.com^$csp=script-src 'self' 'unsafe-eval' *.wp.com
 comicbook.com/article/json/$xmlhttprequest
 comicbook.com##.article-break
 comicbook.com##.modern-embed
