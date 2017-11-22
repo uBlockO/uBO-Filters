@@ -1003,6 +1003,7 @@ androidcentral.com,windowscentral.com##.usr-msg
 screenrant.com##h3:has-text(/Related:|RELATED:/)
 screenrant.com##h2:has-text(/More:|MORE:|NEXT:|Next:/)
 screenrant.com##h4:has-text(/Related:|RELATED:/)
-bmovies.*##.pa
+bmovies.*,9anime.*,solarmoviex.*,putlockertv.to##.pa
+9anime.*##.myass
 
 $third-party,script,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
