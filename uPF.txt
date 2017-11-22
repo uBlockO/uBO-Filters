@@ -1,4 +1,4 @@
-[uBlock Origin 1.14.19.8]
+[uBlock Origin 1.14.19.9]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -852,9 +852,6 @@ comicbook.com##a[href^="http://regmovi.es/"]
 facebook.com##._4nef.fbUserContent._5pcr
 comicbook.com##IMG[alt="Kingsman_Banner"][title="Kingsman_Banner"]
 @@||embed.tawk.to^$script,domain=andrija-i-andjelka.com|clik.pw|debrideco.com|streamlord.com,badfilter
-screenrant.com##.article-body > h2
-screenrant.com##.article-body > h4
-screenrant.com##.article-body > h3
 screenrant.com##P:has-text(/Related:|RELATED:/)
 screenrant.com##H6:has-text(Follow)
 screenrant.com##.social-list
