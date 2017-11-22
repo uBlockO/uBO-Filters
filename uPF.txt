@@ -257,7 +257,6 @@ cbr.com##.injected-video-by-load
 @@instagram.com/*/embed/captioned^
 androidauthority.com##.load-infinite.loading
 istream.*##.buttons.dmcaLink
-popups$script
 ads-$script
 mrskin.com/*/sk_blog_manager/core-*.js^$script
 mrskin.com##.sk-gallery-viewer-zone
@@ -300,7 +299,6 @@ istream.*##.sources
 mrskin.com##a[href^="/account/purchase"]
 mrskin.com##.sk-wallpaper-riseup.sk-wallpaper.sk-wallpaper-item
 sk_special_offer_video
-popup$script
 ph-tracking.js^$important
 premium^$script,important
 promo-banner.js^$important
@@ -610,7 +608,6 @@ https://jspenguin.com/API/uBlockProtector/Solutions/Blocked.php$important
 https://jspenguin.com/API/uBlockProtector/Solutions/
 @@https://jspenguin.com/API/uBlockProtector/Solutions/MoatFreeWheelJSPEM.js|$script
 messenger.com/ajax/bz
-popup.js
 noadblock.js
 kimcartoon.*##.kcAds
 @@phprcdn.com^$media,domain=hanime.tv
@@ -944,7 +941,6 @@ report-uri.*^$third-party
 facebook.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data:
 authedmine.com^
 lib/*.wasm^$important
-@@chromium.org/*/popup_controller.js$script
 screenrant.com##strong:has-text(RELATED:)
 jwpcdn.com/*/related.js$script
 readcomics.*##.panel-body
