@@ -591,7 +591,7 @@ xwatchseries.to##a[href^="/redirect.php"]
 bmovies.*^$csp=script-src 'self' 'unsafe-eval' *.jwpcdn.com 
 9anime.*^$csp=script-src 'self' 'unsafe-eval' *.jwpcdn.com
 putlockertv.*^$csp=script-src 'self' 'unsafe-eval' *.jwpcdn.com
-solarmoviex.*^$csp=script-src 'self' 'unsafe-eval' *.jwpcdn.com
+solarmoviex.*^$csp=script-src 'self' 'unsafe-eval' *.jwpcdn.com *.solarmoviex.to
 endscreen$script
 ads_$xmlhttprequest,important
 plg_jchoptimize$script
@@ -1003,7 +1003,7 @@ androidcentral.com,windowscentral.com##.usr-msg
 screenrant.com##h3:has-text(/Related:|RELATED:/)
 screenrant.com##h2:has-text(/More:|MORE:|NEXT:|Next:/)
 screenrant.com##h4:has-text(/Related:|RELATED:/)
-bmovies.*,9anime.*,solarmoviex.*,putlockertv.to##.pa
+bmovies.*,9anime.*,solarmoviex.*,putlockertv.*##.pa
 9anime.*##.myass
 
 $third-party,script,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
