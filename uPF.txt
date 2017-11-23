@@ -1,4 +1,4 @@
-[uBlock Origin 1.14.19.9]
+[uBlock Origin 1.14.19.100]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -997,7 +997,7 @@ windowscentral.com##.visor-block--destination.visor-block
 androidcentral.com,windowscentral.com##.usr-msg
 screenrant.com##h3:has-text(/Related:|RELATED:/)
 screenrant.com##h2:has-text(/More:|MORE:|NEXT:|Next:/)
-screenrant.com##h4:has-text(/Related:|RELATED:/)
+screenrant.com##h4:has-text(/Related:|RELATED:|Read More:|READ MORE:/)
 bmovies.*,9anime.*,solarmoviex.*,putlockertv.*##.pa
 9anime.*##.myass
 xmlrpc.php^
