@@ -586,7 +586,7 @@ omegaunderground.com##.widget_text.widget
 omegaunderground.com###sidebar-footer
 mega.nz##.active.top-login-warning
 xwatchseries.to##a[href^="/redirect.php"]
-bmovies.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.jwpcdn.com blob:
+bmovies.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.jwpcdn.com
 9anime.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.jwpcdn.com
 putlockertv.*^$csp=script-src 'self' 'unsafe-eval' *.jwpcdn.com
 solarmoviex.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.jwpcdn.com *.solarmoviex.to
@@ -1002,7 +1002,7 @@ bmovies.*,9anime.*,solarmoviex.*,putlockertv.*##.pa
 9anime.*##.myass
 xmlrpc.php^
 flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' cdnjs.cloudflare.com ajax.googleapis.com
-9anime.*/assets/acode
+/assets/acode/
 solarmoviex.*,bmovies.*##script:inject(abort-current-inline-script.js, parseInt, tabunder)
 bmovies.*##script:inject(abort-on-property-read.js, performance)
 
