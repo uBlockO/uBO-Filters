@@ -1004,5 +1004,8 @@ xmlrpc.php^
 flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' cdnjs.cloudflare.com ajax.googleapis.com
 */assets/acode/$subdocument,other
 solarmoviex.*,bmovies.*##script:inject(abort-current-inline-script.js, parseInt, /tabunder|676574456c656d656e747342795461674e616d65/)
+rapidvideo.com###top350b
+rapidvideo.com###premiumad
+rapidvideo.com###top350
 
 $third-party,script,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
