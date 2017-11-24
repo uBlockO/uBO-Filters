@@ -1,4 +1,4 @@
-[uBlock Origin 1.14.19.100]
+[uBlock Origin 1.14.19.101]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -1002,6 +1002,5 @@ bmovies.*,9anime.*,solarmoviex.*,putlockertv.*##.pa
 9anime.*##.myass
 xmlrpc.php^
 flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' cdnjs.cloudflare.com ajax.googleapis.com
-9anime.*##script:inject(setInterval-defuser.js, showWarning)
 
 $third-party,script,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
