@@ -586,7 +586,7 @@ omegaunderground.com##.widget_text.widget
 omegaunderground.com###sidebar-footer
 mega.nz##.active.top-login-warning
 xwatchseries.to##a[href^="/redirect.php"]
-bmovies.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.jwpcdn.com 
+bmovies.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.jwpcdn.com blob:
 9anime.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.jwpcdn.com
 putlockertv.*^$csp=script-src 'self' 'unsafe-eval' *.jwpcdn.com
 solarmoviex.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.jwpcdn.com *.solarmoviex.to
@@ -1003,5 +1003,7 @@ bmovies.*,9anime.*,solarmoviex.*,putlockertv.*##.pa
 xmlrpc.php^
 flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' cdnjs.cloudflare.com ajax.googleapis.com
 9anime.*/assets/acode
+solarmoviex.*,bmovies.*##script:inject(abort-current-inline-script.js, parseInt, tabunder)
+bmovies.*##script:inject(abort-on-property-read.js, performance)
 
 $third-party,script,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
