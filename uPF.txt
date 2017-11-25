@@ -703,7 +703,7 @@ deadline.com##.tags
 deadline.com##.pmc-related-link
 deadline.com##.related-article
 deadline.com^$csp=script-src 'self' platform.twitter.com *.twimg.com *.deadline.com *.wp.com 'unsafe-inline'
-torrentz2.eu^$csp=script-src 'self' 'unsafe-inline' *.google.com
+torrentz2.eu^$csp=script-src 'self' 'unsafe-inline' *.google.com *.gstatic.com
 thepiratebay.*^$csp=script-src 'self' 'unsafe-inline'
 ugbase.eu^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 cinemablend.com^$csp=script-src 'self' 'unsafe-inline' platform.twitter.com *.twimg.com *.instagram.com
