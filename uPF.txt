@@ -495,7 +495,6 @@ solarmoviex.*,bmovies.*,9anime.*,putlockertv.*###comment
 boxofficemojo.com##.survey
 youtube.com/api/stats^$important
 log_event
-@@cdnjs.cloudflare.com/ajax/libs^$script,domain=hanime.tv
 kisshentai.*##script:inject(abort-on-property-read.js, BetterJsPop)
 kisshentai.*##a[href="#"]
 kisshentai.*###show_id
@@ -886,10 +885,8 @@ imdb.com##.aux-content-widget-2:has-text(Connect)
 imdb.com##.aux-content-widget-2:nth-of-type(6)
 */ads.js$script,important,redirect=noopjs
 */*.ads.js$script,important,redirect=noopjs
-hanime.tv^$csp=default-src 'self' 'unsafe-inline' maxcdn.bootstrapcdn.com *.googleusercontent.com *.google.com vjs.zencdn.net *.hanime.tv .algolia.net *.algolianet.com *.phprcdn.com
+hanime.tv^$csp=default-src 'self' 'unsafe-inline' maxcdn.bootstrapcdn.com *.googleusercontent.com *.google.com vjs.zencdn.net *.hanime.tv *.algolia.net *.algolianet.com *.phprcdn.com
 @@||hanime.tv/*.ads.js$badfilter
-fuckcomix.com##.widget_text.widget
-fuckcomix.com###page-footer
 pornhub.com##.video-wrapper:nth-of-type(3)
 comicbook.com##.contentgroup:nth-of-type(7) > header
 comicbook.com##.contentgroup:nth-of-type(7) > article
