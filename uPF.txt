@@ -45,7 +45,6 @@ cinemablend.com##a[href="#discuss"]
 bulbagarden.net##.rlsmobile
 bulbagarden.net###bottomframe
 bulbagarden.net##a[href="http://goo.gl/uQ5bIR"]
-howtogeek.com##span
 howtogeek.com##.articleExtras
 howtogeek.com###sb2
 hollywoodreporter.com/fe_data$xmlhttprequest
