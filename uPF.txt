@@ -848,7 +848,6 @@ comicbook.com##a[href^="http://regmovi.es/"]
 facebook.com##._4nef.fbUserContent._5pcr
 comicbook.com##IMG[alt="Kingsman_Banner"][title="Kingsman_Banner"]
 @@||embed.tawk.to^$script,domain=andrija-i-andjelka.com|clik.pw|debrideco.com|streamlord.com,badfilter
-screenrant.com##P:has-text(/Related:|RELATED:/)
 screenrant.com##H6:has-text(Follow)
 screenrant.com##.social-list
 screenrant.com##.li-premium-zone
@@ -998,6 +997,7 @@ androidcentral.com,windowscentral.com##.usr-msg
 screenrant.com##.article-body > h3:has-text(/Related|RELATED/)
 screenrant.com##.article-body > h2:has-text(/More:|MORE:|NEXT:|Next:/)
 screenrant.com##.article-body > h4:has-text(/Related:|RELATED:|Read More:|READ MORE:/)
+screenrant.com##.article-body > p:has-text(/Related:|RELATED:|Next:|next:/)
 bmovies.*,9anime.*,solarmoviex.*,putlockertv.*##.pa
 9anime.*##.myass
 xmlrpc.php^
