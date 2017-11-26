@@ -1009,5 +1009,7 @@ rapidvideo.com###premiumad
 rapidvideo.com###top350
 howtogeek.com##.how-to-geek-follow
 howtogeek.com##.disclaimer
+howtogeek.com##.relatedside
+howtogeek.com###secondary.sidebar-article.widget-area
 
 $third-party,script,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
