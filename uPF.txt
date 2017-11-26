@@ -1007,5 +1007,6 @@ howtogeek.com##.relatedside
 howtogeek.com###secondary.sidebar-article.widget-area
 howtogeek.com##.relatedfull
 myanimelist.net##.mb4.di-ib
+kimcartoon.me##.barContent:has-text(Ads can be a pain)
 
 $third-party,script,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
