@@ -411,7 +411,7 @@ facebook.com/*/logging^$important
 myanimelist.net##.amazon.btn-affiliate
 xvideos.com,xnxx.com##script:inject(noeval.js)
 @@jsdelivr.net^$stylesheet,image,media
-@@jsdelivr.net^$script,domain=8muses.com|hanime.tv
+@@jsdelivr.net^$script,domain=8muses.com
 imdb.com##.aux-content-widget-2:nth-of-type(4)
 imdb.com###title-overview-widget > .article
 imdb.com##.ab_ninja
@@ -609,8 +609,6 @@ https://jspenguin.com/API/uBlockProtector/Solutions/
 messenger.com/ajax/bz
 noadblock.js
 kimcartoon.*##.kcAds
-@@phprcdn.com^$media,domain=hanime.tv
-@@rncdn3.com^$media,domain=hanime.tv
 screenrant.com,cbr.com##.header-premium-zone
 screenrant.com,cbr.com##.premium-promo
 ||fmovies.is^$first-party,popup,badfilter
@@ -888,7 +886,7 @@ imdb.com##.aux-content-widget-2:has-text(Connect)
 imdb.com##.aux-content-widget-2:nth-of-type(6)
 */ads.js$script,important,redirect=noopjs
 */*.ads.js$script,important,redirect=noopjs
-hanime.tv^$csp=script-src 'self' 'unsafe-inline' *.hanime.tv *.googleusercontent.com *.google.com *.algolia.net *.algolianet.com
+hanime.tv^$csp=default-src 'self' 'unsafe-inline' maxcdn.bootstrapcdn.com *.googleusercontent.com *.google.com vjs.zencdn.net *.hanime.tv .algolia.net *.algolianet.com *.phprcdn.com
 @@||hanime.tv/*.ads.js$badfilter
 fuckcomix.com##.widget_text.widget
 fuckcomix.com###page-footer
