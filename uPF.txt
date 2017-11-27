@@ -500,11 +500,8 @@ kisshentai.*##a[href="#"]
 kisshentai.*###show_id
 kisshentai.*$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 kisshentai.*##script:inject(abort-on-property-read.js, adblock)
-@@imgclick.net^$image,domain=freeadultcomix.com
 @@netdna-cdn.com/wp-content^$image,stylesheet
 doubleclick^$script,important
-@@algolia.net^$script,xmlhttprequest,domain=hanime.tv
-@@algolianet.com^$script,xmlhttprequest,domain=hanime.tv
 anilinkz.*##script:inject(abort-on-property-read.js, open)
 anilinkz.*,vidstreaming.*##script:inject(noeval.js)
 anilinkz.*##script:inject(abort-on-property-write.js, Fingerprint2)
@@ -596,7 +593,6 @@ solidfiles.com#@#.buttons
 solidfiles.com##.premium-promo.box
 solidfiles.com##.box:nth-of-type(3)
 solidfiles.com##.share
-@@googleusercontent.com^$script,domain=hanime.tv
 scorecardresearch.com^$important
 autoplay=1^$inline-script,script
 1337x.to##script:inject(abort-on-property-read.js, Fingerprint2)
@@ -885,7 +881,7 @@ imdb.com##.aux-content-widget-2:has-text(Connect)
 imdb.com##.aux-content-widget-2:nth-of-type(6)
 */ads.js$script,important,redirect=noopjs
 */*.ads.js$script,important,redirect=noopjs
-hanime.tv^$csp=default-src 'self' 'unsafe-inline' maxcdn.bootstrapcdn.com *.googleusercontent.com *.google.com vjs.zencdn.net *.hanime.tv *.algolia.net *.algolianet.com *.phprcdn.com data:
+hanime.tv^$csp=default-src 'self' 'unsafe-inline' maxcdn.bootstrapcdn.com *.googleusercontent.com *.google.com vjs.zencdn.net *.hanime.tv *.algolia.net *.algolianet.com *.phprcdn.com *.rncdn3.com data:
 @@||hanime.tv/*.ads.js$badfilter
 pornhub.com##.video-wrapper:nth-of-type(3)
 comicbook.com##.contentgroup:nth-of-type(7) > header
