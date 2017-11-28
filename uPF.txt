@@ -1,4 +1,4 @@
-[uBlock Origin 1.14.19.101]
+[uBlock Origin 1.14.19.102]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -1006,5 +1006,8 @@ myanimelist.net##.mb4.di-ib
 kimcartoon.me##.barContent:has-text(Ads can be a pain)
 kisscartoon.*##script:inject(abort-current-inline-script.js, parseInt, decodeURIComponent)
 ad.*^$script
+animenewsnetwork.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
+animenewsnetwork.com###cover_image
+animenewsnetwork.com##.floating-image
 
 $third-party,script,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
