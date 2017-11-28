@@ -1009,7 +1009,7 @@ ad.*^$script
 animenewsnetwork.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
 animenewsnetwork.com###cover_image
 animenewsnetwork.com##.floating-image
-animenewsnetwork.com##script:inject(abort-on-property-write.js, excludeIDS)
+animenewsnetwork.com##script:inject(abort-on-property-write.js, excludeIds)
 animenewsnetwork.com###infinite-scroll-outlet
 
 $third-party,script,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
