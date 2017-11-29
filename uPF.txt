@@ -116,8 +116,8 @@ googletagmanager.com^$important
 milfzr.com,blockadblock.com,onhax.me##script:inject(bab-defuser.js)
 comicbook.com##a[href^="http://amzn.to/"]
 airtel.*^$third-party
-1337x.to###mgbl49472
-1337x.to##.link-box
+1337x.*###mgbl49472
+1337x.*##.link-box
 gorillavid.in##img[src^="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAD6CAYAAAAbbXrzAAAACXBIWXMAAAsTAAALEwEAmpwYAAAKT2lDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjanVNnVFPpFj333vRCS4iAlEtvUhUIIFJCi4AUkSYqIQkQSoghodkVUcERRUUEG8igiAOOjoCMFVEsDIoK2AfkIaKOg6OIisr74Xuja9a89+bN/rXXPues852zzwfACAyWSDNRNYAMqUIeEeCDx8TG4eQuQIEKJHAAEAizZCFz/SMBAPh+PDwrIsAHvgABeNMLCADATZvAMByH/w/qQplcAYCEAcB0kThLCIAUAEB6jkKmAEBGAYCdmCZTAKAEAGDLY2LjAFAtAGAnf+bTAICd+Jl7AQBblCEVAaCRACATZYhEAGg7AKzPVopFAFgwABRmS8Q5ANgtADBJV2ZIALC3AMDOEAuyAAgMADBRiIUpAAR7AGDIIyN4AISZABRG8lc88SuuEOcqAAB4mbI8uSQ5RYFbCC1xB1dXLh4ozkkXKxQ2YQJhmkAuwnmZGTKBNA/g88wAAKCRFRHgg/P9eM4Ors7ONo62Dl8t6r8G/yJiYuP+5c+rcEAAAOF0ftH+LC+zGoA7BoBt/qIl7gRoXgugdfeLZrIPQLUAoOnaV/Nw+H48PEWhkLnZ2eXk5NhKxEJbYcpXff5nwl/AV/1s+X48/Pf14L7iJIEyXYFHBPjgwsz0TKUcz5IJhGLc5o9H/LcL//wd0yLESWK5WCoU41EScY5EmozzMqUiiUKSKcUl0v9k4t8s+wM+3zUAsGo+AXuRLahdYwP2SycQWHTA4vcAAPK7b8HUKAgDgGiD4c93/+8//UegJQCAZkmScQAAXkQkLlTKsz/HCAAARKCBKrBBG/TBGCzABhzBBdzBC/xgNoRCJMTCQhBCCmSAHHJgKayCQiiGzbAdKmAv1EAdNMBRaIaTcA4uwlW4Dj1wD/phCJ7BKLyBCQRByA"]
 gorillavid.in###content > form > .video-full > .c1-box > div:nth-of-type(10) > div
 xnxx.com###content-ad-side
@@ -156,7 +156,7 @@ kissmanga.com###containerRoot > div:nth-of-type(4) > div:nth-of-type(17)
 @@blogspot.*^$image,stylesheet,other,media
 @@bootstrapcdn.com^$stylesheet,image,font
 cbr.com##.embed-related-block
-script.js$script,domain=1337x.to
+script.js$script,domain=1337x.to|1337x.st
 google.*###contain-402
 addthis.com^$important
 myanimelist.net##.banner-header-anime-straming
@@ -435,8 +435,8 @@ bmovies.*##.popover
 bmovies.*##.col-right
 bmovies.*##.widget:nth-of-type(4)
 gorillavid.in,zippyshare.com##script:inject(abort-on-property-write.js, admvpu)
-scriptv2.js$domain=1337x.to
-1337x.to##.box-info-detail > div.torrent-detail+div[class]:not([class="manage-box"]):not([class^="torrent-"])
+scriptv2.js$domain=1337x.to|1337x.st
+1337x.*##.box-info-detail > div.torrent-detail+div[class]:not([class="manage-box"]):not([class^="torrent-"])
 xwatchseries.to##.ad_300_300
 xwatchseries.to##.fullwrap > div > div:nth-of-type(4)
 xwatchseries.to##.block-left-home-inside:nth-of-type(2)
@@ -595,8 +595,7 @@ solidfiles.com##.box:nth-of-type(3)
 solidfiles.com##.share
 scorecardresearch.com^$important
 autoplay=1^$inline-script,script
-1337x.to##script:inject(abort-on-property-read.js, Fingerprint2)
-1337x.to##script:inject(abort-on-property-read.js, open)
+1337x.*##script:inject(abort-on-property-read.js, Fingerprint2)
 github.com/_private/browser/errors
 https://jspenguin.com/API/uBlockProtector/Solutions/Blocked.php$important
 https://jspenguin.com/API/uBlockProtector/Solutions/
@@ -819,7 +818,7 @@ howtogeek.com##.third.footer-col
 howtogeek.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 /([0-9]{1,3}\.){3}[0-9]{1,3}/$popup,domain=briansarmiento.website|divxatope1.com|kissanime.ru|newpct.com|pelisplus.tv|rapidvideo.com|strikeout.co|torrentz2.eu,badfilter
 moviepilot.com###mc_embed_signup
-1337x.to##.bitcoin
+1337x.*##.bitcoin
 9cartoon.me##a[href^="http://chiaanime.co/"]
 9cartoon.me##a[href^="https://goo.gl/"]
 kisscartoon.*,kimcartoon.*##script:inject(abort-current-inline-script.js, parseInt, tabunder)
