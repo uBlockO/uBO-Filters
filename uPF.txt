@@ -1011,5 +1011,6 @@ animenewsnetwork.com##.floating-image
 animenewsnetwork.com##script:inject(addEventListener-defuser.js, scroll, currArticleI)
 animenewsnetwork.com###infinite-scroll-outlet
 1337x.*##script:inject(window.open-defuser.js)
+1337x.*^$csp=script-src 'self' 'unsafe-inline'
 
 $third-party,script,domain=kimcartoon.me|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
