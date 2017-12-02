@@ -1016,5 +1016,6 @@ uservoice.js$script
 typekit.net^
 @@cf.challenge^$script
 screenrant.com##.featured-text
+wikia.com##.featured-video__wrapper
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
