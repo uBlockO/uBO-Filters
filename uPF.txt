@@ -191,7 +191,7 @@ heroichollywood.com##.crp_related
 @@wp.com^$stylesheet,image,font
 @@cloudfront.net^$stylesheet,image,media,font
 @@wordpress.com^$stylesheet,image,font
-@@amazonaws.com^$stylesheet,image,media,font
+@@amazonaws.com^$stylesheet,font
 @@jwpcdn.com^$domain=vidup.me
 vidup.me##.col-sm-2
 trailer-track.com##.comments-area-wrapper
