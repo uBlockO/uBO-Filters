@@ -1022,7 +1022,7 @@ wikia.com##.featured-video__wrapper
 @@||s.206ads.com/core.js$domain=androidauthority.com,badfilter
 rapidvideo.com##script:inject(addEventListener-defuser.js, load, ga)
 kissanime.*###adsIfrme8
-@@||exoclick.com/ad_track.js
+@@||exoclick.com/ad_track.js$badfilter
 exoclick.com^$important
 exosrv.com^$important
 
