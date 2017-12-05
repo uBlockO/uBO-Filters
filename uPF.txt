@@ -925,7 +925,7 @@ adblocker$script
 facebook.com###pagelet_page_cover
 report-uri.*^$third-party
 @@||facebook.com/common/referer_frame.php$subdocument,domain=facebook.com,badfilter
-facebook.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data:
+facebook.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob:
 authedmine.com^
 lib/*.wasm^$important
 screenrant.com##strong:has-text(RELATED:)
@@ -1025,5 +1025,6 @@ kissanime.*###adsIfrme8
 @@||exoclick.com/ad_track.js$badfilter
 exoclick.com^$important
 exosrv.com^$important
+facebook.com##[href*="ads"]
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
