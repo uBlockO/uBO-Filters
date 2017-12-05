@@ -1022,5 +1022,8 @@ wikia.com##.featured-video__wrapper
 @@||s.206ads.com/core.js$domain=androidauthority.com,badfilter
 rapidvideo.com##script:inject(addEventListener-defuser.js, load, ga)
 kissanime.*###adsIfrme8
+@@||exoclick.com/ad_track.js
+exoclick.com^$important
+exosrv.com^$important
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
