@@ -1026,5 +1026,6 @@ kissanime.*###adsIfrme8
 exoclick.com^$important
 exosrv.com^$important
 facebook.com##[href*="ads"]
+bmovies.*##[href^="//"]
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
