@@ -1031,5 +1031,7 @@ animenewsnetwork.com##h3:has-text(rate episode)
 animenewsnetwork.com##p:has-text(Crunchyroll)
 @@||google.*/ads/$third-party,image,badfilter
 socialCounts^
+readcomics.*##script:inject(abort-current-inline-script.js, atob, decodeURIComponent)
+readcomics.*##.ads
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
