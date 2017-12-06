@@ -307,7 +307,7 @@ cdn-cgi/pe/bag2
 @@jwpcdn.com^$font
 wp-adblock-dedect$important
 fuckadblock.js
-readcomics.tv##.main-share
+readcomics.*##.main-share
 quora.com##.footer_alphabet
 quora.com##.ContentPageFeed
 cinemablend.com##.content_story_pages_playwire.partial
@@ -939,7 +939,7 @@ readcomics.*##.pager-cnt:nth-of-type(5) > .row:nth-of-type(2) > .col-xs-12
 readcomics.*##.hrule
 readcomics.*##.nav-tabs.nav
 readcomics.*##a[href^="http://getcomics.info"]
-readcomics.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
+readcomics.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' fonts.googleapis.com fonts.gstatic.com
 @@||facebook.com/share/share_now_menu/$xmlhttprequest,domain=facebook.com,badfilter
 @@||facebook.com/share/share_now_menu/$domain=facebook.com,badfilter
 comicbook.com##.aligncenter:has-text(NEXT:)
