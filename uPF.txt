@@ -474,7 +474,6 @@ thefappening.*###id-vidgeta-primary
 bmovies.*,9anime.*##center
 9anime.*##.a_d
 pornhub.com##.adlink2
-kissanime.*###adsIfrme7
 kissasian.com/*.aspx
 pornhub.com##script:inject(abort-on-property-read.js, open)
 @@twimg.com^$image,stylesheet
@@ -1021,7 +1020,7 @@ wikia.com##.featured-video__wrapper
 @@||google.com/adsense/start/images/favicon.ico$badfilter
 @@||s.206ads.com/core.js$domain=androidauthority.com,badfilter
 rapidvideo.com##script:inject(addEventListener-defuser.js, load, ga)
-kissanime.*###adsIfrme8
+kissanime.*###adsIfrme6
 @@||exoclick.com/ad_track.js$badfilter
 exoclick.com^$important
 exosrv.com^$important
