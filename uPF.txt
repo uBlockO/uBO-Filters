@@ -790,7 +790,7 @@ wikia.com##.article-video
 @@||googletagmanager.com/gtm.js?$domain=airasia.com|bhaskar.com|broadcom.com|computerworlduk.com|desigual.com|drumstick.com|ebuyer.com|elevationscu.com|gamepix.com|git-tower.com|google.com|itv.com|jobs.net|keygames.com|magicjack.com|moviefone.com|nestio.com|newsy.com|optus.com.au|rebtel.com|rockstargames.com|rollingstone.com|rozetka.com.ua|sixflags.com|support.amd.com|talktalk.co.uk|techradar.com|toto.co.jp|usmagazine.com,badfilter
 wibbitz.com^
 thewrap.com###mobile-sticky-bottom
-thewrap.com^$csp=script-src 'self' 'unsafe-inline' platform.twitter.com *.twimg.com platform.instagram.com *.thewrap.com *.jwpcdn.com
+thewrap.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' platform.twitter.com *.twimg.com platform.instagram.com *.thewrap.com *.jwpcdn.com
 forbes.com##.trending-expanded
 forbes.com##.circ-link
 forbes.com##.top-ad-container
