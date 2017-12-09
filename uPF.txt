@@ -1,4 +1,4 @@
-[uBlock Origin 1.14.21.101]
+[uBlock Origin 1.14.21.103]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -1032,6 +1032,6 @@ animenewsnetwork.com##p:has-text(Crunchyroll)
 socialCounts^
 readcomics.*##script:inject(abort-current-inline-script.js, atob, decodeURIComponent)
 readcomics.*##.ads
-rapidvideo.com,openload.*,oload.*##script:inject(addEventListener-defuser.js, contextmenu)
+rapidvideo.com,openload.*,oload.*,mcloud.to##script:inject(addEventListener-defuser.js, contextmenu)
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
