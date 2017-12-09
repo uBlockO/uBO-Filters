@@ -1032,5 +1032,6 @@ animenewsnetwork.com##p:has-text(Crunchyroll)
 socialCounts^
 readcomics.*##script:inject(abort-current-inline-script.js, atob, decodeURIComponent)
 readcomics.*##.ads
+rapidvideo.com,openload.*,oload.*##script:inject(addEventListener-defuser.js, contextmenu)
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
