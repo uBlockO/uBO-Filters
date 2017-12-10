@@ -798,7 +798,7 @@ portableapps.com##script:inject(setTimeout-defuser.js, ad blocker)
 googleblog.com##a[href^="https://plus.google.com/"]
 kissasian.*,milfzr.com##script:inject(abort-current-inline-script.js, parseInt, tabunder)
 @@||kisscartoon.*^$first-party,script,badfilter
-kisscartoon.*,kimcartoon.io##script:inject(adb.js)
+kisscartoon.*,kimcartoon.io##script:inject(rdo.js, check_adblock, true)
 googlevideo.io^
 free-contents.org^
 @@||startpage.com/js/abp.js^$badfilter
