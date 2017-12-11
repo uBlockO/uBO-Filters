@@ -1,4 +1,4 @@
-[uBlock Origin 1.14.21.103]
+[uBlock Origin 1.14.21.104]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -991,7 +991,7 @@ bmovies.*,9anime.*,solarmoviex.*,putlockertv.*##.pa
 xmlrpc.php^
 flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' cdnjs.cloudflare.com ajax.googleapis.com
 */assets/acode/$subdocument,other
-solarmoviex.*,bmovies.*,9anime.*,putlockertv.*##script:inject(abort-current-inline-script.js, parseInt, /tabunder|676574456c656d656e747342795461674e616d65/)
+solarmoviex.*,bmovies.*,fmovies.*,9anime.*,putlockertv.*##script:inject(abort-current-inline-script.js, parseInt, /tabunder|676574456c656d656e747342795461674e616d65/)
 rapidvideo.com###top350b
 rapidvideo.com###premiumad
 rapidvideo.com###top350
@@ -1032,6 +1032,6 @@ animenewsnetwork.com##p:has-text(Crunchyroll)
 socialCounts^
 readcomics.*##script:inject(abort-current-inline-script.js, atob, decodeURIComponent)
 readcomics.*##.ads
-rapidvideo.com,openload.*,oload.*,mcloud.to##script:inject(addEventListener-defuser.js, contextmenu)
+rapidvideo.com,openload.*,oload.*##script:inject(addEventListener-defuser.js, contextmenu)
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
