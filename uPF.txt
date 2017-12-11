@@ -1033,5 +1033,14 @@ socialCounts^
 readcomics.*##script:inject(abort-current-inline-script.js, atob, decodeURIComponent)
 readcomics.*##.ads
 rapidvideo.com,openload.*,oload.*##script:inject(addEventListener-defuser.js, contextmenu)
+fmovies.*##.col1:has-text(player)
+fmovies.*##.col3-btn
+fmovies.*##.home-social
+fmovies.*##.comment
+fmovies.*##.fa-twitter.fa
+fmovies.*##.fa-facebook.fa
+fmovies.*##div:nth-of-type(5) > strong
+fmovies.*##.wrapper > div:nth-of-type(6)
+fmovies.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.jwpcdn.com
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
