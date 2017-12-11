@@ -1040,5 +1040,7 @@ fmovies.*##.fa-facebook.fa
 fmovies.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.jwpcdn.com
 pornhub.com##.sectionWrapper:has-text(Cam)
 pornhub.com##.nf-wrapper > .sectionWrapper
+1337x.*##[href*="redirect"]
+1337x.*##[href*="php"]
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
