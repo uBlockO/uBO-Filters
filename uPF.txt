@@ -383,9 +383,9 @@ quora.com##.PromptsList
 kissanime.*##.videoAdClose
 googlesyndication.com$important
 adblock-detector$script,important
-openload.*,oload.*##script:inject(abort-on-property-read.js, adblock2)
-openload.*,oload.*##script:inject(abort-on-property-read.js, adblock)
-openload.*,oload.*##script:inject(abort-on-property-read.js, popAdsLoaded)
+openload.*,oload.*##script:inject(rdo.js, adblock2, noopFunc)
+openload.*,oload.*##script:inject(rdo.js, adblock, noopFunc)
+openload.*,oload.*##script:inject(rdo.js, popAdsLoaded, noopFunc)
 openload.*/*license
 openload.*/*script
 oload.*/*license
@@ -434,7 +434,7 @@ bmovies.*,9anime.*,solarmoviex.*,putlockertv.*##.hd-buttons.row
 bmovies.*##.popover
 bmovies.*##.col-right
 bmovies.*##.widget:nth-of-type(4)
-gorillavid.in,zippyshare.com##script:inject(abort-on-property-write.js, admvpu)
+gorillavid.in,zippyshare.com##script:inject(rdo.js, admvpu, noopFunc)
 scriptv2.js$domain=1337x.to|1337x.st
 xwatchseries.to##.ad_300_300
 xwatchseries.to##.fullwrap > div > div:nth-of-type(4)
@@ -455,26 +455,25 @@ xwatchseries.to###header-2
 ads$script
 torrentz2.eu##a[href^="/"]:has-text(Download Direct)
 istream.*##.button
-pornhub.*##script:inject(abort-on-property-write.js, UAParser)
-hentaihaven.org##script:inject(abort-on-property-read.js, desktop_variants)
+pornhub.*##script:inject(rdo, UAParser, noopFunc)
+hentaihaven.org##script:inject(rdo.js, desktop_variants, noopFunc)
 hentaihaven.org##.entry-meta
-chip.*,speedtest.net##script:inject(abort-on-property-write.js, _sp_)
+chip.*,speedtest.net##script:inject(rdo.js, _sp_, noopFunc)
 contributor.google.com/scripts/
 wigetmedia.js
 androidcentral.com,windowscentral.com##.mn_mbn_share
 gyazo.com##.image-infos
 @@mycloud.to/embed^$third-party
 @@bmovies.*/assets/movie^$image
-thepiratebay.*##script:inject(abort-on-property-read.js, open)
+thepiratebay.*##script:inject(window.open-defuser.js)
 cbr.com##.quiz-share-btn-wrapper
 celebjihad.com##a[href^="https://www.celebjihad.com/widget/"]
-aol.*,huffingtonpost.*##script:inject(abort-on-property-write.js, _sp_)
 thefappening.*###id-vidgeta-primary
 bmovies.*,9anime.*##center
 9anime.*##.a_d
 pornhub.com##.adlink2
 kissasian.com/*.aspx
-pornhub.com##script:inject(abort-on-property-read.js, open)
+pornhub.com##script:inject(window.open-defuser.js)
 @@twimg.com^$image,stylesheet
 github.com##.survey-container
 cse.google.com/cse.js^$important
@@ -493,16 +492,16 @@ solarmoviex.*,bmovies.*,9anime.*,putlockertv.*###comment
 boxofficemojo.com##.survey
 youtube.com/api/stats^$important
 log_event
-kisshentai.*##script:inject(abort-on-property-read.js, BetterJsPop)
+kisshentai.*##script:inject(rdo.js, BetterJsPop, noopFunc)
 kisshentai.*##a[href="#"]
 kisshentai.*###show_id
 kisshentai.*$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
-kisshentai.*##script:inject(abort-on-property-read.js, adblock)
+kisshentai.*##script:inject(rdo.js, adblock, noopFunc)
 @@netdna-cdn.com/wp-content^$image,stylesheet
 doubleclick^$script,important
-anilinkz.*##script:inject(abort-on-property-read.js, open)
+anilinkz.*##script:inject(window.open-defuser.js)
 anilinkz.*,vidstreaming.*##script:inject(noeval.js)
-anilinkz.*##script:inject(abort-on-property-write.js, Fingerprint2)
+anilinkz.*##script:inject(rdo.js, Fingerprint2, noopFunc)
 anilinkz.*###playinfo
 anilinkz.*###commentinfo
 anilinkz.*###disclaimer
@@ -564,13 +563,13 @@ mozilla.org##.announce-bar
 pornhub.com##.kzpcaw
 ||thepiratebay.org/*.php?$badfilter
 kimcartoon.*##.videoAdClose
-openload.co,oload.*##script:inject(abort-on-property-read.js, open)
+openload.co,oload.*##script:inject(window.open-defuser.js)
 xnxx.com,xvideos.com##.sponsor-popup
 facebook.com##._5pcr._7xp
 @@||d3ujids68p6xmq.cloudfront.net^$script,domain=beta.speedtest.net,badfilter
 screenrant.com##.title-section
 screenrant.com##.related-thumbs.thumb-list
-watchfree.to##script:inject(abort-on-property-read.js, UAParser)
+watchfree.to##script:inject(rdo.js, UAParser, noopFunc)
 facebook.com##._3j6k
 mega.nz##.ads-left-block
 mega.nz##.ads-right-block
@@ -894,7 +893,7 @@ forbes.com##P:has-text(/Follow|More|Also on Forbes:/)
 hollywoodreporter.com##.logo-wrap
 hollywoodreporter.com##.social-container
 hollywoodreporter.com##.blog-post-tags
-pornhub.com##script:inject(abort-on-property-read.js, userABMessage)
+pornhub.com##script:inject(rdo.js, userABMessage, noopFunc)
 hentaieng.com##.share_redsocial
 hentaieng.com##.comments
 hentaieng.com##.black2.jumbotron:nth-of-type(10)
@@ -940,7 +939,7 @@ watchfree.to^$csp=script-src 'self' 'unsafe-inline' ajax.googleapis.com
 facebook.com##._31qy:has-text(related)
 facebook.com##._4-u2:has-text(Page stories you may like)
 cbr.com##.social-account-links
-variety.com##script:inject(abort-on-property-read.js, pmc_admanager)
+variety.com##script:inject(rdo.js, pmc_admanager, noopFunc)
 ||piguiqproxy.com/api$xmlhttprequest,redirect=nooptext
 google.*##._Ubu
 cbr.com##.link:has-text(FindaComicShop.com)
@@ -968,7 +967,7 @@ bmovies.*##.footerdesc
 cbr.com##p:has-text(RELATED:)
 adbd^
 bulbagarden.net###bottomframelower
-rapidvideo.com##script:inject(abort-on-property-read.js, atob)
+rapidvideo.com##script:inject(rdo.js, atob, noopFunc)
 androidcentral.com,windowscentral.com##.author-info-top-wrap
 androidcentral.com,windowscentral.com##script:inject(setTimeout-defuser.js)
 windowscentral.com##.visor-block--destination.visor-block
