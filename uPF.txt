@@ -436,7 +436,6 @@ bmovies.*##.col-right
 bmovies.*##.widget:nth-of-type(4)
 gorillavid.in,zippyshare.com##script:inject(abort-on-property-write.js, admvpu)
 scriptv2.js$domain=1337x.to|1337x.st
-1337x.*##.box-info-detail > div.torrent-detail+div[class]:not([class="manage-box"]):not([class^="torrent-"])
 xwatchseries.to##.ad_300_300
 xwatchseries.to##.fullwrap > div > div:nth-of-type(4)
 xwatchseries.to##.block-left-home-inside:nth-of-type(2)
@@ -587,18 +586,10 @@ solarmoviex.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.jwpcdn.com
 endscreen$script
 ads_$xmlhttprequest,important
 plg_jchoptimize$script
-solidfiles.com##script:inject(abort-on-property-read.js, open)
-solidfiles.com#@#.buttons
-solidfiles.com##.premium-promo.box
-solidfiles.com##.box:nth-of-type(3)
-solidfiles.com##.share
 scorecardresearch.com^$important
 autoplay=1^$inline-script,script
-1337x.*##script:inject(abort-on-property-read.js, Fingerprint2)
+1337x.*##script:inject(rdo.js, Fingerprint2, noopFunc)
 github.com/_private/browser/errors
-https://jspenguin.com/API/uBlockProtector/Solutions/Blocked.php$important
-https://jspenguin.com/API/uBlockProtector/Solutions/
-@@https://jspenguin.com/API/uBlockProtector/Solutions/MoatFreeWheelJSPEM.js|$script
 messenger.com/ajax/bz
 noadblock.js
 kimcartoon.*##.kcAds
@@ -916,7 +907,7 @@ hentaieng.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleap
 kisshentai.net##.rightBox:has-text(/Announcement|Like me/)
 /\.com\/.*[a-f0-9]{110}/$third-party,image,badfilter
 imgur.com##li:has-text(/report ad|advertise|ad choices/)
-imgur.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.imgur.com ajax.googleapis.com apis.google.com cdn-enterprise.discourse.org
+imgur.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.imgur.com ajax.googleapis.com
 bmovies.*##.widget-title:has-text(Sponsored)
 myanimelist.net##.anime_discussions.widget
 myanimelist.net##.promotional-video.video-block
