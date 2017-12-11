@@ -893,7 +893,7 @@ forbes.com##P:has-text(/Follow|More|Also on Forbes:/)
 hollywoodreporter.com##.logo-wrap
 hollywoodreporter.com##.social-container
 hollywoodreporter.com##.blog-post-tags
-pornhub.com##script:inject(rdo.js, userABMessage, noopFunc)
+pornhub.com##script:inject(abort-on-property-read.js, userABMessage)
 hentaieng.com##.share_redsocial
 hentaieng.com##.comments
 hentaieng.com##.black2.jumbotron:nth-of-type(10)
