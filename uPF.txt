@@ -1032,5 +1032,8 @@ pornhub.com##.sectionWrapper:has-text(Cam)
 pornhub.com##.nf-wrapper > .sectionWrapper
 1337x.*##[href*="redirect"]
 1337x.*##[href*="php"]
+facebook.com##._6445
+facebook.com/video/*/async/$xmlhttprequest
+facebook.com/video/*/upnext/$xmlhttprequest
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
