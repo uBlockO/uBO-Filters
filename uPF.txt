@@ -940,8 +940,6 @@ variety.com##script:inject(rdo.js, pmc_admanager, noopFunc)
 google.*##._Ubu
 cbr.com##.link:has-text(FindaComicShop.com)
 myanimelist.net##.anime-detail-header-video
-avclub.com/wisp/
-avclub.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.kinja-static.com
 kirtuclub.com^$csp=script-src 'self' 'unsafe-eval' *.wp.com
 comicbook.com/article/json/$xmlhttprequest
 comicbook.com##.article-break
@@ -1034,8 +1032,7 @@ facebook.com/video/*/async/$xmlhttprequest
 facebook.com/video/*/upnext/$xmlhttprequest
 myanimelist.net##.word-break
 @@jquery.min.js$script
-9anime.*##script:inject(abort-current-inline-script.js, XMLHttpRequest, atob)
-9anime.*##script:inject(rdo.js, performance, noopFunc)
+9anime.*##script:inject(abort-current-inline-script.js, atob, XMLHttpRequest)
 9anime.*##[href^="//"]
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
