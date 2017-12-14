@@ -967,7 +967,7 @@ androidcentral.com,windowscentral.com##script:inject(setTimeout-defuser.js)
 windowscentral.com##.visor-block--destination.visor-block
 androidcentral.com,windowscentral.com##.usr-msg
 screenrant.com##.article-body > h3:has-text(/Related|RELATED|More:|MORE:/)
-screenrant.com##.article-body > h2:has-text(/More:|MORE:|NEXT:|Next:/)
+screenrant.com##.article-body > h2:has-text(/More:|MORE:|NEXT:|Next:|Watch:|WATCH:/)
 screenrant.com##.article-body > h4:has-text(/Related:|RELATED:|Read More:|READ MORE:/)
 screenrant.com##.article-body > p:has-text(/Related:|RELATED:|Next:|next:/)
 bmovies.*,9anime.*,solarmoviex.*,putlockertv.*##.pa
