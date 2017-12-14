@@ -1035,5 +1035,7 @@ facebook.com/video/*/upnext/$xmlhttprequest
 myanimelist.net##.word-break
 @@jquery.min.js$script
 9anime.*##script:inject(abort-current-inline-script.js, atob, XMLHttpRequest)
+9anime.*##script:inject(rdo.js, performance, noopFunc)
+9anime.*##[href^="//"]
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
