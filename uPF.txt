@@ -1034,7 +1034,7 @@ facebook.com/video/*/async/$xmlhttprequest
 facebook.com/video/*/upnext/$xmlhttprequest
 myanimelist.net##.word-break
 @@jquery.min.js$script
-9anime.*##script:inject(abort-current-inline-script.js, atob, XMLHttpRequest)
+9anime.*##script:inject(abort-current-inline-script.js, XMLHttpRequest, atob)
 9anime.*##script:inject(rdo.js, performance, noopFunc)
 9anime.*##[href^="//"]
 
