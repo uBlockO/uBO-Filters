@@ -977,7 +977,7 @@ bmovies.*,9anime.*,solarmoviex.*,putlockertv.*##.pa
 xmlrpc.php^
 flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' cdnjs.cloudflare.com ajax.googleapis.com
 */assets/acode/$subdocument,other
-solarmoviex.*,bmovies.*,fmovies.*,9anime.*,putlockertv.*##script:inject(abort-current-inline-script.js, parseInt, 676574456c656d656e747342795461674e616d65)
+solarmoviex.*,bmovies.*,fmovies.*,9anime.*,putlockertv.*##script:inject(abort-current-inline-script.js, parseInt, performance)
 solarmoviex.*,bmovies.*,fmovies.*,9anime.*,putlockertv.*##script:inject(abort-current-inline-script.js, parseInt, tabunder)
 rapidvideo.com###top350b
 rapidvideo.com###premiumad
