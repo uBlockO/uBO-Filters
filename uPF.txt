@@ -977,7 +977,7 @@ bmovies.*,9anime.*,solarmoviex.*,putlockertv.*##.pa
 xmlrpc.php^
 flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' cdnjs.cloudflare.com ajax.googleapis.com
 */assets/acode/$subdocument,other
-solarmoviex.*,bmovies.*,fmovies.*,9anime.*,putlockertv.*##script:inject(rdo.js, performance, noopFunc)
+solarmoviex.*,bmovies.*,fmovies.*,putlockertv.*##script:inject(rdo.js, performance, noopFunc)
 solarmoviex.*,bmovies.*,fmovies.*,9anime.*,putlockertv.*##script:inject(abort-current-inline-script.js, parseInt, tabunder)
 rapidvideo.com###top350b
 rapidvideo.com###premiumad
@@ -1034,5 +1034,6 @@ facebook.com/video/*/async/$xmlhttprequest
 facebook.com/video/*/upnext/$xmlhttprequest
 myanimelist.net##.word-break
 @@jquery.min.js$script
+9anime.*##script:inject(abort-current-inline-script.js, atob, XMLHttpRequest)
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
