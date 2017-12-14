@@ -1033,5 +1033,6 @@ facebook.com##._6445
 facebook.com/video/*/async/$xmlhttprequest
 facebook.com/video/*/upnext/$xmlhttprequest
 myanimelist.net##.word-break
+@@jquery.min.js$script
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
