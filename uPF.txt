@@ -936,7 +936,7 @@ facebook.com##._31qy:has-text(related)
 facebook.com##._4-u2:has-text(Page stories you may like)
 cbr.com##.social-account-links
 variety.com##script:inject(rdo.js, pmc_admanager, noopFunc)
-||piguiqproxy.com/api$xmlhttprequest,important,redirect=nooptext
+||piguiqproxy.com/$xmlhttprequest,important,redirect=nooptext
 google.*##._Ubu
 cbr.com##.link:has-text(FindaComicShop.com)
 myanimelist.net##.anime-detail-header-video
