@@ -1010,7 +1010,7 @@ kissanime.*##.bigBarContainer div[id^="adsIfrme"]
 exoclick.com^$important
 exosrv.com^$important
 facebook.com##[href*="ads"]
-bmovies.*,9anime.*##script:inject(abort-current-inline-script.js, atob, tabunder)
+bmovies.*##script:inject(abort-current-inline-script.js, atob, tabunder)
 animenewsnetwork.com##h3:has-text(rate episode)
 animenewsnetwork.com##p:has-text(Crunchyroll)
 @@||google.*/ads/$third-party,image,badfilter
@@ -1033,6 +1033,6 @@ facebook.com/video/*/upnext/$xmlhttprequest
 myanimelist.net##.word-break
 @@jquery.min.js$script
 9anime.*##script:inject(abort-current-inline-script.js, atob, XMLHttpRequest)
-9anime.*##[href^="//"]
+9anime.*##script:inject(abort-current-inline-script.js, decodeURIComponent, undefined)
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
