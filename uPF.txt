@@ -1032,7 +1032,7 @@ facebook.com/video/*/async/$xmlhttprequest
 facebook.com/video/*/upnext/$xmlhttprequest
 myanimelist.net##.word-break
 @@jquery.min.js$script
-9anime.*^$csp=sandbox allow-forms allow-presentation allow-scripts allow-top-navigation allow-orientation-lock allow-pointer-lock allow-same-origin
+9anime.*##script:inject(abort-current-inline-script.js, document.write, decodeURIComponent)
 solarmoviex.*^$csp=sandbox allow-forms allow-presentation allow-scripts allow-top-navigation allow-orientation-lock allow-pointer-lock allow-same-origin
 bmovies.*^$csp=sandbox allow-forms allow-presentation allow-scripts allow-top-navigation allow-orientation-lock allow-pointer-lock allow-same-origin
 fmovies.*^$csp=sandbox allow-forms allow-presentation allow-scripts allow-top-navigation allow-orientation-lock allow-pointer-lock allow-same-origin
