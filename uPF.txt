@@ -584,7 +584,7 @@ endscreen$script
 ads_$xmlhttprequest,important
 plg_jchoptimize$script
 scorecardresearch.com^$important
-autoplay=1^$inline-script,script
+autoplay=1^$inline-script,third-party,domain=youtube.com
 1337x.*##script:inject(rdo.js, Fingerprint2, noopFunc)
 github.com/_private/browser/errors
 messenger.com/ajax/bz
