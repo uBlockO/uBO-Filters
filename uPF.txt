@@ -1042,5 +1042,6 @@ putlockertv.*^$csp=sandbox allow-forms allow-presentation allow-scripts allow-to
 9anime.*##script:inject(abort-current-inline-script.js, atob, tabunder)
 /player-stats
 ||rapidvideo.com^$script,badfilter
+9anime.*##.sticky
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
