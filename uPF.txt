@@ -1009,7 +1009,6 @@ kissanime.*##.bigBarContainer div[id^="adsIfrme"]
 @@||exoclick.com/ad_track.js$badfilter
 exoclick.com^$important
 exosrv.com^$important
-facebook.com##[href*="ads"]
 bmovies.*##script:inject(abort-current-inline-script.js, atob, tabunder)
 animenewsnetwork.com##h3:has-text(rate episode)
 animenewsnetwork.com##p:has-text(Crunchyroll)
