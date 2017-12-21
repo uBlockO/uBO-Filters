@@ -489,11 +489,9 @@ solarmoviex.*,bmovies.*,9anime.*,putlockertv.*###comment
 boxofficemojo.com##.survey
 youtube.com/api/stats^$important
 log_event
-kisshentai.*##script:inject(rdo.js, BetterJsPop, noopFunc)
 kisshentai.*##a[href="#"]
 kisshentai.*###show_id
 kisshentai.*$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
-kisshentai.*##script:inject(rdo.js, adblock, noopFunc)
 @@netdna-cdn.com/wp-content^$image,stylesheet
 doubleclick^$script,important
 anilinkz.*##script:inject(window.open-defuser.js)
