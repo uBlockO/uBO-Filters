@@ -3,10 +3,10 @@
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
 
-watchfree.to/stream.php
-watchfree.to##.get_vpn
-watchfree.to##.comment_box
-watchfree.to##.below_player
+gowatchfreemovies.to/stream.php
+gowatchfreemovies.to##.get_vpn
+gowatchfreemovies.to##.comment_box
+gowatchfreemovies.to##.below_player
 screenrant.com##.info-wrap
 screenrant.com##.load-wrap.ajaxLoader
 screenrant.com##.switch.share-switch
@@ -30,10 +30,6 @@ movieweb.com##.comment.cm.sh
 movieweb.com##.email.em.sh
 movieweb.com##.followistic-box
 movieweb.com##.head-1.heading
-forbes.com/ajax/getUniregUserData?naturalId=blogAndPostId%2Fblog%2Fpost%2F2595-31057$xmlhttprequest,domain=www.forbes.com
-forbes.com/forbesapi/stats/topStories.json?channel=channel_1&fields=primaryChannelId,storyType,blogType,advoiceBrand,shortUri,title,naturalId,authors,image&mobile=false&naturalid=blogAndPostId%2Fblog%2Fpost%2F2595-31057&objects=true&stream=true$xmlhttprequest,domain=www.forbes.com
-forbes.com/statsapi/page/all/20/id.json2?id=blogAndPostId%2Fblog%2Fpost%2F2595-31057$xmlhttprequest,domain=www.forbes.com
-forbes.com/forbesapi/promote/$xmlhttprequest,domain=www.forbes.com
 forbes.com##.undefined-expanded
 ###comments
 heroichollywood.com##.adbox-long
@@ -122,7 +118,7 @@ gorillavid.in##img[src^="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAD6C
 gorillavid.in###content > form > .video-full > .c1-box > div:nth-of-type(10) > div
 xnxx.com###content-ad-side
 forum.sa-mp.com###signature
-watchfree.to##.link_item:nth-of-type(1)
+gowatchfreemovies.to##.link_item:nth-of-type(1)
 mozilla.org###promos
 cbr.com##.i-comment.icon.btn-comment-article
 cbr.com##.right-content.footer-content
@@ -567,7 +563,7 @@ facebook.com##._5pcr._7xp
 @@||d3ujids68p6xmq.cloudfront.net^$script,domain=beta.speedtest.net,badfilter
 screenrant.com##.title-section
 screenrant.com##.related-thumbs.thumb-list
-watchfree.to##script:inject(rdo.js, UAParser, noopFunc)
+gowatchfreemovies.to##script:inject(rdo.js, UAParser, noopFunc)
 facebook.com##._3j6k
 mega.nz##.ads-left-block
 mega.nz##.ads-right-block
@@ -741,7 +737,7 @@ screenrant.com##.sidebar
 cbr.com##.section-right
 cbr.com###secondary
 xwatchseries.to^$csp=script-src 'self' 'unsafe-inline' *.xwatchseries.to
-watchfree.to##.header_docs
+gowatchfreemovies.to##.header_docs
 cookieconsent.min$important
 @@9anime.*^$elemhide
 @@bmovies.*^$elemhide
@@ -932,7 +928,7 @@ readcomics.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' fonts.googlea
 comicbook.com##.aligncenter:has-text(NEXT:)
 comicbook.com##p:has-text(NEXT:)
 kimcartoon.me##.barContent:has-text(fake)
-watchfree.to^$csp=script-src 'self' 'unsafe-inline' ajax.googleapis.com
+gowatchfreemovies.to^$csp=script-src 'self' 'unsafe-inline' ajax.googleapis.com
 facebook.com##._31qy:has-text(related)
 facebook.com##._4-u2:has-text(Page stories you may like)
 cbr.com##.social-account-links
@@ -1042,4 +1038,4 @@ putlockertv.*^$csp=sandbox allow-forms allow-presentation allow-scripts allow-to
 9anime.*##.sticky
 animenewsnetwork.com###prompt-message
 
-$third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|watchfree.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
+$third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|gowatchfreemovies.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
