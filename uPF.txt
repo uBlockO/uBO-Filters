@@ -3,8 +3,8 @@
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
 
-gowatchfreemovies.to/stream.php
-gowatchfreemovies.to##.get_vpn
+gowatchfreemovies.to##iframe[src*="download.php"]
+gowatchfreemovies.to##.sl_wrap
 gowatchfreemovies.to##.comment_box
 gowatchfreemovies.to##.below_player
 screenrant.com##.info-wrap
