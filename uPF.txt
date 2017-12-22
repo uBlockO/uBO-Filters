@@ -1035,6 +1035,6 @@ putlockertv.*^$csp=sandbox allow-forms allow-presentation allow-scripts allow-to
 animenewsnetwork.com###prompt-message
 xnxx.com##script:inject(rdo.js, openpop, noopFunc)
 @@||kisshentai.net/content/js/adframe.js^$badfilter
-9anime.*##script:inject(abort-current-inline-script.js, atob)
+9anime.*##script:inject(abort-current-inline-script.js, XMLHttpRequest, 7c9e3a5d51cdacfcbe39622b93f069c13b55e7ae)
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|gowatchfreemovies.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
