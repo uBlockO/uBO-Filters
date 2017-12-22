@@ -1028,7 +1028,6 @@ facebook.com/video/*/upnext/$xmlhttprequest
 @@jquery.min.js$script
 9anime.*##script:inject(abort-current-inline-script.js, document.write, decodeURIComponent)
 putlockertv.*^$csp=sandbox allow-forms allow-presentation allow-scripts allow-top-navigation allow-orientation-lock allow-pointer-lock allow-same-origin
-9anime.*##script:inject(abort-current-inline-script.js, XMLHttpRequest, 7c9e3a5d51cdacfcbe39622b93f069c13b55e7ae)
 9anime.*##script:inject(abort-current-inline-script.js, atob, tabunder)
 /player-stats
 ||rapidvideo.com^$script,badfilter
