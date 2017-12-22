@@ -943,7 +943,7 @@ comicbook.com##.article-break
 comicbook.com##.modern-embed
 youtube.com###pla-shelf
 bmovies.*##a[href^="https://twitter.com/"]
-kissanime.*##.bigBarContainer:has-text(Comments)
+kissanime.ru##.bigBarContainer:has-text(Comments)
 kissanime.*##a[href^="https://animemerchant.com/"]
 |https://$third-party,script,domain=9anime.to,badfilter
 rapidvideo.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
