@@ -684,7 +684,7 @@ thepiratebay.*^$csp=script-src 'self' 'unsafe-inline'
 ugbase.eu^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 cinemablend.com^$csp=script-src 'self' 'unsafe-inline' platform.twitter.com *.twimg.com *.instagram.com
 ad-view$script,important
-kissanime.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
+kissanime.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' blob:
 myanimelist.net^$csp=script-src 'self' *.cdn-dena.com 'unsafe-eval' 'unsafe-inline'
 @@myanimelist.net^$elemhide
 myanimelist.net##.icon-block-small.js-sns-icon-container
