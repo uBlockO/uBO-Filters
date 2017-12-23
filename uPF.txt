@@ -822,6 +822,8 @@ comicbook.com##a[href^="https://app.viralsweep.com/"]
 comicbook.com##a[href^="http://regmovi.es/"]
 facebook.com##._4nef.fbUserContent._5pcr
 comicbook.com##IMG[alt="Kingsman_Banner"][title="Kingsman_Banner"]
+comicbook.com##.channel.contentgroup:has-text(WorldWide Gaming)
+comicbook.com##.leftrail.sidebar > section:has-text(Follow Us)
 @@||embed.tawk.to^$script,domain=andrija-i-andjelka.com|clik.pw|debrideco.com|streamlord.com,badfilter
 screenrant.com##H6:has-text(Follow)
 screenrant.com##.social-list
@@ -888,15 +890,6 @@ hollywoodreporter.com##.logo-wrap
 hollywoodreporter.com##.social-container
 hollywoodreporter.com##.blog-post-tags
 pornhub.com##script:inject(abort-on-property-read.js, userABMessage)
-hentaieng.com##.share_redsocial
-hentaieng.com##.comments
-hentaieng.com##.black2.jumbotron:nth-of-type(10)
-hentaieng.com##.disqus_comments
-hentaieng.com##.tags_hentai
-hentaieng.com##.player_online
-hentaieng.com##a[href^="https://twitter.com/"]
-hentaieng.com##.black2.jumbotron:nth-of-type(9)
-hentaieng.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com code.jquery.com
 kisshentai.net##.rightBox:has-text(/Announcement|Like me/)
 /\.com\/.*[a-f0-9]{110}/$third-party,image,badfilter
 imgur.com##li:has-text(/report ad|advertise|ad choices/)
