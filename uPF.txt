@@ -1030,5 +1030,6 @@ xnxx.com##script:inject(rdo.js, openpop, noopFunc)
 @@||kisshentai.net/content/js/adframe.js^$badfilter
 9anime.*##script:inject(abort-current-inline-script.js, XMLHttpRequest, 7c9e3a5d51cdacfcbe39622b93f069c13b55e7ae)
 bmovies.*##script:inject(setInterval-defuser.js, $.post, Math.random)
+@@||cloudfront.net/assets/$third-party,script,badfilter
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|gowatchfreemovies.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
