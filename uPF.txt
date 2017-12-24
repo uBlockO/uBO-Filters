@@ -491,7 +491,7 @@ youtube.com/api/stats^$important
 log_event
 kisshentai.*##a[href="#"]
 kisshentai.*###show_id
-kisshentai.*$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
+kisshentai.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.kisshentai.net myanimelist.cdn-dena.com
 @@netdna-cdn.com/wp-content^$image,stylesheet
 doubleclick^$script,important
 anilinkz.*##script:inject(window.open-defuser.js)
@@ -875,9 +875,9 @@ comicbook.com##.contentgroup:nth-of-type(4) > header
 comicbook.com##.contentgroup:nth-of-type(4) > article
 comicbook.com##.contentgroup:nth-of-type(4)
 comicbook.com##.categorysocial_lst
-kisshentai.net##a[href^="https://theporndude.com/"]
-kisshentai.net##a[href^="http://kissdoujin.com/"]
-kisshentai.net##img[src^="https://theporndude.com/"]
+kisshentai.*##a[href^="https://theporndude.com/"]
+kisshentai.*##a[href^="http://kissdoujin.com/"]
+kisshentai.*##img[src^="https://theporndude.com/"]
 heroichollywood.com##.insert-page
 @@||next-episode.net^$script,badfilter
 forbes.com##sharing
@@ -890,7 +890,7 @@ hollywoodreporter.com##.logo-wrap
 hollywoodreporter.com##.social-container
 hollywoodreporter.com##.blog-post-tags
 pornhub.com##script:inject(abort-on-property-read.js, userABMessage)
-kisshentai.net##.rightBox:has-text(/Announcement|Like me/)
+kisshentai.*##.rightBox:has-text(/Announcement|Like me/)
 /\.com\/.*[a-f0-9]{110}/$third-party,image,badfilter
 imgur.com##li:has-text(/report ad|advertise|ad choices/)
 imgur.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.imgur.com ajax.googleapis.com
