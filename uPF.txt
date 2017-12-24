@@ -491,7 +491,7 @@ youtube.com/api/stats^$important
 log_event
 kisshentai.*##a[href="#"]
 kisshentai.*###show_id
-kisshentai.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.kisshentai.net myanimelist.cdn-dena.com
+kisshentai.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.kisshentai.net myanimelist.cdn-dena.com *.openload.co *.rapidvideo.com *.streamcherry.com
 @@netdna-cdn.com/wp-content^$image,stylesheet
 doubleclick^$script,important
 anilinkz.*##script:inject(window.open-defuser.js)
