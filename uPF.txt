@@ -84,10 +84,8 @@ cinemablend.com##.share_sharethis.partial
 kissanime.*###btnShowComments
 bulbagarden.net###amazon-related
 comicbookresources.com###billboard
-thevideo.me##.alert-signup.alert-default.alert
 androidcentral.com##img[src="http://www.androidcentral.com/sites/androidcentral.com/files/styles/larger/public/article_images/2016/04/mobilenations-snapchat.jpg"]
 androidcentral.com##.sidebar-body
-androidcentral.com##.cta
 androidcentral.com##.devicebox
 androidcentral.com##.tab-comments
 mgid.com^$important
@@ -390,7 +388,6 @@ oload.*/*script
 oload.*##script:inject(openload.co.js)
 collider.com##.amcfooter
 youtube.com###watch-sidebar-live-chat
-windowscentral.com,androidcentral.com##.cta.container
 windowscentral.com,androidcentral.com##.shop
 fastly.net^$script
 mod_atblockdetector$script
