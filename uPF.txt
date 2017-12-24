@@ -1032,5 +1032,6 @@ xnxx.com##script:inject(rdo.js, openpop, noopFunc)
 bmovies.*##script:inject(setInterval-defuser.js, $.post, Math.random)
 @@||cloudfront.net/assets/$third-party,script,badfilter
 github.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.github.com *.githubusercontent.com
+theporndude.com^$third-party
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|gowatchfreemovies.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
