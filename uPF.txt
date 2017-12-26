@@ -751,7 +751,6 @@ comicbook.com##.vdb_player
 comicbook.com##.clearfix.channel-nav
 comicbook.com##.embed
 comicbook.com##.sidebar-sticky.sidebar
-comicbook.com##.gallery-preview-link
 comicbook.com##.about
 comicbook.com##.header-still.article-centered.footer-set.feature-row.contentset
 comicbook.com##.footer-set.feature-column.contentset
