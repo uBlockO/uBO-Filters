@@ -927,7 +927,7 @@ variety.com##script:inject(rdo.js, pmc_admanager, noopFunc)
 google.*##._Ubu
 cbr.com##.link:has-text(FindaComicShop.com)
 myanimelist.net##.anime-detail-header-video
-kirtuclub.com^$csp=script-src 'self' 'unsafe-eval' *.wp.com
+kirtuclub.com^$csp=default-src 'self' 'unsafe-eval' fonts.googleapis.com fonts.gstatic.com
 comicbook.com/article/json/$xmlhttprequest
 comicbook.com##.article-break
 comicbook.com##.modern-embed
