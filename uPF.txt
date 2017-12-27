@@ -430,22 +430,22 @@ bmovies.*##.col-right
 bmovies.*##.widget:nth-of-type(4)
 gorillavid.in,zippyshare.com##script:inject(rdo.js, admvpu, noopFunc)
 scriptv2.js$domain=1337x.to|1337x.st
-xwatchseries.to##.ad_300_300
-xwatchseries.to##.fullwrap > div > div:nth-of-type(4)
-xwatchseries.to##.block-left-home-inside:nth-of-type(2)
-xwatchseries.to##.show-social
-xwatchseries.to##.sp-leader
-xwatchseries.to###go_scrolling_comments
-xwatchseries.to##.sp-leader-bottom
-xwatchseries.to###scroll_comments
-xwatchseries.to##.sp-sidetower
-xwatchseries.to##.shd_button
-xwatchseries.to##.episode-social
-xwatchseries.to##a[href^="http://178.175.132.130/"]
-xwatchseries.to##.add-comment
-xwatchseries.to##.general_button
-xwatchseries.to##a[href^="http://watchos.tv/"]
-xwatchseries.to###header-2
+*watchseries.to##.ad_300_300
+*watchseries.to##.fullwrap > div > div:nth-of-type(4)
+*watchseries.to##.block-left-home-inside:nth-of-type(2)
+*watchseries.to##.show-social
+*watchseries.to##.sp-leader
+*watchseries.to###go_scrolling_comments
+*watchseries.to##.sp-leader-bottom
+*watchseries.to###scroll_comments
+*watchseries.to##.sp-sidetower
+*watchseries.to##.shd_button
+*watchseries.to##.episode-social
+*watchseries.to##a[href^="http://178.175.132.130/"]
+*watchseries.to##.add-comment
+*watchseries.to##.general_button
+*watchseries.to##a[href^="http://watchos.tv/"]
+*watchseries.to###header-2
 ads$script
 torrentz2.eu##a[href^="/"]:has-text(Download Direct)
 istream.*##.button
@@ -567,7 +567,7 @@ omegaunderground.com##.youtube_embed_widget.widget
 omegaunderground.com##.widget_text.widget
 omegaunderground.com###sidebar-footer
 mega.nz##.active.top-login-warning
-xwatchseries.to##a[href^="/redirect.php"]
+*watchseries.to##a[href^="/redirect.php"]
 bmovies.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.jwpcdn.com
 9anime.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.jwpcdn.com 
 putlockertv.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.jwpcdn.com 
@@ -732,7 +732,7 @@ movieweb.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' platform.twitt
 screenrant.com##.sidebar
 cbr.com##.section-right
 cbr.com###secondary
-xwatchseries.to^$csp=script-src 'self' 'unsafe-inline' *.xwatchseries.to
+*watchseries.to^$csp=script-src 'self' 'unsafe-inline' *.*watchseries.to
 gowatchfreemovies.to##.header_docs
 cookieconsent.min$important
 @@9anime.*^$elemhide
