@@ -685,7 +685,6 @@ kissanime.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' blob:
 myanimelist.net^$csp=script-src 'self' *.cdn-dena.com 'unsafe-eval' 'unsafe-inline'
 @@myanimelist.net^$elemhide
 myanimelist.net##.icon-block-small.js-sns-icon-container
-hentaihaven.org^$csp=script-src 'self' 'unsafe-eval' 'unsafe-inline'
 @@||spotscenered.info/scripts/infinity.js.aspx?guid=$script,domain=watchfree.to,badfilter
 openload.co^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.google.com *.gstatic.com
 oload.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
