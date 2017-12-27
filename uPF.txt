@@ -450,7 +450,7 @@ ads$script
 torrentz2.eu##a[href^="/"]:has-text(Download Direct)
 istream.*##.button
 pornhub.*##script:inject(rdo, UAParser, noopFunc)
-hentaihaven.org##script:inject(rdo.js, desktop_variants, noopFunc)
+hentaihaven.org##script:inject(abort-on-property-read.js, desktop_variants)
 hentaihaven.org##.entry-meta
 chip.*,speedtest.net##script:inject(rdo.js, _sp_, noopFunc)
 contributor.google.com/scripts/
