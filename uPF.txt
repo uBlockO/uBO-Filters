@@ -1028,5 +1028,7 @@ github.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.github.com *.
 theporndude.com^$third-party
 kirtuclub.com##iframe[src*="youtube.com/embed/"]
 @@||hentaihaven.org/basement/js/adshow.js$badfilter
+*watchseries.to##script:inject(abort-current-inline-script.js, atob, tabunder)
+*watchseries.to##script:inject(abort-current-inline-script.js, parseInt, tabunder)
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|gowatchfreemovies.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
