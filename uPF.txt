@@ -998,7 +998,6 @@ animenewsnetwork.com##h3:has-text(rate episode)
 animenewsnetwork.com##p:has-text(Crunchyroll)
 @@||google.*/ads/$third-party,image,badfilter
 socialCounts^
-readcomics.*##script:inject(abort-current-inline-script.js, atob, decodeURIComponent)
 readcomics.*##.ads
 rapidvideo.com,openload.*,oload.*##script:inject(addEventListener-defuser.js, contextmenu)
 fmovies.*##.home-social
