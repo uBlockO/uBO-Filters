@@ -1030,5 +1030,7 @@ kirtuclub.com##iframe[src*="youtube.com/embed/"]
 @@||hentaihaven.org/basement/js/adshow.js$badfilter
 dwatchseries.to##script:inject(abort-current-inline-script.js, atob, tabunder)
 dwatchseries.to##script:inject(abort-current-inline-script.js, parseInt, tabunder)
+dwatchseries.to###rotating-item-wrapper
+dwatchseries.to##.freeEpisode
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|gowatchfreemovies.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
