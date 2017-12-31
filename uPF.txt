@@ -1,4 +1,4 @@
-[uBlock Origin 1.14.23.2]
+[uBlock Origin 1.14.23.6]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -999,7 +999,7 @@ animenewsnetwork.com##p:has-text(Crunchyroll)
 @@||google.*/ads/$third-party,image,badfilter
 socialCounts^
 readcomics.*##.ads
-rapidvideo.com,openload.*,oload.*##script:inject(addEventListener-defuser.js, contextmenu)
+rapidvideo.com,pornhub.com,openload.*,oload.*##script:inject(addEventListener-defuser.js, contextmenu)
 fmovies.*##.home-social
 fmovies.*##.comment
 fmovies.*##.fa-twitter.fa
