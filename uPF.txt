@@ -956,7 +956,7 @@ xmlrpc.php^
 flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' cdnjs.cloudflare.com ajax.googleapis.com
 */assets/acode/$subdocument,other
 solarmoviex.*,bmovies.*,fmovies.*,putlockertv.*##script:inject(rdo.js, performance, noopFunc)
-solarmoviex.*,bmovies.*,fmovies.*,putlockertv.*##script:inject(abort-current-inline-script.js, parseInt, tabunder)
+solarmoviex.*,bmovies.*,putlockertv.*##script:inject(abort-current-inline-script.js, parseInt, tabunder)
 rapidvideo.com###top350b
 rapidvideo.com###premiumad
 rapidvideo.com###top350
@@ -1021,12 +1021,15 @@ github.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.github.com *.
 theporndude.com^$third-party
 kirtuclub.com##iframe[src*="youtube.com/embed/"]
 @@||hentaihaven.org/basement/js/adshow.js$badfilter
-dwatchseries.to##script:inject(abort-current-inline-script.js, atob, tabunder)
+fmovies.*,dwatchseries.to##script:inject(abort-current-inline-script.js, atob, tabunder)
 dwatchseries.to##script:inject(abort-current-inline-script.js, parseInt, tabunder)
 dwatchseries.to###rotating-item-wrapper
 dwatchseries.to##.freeEpisode
 gorillavid.in,daclips.in##script:inject(stb.js)
 @@kimcartoon.me^$elemhide
 kimcartoon.me###videoAd
+fmovies.*##.alert-default.alert
+fmovies.*##.footerdesc
+fmovies.*##.alert-warning.alert
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|gowatchfreemovies.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
