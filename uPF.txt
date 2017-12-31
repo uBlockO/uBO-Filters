@@ -459,15 +459,13 @@ androidcentral.com,windowscentral.com##.mn_mbn_share
 gyazo.com##.image-infos
 @@mycloud.to/embed^$third-party
 @@bmovies.*/assets/movie^$image
-thepiratebay.*##script:inject(window.open-defuser.js)
+thepiratebay.*,pornhub.com,anilinkz.*,openload.co,oload.*,1337x.*,rapidvideo.com##script:inject(window.open-defuser.js)
 cbr.com##.quiz-share-btn-wrapper
 celebjihad.com##a[href^="https://www.celebjihad.com/widget/"]
 thefappening.*###id-vidgeta-primary
 bmovies.*,9anime.*##center
 9anime.*##.a_d
 pornhub.com##.adlink2
-kissasian.com/*.aspx
-pornhub.com##script:inject(window.open-defuser.js)
 @@twimg.com^$image,stylesheet
 github.com##.survey-container
 cse.google.com/cse.js^$important
@@ -491,7 +489,6 @@ kisshentai.*###show_id
 kisshentai.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 @@netdna-cdn.com/wp-content^$image,stylesheet
 doubleclick^$script,important
-anilinkz.*##script:inject(window.open-defuser.js)
 anilinkz.*,vidstreaming.*##script:inject(noeval.js)
 anilinkz.*##script:inject(rdo.js, Fingerprint2, noopFunc)
 anilinkz.*###playinfo
@@ -553,7 +550,6 @@ mozilla.org##.announce-bar
 pornhub.com##.kzpcaw
 ||thepiratebay.org/*.php?$badfilter
 kimcartoon.*##.videoAdClose
-openload.co,oload.*##script:inject(window.open-defuser.js)
 xnxx.com,xvideos.com##.sponsor-popup
 facebook.com##._5pcr._7xp
 @@||d3ujids68p6xmq.cloudfront.net^$script,domain=beta.speedtest.net,badfilter
@@ -979,7 +975,6 @@ animenewsnetwork.com###cover_image
 animenewsnetwork.com##.floating-image
 animenewsnetwork.com##script:inject(addEventListener-defuser.js, scroll, currArticleI)
 animenewsnetwork.com###infinite-scroll-outlet
-1337x.*##script:inject(window.open-defuser.js)
 1337x.*^$csp=script-src 'self' 'unsafe-inline'
 uservoice.js$script
 typekit.net^
