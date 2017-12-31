@@ -416,16 +416,15 @@ annotations$script
 9cartoon.me##.more_anime
 9anime.*##.alert.mt20
 9anime.*##.alert
-9anime.*##.popover
+9anime.*,bmovies.*,fmovies.*##.popover
 bmovies.*##a[href="http://9anime.to/"]
 bmovies.*##.home-socials
 bmovies.*##.alert
 bmovies.*##.remove-ad
 bmovies.*##.widget:nth-of-type(5)
-bmovies.*,9anime.*,solarmoviex.*,putlockertv.*###tags
+bmovies.*,9anime.*,fmovies.*,solarmoviex.*,putlockertv.*###tags
 bmovies.*##.hidden-sm.widget
 bmovies.*,9anime.*,solarmoviex.*,putlockertv.*##.hd-buttons.row
-bmovies.*##.popover
 bmovies.*##.col-right
 bmovies.*##.widget:nth-of-type(4)
 gorillavid.in,zippyshare.com##script:inject(rdo.js, admvpu, noopFunc)
@@ -478,7 +477,7 @@ solarmoviex.*##.alert
 mozilla.org##.global-notice
 mrskin.com##a[href^="http://www.amazon.com/gp/search"]
 fzpwll.mrskin.com^
-solarmoviex.*,bmovies.*,9anime.*,putlockertv.*###comment
+solarmoviex.*,bmovies.*,9anime.*,fmovies.*,putlockertv.*###comment
 @@||speedtest.net/javascript/jquery-*.min.js$badfilter
 @@||d3ujids68p6xmq.cloudfront.net^$script,badfilter
 boxofficemojo.com##.survey
