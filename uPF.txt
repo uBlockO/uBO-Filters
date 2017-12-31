@@ -1,4 +1,4 @@
-[uBlock Origin 1.14.23.6]
+[uBlock Origin 1.14.23.7]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -497,7 +497,6 @@ anilinkz.*###disclaimer
 anilinkz.*###chatango
 anilinkz.*###rightside
 anilinkz.*##.tweet
-kimcartoon.*###navsubbar
 kimcartoon.*###disqus_thread
 ||androidcentral.com/sites/androidcentral.com/files/advagg_js/$script,badfilter
 connect.facebook.net^$script,important
@@ -796,7 +795,7 @@ moviepilot.com###mc_embed_signup
 1337x.*##.bitcoin
 9cartoon.me##a[href^="http://chiaanime.co/"]
 9cartoon.me##a[href^="https://goo.gl/"]
-kisscartoon.*,kimcartoon.*##script:inject(abort-current-inline-script.js, parseInt, tabunder)
+kisscartoon.*##script:inject(abort-current-inline-script.js, parseInt, tabunder)
 kimcartoon.*,kisscartoon.*##.alert-info.alert
 kimcartoon.*,kisscartoon.*##.mb15.full
 kimcartoon.*,kisscartoon.*###btnShowComments
