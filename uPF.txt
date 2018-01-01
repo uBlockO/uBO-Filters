@@ -968,7 +968,7 @@ myanimelist.net##.mb4.di-ib
 kimcartoon.me##.barContent:has-text(Ads can be a pain)
 kisscartoon.*##script:inject(abort-current-inline-script.js, parseInt, decodeURIComponent)
 ad.*^$script
-animenewsnetwork.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com platform.twitter.com
+animenewsnetwork.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com platform.twitter.com *.twimg.com
 animenewsnetwork.com###cover_image
 animenewsnetwork.com##.floating-image
 animenewsnetwork.com##script:inject(addEventListener-defuser.js, scroll, currArticleI)
