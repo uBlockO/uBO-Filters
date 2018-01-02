@@ -1029,7 +1029,7 @@ fmovies.*##.alert-default.alert
 fmovies.*##.footerdesc
 fmovies.*##.alert-warning.alert
 9anime.*##.comment.widget
-9anime.*##.schedule.widget
+9anime.*##.azlist
 9anime.*##.share
 9anime.*###theme-switcher
 
