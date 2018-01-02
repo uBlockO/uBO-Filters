@@ -1034,5 +1034,6 @@ fmovies.*##.alert-warning.alert
 9anime.*###sidebar
 9anime.*##.schedule.widget
 9anime.*##.azlist
+9anime.*##.share
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|gowatchfreemovies.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
