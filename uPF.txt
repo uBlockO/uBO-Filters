@@ -371,7 +371,6 @@ onhax.me##div[id^="top-promo-dload"]
 ab_appeal$script
 google.*###prm-pt
 kissanime.*##.divCloseBut
-9anime.*##.widget-title
 wikia.com###WikiaFooter
 wikia.com###WikiaArticleBottomAd
 quora.com##.PromptsList
