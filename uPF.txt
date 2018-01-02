@@ -1031,7 +1031,8 @@ fmovies.*##.alert-default.alert
 fmovies.*##.footerdesc
 fmovies.*##.alert-warning.alert
 9anime.*##.comment.widget
-9anime.*##.genres.widget > .widget-body
-9anime.*##.ranking.widget > .widget-body
+9anime.*###sidebar
+9anime.*##.schedule.widget
+9anime.*##.azlist
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|gowatchfreemovies.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
