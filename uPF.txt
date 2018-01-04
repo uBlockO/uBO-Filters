@@ -1036,5 +1036,6 @@ amazon-adsystem.com^$important
 @@gowatchfreemovies.to^$elemhide
 gowatchfreemovies.to##.adv_box
 gowatchfreemovies.to##.page_content > div:has-text(VPN)
+gowatchfreemovies.to##.tweet
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|gowatchfreemovies.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
