@@ -3,7 +3,6 @@
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
 
-gowatchfreemovies.to##iframe[src*="download.php"]
 gowatchfreemovies.to##.sl_wrap
 gowatchfreemovies.to##.comment_box
 gowatchfreemovies.to##.below_player
