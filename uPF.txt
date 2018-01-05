@@ -1038,5 +1038,6 @@ gowatchfreemovies.to##.adv_box
 gowatchfreemovies.to##.page_content > div:has-text(VPN)
 gowatchfreemovies.to##.tweet
 9anime.*,bmovies.*,fmovies.*,solarmoviex.*,putlockertv.*##script:inject(abort-current-inline-script.js, document.write, wwwpromoter.com)
+9anime.*##.crop.widget
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|gowatchfreemovies.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
