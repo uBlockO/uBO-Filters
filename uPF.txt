@@ -626,15 +626,8 @@ pornhub.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.phncdn.com
 wikia.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.nocookie.net *.youtube.com *.ytimg.com
 reddit.com^$csp=script-src 'self' *.redditstatic.com 'unsafe-inline' 'unsafe-eval'
 ghacks.net###snippet-box
-ghacks.net###post-author
-ghacks.net##hr
-ghacks.net###breadcrumbs
 ghacks.net###respond
-ghacks.net##.nav-prev
-ghacks.net##.post-entries
-ghacks.net##strong:has-text(share)
 ghacks.net##.tags
-ghacks.net###sidebar
 ghacks.net##.entry > div:has-text(/Advertisement|Read/)
 ghacks.net##.entry > h3:has-text(/Related|RELATED/)
 ghacks.net##div:nth-of-type(3):has-text(Advertisement)
