@@ -625,16 +625,6 @@ promo$script
 pornhub.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.phncdn.com
 wikia.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.nocookie.net *.youtube.com *.ytimg.com
 reddit.com^$csp=script-src 'self' *.redditstatic.com 'unsafe-inline' 'unsafe-eval'
-ghacks.net###snippet-box
-ghacks.net###respond
-ghacks.net##.tags
-ghacks.net##.entry > div:has-text(/Advertisement|Read/)
-ghacks.net##.entry > h3:has-text(/Related|RELATED/)
-ghacks.net##div:nth-of-type(3):has-text(Advertisement)
-ghacks.net##.entry > ul:has(a[href*='https://www.ghacks.net/'])
-ghacks.net##.user-content > p:has-text(/Tip:|Now You:/)
-ghacks.net##.post-comments
-ghacks.net^$csp=script-src 'self' 'unsafe-inline'
 youtube.com###movie-upsell-card
 youtube.com##.yt-lockup-movie-vertical-poster.yt-lockup-tile.yt-lockup
 cnn.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: *.cnn.com  *.turner.com *.cnn.io
@@ -1038,5 +1028,9 @@ ghacks.net##.ghacks_this_day.widget
 ghacks.net##.ghacks_popular.widget
 ghacks.net##.ghacks_last_updated.widget
 ghacks.net##.border--top--gray
+ghacks.net###snippet-box
+ghacks.net###respond
+ghacks.net##.user-content > p:has-text(/Tip:|Now You:/)
+ghacks.net^$csp=script-src 'self' 'unsafe-inline'
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|gowatchfreemovies.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
