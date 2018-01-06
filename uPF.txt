@@ -1032,5 +1032,6 @@ ghacks.net###snippet-box
 ghacks.net###respond
 ghacks.net##.user-content > p:has-text(/Tip:|Now You:/)
 ghacks.net^$csp=script-src 'self' 'unsafe-inline'
+@@ghacks.net^$elemhide
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|gowatchfreemovies.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
