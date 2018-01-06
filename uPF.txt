@@ -1031,6 +1031,8 @@ ghacks.net##.border--top--gray
 ghacks.net###snippet-box
 ghacks.net###respond
 ghacks.net##.user-content > p:has-text(/Tip:|Now You:/)
+ghacks.net##.user-content > ul:has(a[href^='https://www.ghacks.net/'])
+ghacks.net##.user-content > p:nth-of-type(4)
 ghacks.net^$csp=script-src 'self' 'unsafe-inline'
 @@ghacks.net^$elemhide
 
