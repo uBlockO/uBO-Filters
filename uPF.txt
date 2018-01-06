@@ -1,4 +1,4 @@
-[uBlock Origin 1.14.23.12]
+[uBlock Origin 1.14.23.14]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -1040,5 +1040,10 @@ gowatchfreemovies.to##.tweet
 9anime.*,bmovies.*,fmovies.*,solarmoviex.*,putlockertv.*##script:inject(abort-current-inline-script.js, document.write, wwwpromoter.com)
 9anime.*##.crop.widget
 @@||ajax.cloudflare.com/cdn-cgi/scripts/$third-party,script,badfilter
+ghacks.net##.ghacks_share_widget.widget
+ghacks.net##.ghacks_this_day.widget
+ghacks.net##.ghacks_popular.widget
+ghacks.net##.ghacks_last_updated.widget
+ghacks.net##.border--top--gray
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|gowatchfreemovies.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
