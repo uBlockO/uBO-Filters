@@ -568,7 +568,7 @@ endscreen$script
 ads_$xmlhttprequest,important
 plg_jchoptimize$script
 scorecardresearch.com^$important
-autoplay=^$important
+autoplay=^$inline-script,xmlhttprequest
 1337x.*##script:inject(rdo.js, Fingerprint2, noopFunc)
 github.com/_private/browser/errors
 messenger.com/ajax/bz
