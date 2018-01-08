@@ -1,4 +1,4 @@
-[uBlock Origin 1.14.23.14]
+[uBlock Origin 1.14.23.15]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -131,7 +131,6 @@ kissanime.*##strong
 screenrant.com##.sg-sharing-option
 cartoonhd.*,movieshd.watch,istream.*###credits
 cartoonhd.*,movieshd.watch,istream.is,flixanity.*##a[href="#credits"]
-@@imgix.net^$domain=cbr.com|screenrant.com
 androidauthority.com/wp-admin/admin-ajax.php$xmlhttprequest
 androidauthority.com##.textwidget
 androidauthority.com##.postinfo
@@ -604,7 +603,7 @@ twitter.com#@#.message-drawer.dialog, #react-root > div[data-reactroot] > div:la
 mega.nz##.red.download-button.button
 hollywoodreporter.com##.leaderboard-wrapper
 temp_share_folder
-screenrant.com^$csp=script-src 'self' 'unsafe-inline' platform.twitter.com platform.instagram.com *.twimg.com *.imgur.com
+screenrant.com^$csp=default-src 'self' 'unsafe-inline' *.srcdn.com fonts.fonts.googleapis.com, fonts.gstatic.com platform.twitter.com platform.instagram.com *.twimg.com *.imgur.com
 bleedingcool.com###footer-widgets
 bleedingcool.com##.site-info
 bleedingcool.com###single-below-comments
@@ -1037,5 +1036,6 @@ ghacks.net##.user-content > ul:has(a[href^='https://www.ghacks.net/'])
 ghacks.net##p:nth-of-type(4) > strong
 ghacks.net^$csp=script-src 'self' 'unsafe-inline'
 @@ghacks.net^$elemhide
+screenrant.com,cbr.com##script:inject(abort-on-property-read.js, console.log)
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|gowatchfreemovies.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
