@@ -603,7 +603,7 @@ twitter.com#@#.message-drawer.dialog, #react-root > div[data-reactroot] > div:la
 mega.nz##.red.download-button.button
 hollywoodreporter.com##.leaderboard-wrapper
 temp_share_folder
-screenrant.com^$csp=default-src 'self' 'unsafe-inline' *.srcdn.com fonts.fonts.googleapis.com, fonts.gstatic.com platform.twitter.com platform.instagram.com *.twimg.com *.imgur.com
+screenrant.com^$csp=default-src 'self' 'unsafe-inline' *.srcdn.com fonts.googleapis.com, fonts.gstatic.com platform.twitter.com platform.instagram.com *.twimg.com *.imgur.com
 bleedingcool.com###footer-widgets
 bleedingcool.com##.site-info
 bleedingcool.com###single-below-comments
