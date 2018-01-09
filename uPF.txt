@@ -958,7 +958,7 @@ animenewsnetwork.com###infinite-scroll-outlet
 uservoice.js$script
 typekit.net^
 @@cf.challenge^$script
-screenrant.com##.featured-text
+screenrant.com,cbr.com##.featured-text
 wikia.com##.featured-video__wrapper
 @@||ox-d.bannertrack.net/auid=$badfilter
 @@||google.com/adsense/start/images/favicon.ico$badfilter
@@ -986,7 +986,6 @@ pornhub.com##.nf-wrapper > .sectionWrapper
 facebook.com##._6445
 facebook.com/video/*/async/$xmlhttprequest
 facebook.com/video/*/upnext/$xmlhttprequest
-@@jquery.min.js$script
 putlockertv.*^$csp=sandbox allow-forms allow-presentation allow-scripts allow-top-navigation allow-orientation-lock allow-pointer-lock allow-same-origin
 9anime.*##script:inject(abort-current-inline-script.js, atob, tabunder)
 /player-stats
