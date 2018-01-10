@@ -58,9 +58,6 @@ sexstories.com###bottom_panel
 sexstories.com##.title_panel
 sexstories.com##.block_panel:nth-of-type(4)
 thefappening.so##iframe
-truecaller.com###result-page-top-unit
-truecaller.com##main > .page--search.page > div:nth-of-type(2)
-comingsoon.net##.btn.js-show-comments
 cloudfront.net^$script
 solidfiles.com##.remove
 solidfiles.com##.buttons
@@ -110,13 +107,10 @@ $websocket
 googletagmanager.com^$important
 milfzr.com,blockadblock.com,onhax.me##script:inject(bab-defuser.js)
 comicbook.com##a[href^="http://amzn.to/"]
-airtel.*^$third-party
 1337x.*###mgbl49472
 1337x.*##.link-box
 gorillavid.in##img[src^="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAD6CAYAAAAbbXrzAAAACXBIWXMAAAsTAAALEwEAmpwYAAAKT2lDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjanVNnVFPpFj333vRCS4iAlEtvUhUIIFJCi4AUkSYqIQkQSoghodkVUcERRUUEG8igiAOOjoCMFVEsDIoK2AfkIaKOg6OIisr74Xuja9a89+bN/rXXPues852zzwfACAyWSDNRNYAMqUIeEeCDx8TG4eQuQIEKJHAAEAizZCFz/SMBAPh+PDwrIsAHvgABeNMLCADATZvAMByH/w/qQplcAYCEAcB0kThLCIAUAEB6jkKmAEBGAYCdmCZTAKAEAGDLY2LjAFAtAGAnf+bTAICd+Jl7AQBblCEVAaCRACATZYhEAGg7AKzPVopFAFgwABRmS8Q5ANgtADBJV2ZIALC3AMDOEAuyAAgMADBRiIUpAAR7AGDIIyN4AISZABRG8lc88SuuEOcqAAB4mbI8uSQ5RYFbCC1xB1dXLh4ozkkXKxQ2YQJhmkAuwnmZGTKBNA/g88wAAKCRFRHgg/P9eM4Ors7ONo62Dl8t6r8G/yJiYuP+5c+rcEAAAOF0ftH+LC+zGoA7BoBt/qIl7gRoXgugdfeLZrIPQLUAoOnaV/Nw+H48PEWhkLnZ2eXk5NhKxEJbYcpXff5nwl/AV/1s+X48/Pf14L7iJIEyXYFHBPjgwsz0TKUcz5IJhGLc5o9H/LcL//wd0yLESWK5WCoU41EScY5EmozzMqUiiUKSKcUl0v9k4t8s+wM+3zUAsGo+AXuRLahdYwP2SycQWHTA4vcAAPK7b8HUKAgDgGiD4c93/+8//UegJQCAZkmScQAAXkQkLlTKsz/HCAAARKCBKrBBG/TBGCzABhzBBdzBC/xgNoRCJMTCQhBCCmSAHHJgKayCQiiGzbAdKmAv1EAdNMBRaIaTcA4uwlW4Dj1wD/phCJ7BKLyBCQRByA"]
-gorillavid.in###content > form > .video-full > .c1-box > div:nth-of-type(10) > div
 xnxx.com###content-ad-side
-forum.sa-mp.com###signature
 gowatchfreemovies.to##.link_item:nth-of-type(1)
 mozilla.org###promos
 cbr.com##.i-comment.icon.btn-comment-article
@@ -163,7 +157,6 @@ azurewebsites.net^$third-party
 outlook.com^$third-party
 @@bulba-ad-host-website.azurewebsites.net^$stylesheet,domain=bulbagarden.net
 microsoft.com^$third-party
-windowsreport.com##a[href^="http://www.reimageplus.com/includes/router_land.php"]
 @@youtube.com/embed^$third-party
 @@ytimg.com/yts^$third-party
 @@googlevideo.com^$media,xmlhttprequest
@@ -179,7 +172,6 @@ mcuexchange.com##.posts-box-related-posts.posts-box-5.posts-box
 @@fonts.googleapis.com^$stylesheet,font
 myanimelist.net##.clearfix.index-watch-description
 logpopup
-timesofindia.indiatimes.com^$inline-script
 @@cdn-dena.com^$image,stylesheet,font,media
 heroichollywood.com##.crp_related
 @@wp.com^$stylesheet,image,font
@@ -220,12 +212,6 @@ myanimelist.net/static/logging.html$xmlhttprequest
 @@opensubtitles.org$xmlhttprequest,third-party
 screenrant.com##.read-next
 openload.co,oload.*##.center
-wegotthiscovered.com##.footer.entry-footer.e-footer
-wegotthiscovered.com##.embed-yt-shorcode
-wegotthiscovered.com##.print-wrap
-wegotthiscovered.com##.zerg-sidebar-header
-wegotthiscovered.com##.newsletter
-wegotthiscovered.com##.widget-wgtc-social-follow.widget-wrap
 superherohype.com###js-sidebar
 openload.co,oload.*##a[href="http://steepto.com/"]
 whatsapp-button.js
@@ -604,14 +590,6 @@ mega.nz##.red.download-button.button
 hollywoodreporter.com##.leaderboard-wrapper
 temp_share_folder
 screenrant.com^$csp=default-src 'self' 'unsafe-inline' www.youtube.com *.srcdn.com www.facebook.com fonts.googleapis.com fonts.gstatic.com platform.twitter.com platform.instagram.com *.twimg.com *.imgur.com
-bleedingcool.com###footer-widgets
-bleedingcool.com##.site-info
-bleedingcool.com###single-below-comments
-bleedingcool.com###post-nav
-bleedingcool.com##hr
-bleedingcool.com##.wpautbox-below
-bleedingcool.com/wp-content/uploads/alm-cache/$xmlhttprequest
-bleedingcool.com/wp-admin/admin-ajax.php/$xmlhttprequest
 speedtest.net^$csp=script-src 'self' 'unsafe-inline' *.speedtest.net *.cdnst.net
 cbr.com^$csp=default-src 'self' 'unsafe-inline' www.youtube.com www.facebook.com *.cbrimages.com fonts.googleapis.com fonts.gstatic.com platform.twitter.com *.twimg.com platform.instagram.com *.imgur.com
 outlook.live.com##a[href^="http://"]
@@ -1037,5 +1015,6 @@ ghacks.net^$csp=script-src 'self' 'unsafe-inline'
 @@ghacks.net^$elemhide
 screenrant.com,cbr.com##script:inject(abort-on-property-read.js, console.log)
 cbr.com,screenrant.com##a[href*="amazon.com"]
+speedtest.net##a[href*="legacy.speedtest.net"]
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|gowatchfreemovies.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
