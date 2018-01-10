@@ -589,7 +589,7 @@ twitter.com#@#.message-drawer.dialog, #react-root > div[data-reactroot] > div:la
 mega.nz##.red.download-button.button
 hollywoodreporter.com##.leaderboard-wrapper
 temp_share_folder
-screenrant.com^$csp=default-src 'self' 'unsafe-inline' www.youtube.com *.srcdn.com www.facebook.com fonts.googleapis.com fonts.gstatic.com platform.twitter.com platform.instagram.com *.twimg.com *.imgur.com
+screenrant.com^$csp=default-src 'self' 'unsafe-inline' www.youtube.com *.srcdn.com www.facebook.com fonts.googleapis.com fonts.gstatic.com *.twitter.com platform.instagram.com *.twimg.com *.imgur.com
 speedtest.net^$csp=script-src 'self' 'unsafe-inline' *.speedtest.net *.cdnst.net
 cbr.com^$csp=default-src 'self' 'unsafe-inline' www.youtube.com www.facebook.com *.cbrimages.com fonts.googleapis.com fonts.gstatic.com platform.twitter.com *.twimg.com platform.instagram.com *.imgur.com
 outlook.live.com##a[href^="http://"]
