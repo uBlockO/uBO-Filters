@@ -784,7 +784,6 @@ kirtuclub.com###foxyform_embed_link_885594
 kirtuclub.com##.widget_text.widget
 kirtuclub.com##.entry-meta:has-text(Posted in)
 kirtuclub.com##.wp_rp_wrap
-tmz.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.tmz.com ajax.googleapis.com cdnjs.cloudflare.com
 bulbagarden.net###upper-article
 metrics$script,important
 pornhub.com##.streamatesModelsContainer.sectionWrapper
