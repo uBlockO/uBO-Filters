@@ -1,4 +1,4 @@
-[uBlock Origin 1.14.23.16]
+[uBlock Origin 1.14.23.17]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -1012,7 +1012,6 @@ ghacks.net##.user-content > ul:has(a[href^='https://www.ghacks.net/'])
 ghacks.net##p:nth-of-type(4) > strong
 ghacks.net^$csp=script-src 'self' 'unsafe-inline'
 @@ghacks.net^$elemhide
-screenrant.com,cbr.com##script:inject(abort-on-property-read.js, console.log)
 cbr.com,screenrant.com##a[href*="amazon.com"]
 speedtest.net##a[href*="legacy.speedtest.net"]
 
