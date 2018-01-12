@@ -654,8 +654,6 @@ ign.com###promo_breakingnews_img_container
 ign.com/video-player/$script
 ign.com^$csp=script-src 'self' *.ign.com *.ignimgs.com platform.twitter.com *.twimg.com *.instagram.com 'unsafe-inline' 'unsafe-eval'
 @@imgur.com^$image,third-party
-mcuexchange.com##a[href^="http://astore.amazon.com"]
-mcuexchange.com##.aalb-pa-ad-unit
 movieweb.com##.site-nav-social
 movieweb.com##.site-footer-social-links
 movieweb.com##.media-nav
