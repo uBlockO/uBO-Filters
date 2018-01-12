@@ -989,7 +989,6 @@ fmovies.*##.alert-warning.alert
 9anime.*##.comment.widget
 9anime.*##.azlist
 9anime.*##.share
-9anime.*###theme-switcher
 crwdcntrl.net^$important
 amazon-adsystem.com^$important
 @@gowatchfreemovies.to^$elemhide
