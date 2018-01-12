@@ -283,7 +283,7 @@ premium^$script,important
 promo-banner.js^$important
 cdn-cgi/pe/bag2
 9anime.*##.notice.alert-primary.alert
-9anime.*##.home-socials
+9anime.*,bmovies.*,fmovies.*,solarmoviex.*##.home-socials
 @@jwpcdn.com^$font
 wp-adblock-dedect$important
 fuckadblock.js
@@ -402,7 +402,6 @@ annotations$script
 9anime.*##.alert
 9anime.*,bmovies.*,fmovies.*##.popover
 bmovies.*##a[href="http://9anime.to/"]
-bmovies.*##.home-socials
 bmovies.*##.alert
 bmovies.*##.remove-ad
 bmovies.*##.widget:nth-of-type(5)
@@ -455,7 +454,6 @@ cse.google.com/cse.js^$important
 outlook.live.com##._n_15
 ads$script
 youtube.com##.hats-categorical-style-vertical
-solarmoviex.*##.home-socials
 solarmoviex.*##.alert
 @@twitter.com/i/cards/tfw^
 mozilla.org##.global-notice
