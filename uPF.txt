@@ -999,5 +999,7 @@ cbr.com,screenrant.com##a[href*="amazon.com"]
 speedtest.net##a[href*="legacy.speedtest.net"]
 redditstatic.com/*chat
 @@reddit.com^$elemhide
+kimcartoon.me##.episodeList.barContent > div > .clear2
+kimcartoon.me##.episodeList.barContent > div > .clear
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|gowatchfreemovies.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
