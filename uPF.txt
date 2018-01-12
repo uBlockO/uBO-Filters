@@ -165,21 +165,16 @@ microsoft.com^$third-party
 thepiratebay.*^$third-party
 @@quoracdn.net^$domain=quora.com
 @@google.*/recaptcha/api2^
-mcuexchange.com###sidebar
-mcuexchange.com##.post-footer
-mcuexchange.com##.posts-box-related-posts.posts-box-5.posts-box
-@@cloudinary.com^$image,stylesheet
 @@fonts.googleapis.com^$stylesheet,font
 myanimelist.net##.clearfix.index-watch-description
 logpopup
 @@cdn-dena.com^$image,stylesheet,font,media
 heroichollywood.com##.crp_related
 @@wp.com^$stylesheet,image,font
-@@cloudfront.net^$stylesheet,image,media,font
+@@cloudfront.net^$stylesheet,media,font
 @@wordpress.com^$stylesheet,image,font
-@@amazonaws.com^$stylesheet,font
+@@amazonaws.com^$stylesheet,font,media
 @@jwpcdn.com^$domain=vidup.me
-vidup.me##.col-sm-2
 trailer-track.com##.comments-area-wrapper
 trailer-track.com###colophon
 trailer-track.com###actionbar
@@ -191,13 +186,6 @@ trailer-track.com##.next-post
 trailer-track.com##.prev-post
 trailer-track.com##.sidebar
 trailer-track.com^$csp=script-src 'self' 'unsafe-inline' platform.twitter.com *.twimg.com platform.instagram.com
-mediafire.com/blank.html^$inline-script,subdocument
-mediafire.com#@#.dlInfo-Apps
-@@mediafire.com^$generichide
-mediafire.com##.lb-ad.ad
-mediafire.com##.lr-ad.ad
-mediafire.com##.left
-mediafire.com##.loaded.ad.lb-ad
 @@thr.com^$domain=hollywoodreporter.com
 hollywoodreporter.com##.js-show-disqus-comments
 hollywoodreporter.com##.blog-post-syndication-section
