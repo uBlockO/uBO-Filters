@@ -1,4 +1,4 @@
-[uBlock Origin 1.14.23.100]
+[uBlock Origin 1.14.25.100]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -1002,5 +1002,8 @@ redditstatic.com/*chat
 kimcartoon.me##.episodeList.barContent > div > .clear2
 kimcartoon.me##.episodeList.barContent > div > .clear
 kimcartoon.me##div[style*="width: 300px; height: 250px; float: left;"]
+kissanime.*##.barContent > div > .clear2
+kissanime.*##.barContent > div > .clear
+kissanime.*##div > .clear2
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|gowatchfreemovies.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
