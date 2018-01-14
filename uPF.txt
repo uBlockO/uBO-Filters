@@ -1003,5 +1003,6 @@ kimcartoon.me##div[style*="width: 300px; height: 250px; float: left;"]
 kissanime.*##.barContent > div > .clear2
 kissanime.*##.barContent > div > .clear
 kissanime.*##div > .clear2
+ch.min.js$script
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|gowatchfreemovies.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
