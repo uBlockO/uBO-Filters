@@ -479,7 +479,6 @@ speedtest.net##.high-placeholder.pure-u-1
 speedtest.net##.u-c.pure-u-custom-ad-rectangle
 speedtest.net##.u-c.pure-u-custom-ad-skyscraper
 google.*##.glif-promo
-xnxx.com,xvideos.com##.sponsor-popup
 gitlab.com##.bordered-box
 platform.twitter.com/js/button.$third-party,important
 @@outlook.com^$script,domain=live.com
@@ -518,7 +517,7 @@ mozilla.org##.announce-bar
 pornhub.com##.kzpcaw
 ||thepiratebay.org/*.php?$badfilter
 kimcartoon.*##.videoAdClose
-xnxx.com,xvideos.com##.sponsor-popup
+xnxx.com,xvideos.com##.related-vids
 facebook.com##._5pcr._7xp
 @@||d3ujids68p6xmq.cloudfront.net^$script,domain=beta.speedtest.net,badfilter
 screenrant.com##.title-section
