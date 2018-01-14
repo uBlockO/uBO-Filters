@@ -831,7 +831,6 @@ adblocker$script
 facebook.com###pagelet_page_cover
 report-uri.*^$third-party
 @@||facebook.com/common/referer_frame.php$subdocument,domain=facebook.com,badfilter
-facebook.com^$csp=script-src *.fbcdn.net 'self' 'unsafe-inline' 'unsafe-eval' data: blob: 
 authedmine.com^
 lib/*.wasm^$important
 screenrant.com##strong:has-text(RELATED:)
