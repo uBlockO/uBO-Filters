@@ -395,7 +395,7 @@ bmovies.*##.remove-ad
 bmovies.*##.widget:nth-of-type(5)
 bmovies.*,9anime.*,fmovies.*,solarmoviex.*,putlockertv.*###tags
 bmovies.*##.hidden-sm.widget
-bmovies.*,9anime.*,solarmoviex.*,putlockertv.*##.hd-buttons.row
+bmovies.*,9anime.*,solarmoviex.*,fmovies.*,putlockertv.*##.hd-buttons.row
 bmovies.*##.col-right
 bmovies.*##.widget:nth-of-type(4)
 gorillavid.in,zippyshare.com##script:inject(rdo.js, admvpu, noopFunc)
