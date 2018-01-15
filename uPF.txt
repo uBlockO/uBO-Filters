@@ -995,9 +995,10 @@ cbr.com,screenrant.com##a[href*="amazon.com"]
 speedtest.net##a[href*="legacy.speedtest.net"]
 redditstatic.com/*chat
 @@reddit.com^$elemhide
-kimcartoon.me##.episodeList.barContent > div > .clear2
-kimcartoon.me##.episodeList.barContent > div > .clear
-kimcartoon.me##div[style*="width: 300px; height: 250px; float: left;"]
+kimcartoon.*##.episodeList.barContent > div > .clear2
+kimcartoon.*##.episodeList.barContent > div > .clear
+kimcartoon.*##div[style*="width: 300px; height: 250px; float: left;"]
+kimcartoon.*###M253206ScriptRootC193365
 kissanime.*##.barContent > div > .clear2
 kissanime.*##.barContent > div > .clear
 kissanime.*##div > .clear2
