@@ -891,11 +891,9 @@ screenrant.com##.article-body > h2:has-text(/More:|MORE:|NEXT:|Next:|Watch:|WATC
 screenrant.com##.article-body > h4:has-text(/Related:|RELATED:|Read More:|READ MORE:/)
 screenrant.com##.article-body > p:has-text(/Related:|RELATED:|Next:|NEXT:/)
 bmovies.*,9anime.*,solarmoviex.*,putlockertv.*##.pa
-9anime.*##.myass
 xmlrpc.php^
 ||flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' cdnjs.cloudflare.com ajax.googleapis.com
-*/assets/acode/$subdocument,other
-solarmoviex.*,bmovies.*,fmovies.*,putlockertv.*##script:inject(abort-current-inline-script.js, String.fromCharCode, /[0-9a-f]{40}..$/)
+bmovies.*,fmovies.*##script:inject(abort-current-inline-script.js, String.fromCharCode, /\/\*[0-9a-f]{40}\*\//)
 solarmoviex.*,bmovies.*,putlockertv.*##script:inject(abort-current-inline-script.js, parseInt, tabunder)
 rapidvideo.com###top350b
 rapidvideo.com###premiumad
