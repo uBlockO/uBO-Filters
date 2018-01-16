@@ -1003,5 +1003,8 @@ kissanime.*##.barContent > div > .clear
 kissanime.*##div > .clear2
 ch.min.js$script
 openload.co/r3/f^
+facebook.com###page_tv_show_playlists
+facebook.com###page_tv_show_extra_clips
+facebook.com###page_photos
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|gowatchfreemovies.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
