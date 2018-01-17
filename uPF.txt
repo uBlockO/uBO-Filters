@@ -1,7 +1,7 @@
 [uBlock Origin 1.14.25.100]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
-! Expires: 1 day (update frequency)
+! Expires: 12 hours (update frequency)
 
 gowatchfreemovies.to##.sl_wrap
 gowatchfreemovies.to##.comment_box
@@ -1006,5 +1006,6 @@ openload.co/r3/f^
 facebook.com###page_tv_show_playlists
 facebook.com###page_tv_show_extra_clips
 facebook.com###page_photos
+heroichollywood.com##.social-follow
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|gowatchfreemovies.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
