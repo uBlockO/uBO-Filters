@@ -878,7 +878,7 @@ superherohype.com##.article-footer
 boxofficemojo.com###Player_82160f42-9620-4d0a-b79a-18b1abd853fb
 bmovies.*##.col-lg-12:has-text(blockbuster)
 bmovies.*##.footerdesc
-cbr.com##p:has-text(RELATED:)
+cbr.com##.article-content > p:has-text(/RELATED:|REVIEW:/)
 adbd^
 bulbagarden.net###bottomframelower
 androidcentral.com,windowscentral.com##.author-info-top-wrap
