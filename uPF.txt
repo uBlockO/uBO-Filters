@@ -1009,5 +1009,6 @@ facebook.com###page_photos
 heroichollywood.com##.social-follow
 openload.co,twitter.com##script:inject(addEventListener-defuser.js, wheel)
 outlook.live.com##.ms-bgc-ns.flexCenterItems.flex._db_O
+torrentz2.*##.generic
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|gowatchfreemovies.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
