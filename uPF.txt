@@ -1,4 +1,4 @@
-[uBlock Origin 1.14.25.100]
+[uBlock Origin 1.14.25.101]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 12 hours (update frequency)
@@ -500,7 +500,7 @@ beta.speedtest.net##a[href^="http://www.speedtest.net/"]
 youtube.com##.yt-uix-expander-collapsed.live-chat-expander.yt-uix-expander
 kimcartoon.me##.w-right
 kimcartoon.me###hideAds
-analytics$important
+analytics$script
 reporter.js
 chromium.org##.__crdxFeedbackButton
 moviepilot.com##.panoramic-ad-space-allocation
