@@ -320,7 +320,7 @@ windowscentral.com,androidcentral.com##a[href^="https://www.mintsim.com/"]
 windowscentral.com,androidcentral.com##.grid_comm
 windowscentral.com,androidcentral.com##.other-channels
 ||$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval',domain=windowscentral.com|androidcentral.com
-||youtube.com^$csp=script-src  'self' 'unsafe-inline' 'unsafe-eval'
+||youtube.com^$csp=default-src 'self' 'unsafe-inline' blob: data: *.ggpht.com *.googlevideo.com *.ytimg.com fonts.googleapis.com fonts.gstatic.com *.googleusercontent.com
 @@/fontawesome^$stylesheet,font
 porncomics.biz,milftoon.info###popupOverlay
 @@myanimelist.cdn-dena.com/static/assets/js/pc/*.js^$domain=myanimelist.net
