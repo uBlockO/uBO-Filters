@@ -35,7 +35,7 @@ forbes.com##.undefined-expanded
 heroichollywood.com##.adbox-long
 heroichollywood.com##.adbox-sidebar
 heroichollywood.com##.sidebar
-||heroichollywood.com^$csp=script-src 'self' 'unsafe-inline' heroichollywood.b-cdn.net platform.twitter.com *.twimg.com platform.instagram.com
+||heroichollywood.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' heroichollywood.b-cdn.net platform.twitter.com *.twimg.com platform.instagram.com
 cinemablend.com##.StoryContent2
 cinemablend.com##.twitter-share-button
 cinemablend.com##a[href="#discuss"]
