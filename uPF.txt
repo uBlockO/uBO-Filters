@@ -713,7 +713,6 @@ forbes.com##.circ-link
 forbes.com##.top-ad-container
 forbes.com##.fs-text-l
 googleblog.com##a[href^="https://plus.google.com/"]
-kissasian.*,milfzr.com##script:inject(abort-current-inline-script.js, parseInt, tabunder)
 @@||kisscartoon.*^$first-party,script,badfilter
 kisscartoon.*,kimcartoon.io##script:inject(rdo.js, check_adblock, true)
 googlevideo.io^
@@ -737,7 +736,6 @@ moviepilot.com###mc_embed_signup
 1337x.*##.bitcoin
 9cartoon.me##a[href^="http://chiaanime.co/"]
 9cartoon.me##a[href^="https://goo.gl/"]
-kisscartoon.*##script:inject(abort-current-inline-script.js, parseInt, tabunder)
 kimcartoon.*,kisscartoon.*##.alert-info.alert
 kimcartoon.*,kisscartoon.*##.mb15.full
 kimcartoon.*,kisscartoon.*###btnShowComments
@@ -892,8 +890,7 @@ screenrant.com##.article-body > p:has-text(/Related:|RELATED:|Next:|NEXT:/)
 bmovies.*,9anime.*,solarmoviex.*,putlockertv.*##.pa
 xmlrpc.php^
 ||flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' cdnjs.cloudflare.com ajax.googleapis.com
-bmovies.*,fmovies.*##script:inject(abort-current-inline-script.js, String.fromCharCode, /\/\*[0-9a-f]{40}\*\//)
-solarmoviex.*,bmovies.*,putlockertv.*##script:inject(abort-current-inline-script.js, parseInt, tabunder)
+kisscartoon.*,kissasian.*,milfzr.com,dwatchseries.to,solarmoviex.*,putlockertv.*##script:inject(abort-current-inline-script.js, parseInt, tabunder)
 rapidvideo.com###top350b
 rapidvideo.com###premiumad
 rapidvideo.com###top350
@@ -924,7 +921,6 @@ kissanime.*##.bigBarContainer div[id^="adsIfrme"]
 @@||exoclick.com/ad_track.js$badfilter
 exoclick.com^$important
 exosrv.com^$important
-bmovies.*##script:inject(abort-current-inline-script.js, atob, tabunder)
 animenewsnetwork.com##h3:has-text(rate episode)
 animenewsnetwork.com##p:has-text(Crunchyroll)
 @@||google.*/ads/$third-party,image,badfilter
@@ -943,7 +939,6 @@ pornhub.com##.nf-wrapper > .sectionWrapper
 facebook.com##._6445
 facebook.com/video/*/async/$xmlhttprequest
 facebook.com/video/*/upnext/$xmlhttprequest
-9anime.*##script:inject(abort-current-inline-script.js, atob, tabunder)
 /player-stats
 ||rapidvideo.com^$script,badfilter
 9anime.*##.sticky
@@ -955,8 +950,7 @@ xnxx.com##script:inject(rdo.js, openpop, noopFunc)
 theporndude.com^$third-party
 kirtuclub.com##iframe[src*="youtube.com/embed/"]
 @@||hentaihaven.org/basement/js/adshow.js$badfilter
-fmovies.*,dwatchseries.to##script:inject(abort-current-inline-script.js, atob, tabunder)
-dwatchseries.to##script:inject(abort-current-inline-script.js, parseInt, tabunder)
+9anime.*,solarmoviesx.*,dwatchseries.to##script:inject(abort-current-inline-script.js, atob, tabunder)
 dwatchseries.to###rotating-item-wrapper
 dwatchseries.to##.freeEpisode
 gorillavid.in,daclips.in##script:inject(stb.js)
@@ -1011,7 +1005,7 @@ openload.co,twitter.com##script:inject(addEventListener-defuser.js, wheel)
 outlook.live.com##.ms-bgc-ns.flexCenterItems.flex._db_O
 torrentz2.*##.generic
 @@owa.Analytics$script,domain=outlook.live.com
-9anime.*,bmovies.*##script:inject(setInterval-defuser.js, $.ajax, GET)
+9anime.*##script:inject(setInterval-defuser.js, $.ajax, GET)
 /detroitchicago$domain=animenewsnetwork.com
 /logger
 animenewsnetwork.com##script:inject(abort-on-property-read.js, btoa)
