@@ -1005,7 +1005,6 @@ openload.co,twitter.com##script:inject(addEventListener-defuser.js, wheel)
 outlook.live.com##.ms-bgc-ns.flexCenterItems.flex._db_O
 torrentz2.*##.generic
 @@owa.Analytics$script,domain=outlook.live.com
-9anime.*##script:inject(setInterval-defuser.js, $.ajax, GET)
 /detroitchicago$domain=animenewsnetwork.com
 /logger
 animenewsnetwork.com##script:inject(abort-on-property-read.js, btoa)
