@@ -937,7 +937,6 @@ pornhub.com##.nf-wrapper > .sectionWrapper
 1337x.*##[href*="redirect"]
 1337x.*##[href*="php"]
 facebook.com##._6445
-facebook.com/video/*/async/$xmlhttprequest
 facebook.com/video/*/upnext/$xmlhttprequest
 /player-stats
 ||rapidvideo.com^$script,badfilter
