@@ -1010,5 +1010,6 @@ animenewsnetwork.com##script:inject(abort-on-property-read.js, btoa)
 facebook.com/ajax/typeahead/record_basic_metrics.php
 facebook.com/ajax/ufi/comment_fetch.php
 facebook.com/*chat-proxy$xmlhttprequest
+facebook.com##.UFIList
 
 $third-party,script,domain=kimcartoon.me|comicbook.com|kissanime.ru|kissmanga.com|readcomiconline.to|torrentfreak.com|bulbagarden.net|quora.com|mcuexchange.com|gowatchfreemovies.to|gsmarena.com|trailer-track.com|onhax.me|cinemablend.com|8muses.com
