@@ -742,7 +742,7 @@ kimcartoon.*,kisscartoon.*###btnShowComments
 thepiratebay.*/*/$inline-script,subdocument
 @@screenrant.com^$elemhide
 screenrant.com##.ad-zone-container
-||kimcartoon.me^$csp=script-src 'self' 'unsafe-eval' 'unsafe-inline' *.zencdn.net blob:
+||kimcartoon.me^$csp=script-src 'self' 'unsafe-eval' 'unsafe-inline' *.zencdn.net javascript:
 screenrant.com##.twitter.icon
 @@cbr.com^$elemhide
 cbr.com##.sharing-option
