@@ -1002,7 +1002,7 @@ facebook.com###page_photos
 heroichollywood.com##.social-follow
 openload.co,twitter.com##script:inject(addEventListener-defuser.js, wheel)
 outlook.live.com##.ms-bgc-ns.flexCenterItems.flex._db_O
-torrentz2.*##.generic
+torrentz2.*##.gener
 @@owa.Analytics$script,domain=outlook.live.com
 /detroitchicago$domain=animenewsnetwork.com
 /logger
