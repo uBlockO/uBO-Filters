@@ -843,7 +843,7 @@ readcomics.*##.pager-cnt:nth-of-type(5) > .row:nth-of-type(2) > .col-xs-12
 readcomics.*##.hrule
 readcomics.*##.nav-tabs.nav
 readcomics.*##a[href^="http://getcomics.info"]
-||readcomics.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' fonts.googleapis.com fonts.gstatic.com
+||readcomics.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' fonts.googleapis.com fonts.gstatic.com data:
 @@||facebook.com/share/share_now_menu/$xmlhttprequest,domain=facebook.com,badfilter
 @@||facebook.com/share/share_now_menu/$domain=facebook.com,badfilter
 comicbook.com##.aligncenter:has-text(NEXT:)
