@@ -1012,3 +1012,4 @@ facebook.com/ajax/ufi/comment_fetch.php
 facebook.com/*chat-proxy$xmlhttprequest
 facebook.com##.UFIList
 facebook.com##._5pcr:has-text(Popular Across Facebook)
+facebook.com##._2a_2:has-text(Share)
