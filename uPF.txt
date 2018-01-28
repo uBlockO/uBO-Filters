@@ -1011,3 +1011,4 @@ facebook.com/ajax/typeahead/record_basic_metrics.php
 facebook.com/ajax/ufi/comment_fetch.php
 facebook.com/*chat-proxy$xmlhttprequest
 facebook.com##.UFIList
+facebook.com##._5pcr:has-text(Popular Across Facebook)
