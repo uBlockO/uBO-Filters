@@ -1014,3 +1014,4 @@ facebook.com##.UFIList
 facebook.com##._5pcr:has-text(Popular Across Facebook)
 facebook.com##._2a_2:has-text(Share)
 9anime.*/sw.js
+check.googlezip.net^$domain=behind-the-scene
