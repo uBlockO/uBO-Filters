@@ -1016,3 +1016,4 @@ facebook.com##._2a_2:has-text(Share)
 9anime.*/sw.js
 check.googlezip.net^$domain=behind-the-scene
 ghacks.net##.ghacks-ad
+speedtest.net##.top-placeholder.pure-u-1
