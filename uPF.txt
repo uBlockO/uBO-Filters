@@ -422,6 +422,7 @@ istream.*##.button
 pornhub.*##script:inject(rdo, UAParser, noopFunc)
 hentaihaven.org##script:inject(abort-on-property-read.js, desktop_variants)
 hentaihaven.org##.entry-meta
+hentaihaven.org##script:inject(abort-on-property-read.js, Pukka.prerolls)
 chip.*,speedtest.net##script:inject(rdo.js, _sp_, noopFunc)
 contributor.google.com/scripts/
 wigetmedia.js
@@ -1000,7 +1001,7 @@ facebook.com###page_tv_show_playlists
 facebook.com###page_tv_show_extra_clips
 facebook.com###page_photos
 heroichollywood.com##.social-follow
-openload.co,twitter.com##script:inject(addEventListener-defuser.js, wheel)
+openload.co,hentaihaven.org##script:inject(addEventListener-defuser.js, wheel)
 outlook.live.com##.ms-bgc-ns.flexCenterItems.flex._db_O
 torrentz2.*##.gener
 @@owa.Analytics$script,domain=outlook.live.com
