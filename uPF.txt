@@ -1018,3 +1018,4 @@ facebook.com##._2a_2:has-text(Share)
 check.googlezip.net^$domain=behind-the-scene
 ghacks.net##.ghacks-ad
 speedtest.net##.top-placeholder.pure-u-1
+||hentaihaven.org^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
