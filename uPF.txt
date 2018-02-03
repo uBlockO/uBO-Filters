@@ -927,7 +927,7 @@ animenewsnetwork.com##p:has-text(Crunchyroll)
 @@||google.*/ads/$third-party,image,badfilter
 socialCounts^
 readcomics.*##.ads
-rapidvideo.com,pornhub.com,openload.*,oload.*##script:inject(addEventListener-defuser.js, contextmenu)
+rapidvideo.com,pornhub.com,hentaihaven.org,openload.*,oload.*##script:inject(addEventListener-defuser.js, contextmenu)
 fmovies.*##.home-social
 fmovies.*##.comment
 fmovies.*##.fa-twitter.fa
