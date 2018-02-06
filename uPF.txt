@@ -383,9 +383,6 @@ imdb.com###title-overview-widget > .article
 imdb.com##.ab_ninja
 annotations$script
 @@ampproject.org^$image,stylesheet,media
-9cartoon.me##.avm
-9cartoon.me##.banner_center
-9cartoon.me##.more_anime
 9anime.*##.alert.mt20
 9anime.*##.alert
 9anime.*,bmovies.*,fmovies.*##.popover
@@ -504,14 +501,6 @@ kimcartoon.me###hideAds
 analytics$script
 reporter.js
 chromium.org##.__crdxFeedbackButton
-moviepilot.com##.panoramic-ad-space-allocation
-moviepilot.com##.desktop-sidebar-ad-container
-moviepilot.com##.sticky-ads-containter
-moviepilot.com##.hidden\@small.header__sharing
-moviepilot.com##.comments-content
-moviepilot.com##.poll
-moviepilot.com##.latest-content
-#@#[jsaction] > [data-ved][style]:first-child
 @@||www.google.*/ads/$first-party,domain=google.ca|google.co.in|google.co.nz|google.co.uk|google.com|google.com.au|google.com.eg|google.de|google.es,badfilter
 9anime.to##.mb20
 mozilla.org##.announce-bar
@@ -579,19 +568,12 @@ temp_share_folder
 ||speedtest.net^$csp=script-src 'self' 'unsafe-inline' *.speedtest.net *.cdnst.net
 ||cbr.com^$csp=script-src 'self' 'unsafe-inline' platform.twitter.com *.twimg.com platform.instagram.com *.imgur.com embed.redditmedia.com cdn.embedly.com
 outlook.live.com##a[href^="http://"]
-moviepilot.com##.read-next
-moviepilot.com##.hashtag-widget__cta
-moviepilot.com##.article-main > .section-header
-moviepilot.com##.hashtag-widget
-||moviepilot.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.moviepilot.com platform.twitter.com *.twimg.com platform.instagram.com assets.creators.co cdnjs.cloudflare.com *.jwplatform.com *.jwpcdn.com
-moviepilot.com##.layout--ad__sidebar.article-sidebar
 promo$script
 ||pornhub.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.phncdn.com
 ||wikia.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.nocookie.net *.youtube.com *.ytimg.com
 ||reddit.com^$csp=script-src 'self' *.redditstatic.com 'unsafe-inline' 'unsafe-eval'
 youtube.com###movie-upsell-card
 youtube.com##.yt-lockup-movie-vertical-poster.yt-lockup-tile.yt-lockup
-||cnn.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: *.cnn.com  *.turner.com *.cnn.io
 @@||ads.clubedohardware.com.br/$badfilter
 @@||ads.clubedohardware.com.br/www/delivery/$script,badfilter
 hollywoodreporter.com##.readmore
@@ -733,10 +715,7 @@ howtogeek.com##.article-extras
 howtogeek.com##.third.footer-col
 ||howtogeek.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 /([0-9]{1,3}\.){3}[0-9]{1,3}/$popup,domain=briansarmiento.website|divxatope1.com|kissanime.ru|newpct.com|pelisplus.tv|rapidvideo.com|strikeout.co|torrentz2.eu,badfilter
-moviepilot.com###mc_embed_signup
 1337x.*##.bitcoin
-9cartoon.me##a[href^="http://chiaanime.co/"]
-9cartoon.me##a[href^="https://goo.gl/"]
 kimcartoon.*,kisscartoon.*##.alert-info.alert
 kimcartoon.*,kisscartoon.*##.mb15.full
 kimcartoon.*,kisscartoon.*###btnShowComments
@@ -1021,3 +1000,4 @@ speedtest.net##.top-placeholder.pure-u-1
 ||hentaihaven.org^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 @@hentaihaven.org^$elemhide
 |https:$third-party,popup,domain=9anime.is|eztv.ag|flashx.tv|imagerar.com|imgbox.com|mywebtv.info|nosteam.ro|oload.info|oload.tv|openload.co|sendvid.com|streamango.com|streamcherry.com|thevideo.me|uptobox.com|uptostream.com|yts.am,badfilter
+||mcloud.to^$csp=default-src 'self' 'unsafe-inline' *.mcloud.to ajax.googleapis.com ssl.p.jwpcdn.com blob: fonts.googleapis.com fonts.gstatic.com
