@@ -1020,3 +1020,4 @@ ghacks.net##.ghacks-ad
 speedtest.net##.top-placeholder.pure-u-1
 ||hentaihaven.org^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 @@hentaihaven.org^$elemhide
+|https:$third-party,popup,domain=9anime.is|eztv.ag|flashx.tv|imagerar.com|imgbox.com|mywebtv.info|nosteam.ro|oload.info|oload.tv|openload.co|sendvid.com|streamango.com|streamcherry.com|thevideo.me|uptobox.com|uptostream.com|yts.am,badfilter
