@@ -521,10 +521,10 @@ omegaunderground.com##.widget_text.widget
 omegaunderground.com###sidebar-footer
 mega.nz##.active.top-login-warning
 dwatchseries.to##a[href^="/redirect.php"]
-||bmovies.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.jwpcdn.com ajax.googleapis.com
-||9anime.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.jwpcdn.com  ajax.googleapis.com
-||putlockertv.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.jwpcdn.com ajax.googleapis.com 
-||solarmoviex.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.jwpcdn.com ajax.googleapis.com
+||bmovies.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
+||9anime.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
+||putlockertv.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com 
+||solarmoviex.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
 endscreen$script
 ads_$xmlhttprequest,important
 plg_jchoptimize$script
@@ -911,7 +911,7 @@ fmovies.*##.home-social
 fmovies.*##.comment
 fmovies.*##.fa-twitter.fa
 fmovies.*##.fa-facebook.fa
-||fmovies.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.jwpcdn.com
+||fmovies.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
 pornhub.com##.sectionWrapper:has-text(Cam)
 pornhub.com##.nf-wrapper > .sectionWrapper
 1337x.*##[href*="redirect"]
