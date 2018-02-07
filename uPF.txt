@@ -1001,3 +1001,4 @@ speedtest.net##.top-placeholder.pure-u-1
 @@hentaihaven.org^$elemhide
 |https:$third-party,popup,domain=9anime.is|eztv.ag|flashx.tv|imagerar.com|imgbox.com|mywebtv.info|nosteam.ro|oload.info|oload.tv|openload.co|sendvid.com|streamango.com|streamcherry.com|thevideo.me|uptobox.com|uptostream.com|yts.am,badfilter
 ||mcloud.to^$csp=default-src 'self' 'unsafe-inline' *.mcloud.to ajax.googleapis.com ssl.p.jwpcdn.com blob: fonts.googleapis.com fonts.gstatic.com
+kimcartoon.me##script:inject(schar.js, /\/\*[0-9a-f]{40}\*\//)
