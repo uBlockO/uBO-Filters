@@ -965,7 +965,7 @@ ghacks.net##p:nth-of-type(4) > strong
 @@ghacks.net^$elemhide
 cbr.com,screenrant.com##a[href*="amazon.com"]
 speedtest.net##a[href*="legacy.speedtest.net"]
-redditstatic.com/*chat
+redditstatic.com/*chat$script
 @@reddit.com^$elemhide
 kimcartoon.*##.episodeList.barContent > div > .clear2
 kimcartoon.*##.episodeList.barContent > div > .clear
