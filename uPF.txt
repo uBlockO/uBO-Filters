@@ -23,8 +23,6 @@ pornhub.com###under-player-comments
 pornhub.com###welcome
 youtube.com###watch-action-panels
 youtube.com###chat
-cinemablend.com###newsletter-background
-cinemablend.com###newsletter-subscription
 movieweb.com##.reddit.rd.sh
 movieweb.com##.comment.cm.sh
 movieweb.com##.email.em.sh
@@ -36,9 +34,6 @@ heroichollywood.com##.adbox-long
 heroichollywood.com##.adbox-sidebar
 heroichollywood.com##.sidebar
 ||heroichollywood.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' heroichollywood.b-cdn.net platform.twitter.com *.twimg.com platform.instagram.com embed.redditmedia.com cdn.embedly.com
-cinemablend.com##.StoryContent2
-cinemablend.com##.twitter-share-button
-cinemablend.com##a[href="#discuss"]
 bulbagarden.net##.rlsmobile
 bulbagarden.net###bottomframe
 bulbagarden.net##a[href="http://goo.gl/uQ5bIR"]
@@ -53,14 +48,10 @@ hollywoodreporter.com##.fa-comment.post-has-comments.comments-square.js-scroll-t
 hollywoodreporter.com##.blog-post-author-section
 hollywoodreporter.com##.article-meta-bottom
 screenrant.com##.social
-readcomiconline.to##a[href="#"]
 sexstories.com###bottom_panel
 sexstories.com##.title_panel
 sexstories.com##.block_panel:nth-of-type(4)
-thefappening.so##iframe
 cloudfront.net^$third-party
-solidfiles.com##.remove
-solidfiles.com##.buttons
 */advertisement.js$script,important,redirect=noopjs
 microsofttranslator.com^$important
 skype.com^$important
@@ -73,14 +64,8 @@ variety.com##.article-bottom-container
 variety.com##.comments-overview
 variety.com##.ad-below-tags
 variety.com###article-river
-cinemablend.com##a[href^="https://twitter.com/intent/tweet"]
-cinemablend.com##.ReviewSubTitle
-cinemablend.com##.facebook
-cinemablend.com##.blue_banner.snippet.partial
-cinemablend.com##.share_sharethis.partial
 kissanime.*###btnShowComments
 bulbagarden.net###amazon-related
-comicbookresources.com###billboard
 androidcentral.com##img[src="http://www.androidcentral.com/sites/androidcentral.com/files/styles/larger/public/article_images/2016/04/mobilenations-snapchat.jpg"]
 androidcentral.com##.sidebar-body
 androidcentral.com##.devicebox
@@ -138,9 +123,7 @@ air.irctc.co.in###footerlogo
 cinemablend.com##iframe[src="javascript:'%3C!DOCTYPE%20html%3E%3Chtml%3E%3Cbody%20leftMargin=%220%22%20topMargin=%220%22%20marginwidth=%220%22%20marginheight=%220%22%3E%3Cscript%20type=%22text/javascript%22%3Egoogle_ad_client%20=%20%22ca-pub-3512009167303132%22;%20google_ad_slot%20=%20%225344230866%22;%20google_ad_width%20=%20300;%20google_ad_height%20=%20250;%20%3C/script%3E%3Cscript%20type=%22text/javascript%22%20src=%22//pagead2.googlesyndication.com/pagead/show_ads.js%22%3E%3C/script%3E%3C!--%20DO%20NOT%20MODIFY%20--%3E%3C/body%3E%3C/html%3E'"]
 googletagmanager.com^$third-party
 mrskin.com##.col-xs-12.col-sm-8.col-md-4
-kissmanga.com##a[href="#"]
 @@oloadcdn.net^
-kissmanga.com###containerRoot > div:nth-of-type(4) > div:nth-of-type(17)
 @@blogspot.*^$image,stylesheet,other,media
 @@bootstrapcdn.com^$stylesheet,image,font
 cbr.com##.embed-related-block
@@ -155,7 +138,6 @@ cbr.com##.video-block-ads.video-block
 cbr.com##.related-section
 azurewebsites.net^$third-party
 outlook.com^$third-party
-@@bulba-ad-host-website.azurewebsites.net^$stylesheet,domain=bulbagarden.net
 microsoft.com^$third-party
 @@youtube.com/embed^$third-party
 @@ytimg.com/yts^$third-party
@@ -211,8 +193,6 @@ browserleaks.com##.twwt
 hanime.tv##.smart-banner-content.transition-all.align-center.justify-center.flex-row
 ugbase.eu###shoutbox
 ugbase.eu##.red_alert
-cinemablend.com##.ad\.criteo.ads_slots_snippet.partial
-cinemablend.com##.sticky.ads_slots_snippet.partial
 screenrant.com##.controler
 screenrant.com##.section-feature.side-featude-wrapper
 youtube.com##.ytp-ce-covering-overlay
@@ -256,8 +236,6 @@ onhax.*###prologue-143412 > hr:nth-of-type(1)
 onhax.*##.yarpp-related
 onhax.*###text-6
 onhax.*###text-3
-cinemablend.com##.social_counts.partial
-cinemablend.com##.plugins_corpfooter
 @@akamaihd.net^$image,media,stylesheet
 @@platform.twitter.com/css^$image,stylesheet
 infinite-articles
@@ -278,7 +256,6 @@ fuckadblock.js
 readcomics.*##.main-share
 quora.com##.footer_alphabet
 quora.com##.ContentPageFeed
-cinemablend.com##.content_story_pages_playwire.partial
 forbes.com##.ng-scope.items
 forbes.com##.default-expanded.article-trending-panel.article-sidebar-panel
 forbes.com##.\{\{vertical_class\}\}.\{\{sidebar_state\}\}.slash-background.article-sidebar.article-top-navigation
@@ -322,7 +299,6 @@ windowscentral.com,androidcentral.com##.other-channels
 ||$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval',domain=windowscentral.com|androidcentral.com
 ||youtube.com^$csp=default-src 'self' 'unsafe-inline' blob: data: *.ggpht.com *.googlevideo.com *.ytimg.com fonts.googleapis.com fonts.gstatic.com *.googleusercontent.com
 @@/fontawesome^$stylesheet,font
-porncomics.biz,milftoon.info###popupOverlay
 @@myanimelist.cdn-dena.com/static/assets/js/pc/*.js^$domain=myanimelist.net
 speedtest.net##.alert-container
 xhamster.com###supportAds
@@ -335,9 +311,6 @@ milfzr.com###extras
 milfzr.com###respond
 milfzr.com###footbar
 milfzr.com##.su-row
-tmz.com##.around-the-web-widget
-tmz.com##.globalfooter
-tmz.com###sidebar
 onhax.me##div[id^="bottom-promo-abdload"]
 onhax.me##div[id^="top-promo-dload"]
 9anime.*##.ads.toggler.mbtn.item
@@ -429,8 +402,6 @@ gyazo.com##.image-infos
 @@bmovies.*/assets/movie^$image
 thepiratebay.*,pornhub.com,anilinkz.*,openload.co,oload.*,1337x.*,rapidvideo.com##script:inject(window.open-defuser.js)
 cbr.com##.quiz-share-btn-wrapper
-celebjihad.com##a[href^="https://www.celebjihad.com/widget/"]
-thefappening.*###id-vidgeta-primary
 bmovies.*,9anime.*##center
 9anime.*##.a_d
 pornhub.com##.adlink2
@@ -456,14 +427,6 @@ kisshentai.*###show_id
 ||kisshentai.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 @@netdna-cdn.com/wp-content^$image,stylesheet
 doubleclick^$script,important
-anilinkz.*,vidstreaming.*##script:inject(noeval.js)
-anilinkz.*##script:inject(rdo.js, Fingerprint2, noopFunc)
-anilinkz.*###playinfo
-anilinkz.*###commentinfo
-anilinkz.*###disclaimer
-anilinkz.*###chatango
-anilinkz.*###rightside
-anilinkz.*##.tweet
 kimcartoon.*###disqus_thread
 ||androidcentral.com/sites/androidcentral.com/files/advagg_js/$script,badfilter
 connect.facebook.net^$script,important
@@ -516,9 +479,6 @@ gowatchfreemovies.to##script:inject(abort-current-inline-script.js, addEventList
 facebook.com##._3j6k
 mega.nz##.ads-left-block
 mega.nz##.ads-right-block
-omegaunderground.com##.youtube_embed_widget.widget
-omegaunderground.com##.widget_text.widget
-omegaunderground.com###sidebar-footer
 mega.nz##.active.top-login-warning
 dwatchseries.to##a[href^="/redirect.php"]
 ||bmovies.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
@@ -626,16 +586,6 @@ mega.nz##.checkbox-bl.download
 @@|http:$first-party,domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|chroniclelive.co.uk|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|everquest.allakhazam.com|financialpost.com|gofugyourself.com|hearthhead.com|ibtimes.com|idigitaltimes.com|infinitiev.com|latimes.com|leaderpost.com|legacy.com|lifewire.com|lolking.net|mcall.com|metacritic.com|montrealgazette.com|msn.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|stereogum.com|sun-sentinel.com|thebalance.com|theprovince.com|thespruce.com|thestarphoenix.com|thoughtco.com|timeanddate.com|tmn.today|torontosun.com|tvguide.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com|www.ign.com|zam.com,badfilter
 @@.png^$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|chroniclelive.co.uk|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|everquest.allakhazam.com|financialpost.com|gofugyourself.com|hearthhead.com|ibtimes.com|idigitaltimes.com|infinitiev.com|latimes.com|leaderpost.com|legacy.com|lifewire.com|lolking.net|mcall.com|metacritic.com|montrealgazette.com|msn.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|stereogum.com|sun-sentinel.com|thebalance.com|theprovince.com|thespruce.com|thestarphoenix.com|thoughtco.com|timeanddate.com|tmn.today|torontosun.com|tvguide.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com|www.ign.com|zam.com,badfilter
 @@|http:$third-party,image,domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|chroniclelive.co.uk|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|everquest.allakhazam.com|financialpost.com|gofugyourself.com|hearthhead.com|ibtimes.com|idigitaltimes.com|infinitiev.com|latimes.com|leaderpost.com|legacy.com|lifewire.com|lolking.net|mcall.com|metacritic.com|montrealgazette.com|msn.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|stereogum.com|sun-sentinel.com|thebalance.com|theprovince.com|thespruce.com|thestarphoenix.com|thoughtco.com|timeanddate.com|tmn.today|torontosun.com|tvguide.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com|www.ign.com|zam.com,badfilter
-ign.com##.icon-sharrow.icon
-ign.com##.article-share-count-container
-ign.com##.interruptContainer
-ign.com##.info-container
-ign.com##.clear-fix.article-tail
-ign.com##.widget-objectcard
-ign.com##.hero-unit-sidekick
-ign.com###promo_breakingnews_img_container
-ign.com/video-player/$script
-||ign.com^$csp=script-src 'self' *.ign.com *.ignimgs.com platform.twitter.com *.twimg.com *.instagram.com 'unsafe-inline' 'unsafe-eval'
 @@imgur.com^$image,third-party
 movieweb.com##.site-nav-social
 movieweb.com##.site-footer-social-links
@@ -801,7 +751,6 @@ hollywoodreporter.com##.blog-post-tags
 pornhub.com##script:inject(abort-on-property-read.js, userABMessage)
 kisshentai.*##.rightBox:has-text(/Announcement|Like me/)
 /\.com\/.*[a-f0-9]{110}/$third-party,image,badfilter
-imgur.com##li:has-text(/report ad|advertise|ad choices/)
 ||imgur.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.imgur.com ajax.googleapis.com
 bmovies.*##.widget-title:has-text(Sponsored)
 myanimelist.net##.anime_discussions.widget
@@ -834,7 +783,6 @@ facebook.com##._31qy:has-text(related)
 facebook.com##._4-u2:has-text(Page stories you may like)
 cbr.com##.social-account-links
 variety.com##script:inject(rdo.js, pmc_admanager, noopFunc)
-||piguiqproxy.com/$xmlhttprequest,important,redirect=nooptext
 google.*##._Ubu
 cbr.com##.link:has-text(FindaComicShop.com)
 myanimelist.net##.anime-detail-header-video
@@ -850,9 +798,6 @@ kissanime.*##a[href^="https://animemerchant.com/"]
 ||rapidvideo.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 kissanime.*##.rightBox:has-text(Like me)
 @@||akamaihd.net^*/ad*.js$script,badfilter
-||superherohype.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.superherohype.com ajax.googleapis.com platform.twitter.com platform.instagram.com *.twimg.com
-superherohype.com##p:has-text(RELATED:)
-superherohype.com##.article-footer
 boxofficemojo.com###Player_82160f42-9620-4d0a-b79a-18b1abd853fb
 bmovies.*##.col-lg-12:has-text(blockbuster)
 bmovies.*##.footerdesc
