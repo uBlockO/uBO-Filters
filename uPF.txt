@@ -568,8 +568,8 @@ ad-view$script,important
 @@myanimelist.net^$elemhide
 myanimelist.net##.icon-block-small.js-sns-icon-container
 @@||spotscenered.info/scripts/infinity.js.aspx?guid=$script,domain=watchfree.to,badfilter
-||openload.co^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' cdnjs.cloudflare.com  *.oloadcdn.net *.google.com *.gstatic.com
-||oload.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' cdnjs.cloudflare.com  *.oloadcdn.net *.google.com *.gstatic.com
+||openload.co^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.openload.co cdnjs.cloudflare.com  *.oloadcdn.net *.google.com *.gstatic.com
+||oload.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: cdnjs.cloudflare.com  *.oloadcdn.net *.google.com *.gstatic.com
 |http:$third-party,popup,domain=fmovies.is,badfilter
 ||milfzr.com^$csp=script-src 'self' *.jwpcdn.com 'unsafe-inline'
 myanimelist.net##.js-sns-icon-container
