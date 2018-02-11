@@ -647,7 +647,6 @@ forbes.com##.top-ad-container
 forbes.com##.fs-text-l
 googleblog.com##a[href^="https://plus.google.com/"]
 @@||kisscartoon.*^$first-party,script,badfilter
-kisscartoon.*,kimcartoon.io##script:inject(rdo.js, check_adblock, true)
 googlevideo.io^
 free-contents.org^
 @@||startpage.com/js/abp.js^$badfilter
@@ -666,9 +665,9 @@ howtogeek.com##.third.footer-col
 ||howtogeek.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 /([0-9]{1,3}\.){3}[0-9]{1,3}/$popup,domain=briansarmiento.website|divxatope1.com|kissanime.ru|newpct.com|pelisplus.tv|rapidvideo.com|strikeout.co|torrentz2.eu,badfilter
 1337x.*##.bitcoin
-kimcartoon.*,kisscartoon.*##.alert-info.alert
-kimcartoon.*,kisscartoon.*##.mb15.full
-kimcartoon.*,kisscartoon.*###btnShowComments
+kimcartoon.*##.alert-info.alert
+kimcartoon.*##.mb15.full
+kimcartoon.*###btnShowComments
 thepiratebay.*/*/$inline-script,subdocument
 @@screenrant.com^$elemhide
 screenrant.com##.ad-zone-container
@@ -814,7 +813,7 @@ screenrant.com##.article-body > p:has-text(/Related:|RELATED:|Next:|NEXT:/)
 bmovies.*,9anime.*,solarmoviex.*,putlockertv.*##.pa
 xmlrpc.php^
 ||flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' cdnjs.cloudflare.com ajax.googleapis.com
-kisscartoon.*,kissasian.*,milfzr.com,dwatchseries.to,solarmoviex.*,putlockertv.*##script:inject(abort-current-inline-script.js, parseInt, tabunder)
+kissasian.*,milfzr.com,dwatchseries.to,solarmoviex.*,putlockertv.*##script:inject(abort-current-inline-script.js, parseInt, tabunder)
 rapidvideo.com###top350b
 rapidvideo.com###premiumad
 rapidvideo.com###top350
@@ -825,7 +824,6 @@ howtogeek.com###secondary.sidebar-article.widget-area
 howtogeek.com##.relatedfull
 myanimelist.net##.mb4.di-ib
 kimcartoon.me##.barContent:has-text(Ads can be a pain)
-kisscartoon.*##script:inject(abort-current-inline-script.js, parseInt, decodeURIComponent)
 ad.*^$script
 ||animenewsnetwork.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com platform.twitter.com *.twimg.com *.animenewsnetwork.com
 animenewsnetwork.com###cover_image
@@ -892,7 +890,7 @@ gowatchfreemovies.to##.adv_box
 gowatchfreemovies.to##.page_content > div:has-text(VPN)
 gowatchfreemovies.to##.tweet
 gowatchfreemovies.to##.twitter-follow-button
-9anime.*,bmovies.*,fmovies.*,solarmoviex.*,putlockertv.*##script:inject(abort-current-inline-script.js, document.write, /wwwpromoter.com|300x250/)
+9anime.*,bmovies.*,fmovies.*,solarmoviex.*,putlockertv.*##script:inject(dwrite.js, /wwwpromoter.com|300x250/)
 9anime.*##.crop.widget
 @@||ajax.cloudflare.com/cdn-cgi/scripts/$third-party,script,badfilter
 ghacks.net##.ghacks_share_widget.widget
