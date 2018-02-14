@@ -874,8 +874,9 @@ kirtuclub.com##iframe[src*="youtube.com/embed/"]
 9anime.*,bmovies.*,fmovies.*,solarmoviex.*,dwatchseries.to##script:inject(abort-current-inline-script.js, atob, tabunder)
 dwatchseries.to###rotating-item-wrapper
 dwatchseries.to##.freeEpisode
-||gorillavid.in^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com vjs.zencdn.net
-gorillavid.in##script:inject(setTimeout-defuser.js, /0x|countdown/)
+||gorillavid.in^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com;worker-src 'none'
+gorillavid.in##script:inject(setTimeout-defuser.js, /0x/)
+gorillavid.in##script:inject(stb.js)
 socket.io^
 @@kimcartoon.me^$elemhide
 kimcartoon.me###videoAd
