@@ -481,7 +481,7 @@ mega.nz##.ads-left-block
 mega.nz##.ads-right-block
 mega.nz##.active.top-login-warning
 dwatchseries.to##a[href^="/redirect.php"]
-||bmovies.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
+||bmovies.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com;img-src 'self' *.googleusercontent.com
 ||9anime.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
 ||putlockertv.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com 
 ||solarmoviex.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
