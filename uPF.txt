@@ -938,3 +938,4 @@ speedtest.net##.top-placeholder.pure-u-1
 kimcartoon.me##script:inject(schar.js, /\/\*[0-9a-f]{40}\*\//)
 screenrant.com##script:inject(rdo.js, console, null)
 androidcentral.com##script:inject(noeval-if.js, atob)
+@@/wp-content/plugins/detect-adblock/js/ads.js$script,first-party,badfilter
