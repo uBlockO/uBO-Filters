@@ -725,7 +725,6 @@ imdb.com##.aux-content-widget-2:nth-of-type(6)
 */*.ads.js$script,important,redirect=noopjs
 ||hanime.tv^$csp=default-src 'self' 'unsafe-inline' maxcdn.bootstrapcdn.com *.googleusercontent.com *.google.com vjs.zencdn.net *.hanime.tv *.algolia.net *.algolianet.com data:
 @@||hanime.tv/*.ads.js$badfilter
-pornhub.com##.video-wrapper:nth-of-type(3)
 comicbook.com##.contentgroup:nth-of-type(7) > header
 comicbook.com##.contentgroup:nth-of-type(7) > article
 comicbook.com##.contentgroup:nth-of-type(7)
