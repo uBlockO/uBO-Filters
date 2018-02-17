@@ -1,4 +1,4 @@
-[uBlock Origin 1.15.5.0]
+[uBlock Origin 1.15.7.0]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 12 hours (update frequency)
@@ -525,7 +525,7 @@ mega.nz##.red.download-button.button
 hollywoodreporter.com##.leaderboard-wrapper
 temp_share_folder
 ||screenrant.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.srcdn.com platform.twitter.com *.instagram.com *.twimg.com *.imgur.com embed.redditmedia.com cdn.embedly.com
-||speedtest.net^$csp=script-src 'self' 'unsafe-inline' *.speedtest.net *.cdnst.net
+||speedtest.net^$csp=script-src 'self' 'unsafe-inline' *.speedtest.net *.cdnst.net;img-src 'self' *.cdnst.net 
 ||cbr.com^$csp=script-src 'self' 'unsafe-inline' platform.twitter.com *.twimg.com platform.instagram.com *.imgur.com embed.redditmedia.com cdn.embedly.com
 outlook.live.com##a[href^="http://"]
 promo$script
