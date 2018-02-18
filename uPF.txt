@@ -476,7 +476,7 @@ facebook.com##._5pcr._7xp
 screenrant.com##.title-section
 screenrant.com##.related-thumbs.thumb-list
 gowatchfreemovies.to##script:inject(abort-current-inline-script.js, addEventListener, IsAdblockRequest)
-gowatchfreemovies.to##script:inject(abort-current-inline-script.js, addEventListener, navigator)
+gowatchfreemovies.to##script:inject(noeval-if.js, analytics)
 facebook.com##._3j6k
 mega.nz##.ads-left-block
 mega.nz##.ads-right-block
