@@ -475,7 +475,7 @@ facebook.com##._5pcr._7xp
 @@||d3ujids68p6xmq.cloudfront.net^$script,domain=beta.speedtest.net,badfilter
 screenrant.com##.title-section
 screenrant.com##.related-thumbs.thumb-list
-gowatchfreemovies.to##script:inject(rdo.js, UAParser, noopFunc)
+gowatchfreemovies.to##script:inject(abort-on-property-read.js, UAParser)
 facebook.com##._3j6k
 mega.nz##.ads-left-block
 mega.nz##.ads-right-block
@@ -776,7 +776,7 @@ readcomics.*##a[href^="http://getcomics.info"]
 comicbook.com##.aligncenter:has-text(NEXT:)
 comicbook.com##p:has-text(NEXT:)
 kimcartoon.me##.barContent:has-text(fake)
-||gowatchfreemovies.to^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
+||gowatchfreemovies.to^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com;img-src 'self' *.gowatchfreemovies.to
 facebook.com##._31qy:has-text(related)
 facebook.com##._4-u2:has-text(Page stories you may like)
 cbr.com##.social-account-links
