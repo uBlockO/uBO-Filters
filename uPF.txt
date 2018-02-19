@@ -941,3 +941,4 @@ screenrant.com##script:inject(rdo.js, console, null)
 androidcentral.com##script:inject(noeval-if.js, atob)
 @@/wp-content/plugins/detect-adblock/js/ads.js$script,first-party,badfilter
 @@/wp-content/plugins/google-analytics-for-wordpress/$first-party,script,badfilter
+cbr.com##p > strong:has-text(READ)
