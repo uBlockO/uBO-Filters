@@ -538,7 +538,7 @@ youtube.com##.yt-lockup-movie-vertical-poster.yt-lockup-tile.yt-lockup
 @@||ads.clubedohardware.com.br/$badfilter
 @@||ads.clubedohardware.com.br/www/delivery/$script,badfilter
 hollywoodreporter.com##.readmore
-||hollywoodreporter.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.instagram.com platform.twitter.com *.twimg.com players.brightcove.net *.zencdn.net blob:
+||hollywoodreporter.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.instagram.com platform.twitter.com *.twimg.com players.brightcove.net *.zencdn.net *.hollywoodreporter.com blob:
 gtpl.net##.modal
 gtpl.net##.modal-backdrop
 deadline.com##.ppp-ad
