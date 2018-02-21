@@ -529,7 +529,7 @@ temp_share_folder
 ||cbr.com^$csp=script-src 'self' 'unsafe-inline' platform.twitter.com *.twimg.com platform.instagram.com *.imgur.com embed.redditmedia.com cdn.embedly.com
 outlook.live.com##a[href^="http://"]
 promo$script
-||pornhub.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.phncdn.com *.pornhub.com *.nsimg.net data:
+||pornhub.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.phncdn.com *.pornhub.com *.nsimg.net *.rncdn3.com data:
 ||wikia.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.nocookie.net *.youtube.com *.ytimg.com
 ||reddit.com^$csp=script-src 'self' *.redditstatic.com 'unsafe-inline' 'unsafe-eval'
 youtube.com###movie-upsell-card
