@@ -943,3 +943,5 @@ androidcentral.com##script:inject(noeval-if.js, atob)
 cbr.com##p > strong:has-text(READ)
 pornhub.com#@#script:inject(csp.js, img-src 'self' *; media-src 'self' *)
 @@*$csp=script-src 'self' * data: 'unsafe-inline' 'unsafe-eval',domain=pornhub.com|xhamster.com|youporn.com
+comicbook.com##.mid-content-comment
+comicbook.com##.article-footer-comments
