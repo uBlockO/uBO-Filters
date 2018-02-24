@@ -139,11 +139,8 @@ cbr.com##.related-section
 azurewebsites.net^$third-party
 outlook.com^$third-party
 microsoft.com^$third-party
-@@youtube.com/embed^$third-party
-@@ytimg.com/yts^$third-party
 @@googlevideo.com^$media,xmlhttprequest
 @@facebook.com/plugins/video.php^$important
-@@soundcloud.com^$third-party
 thepiratebay.*^$third-party
 @@quoracdn.net^$domain=quora.com
 @@google.*/recaptcha/api2^
@@ -948,5 +945,3 @@ comicbook.com##.mid-content-comment
 comicbook.com##.article-footer-comments
 /^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to|ebd\.cda\.pl|gamedor\.usermd\.net)\/).)*$/$subdocument,domain=a-o.ninja|centrum-dramy.pl|love-drama.pl|vidfile.net,badfilter
 /^((?!(^https?):\/\/(ajax\.googleapis\.com|cdnjs\.cloudflare\.com|vk\.com)\/).)*$/$script,third-party,domain=kinokrad.co,badfilter
-pagead^$important
-
