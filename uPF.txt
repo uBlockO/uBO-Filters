@@ -165,18 +165,9 @@ trailer-track.com##.next-post
 trailer-track.com##.prev-post
 trailer-track.com##.sidebar
 ||trailer-track.com^$csp=script-src 'self' 'unsafe-inline' platform.twitter.com *.twimg.com platform.instagram.com
-@@thr.com^$domain=hollywoodreporter.com
 hollywoodreporter.com##.js-show-disqus-comments
 hollywoodreporter.com##.blog-post-syndication-section
 myanimelist.net/static/logging.html$xmlhttprequest
-@@cdnjs.cloudflare.com/ajax/libs^$script,domain=flixanity.online
-@@ajax.googleapis.com/ajax/libs^$script
-@@zencdn.net^$script,domain=istream.is|kimcartoon.me|flixanity.online
-@@zencdn.net^$stylesheet,font
-@@googleusercontent.com^$stylesheet,media,font,image,xmlhttprequest
-@@openload.co/embed^
-@@oload.*/embed^
-@@opensubtitles.org$xmlhttprequest,third-party
 screenrant.com##.read-next
 openload.co,oload.*##.center
 superherohype.com###js-sidebar
@@ -807,7 +798,7 @@ screenrant.com##.article-body > p:has-text(/Related:|RELATED:|Next:|NEXT:|Read M
 screenrant.com##.article-body > ul:has-text(Updates)
 bmovies.*,9anime.*,solarmoviez.*,putlockertv.*##.pa
 xmlrpc.php^
-||flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' cdnjs.cloudflare.com ajax.googleapis.com
+||flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
 kissasian.*,milfzr.com,dwatchseries.to,solarmoviez.*,putlockertv.*##script:inject(abort-current-inline-script.js, parseInt, tabunder)
 rapidvideo.com###top350b
 rapidvideo.com###premiumad
