@@ -123,9 +123,6 @@ air.irctc.co.in###footerlogo
 cinemablend.com##iframe[src="javascript:'%3C!DOCTYPE%20html%3E%3Chtml%3E%3Cbody%20leftMargin=%220%22%20topMargin=%220%22%20marginwidth=%220%22%20marginheight=%220%22%3E%3Cscript%20type=%22text/javascript%22%3Egoogle_ad_client%20=%20%22ca-pub-3512009167303132%22;%20google_ad_slot%20=%20%225344230866%22;%20google_ad_width%20=%20300;%20google_ad_height%20=%20250;%20%3C/script%3E%3Cscript%20type=%22text/javascript%22%20src=%22//pagead2.googlesyndication.com/pagead/show_ads.js%22%3E%3C/script%3E%3C!--%20DO%20NOT%20MODIFY%20--%3E%3C/body%3E%3C/html%3E'"]
 googletagmanager.com^$third-party
 mrskin.com##.col-xs-12.col-sm-8.col-md-4
-@@oloadcdn.net^
-@@blogspot.*^$image,stylesheet,other,media
-@@bootstrapcdn.com^$stylesheet,image,font
 cbr.com##.embed-related-block
 script.js$script,domain=1337x.to|1337x.st
 google.*###contain-402
@@ -139,21 +136,10 @@ cbr.com##.related-section
 azurewebsites.net^$third-party
 outlook.com^$third-party
 microsoft.com^$third-party
-@@googlevideo.com^$media,xmlhttprequest
-@@facebook.com/plugins/video.php^$important
 thepiratebay.*^$third-party
-@@quoracdn.net^$domain=quora.com
-@@google.*/recaptcha/api2^
-@@fonts.googleapis.com^$stylesheet,font
 myanimelist.net##.clearfix.index-watch-description
 logpopup
-@@cdn-dena.com^$image,stylesheet,font,media
 heroichollywood.com##.crp_related
-@@wp.com^$stylesheet,image,font
-@@cloudfront.net^$stylesheet,media,font
-@@wordpress.com^$stylesheet,image,font
-@@amazonaws.com^$stylesheet,font,media
-@@jwpcdn.com^$domain=vidup.me
 trailer-track.com##.comments-area-wrapper
 trailer-track.com###colophon
 trailer-track.com###actionbar
@@ -185,11 +171,8 @@ screenrant.com##.controler
 screenrant.com##.section-feature.side-featude-wrapper
 youtube.com##.ytp-ce-covering-overlay
 wikia.com###WikiaRailWrapper
-@@platform.twitter.com/*/tweet.*.*^
 gsmarena.com###subHeader
 cbr.com##.injected-video-by-load
-@@platform.instagram.com/en_US/embeds.js^$script
-@@instagram.com/*/embed/captioned^
 androidauthority.com##.load-infinite.loading
 istream.*##.buttons.dmcaLink
 ads-$script
@@ -199,13 +182,9 @@ mrskin.com##.sk-gallery-viewer-az-slide
 mrskin.com###az-responsive-20
 mrskin.com###az-responsive-23
 mrskin.com###az-responsive-26
-@@platform.twitter.com/widgets.js$script
-@@cdn1b.static.pornhub.phncdn.com/www-static2/js^$script,domain=pornhub.com
-@@twitter.com/i/videos/tweet^
 wikia.com###WikiaBar
 screenrant.com##.desktop-vertical.video-block-with-playlist
 mozilla.org###site-nonfx
-@@phubcdn.com^$stylesheet,image,domain=pornhub.com
 snowstorm$script
 snow$script
 wikia.com##.wds-global-footer
@@ -224,8 +203,6 @@ onhax.*###prologue-143412 > hr:nth-of-type(1)
 onhax.*##.yarpp-related
 onhax.*###text-6
 onhax.*###text-3
-@@akamaihd.net^$image,media,stylesheet
-@@platform.twitter.com/css^$image,stylesheet
 infinite-articles
 outlook.live.com##a[href^="http://www.myfreecams.com/"]
 istream.*##.sources
@@ -238,7 +215,6 @@ promo-banner.js^$important
 cdn-cgi/pe/bag2
 9anime.*##.notice.alert-primary.alert
 9anime.*,bmovies.*,solarmoviez.*##.home-socials
-@@jwpcdn.com^$font
 wp-adblock-dedect$important
 fuckadblock.js
 readcomics.*##.main-share
@@ -248,12 +224,9 @@ forbes.com##.ng-scope.items
 forbes.com##.default-expanded.article-trending-panel.article-sidebar-panel
 forbes.com##.\{\{vertical_class\}\}.\{\{sidebar_state\}\}.slash-background.article-sidebar.article-top-navigation
 forbes.com###fbs-ad-rail-article-\{\{article\.index\}\}
-@@cbr.com/wp-content/plugins/wp-minify/min^$script,domain=cbr.com
 iFramedAdTemplate
 myanimelist.net##.btn-mal-service
 myanimelist.net##.anime-detail-header-affiliate
-@@github-cloud.s3.amazonaws.com^$domain=github.com
-@@gannett-cdn.com^$image,stylesheet
 abtesting$important
 @@wikia.com^$elemhide
 mrskin.com##.sk-wallpaper-riseup
@@ -286,8 +259,6 @@ windowscentral.com,androidcentral.com##.grid_comm
 windowscentral.com,androidcentral.com##.other-channels
 ||$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval',domain=windowscentral.com|androidcentral.com
 ||youtube.com^$csp=default-src 'self' 'unsafe-inline' blob: data: *.ggpht.com *.googlevideo.com *.ytimg.com fonts.googleapis.com fonts.gstatic.com *.googleusercontent.com
-@@/fontawesome^$stylesheet,font
-@@myanimelist.cdn-dena.com/static/assets/js/pc/*.js^$domain=myanimelist.net
 speedtest.net##.alert-container
 xhamster.com###supportAds
 pubmedia.js
@@ -324,8 +295,6 @@ youtube.com###watch-sidebar-live-chat
 windowscentral.com,androidcentral.com##.shop
 fastly.net^$script
 mod_atblockdetector$script
-@@cloudflare.com^$stylesheet,font,image
-@@gstatic.com^$stylesheet,font
 youtube.com##.subscribecard-endscreen
 youtube.com##.ytp-ce-element
 youtube.com/get_endscreen?
@@ -337,13 +306,10 @@ facebook.com##.home_right_column
 facebook.com/*/logging^$important
 myanimelist.net##.amazon.btn-affiliate
 xvideos.com,xnxx.com##script:inject(noeval.js)
-@@jsdelivr.net^$stylesheet,image,media
-@@jsdelivr.net^$script,domain=8muses.com
 imdb.com##.aux-content-widget-2:nth-of-type(4)
 imdb.com###title-overview-widget > .article
 imdb.com##.ab_ninja
 annotations$script
-@@ampproject.org^$image,stylesheet,media
 9anime.*##.alert.mt20
 9anime.*##.alert
 9anime.*,bmovies.*##.popover
@@ -385,20 +351,17 @@ contributor.google.com/scripts/
 wigetmedia.js
 androidcentral.com,windowscentral.com##.mn_mbn_share
 gyazo.com##.image-infos
-@@bmovies.*/assets/movie^$image
 thepiratebay.*,pornhub.com,anilinkz.*,openload.co,oload.*,1337x.*,rapidvideo.com##script:inject(window.open-defuser.js)
 cbr.com##.quiz-share-btn-wrapper
 bmovies.*,9anime.*##center
 9anime.*##.a_d
 pornhub.com##.adlink2
-@@twimg.com^$image,stylesheet
 github.com##.survey-container
 cse.google.com/cse.js^$important
 outlook.live.com##._n_15
 ads$script
 youtube.com##.hats-categorical-style-vertical
 solarmoviez.*##.alert
-@@twitter.com/i/cards/tfw^
 mozilla.org##.global-notice
 mrskin.com##a[href^="http://www.amazon.com/gp/search"]
 fzpwll.mrskin.com^
@@ -411,7 +374,6 @@ log_event
 kisshentai.*##a[href="#"]
 kisshentai.*###show_id
 ||kisshentai.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
-@@netdna-cdn.com/wp-content^$image,stylesheet
 doubleclick^$script,important
 kimcartoon.*###disqus_thread
 ||androidcentral.com/sites/androidcentral.com/files/advagg_js/$script,badfilter
@@ -420,7 +382,6 @@ connect.facebook.net^$script,important
 @@||passport.mobilenations.com^$script,domain=androidcentral.com|crackberry.com|imore.com|windowscentral.com,badfilter
 @@||platform.twitter.com^$script,domain=9anime.to,badfilter
 ajax.cloudflare.com/cdn-cgi/nexp^$script
-@@ajax.cloudflare.com/cdn-cgi/nexp/dok3v=*/cloudflare.min.js$domain=lanik.us
 9anime.*##.ads
 speedtest.net##.high-placeholder.pure-u-1
 speedtest.net##.u-c.pure-u-custom-ad-rectangle
@@ -428,7 +389,6 @@ speedtest.net##.u-c.pure-u-custom-ad-skyscraper
 google.*##.glif-promo
 gitlab.com##.bordered-box
 platform.twitter.com/js/button.$third-party,important
-@@outlook.com^$script,domain=live.com
 google.*##._RMl.tpo._rk.g
 pastebin.com##.promo-bar
 speedtest.net##.eot-mini-survey
@@ -819,7 +779,6 @@ animenewsnetwork.com###infinite-scroll-outlet
 ||1337x.*^$csp=script-src 'self' 'unsafe-inline'
 uservoice.js$script
 typekit.net^
-@@cf.challenge^$script
 screenrant.com,cbr.com##.featured-text
 wikia.com##.featured-video__wrapper
 @@||ox-d.bannertrack.net/auid=$badfilter
