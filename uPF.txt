@@ -893,3 +893,4 @@ comicbook.com##.article-footer-comments
 /^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to|ebd\.cda\.pl|gamedor\.usermd\.net)\/).)*$/$subdocument,domain=a-o.ninja|centrum-dramy.pl|love-drama.pl|vidfile.net,badfilter
 /^((?!(^https?):\/\/(ajax\.googleapis\.com|cdnjs\.cloudflare\.com|vk\.com)\/).)*$/$script,third-party,domain=kinokrad.co,badfilter
 flixanity.*/*/somethingfun.js$script
+||mcloud.to^$csp=default-src 'self' 'unsafe-inline' *.mcloud.to ajax.googleapis.com ssl.p.jwpcdn.com blob: fonts.googleapis.com fonts.gstatic.com
