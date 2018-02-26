@@ -29,7 +29,6 @@ movieweb.com##.email.em.sh
 movieweb.com##.followistic-box
 movieweb.com##.head-1.heading
 forbes.com##.undefined-expanded
-###comments
 heroichollywood.com##.adbox-long
 heroichollywood.com##.adbox-sidebar
 heroichollywood.com##.sidebar
