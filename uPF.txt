@@ -373,7 +373,7 @@ youtube.com/api/stats^$important
 log_event
 kisshentai.*##a[href="#"]
 kisshentai.*###show_id
-||kisshentai.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.rapidvideo.com *.playercdn.net openload.co oload.stream *.oloadcdn.net streamcherry.com *.fruithosted.net
+||kisshentai.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.stream *.oloadcdn.net streamcherry.com *.fruithosted.net
 doubleclick^$script,important
 kimcartoon.*###disqus_thread
 ||androidcentral.com/sites/androidcentral.com/files/advagg_js/$script,badfilter
