@@ -427,7 +427,7 @@ mega.nz##.ads-left-block
 mega.nz##.ads-right-block
 mega.nz##.active.top-login-warning
 dwatchseries.to##a[href^="/redirect.php"]
-||bmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com fonts.googleapis.com fonts.gstatic.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com
+||bmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com fonts.googleapis.com fonts.gstatic.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com bmovies.to
 ||9anime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com fonts.googleapis.com fonts.gstatic.com *.rapidvideo.com *.playercdn.net openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to
 ||putlockertv.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com fonts.googleapis.com fonts.gstatic.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com
 ||solarmoviez.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com fonts.googleapis.com fonts.gstatic.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com
