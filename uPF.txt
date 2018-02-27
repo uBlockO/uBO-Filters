@@ -427,7 +427,7 @@ mega.nz##.ads-left-block
 mega.nz##.ads-right-block
 mega.nz##.active.top-login-warning
 dwatchseries.to##a[href^="/redirect.php"]
-||bmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com fonts.googleapis.com fonts.gstatic.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com bmovies.to
+||bmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com fonts.googleapis.com fonts.gstatic.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com
 ||9anime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com fonts.googleapis.com fonts.gstatic.com *.rapidvideo.com *.playercdn.net openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to
 ||putlockertv.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com fonts.googleapis.com fonts.gstatic.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com
 ||solarmoviez.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com fonts.googleapis.com fonts.gstatic.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com
@@ -892,4 +892,4 @@ comicbook.com##.article-footer-comments
 /^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to|ebd\.cda\.pl|gamedor\.usermd\.net)\/).)*$/$subdocument,domain=a-o.ninja|centrum-dramy.pl|love-drama.pl|vidfile.net,badfilter
 /^((?!(^https?):\/\/(ajax\.googleapis\.com|cdnjs\.cloudflare\.com|vk\.com)\/).)*$/$script,third-party,domain=kinokrad.co,badfilter
 flixanity.*/*/somethingfun.js$script
-||mcloud.to^$csp=default-src 'self' 'unsafe-inline' *.mcloud.to ajax.googleapis.com ssl.p.jwpcdn.com blob: fonts.googleapis.com fonts.gstatic.com
+||mcloud.to^$csp=default-src 'self' 'unsafe-inline' *.mcloud.to bmovies.to ajax.googleapis.com ssl.p.jwpcdn.com blob: fonts.googleapis.com fonts.gstatic.com
