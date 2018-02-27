@@ -878,7 +878,7 @@ ghacks.net##.ghacks-ad
 speedtest.net##.top-placeholder.pure-u-1
 ||hentaihaven.org^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 @@hentaihaven.org^$elemhide
-|https:$third-party,popup,domain=9anime.is|eztv.ag|flashx.tv|imagerar.com|imgbox.com|mywebtv.info|nosteam.ro|oload.info|oload.tv|oloadcdn.net|openload.co|sendvid.com|streamango.com|streamcherry.com|thevideo.me|uptobox.com|uptostream.com|yts.am,badfilter
+|https:$third-party,popup,domain=9anime.is|akvideo.stream|avgle.com|eztv.ag|flashx.tv|imagerar.com|imgbox.com|mywebtv.info|nosteam.ro|oload.info|oload.tv|oloadcdn.net|openload.co|sendvid.com|streamango.com|streamcherry.com|thevideo.me|uptobox.com|uptostream.com|yts.am,badfilter
 kimcartoon.me##script:inject(abort-on-property-read.js, document.styleSheets)
 screenrant.com##script:inject(rdo.js, console, null)
 androidcentral.com##script:inject(noeval-if.js, atob)
