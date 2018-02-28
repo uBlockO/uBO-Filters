@@ -381,7 +381,6 @@ connect.facebook.net^$script,important
 @@||passport.mobilenations.com^$script,domain=androidcentral.com|crackberry.com|imore.com|windowscentral.com,badfilter
 @@||platform.twitter.com^$script,domain=9anime.to,badfilter
 ajax.cloudflare.com/cdn-cgi/nexp^$script
-9anime.*##.ads
 speedtest.net##.high-placeholder.pure-u-1
 speedtest.net##.u-c.pure-u-custom-ad-rectangle
 speedtest.net##.u-c.pure-u-custom-ad-skyscraper
@@ -893,3 +892,4 @@ comicbook.com##.article-footer-comments
 /^((?!(^https?):\/\/(ajax\.googleapis\.com|cdnjs\.cloudflare\.com|vk\.com)\/).)*$/$script,third-party,domain=kinokrad.co,badfilter
 flixanity.*/*/somethingfun.js$script
 ||mcloud.to^$csp=default-src 'self' 'unsafe-inline' *.mcloud.to bmovies.to ajax.googleapis.com ssl.p.jwpcdn.com blob: fonts.googleapis.com fonts.gstatic.com
+putlockertv.*##.col-md-7
