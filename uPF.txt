@@ -892,4 +892,4 @@ comicbook.com##.article-footer-comments
 flixanity.*/*/somethingfun.js$script
 ||mcloud.to^$csp=default-src 'self' 'unsafe-inline' *.mcloud.to bmovies.to ajax.googleapis.com ssl.p.jwpcdn.com blob: fonts.googleapis.com fonts.gstatic.com
 putlockertv.*##.col-md-7
-hanime.tv##a[href*="ads"]
+hanime.tv##.align-center.justify-center.flex-row.row:nth-of-type(3)
