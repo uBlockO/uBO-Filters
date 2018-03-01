@@ -650,10 +650,7 @@ pornhub.com##.item-6.menu
 @@/download^$xmlhttprequest,domain=speedtest.net,badfilter 
 @@/upload^$xmlhttprequest,domain=speedtest.net,badfilter
 |http://$xmlhttprequest,domain=speedtest.net,badfilter
-c-hive$script,important
-coinhive$script,important
 betterpop$script,important
-BetterJsPop$script,important
 @@/js/adframe.js$first-party,script,badfilter
 @@||fastly.net/ad2/$xmlhttprequest,badfilter
 @@||fastly.net/ad2/$script,badfilter
