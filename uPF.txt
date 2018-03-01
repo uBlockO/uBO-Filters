@@ -1,4 +1,4 @@
-[uBlock Origin 1.15.11.4]
+[uBlock Origin 1.15.11.5]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 12 hours (update frequency)
@@ -893,3 +893,4 @@ comicbook.com##.article-footer-comments
 flixanity.*/*/somethingfun.js$script
 ||mcloud.to^$csp=default-src 'self' 'unsafe-inline' *.mcloud.to bmovies.to ajax.googleapis.com ssl.p.jwpcdn.com blob: fonts.googleapis.com fonts.gstatic.com
 putlockertv.*##.col-md-7
+hanime.tv##a[href*="ads"]
