@@ -509,7 +509,7 @@ deadline.com##.related-article
 ad-view$script,important
 ||kissanime.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' blob:
 ||facebook.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.fbcdn.net
-||myanimelist.net^$csp=script-src 'self' *.cdn-dena.com 'unsafe-eval' 'unsafe-inline'
+||myanimelist.net^$csp=default-src 'self' 'unsafe-eval' 'unsafe-inline' myanimelist.cdn-dena.com 
 @@myanimelist.net^$elemhide
 myanimelist.net##.icon-block-small.js-sns-icon-container
 @@||spotscenered.info/scripts/infinity.js.aspx?guid=$script,domain=watchfree.to,badfilter
