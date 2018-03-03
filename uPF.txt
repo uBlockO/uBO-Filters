@@ -212,7 +212,7 @@ premium^$script,important
 promo-banner.js^$important
 cdn-cgi/pe/bag2
 9anime.*##.notice.alert-primary.alert
-9anime.*,bmovies.*,solarmoviez.*##.home-socials
+9anime.*,bmovies.*,fmovies.*,solarmoviez.*##.home-socials
 wp-adblock-dedect$important
 fuckadblock.js
 readcomics.*##.main-share
@@ -310,16 +310,16 @@ imdb.com##.ab_ninja
 annotations$script
 9anime.*##.alert.mt20
 9anime.*##.alert
-9anime.*,bmovies.*##.popover
-bmovies.*##a[href="http://9anime.to/"]
-bmovies.*##.alert
-bmovies.*##.remove-ad
-bmovies.*##.widget:nth-of-type(5)
-bmovies.*,9anime.*,solarmoviez.*,putlockertv.*###tags
-bmovies.*##.hidden-sm.widget
-bmovies.*,9anime.*,solarmoviez.*,putlockertv.*##.hd-buttons.row
-bmovies.*##.col-right
-bmovies.*##.widget:nth-of-type(4)
+9anime.*,bmovies.*,fmovies.*##.popover
+bmovies.*,fmovies.*##a[href="http://9anime.to/"]
+bmovies.*,fmovies.*##.alert
+bmovies.*,fmovies.*##.remove-ad
+bmovies.*,fmovies.*##.widget:nth-of-type(5)
+bmovies.*,fmovies.*,9anime.*,solarmoviez.*,putlockertv.*###tags
+bmovies.*,fmovies.*##.hidden-sm.widget
+bmovies.*,fmovies.*,9anime.*,solarmoviez.*,putlockertv.*##.hd-buttons.row
+bmovies.*,fmovies.*##.col-right
+bmovies.*,fmovies.*##.widget:nth-of-type(4)
 gorillavid.in,zippyshare.com##script:inject(rdo.js, admvpu, noopFunc)
 scriptv2.js$domain=1337x.to|1337x.st
 dwatchseries.to##.ad_300_300
@@ -351,7 +351,7 @@ androidcentral.com,windowscentral.com##.mn_mbn_share
 gyazo.com##.image-infos
 thepiratebay.*,pornhub.com,anilinkz.*,openload.co,oload.*,1337x.*,rapidvideo.com##script:inject(window.open-defuser.js)
 cbr.com##.quiz-share-btn-wrapper
-bmovies.*,9anime.*##center
+bmovies.*,,fmovies.*,9anime.*##center
 9anime.*##.a_d
 pornhub.com##.adlink2
 github.com##.survey-container
@@ -363,7 +363,7 @@ solarmoviez.*##.alert
 mozilla.org##.global-notice
 mrskin.com##a[href^="http://www.amazon.com/gp/search"]
 fzpwll.mrskin.com^
-solarmoviez.*,bmovies.*,9anime.*,putlockertv.*###comment
+solarmoviez.*,bmovies.*,fmovies.*,9anime.*,putlockertv.*###comment
 @@||speedtest.net/javascript/jquery-*.min.js$badfilter
 @@||d3ujids68p6xmq.cloudfront.net^$script,badfilter
 boxofficemojo.com##.survey
@@ -426,6 +426,7 @@ mega.nz##.ads-right-block
 mega.nz##.active.top-login-warning
 dwatchseries.to##a[href^="/redirect.php"]
 ||bmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com fonts.googleapis.com fonts.gstatic.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com
+||fmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com fonts.googleapis.com fonts.gstatic.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com
 ||9anime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com fonts.googleapis.com fonts.gstatic.com *.rapidvideo.com *.playercdn.net openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to
 ||putlockertv.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com fonts.googleapis.com fonts.gstatic.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com
 ||solarmoviez.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com fonts.googleapis.com fonts.gstatic.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com
@@ -550,10 +551,11 @@ gowatchfreemovies.to##.header_docs
 cookieconsent.min$important
 @@9anime.*^$elemhide
 @@bmovies.*^$elemhide
+@@fmovies.*^$elemhide
 @@||openload.co/assets/js/script.*.js$domain=openload.co,badfilter
-bmovies.*,9anime.*##.socials
-bmovies.*,9anime.*##.twitter-follow-button
-bmovies.*,9anime.*##.ads
+bmovies.*,fmovies.*,9anime.*##.socials
+bmovies.*,fmovies.*,9anime.*##.twitter-follow-button
+bmovies.*,fmovies.*,9anime.*##.ads
 outlook.live.com##a[href^="https://aka.ms"]
 myanimelist.net##.video-providers
 showads.js$important
@@ -690,7 +692,7 @@ pornhub.com##script:inject(abort-on-property-read.js, userABMessage)
 kisshentai.*##.rightBox:has-text(/Announcement|Like me/)
 /\.com\/.*[a-f0-9]{110}/$third-party,image,badfilter
 ||imgur.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.imgur.com ajax.googleapis.com
-bmovies.*##.widget-title:has-text(Sponsored)
+bmovies.*,fmovies.*##.widget-title:has-text(Sponsored)
 myanimelist.net##.anime_discussions.widget
 myanimelist.net##.promotional-video.video-block
 adblocker$script
@@ -729,7 +731,7 @@ comicbook.com/article/json/$xmlhttprequest
 comicbook.com##.article-break
 comicbook.com##.modern-embed
 youtube.com###pla-shelf
-bmovies.*##a[href^="https://twitter.com/"]
+bmovies.*,fmovies.*##a[href^="https://twitter.com/"]
 kissanime.ru##.bigBarContainer:has-text(Comments)
 kissanime.*##a[href^="https://animemerchant.com/"]
 |https://$third-party,script,domain=9anime.to,badfilter
@@ -737,8 +739,8 @@ kissanime.*##a[href^="https://animemerchant.com/"]
 kissanime.*##.rightBox:has-text(Like me)
 @@||akamaihd.net^*/ad*.js$script,badfilter
 boxofficemojo.com###Player_82160f42-9620-4d0a-b79a-18b1abd853fb
-bmovies.*##.col-lg-12:has-text(blockbuster)
-bmovies.*##.footerdesc
+bmovies.*,fmovies.*##.col-lg-12:has-text(blockbuster)
+bmovies.*,fmovies.*##.footerdesc
 cbr.com##.article-content > p:has-text(/RELATED:|REVIEW:/)
 adbd^
 bulbagarden.net###bottomframelower
@@ -750,7 +752,7 @@ screenrant.com##.article-body > h2:has-text(/More:|MORE:|NEXT:|Next:|Watch:|WATC
 screenrant.com##.article-body > h4:has-text(/Related:|RELATED:|Read More:|READ MORE:/)
 screenrant.com##.article-body > p:has-text(/Related:|RELATED:|Next:|NEXT:|Read More/)
 screenrant.com##.article-body > ul:has-text(Updates)
-bmovies.*,9anime.*,solarmoviez.*,putlockertv.*##.pa
+bmovies.*,fmovies.*,9anime.*,solarmoviez.*,putlockertv.*##.pa
 xmlrpc.php^
 ||flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
 kissasian.*,milfzr.com,dwatchseries.to,solarmoviez.*,putlockertv.*##script:inject(abort-current-inline-script.js, parseInt, tabunder)
@@ -805,7 +807,7 @@ xnxx.com##script:inject(rdo.js, openpop, noopFunc)
 theporndude.com^$third-party
 kirtuclub.com##iframe[src*="youtube.com/embed/"]
 @@||hentaihaven.org/basement/js/adshow.js$badfilter
-9anime.*,bmovies.*,solarmoviez.*,dwatchseries.to##script:inject(abort-current-inline-script.js, atob, tabunder)
+9anime.*,bmovies.*,fmovies.*,solarmoviez.*,dwatchseries.to##script:inject(abort-current-inline-script.js, atob, tabunder)
 dwatchseries.to###rotating-item-wrapper
 dwatchseries.to##.freeEpisode
 ||gorillavid.in^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com;worker-src 'none'
@@ -823,7 +825,7 @@ gowatchfreemovies.to##.adv_box
 gowatchfreemovies.to##.page_content > div:has-text(VPN)
 gowatchfreemovies.to##.tweet
 gowatchfreemovies.to##.twitter-follow-button
-9anime.*,bmovies.*,solarmoviez.*,putlockertv.*##script:inject(dwrite.js, /wwwpromoter.com|300x250/)
+9anime.*,bmovies.*,fmovies.*,solarmoviez.*,putlockertv.*##script:inject(dwrite.js, /wwwpromoter.com|300x250/)
 9anime.*##.crop.widget
 @@||ajax.cloudflare.com/cdn-cgi/scripts/$third-party,script,badfilter
 ghacks.net##.ghacks_share_widget.widget
