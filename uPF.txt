@@ -1,7 +1,7 @@
 [uBlock Origin 1.15.11.6]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
-! Expires: 12 hours (update frequency)
+! Expires: 1 day (update frequency)
 
 gowatchfreemovies.to##.sl_wrap
 gowatchfreemovies.to##.comment_box
@@ -341,9 +341,6 @@ dwatchseries.to###header-2
 ads$script
 torrentz2.eu##a[href^="/"]:has-text(Download Direct)
 istream.*##.button
-hentaihaven.org##script:inject(abort-on-property-read.js, desktop_variants)
-hentaihaven.org##.entry-meta
-hentaihaven.org##script:inject(abort-on-property-read.js, Pukka.prerolls)
 chip.*,speedtest.net##script:inject(rdo.js, _sp_, noopFunc)
 contributor.google.com/scripts/
 wigetmedia.js
@@ -789,7 +786,7 @@ animenewsnetwork.com##p:has-text(Crunchyroll)
 @@||google.*/ads/$third-party,image,badfilter
 socialCounts^
 readcomics.*##.ads
-rapidvideo.com,pornhub.com,hentaihaven.org,openload.*,oload.*##script:inject(addEventListener-defuser.js, contextmenu)
+rapidvideo.com,pornhub.com,openload.*,oload.*##script:inject(addEventListener-defuser.js, contextmenu)
 pornhub.com##.sectionWrapper:has-text(Cam)
 pornhub.com##.nf-wrapper > .sectionWrapper
 1337x.*##[href*="redirect"]
@@ -856,7 +853,7 @@ facebook.com###page_tv_show_playlists
 facebook.com###page_tv_show_extra_clips
 facebook.com###page_photos
 heroichollywood.com##.social-follow
-openload.co,hentaihaven.org##script:inject(addEventListener-defuser.js, wheel)
+openload.co##script:inject(addEventListener-defuser.js, wheel)
 outlook.live.com##.ms-bgc-ns.flexCenterItems.flex._db_O
 torrentz2.*##.gener
 @@owa.Analytics$script,domain=outlook.live.com
@@ -873,8 +870,6 @@ facebook.com##._2a_2:has-text(Share)
 check.googlezip.net^$domain=behind-the-scene
 ghacks.net##.ghacks-ad
 speedtest.net##.top-placeholder.pure-u-1
-||hentaihaven.org^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
-@@hentaihaven.org^$elemhide
 |https:$third-party,popup,domain=9anime.is|akvideo.stream|avgle.com|cloudtime.to|eztv.ag|flashx.tv|imagerar.com|imgbox.com|jwpcdn.com|moecdn.io|mywebtv.info|nosteam.ro|oload.info|oload.tv|oloadcdn.net|openload.co|sendvid.com|stream.moe|streamango.com|streamcherry.com|thevideo.me|uptobox.com|uptostream.com|vidstreaming.io|yts.am,badfilter
 kimcartoon.me##script:inject(abort-on-property-read.js, document.styleSheets)
 screenrant.com##script:inject(rdo.js, console, null)
@@ -894,3 +889,11 @@ putlockertv.*##.col-md-7
 hanime.tv##.align-center.justify-center.flex-row.row:nth-of-type(3)
 comicbook.com##.urgent-module
 |https://$third-party,stylesheet,domain=fmovies.is|fmovies.se|fmovies.to,badfilter
+muchohentai.com##.remodal
+muchohentai.com##script:inject(abort-current-inline-script.js, atob, tabunder)
+muchohentai.com##script:inject(noeval-if.js, mod_pagespeed)
+muchohentai.com##div[style="padding-right: 10px; background-color: white;  text-align: right;"]
+muchohentai.com##div[id*="eq"]
+muchohentai.com###sidebar
+muchohentai.com###extras
+muchohentai.com##.saic-wrapper
