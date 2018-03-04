@@ -897,3 +897,5 @@ muchohentai.com##div[id*="eq"]
 muchohentai.com###sidebar
 muchohentai.com###extras
 muchohentai.com##.saic-wrapper
+muchohentai.com##a[href*="/ads"]
+||muchohentai.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.muchohentai.com fonts.googleapis.com wordpress.com fonts.gstatic.com *.tmncdn.io
