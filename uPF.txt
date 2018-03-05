@@ -889,6 +889,7 @@ putlockertv.*##.col-md-7
 hanime.tv##.align-center.justify-center.flex-row.row:nth-of-type(3)
 comicbook.com##.urgent-module
 |https://$third-party,stylesheet,domain=fmovies.is|fmovies.se|fmovies.to,badfilter
+|https://$third-party,script,domain=fmovies.is|fmovies.se|fmovies.to,badfilter
 muchohentai.com##.remodal
 muchohentai.com##script:inject(abort-current-inline-script.js, atob, tabunder)
 muchohentai.com##script:inject(noeval-if.js, mod_pagespeed)
