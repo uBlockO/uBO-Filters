@@ -18,6 +18,7 @@ screenrant.com##.plus.icon
 screenrant.com##a[href="#comments"]
 screenrant.com##.desktop.comments
 disqus.com^$important,domain=~fmovies.se|~fmovies.to|~fmovies.is
+disqus.com/count.js^$important
 doubleclick.net^$important
 pornhub.com###under-player-comments
 pornhub.com###welcome
