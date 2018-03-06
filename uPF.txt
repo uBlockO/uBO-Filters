@@ -1,4 +1,4 @@
-[uBlock Origin 1.15.11.8]
+[uBlock Origin 1.15.11.9]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -505,7 +505,7 @@ deadline.com##.related-article
 ||ugbase.eu^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 ||cinemablend.com^$csp=script-src 'self' 'unsafe-inline' platform.twitter.com *.twimg.com *.instagram.com
 ad-view$script,important
-||kissanime.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' blob:
+||kissanime.ru^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.stream *.oloadcdn.net streamcherry.com *.fruithosted.net
 ||facebook.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.fbcdn.net
 ||myanimelist.net^$csp=default-src 'self' 'unsafe-eval' 'unsafe-inline' myanimelist.cdn-dena.com *.ytimg.vom
 @@myanimelist.net^$elemhide
