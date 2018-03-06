@@ -507,7 +507,7 @@ deadline.com##.related-article
 ad-view$script,important
 ||kissanime.ru^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.stream *.oloadcdn.net streamango.com *.fruithosted.net;media-src *
 ||facebook.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.fbcdn.net
-||myanimelist.net^$csp=default-src 'self' 'unsafe-eval' 'unsafe-inline' myanimelist.cdn-dena.com *.ytimg.vom
+||myanimelist.net^$csp=script-src 'self' 'unsafe-eval' 'unsafe-inline' myanimelist.cdn-dena.com
 @@myanimelist.net^$elemhide
 myanimelist.net##.icon-block-small.js-sns-icon-container
 @@||spotscenered.info/scripts/infinity.js.aspx?guid=$script,domain=watchfree.to,badfilter
