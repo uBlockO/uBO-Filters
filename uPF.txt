@@ -786,7 +786,7 @@ animenewsnetwork.com##p:has-text(Crunchyroll)
 @@||google.*/ads/$third-party,image,badfilter
 socialCounts^
 readcomics.*##.ads
-rapidvideo.com,pornhub.com,openload.*,oload.*##script:inject(addEventListener-defuser.js, contextmenu)
+rapidvideo.com,pornhub.com,streamango.com,openload.*,oload.*##script:inject(addEventListener-defuser.js, contextmenu)
 pornhub.com##.sectionWrapper:has-text(Cam)
 pornhub.com##.nf-wrapper > .sectionWrapper
 1337x.*##[href*="redirect"]
@@ -853,7 +853,7 @@ facebook.com###page_tv_show_playlists
 facebook.com###page_tv_show_extra_clips
 facebook.com###page_photos
 heroichollywood.com##.social-follow
-openload.co##script:inject(addEventListener-defuser.js, wheel)
+openload.co,streamango.com##script:inject(addEventListener-defuser.js, wheel)
 outlook.live.com##.ms-bgc-ns.flexCenterItems.flex._db_O
 torrentz2.*##.gener
 @@owa.Analytics$script,domain=outlook.live.com
