@@ -804,7 +804,7 @@ xnxx.com##script:inject(rdo.js, openpop, noopFunc)
 theporndude.com^$third-party
 kirtuclub.com##iframe[src*="youtube.com/embed/"]
 @@||hentaihaven.org/basement/js/adshow.js$badfilter
-9anime.*,bmovies.*,fmovies.*,solarmoviez.*,dwatchseries.to##script:inject(abort-current-inline-script.js, atob, tabunder)
+9anime.*,bmovies.*,solarmoviez.*,dwatchseries.to##script:inject(abort-current-inline-script.js, atob, tabunder)
 dwatchseries.to###rotating-item-wrapper
 dwatchseries.to##.freeEpisode
 ||gorillavid.in^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com;worker-src 'none'
