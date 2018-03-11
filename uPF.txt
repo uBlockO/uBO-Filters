@@ -118,7 +118,6 @@ air.irctc.co.in###bodyBottom
 air.irctc.co.in##.col2
 air.irctc.co.in##img[src="/IndianRailways/irctcair/images/freedom_conv.gif"]
 air.irctc.co.in###footerlogo
-cinemablend.com##iframe[src="javascript:'%3C!DOCTYPE%20html%3E%3Chtml%3E%3Cbody%20leftMargin=%220%22%20topMargin=%220%22%20marginwidth=%220%22%20marginheight=%220%22%3E%3Cscript%20type=%22text/javascript%22%3Egoogle_ad_client%20=%20%22ca-pub-3512009167303132%22;%20google_ad_slot%20=%20%225344230866%22;%20google_ad_width%20=%20300;%20google_ad_height%20=%20250;%20%3C/script%3E%3Cscript%20type=%22text/javascript%22%20src=%22//pagead2.googlesyndication.com/pagead/show_ads.js%22%3E%3C/script%3E%3C!--%20DO%20NOT%20MODIFY%20--%3E%3C/body%3E%3C/html%3E'"]
 googletagmanager.com^$third-party
 mrskin.com##.col-xs-12.col-sm-8.col-md-4
 cbr.com##.embed-related-block
@@ -239,8 +238,6 @@ dictionary.cambridge.org##.mod-pronounce.mod
 dictionary.cambridge.org###page-content > .clrd:nth-of-type(2)
 imdb.com##.footer-grid-wrapper.container
 imdb.com###sidebar
-cinemablend.com##.content_story_pages_nextstory.partial
-katcr.co##.myBlock:nth-of-type(1)
 windowscentral.com,androidcentral.com###comments
 windowscentral.com,androidcentral.com###Leaderboard_Footer_BTF-wrap
 windowscentral.com,androidcentral.com##.ad.narrow.container
@@ -502,7 +499,6 @@ deadline.com##.related-article
 ||torrentz2.eu^$csp=script-src 'self' 'unsafe-inline' *.google.com *.gstatic.com
 ||thepiratebay.*^$csp=script-src 'self' 'unsafe-inline'
 ||ugbase.eu^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
-||cinemablend.com^$csp=script-src 'self' 'unsafe-inline' platform.twitter.com *.twimg.com *.instagram.com
 ad-view$script,important
 ||kissanime.ru^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.stream *.oloadcdn.net streamango.com *.fruithosted.net;media-src *
 ||facebook.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.fbcdn.net
