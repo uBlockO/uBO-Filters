@@ -340,7 +340,6 @@ torrentz2.eu##a[href^="/"]:has-text(Download Direct)
 istream.*##.button
 chip.*,speedtest.net##script:inject(rdo.js, _sp_, noopFunc)
 contributor.google.com/scripts/
-wigetmedia.js
 androidcentral.com,windowscentral.com##.mn_mbn_share
 gyazo.com##.image-infos
 thepiratebay.*,pornhub.com,anilinkz.*,openload.co,oload.*,1337x.*,rapidvideo.com##script:inject(window.open-defuser.js)
@@ -351,7 +350,6 @@ pornhub.com##.adlink2
 github.com##.survey-container
 cse.google.com/cse.js^$important
 outlook.live.com##._n_15
-ads$script
 youtube.com##.hats-categorical-style-vertical
 solarmoviez.*##.alert
 mozilla.org##.global-notice
