@@ -335,7 +335,7 @@ dwatchseries.to##.add-comment
 dwatchseries.to##.general_button
 dwatchseries.to##a[href^="http://watchos.tv/"]
 dwatchseries.to###header-2
-ads$script
+ads$script,domain=~imdb.com
 torrentz2.eu##a[href^="/"]:has-text(Download Direct)
 istream.*##.button
 chip.*,speedtest.net##script:inject(rdo.js, _sp_, noopFunc)
