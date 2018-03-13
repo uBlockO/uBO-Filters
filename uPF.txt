@@ -746,7 +746,7 @@ screenrant.com##.article-body > ul:has-text(Updates)
 bmovies.*,fmovies.*,9anime.*,solarmoviez.*,putlockertv.*##.pa
 xmlrpc.php^
 ||flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
-kissasian.*,milfzr.com,dwatchseries.to,solarmoviez.*,putlockertv.*##script:inject(abort-current-inline-script.js, parseInt, tabunder)
+kissasian.*,milfzr.com,dwatchseries.to,fmovies.*,bmovies.*,solarmoviez.*,putlockertv.*##script:inject(abort-current-inline-script.js, parseInt, tabunder)
 rapidvideo.com###top350b
 rapidvideo.com###premiumad
 rapidvideo.com###top350
