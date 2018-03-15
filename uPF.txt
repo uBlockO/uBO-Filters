@@ -898,4 +898,4 @@ bmovies.*,fmovies.*##script:inject(rdo.js, DISQUS, noopFunc)
 xnxx.com##.videoad-title
 hanime.tv##script:inject(rdo.js, BetterJsPop, undefined)
 @@||ssl-images-amazon.com^*/ads/$script,badfilter
-fmovies.*,bmovies.*##script:inject(abort-current-inline-script.js, document.createElement, random)
+fmovies.*,bmovies.*##script:inject(abort-current-inline-script.js, document.createElement, akacdn.ru)
