@@ -900,3 +900,4 @@ hanime.tv##script:inject(rdo.js, BetterJsPop, undefined)
 @@||ssl-images-amazon.com^*/ads/$script,badfilter
 akacdn.ru/*/random/$script
 @@||static1.akacdn.ru/assets/$script,domain=fmovies.is|fmovies.se|fmovies.to,badfilter
+@@||pubmatic.com/adserver/*showad.js$script,badfilter
