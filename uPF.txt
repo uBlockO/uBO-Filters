@@ -70,7 +70,6 @@ androidcentral.com##.sidebar-body
 androidcentral.com##.devicebox
 androidcentral.com##.tab-comments
 mgid.com^$important
-zenmarket$important
 sharethis.com^$important
 openload.co/reward$xmlhttprequest,important
 oload.*/reward$xmlhttprequest,important
@@ -92,7 +91,6 @@ milfzr.com,blockadblock.com,onhax.me##script:inject(bab-defuser.js)
 comicbook.com##a[href^="http://amzn.to/"]
 1337x.*###mgbl49472
 1337x.*##.link-box
-gorillavid.in##img[src^="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAD6CAYAAAAbbXrzAAAACXBIWXMAAAsTAAALEwEAmpwYAAAKT2lDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjanVNnVFPpFj333vRCS4iAlEtvUhUIIFJCi4AUkSYqIQkQSoghodkVUcERRUUEG8igiAOOjoCMFVEsDIoK2AfkIaKOg6OIisr74Xuja9a89+bN/rXXPues852zzwfACAyWSDNRNYAMqUIeEeCDx8TG4eQuQIEKJHAAEAizZCFz/SMBAPh+PDwrIsAHvgABeNMLCADATZvAMByH/w/qQplcAYCEAcB0kThLCIAUAEB6jkKmAEBGAYCdmCZTAKAEAGDLY2LjAFAtAGAnf+bTAICd+Jl7AQBblCEVAaCRACATZYhEAGg7AKzPVopFAFgwABRmS8Q5ANgtADBJV2ZIALC3AMDOEAuyAAgMADBRiIUpAAR7AGDIIyN4AISZABRG8lc88SuuEOcqAAB4mbI8uSQ5RYFbCC1xB1dXLh4ozkkXKxQ2YQJhmkAuwnmZGTKBNA/g88wAAKCRFRHgg/P9eM4Ors7ONo62Dl8t6r8G/yJiYuP+5c+rcEAAAOF0ftH+LC+zGoA7BoBt/qIl7gRoXgugdfeLZrIPQLUAoOnaV/Nw+H48PEWhkLnZ2eXk5NhKxEJbYcpXff5nwl/AV/1s+X48/Pf14L7iJIEyXYFHBPjgwsz0TKUcz5IJhGLc5o9H/LcL//wd0yLESWK5WCoU41EScY5EmozzMqUiiUKSKcUl0v9k4t8s+wM+3zUAsGo+AXuRLahdYwP2SycQWHTA4vcAAPK7b8HUKAgDgGiD4c93/+8//UegJQCAZkmScQAAXkQkLlTKsz/HCAAARKCBKrBBG/TBGCzABhzBBdzBC/xgNoRCJMTCQhBCCmSAHHJgKayCQiiGzbAdKmAv1EAdNMBRaIaTcA4uwlW4Dj1wD/phCJ7BKLyBCQRByA"]
 xnxx.com###content-ad-side
 gowatchfreemovies.to##.link_item:nth-of-type(1)
 mozilla.org###promos
@@ -153,14 +151,12 @@ hollywoodreporter.com##.blog-post-syndication-section
 myanimelist.net/static/logging.html$xmlhttprequest
 screenrant.com##.read-next
 openload.co,oload.*##.center
-superherohype.com###js-sidebar
 openload.co,oload.*##a[href="http://steepto.com/"]
 whatsapp-button.js
 adflow.js
 entityrating.js
 istream.*##.amazonDeals
 track
-browserleaks.com##.twwt
 hanime.tv##.smart-banner-content.transition-all.align-center.justify-center.flex-row
 ugbase.eu###shoutbox
 ugbase.eu##.red_alert
@@ -227,15 +223,6 @@ myanimelist.net##.anime-detail-header-affiliate
 abtesting$important
 @@wikia.com^$elemhide
 mrskin.com##.sk-wallpaper-riseup
-dictionary.cambridge.org##.js-share.rounded.share
-dictionary.cambridge.org##.cdo-promo
-dictionary.cambridge.org##.cols__col
-dictionary.cambridge.org##small
-dictionary.cambridge.org##.mod-translate.mod--dark.mod--style5.mod.clrd
-dictionary.cambridge.org##.cdo-link.cdo-topic
-dictionary.cambridge.org##.smartt
-dictionary.cambridge.org##.mod-pronounce.mod
-dictionary.cambridge.org###page-content > .clrd:nth-of-type(2)
 imdb.com##.footer-grid-wrapper.container
 imdb.com###sidebar
 windowscentral.com,androidcentral.com###comments
@@ -259,12 +246,6 @@ xhamster.com###supportAds
 pubmedia.js
 wp-content/uploads/$script
 magnific-popup.js
-milfzr.com###sidebar
-milfzr.com###actions
-milfzr.com###extras
-milfzr.com###respond
-milfzr.com###footbar
-milfzr.com##.su-row
 onhax.me##div[id^="bottom-promo-abdload"]
 onhax.me##div[id^="top-promo-dload"]
 9anime.*##.ads.toggler.mbtn.item
@@ -399,7 +380,7 @@ kimcartoon.me###hideAds
 analytics$script
 reporter.js
 chromium.org##.__crdxFeedbackButton
-@@||www.google.*/ads/$first-party,domain=google.ca|google.co.in|google.co.nz|google.co.uk|google.com|google.com.au|google.com.eg|google.de|google.es,badfilter
+google.com/ads/$important
 9anime.to##.mb20
 mozilla.org##.announce-bar
 pornhub.com##.kzpcaw
@@ -510,7 +491,6 @@ myanimelist.net##.icon-block-small.js-sns-icon-container
 ||milfzr.com^$csp=script-src 'self' *.jwpcdn.com 'unsafe-inline'
 myanimelist.net##.js-sns-icon-container
 screenrant.com,cbr.com##.injected-video-by-load
-~$badfilter
 forbes.com##.collapse-sharing-login.slash-background.article-sidebar.article-top-navigation
 forbes.com##.ng-scope.video_placeholder
 ||forbes.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.forbesimg.com *.forbes.com platform.twitter.com *.twimg.com
@@ -883,17 +863,7 @@ hanime.tv##.align-center.justify-center.flex-row.row:nth-of-type(3)
 comicbook.com##.urgent-module
 |https://$third-party,stylesheet,domain=fmovies.is|fmovies.se|fmovies.to,badfilter
 |https://$third-party,script,domain=fmovies.is|fmovies.se|fmovies.to,badfilter
-muchohentai.com##.remodal
-muchohentai.com##script:inject(abort-current-inline-script.js, atob, tabunder)
-muchohentai.com##script:inject(noeval-if.js, mod_pagespeed)
-muchohentai.com##div[style="padding-right: 10px; background-color: white;  text-align: right;"]
-muchohentai.com##div[id*="eq"]
-muchohentai.com###sidebar
-muchohentai.com###extras
-muchohentai.com##.saic-wrapper
-muchohentai.com##a[href*="/ads"]
 bmovies.*,fmovies.*##script:inject(rdo.js, DISQUS, noopFunc)
-||muchohentai.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.muchohentai.com fonts.googleapis.com wordpress.com fonts.gstatic.com *.tmncdn.io
 @@*$csp=default-src 'self' * data: 'unsafe-inline' 'unsafe-eval',domain=101greatgoals.com|1337x.to|1channel.biz|4chan.org|allthetests.com|ancient-origins.net|androidcentral.com|anime-joy.tv|antonymsfor.com|auroravid.to|biology-online.org|bitvid.sx|breakingisraelnews.com|britannica.com|btdb.in|btdb.to|champion.gg|closerweekly.com|cloudtime.to|colourlovers.com|connectedly.com|convert-me.com|convertcase.net|couch-tuner.at|couch-tuner.me|couchtuner.ac|couchtuner.us|crackberry.com|dailycaller.com|datpiff.com|demonoid.pw|destructoid.com|dietlast.com|dreamfilm.se|episodetube.com|episodetube.net|ewatchseries.to|fastpic.ru|filme-streamz.com|filmlinks4u.is|firstforwomen.com|firstrowau.eu|firstrowus1.eu|fmovies.is|fmovies.se|fmovies.to|fullmatchesandshows.com|gamesradar.com|getinmybelly.com|gofirstrow.eu|gorillavid.in|hdfilme.tv|homerun.re|igvnews.co.uk|imagefap.com|imgadult.com|imgtaxi.com|imgwallet.com|imore.com|investopedia.com|israelnationalnews.com|jerusalemonline.com|jewsnews.co.il|keepvid.com|kickass.cd|kino-streamz.com|kiplinger.com|kissmanga.com|kshowonline.com|letmewatchthis.pl|letmewatchthis.video|livecricketz.org|livescience.com|lolcounter.com|merriam-webster.com|movies4stream.com|movpod.in|mylivecricket.org|mywatchseries.to|newtvworld.com|noslocker.com|nosvideo.com|nowfeed2all.eu|nowvideo.li|nowvideo.sx|nowvideo.to|nydailynews.com|olympicstreams.me|omgcheckitout.com|onwatchseries.to|openload.co|pcgamer.com|pcgames-download.net|phonearena.com|phonesreview.co.uk|pixxxels.org|pocketnow.com|primewire.ag|primewire.is|primewire.org|primewire.to|primewire.unblockall.xyz|psu.com|rinf.com|roadracerunner.com|serietvsubita.net|sgvideos.net|skidrowcrack.com|snowysmile.com|sockshare.net|sportspickle.com|streamazone.com|streamgaroo.com|strikeout.co|strikeout.me|strikeout.mobi|teamliquid.net|tetrisfriends.com|textsfromlastnight.com|thefreethoughtproject.com|thevideo.me|tomsguide.com|tomshardware.co.uk|tomshardware.com|torrentz2.eu|torrentz2.me|trifind.com|tv-series.me|veteranstoday.com|videotoolbox.com|vidlox.tv|vidtodo.com|vidup.me|vidwatch3.me|vipbox.bz|vipbox.is|vipbox.nu|vipbox.sx|vipbox.tv|vipboxeu.co|vipboxoc.co|vipboxtv.me|vipleague.ch|vipleague.co|vipleague.is|vipleague.me|vipleague.mobi|vipleague.se|vipleague.sx|vipleague.tv|vipleague.ws|vipstand.is|vivo.sx|vrheads.com|watch-series-tv.to|watch-series.ag|watch-tv-series.to|watchcartoononline.io|watchepisodes-tv.com|watchseries.ag|watchseries.li|watchseries.lt|watchseries.ph|watchseries.vc|watchseriesuk.ag|watchseriesuk.lt|watchtvseries.se|watchtvseries.unblocked.work|watchtvseries.vc|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|webfirstrow.eu|wholecloud.net|windowscentral.com|world4ufree.ws
 xnxx.com##.videoad-title
 hanime.tv##script:inject(rdo.js, BetterJsPop, undefined)
@@ -901,3 +871,4 @@ hanime.tv##script:inject(rdo.js, BetterJsPop, undefined)
 akacdn.ru/*/random/$script
 @@||static1.akacdn.ru/assets/$script,domain=fmovies.is|fmovies.se|fmovies.to,badfilter
 @@||pubmatic.com/adserver/*showad.js$script,badfilter
+google.*##div[class*="explore"]
