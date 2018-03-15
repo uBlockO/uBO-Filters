@@ -1,4 +1,4 @@
-[uBlock Origin 1.15.11.13]
+[uBlock Origin 1.15.11.15]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -713,8 +713,7 @@ kimcartoon.me##.barContent:has-text(fake)
 facebook.com##._31qy:has-text(related)
 facebook.com##._4-u2:has-text(Page stories you may like)
 cbr.com##.social-account-links
-variety.com##script:inject(rdo.js, pmc_admanager, noopFunc)
-google.*##._Ubu
+google.*##.b2hzT
 cbr.com##.link:has-text(FindaComicShop.com)
 myanimelist.net##.anime-detail-header-video
 ||kirtuclub.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' fonts.googleapis.com fonts.gstatic.com 
