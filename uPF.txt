@@ -877,3 +877,4 @@ google.*##div[class*="explore"]
 @@||streamango.com/popunder2.js$badfilter
 @@||streamango.com/googlead.js$badfilter
 @@||streamango.com/assets/js/license.adbl.js$badfilter
+@@||ads.servebom.com/tmnhead.js$badfilter
