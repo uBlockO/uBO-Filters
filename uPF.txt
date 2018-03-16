@@ -261,10 +261,12 @@ adblock-detector$script,important
 openload.*,oload.*##script:inject(rdo.js, adblock2, noopFunc)
 openload.*,oload.*##script:inject(rdo.js, adblock, noopFunc)
 openload.*,oload.*##script:inject(rdo.js, popAdsLoaded, noopFunc)
-openload.*/*license
-openload.*/*script
+openload.co/*license
+openload.co/*script
 oload.*/*license
 oload.*/*script
+streamango.com/*license
+streamango.com/*script
 oload.*##script:inject(openload.co.js)
 collider.com##.amcfooter
 youtube.com###watch-sidebar-live-chat
