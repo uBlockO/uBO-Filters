@@ -1,4 +1,4 @@
-[uBlock Origin 1.15.11.15]
+[uBlock Origin 1.15.17.0]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -841,7 +841,6 @@ facebook.com##._2a_2:has-text(Share)
 check.googlezip.net^$domain=behind-the-scene
 ghacks.net##.ghacks-ad
 speedtest.net##.top-placeholder.pure-u-1
-|https:$third-party,popup,domain=9anime.is|akvideo.stream|avgle.com|cloudtime.to|eztv.ag|flashx.tv|imagerar.com|imgbox.com|jwpcdn.com|moecdn.io|mywebtv.info|nosteam.ro|oload.info|oload.tv|oloadcdn.net|openload.co|sendvid.com|stream.moe|streamango.com|streamcherry.com|thevideo.me|uptobox.com|uptostream.com|vidstreaming.io|yts.am,badfilter
 kimcartoon.me##script:inject(abort-on-property-read.js, document.styleSheets)
 screenrant.com##script:inject(rdo.js, console, noopFunc)
 androidcentral.com##script:inject(noeval-if.js, atob)
