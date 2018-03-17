@@ -874,3 +874,4 @@ google.*##div[class*="explore"]
 @@||streamango.com/assets/js/license.adbl.js$badfilter
 @@||ads.servebom.com/tmnhead.js$badfilter
 ||ssl.p.jwpcdn.com^$badfilter
+9anime.is##a[href*="fmovies"]
