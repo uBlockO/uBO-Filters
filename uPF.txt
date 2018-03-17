@@ -873,3 +873,4 @@ google.*##div[class*="explore"]
 @@||streamango.com/googlead.js$badfilter
 @@||streamango.com/assets/js/license.adbl.js$badfilter
 @@||ads.servebom.com/tmnhead.js$badfilter
+||ssl.p.jwpcdn.com^$badfilter
