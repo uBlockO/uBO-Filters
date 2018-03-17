@@ -841,7 +841,7 @@ facebook.com##._2a_2:has-text(Share)
 check.googlezip.net^$domain=behind-the-scene
 ghacks.net##.ghacks-ad
 speedtest.net##.top-placeholder.pure-u-1
-kimcartoon.me##script:inject(abort-on-property-read.js, document.styleSheets)
+kimcartoon.me##script:inject(abort-current-inline-script.js, String.fromCharCode, null)
 screenrant.com##script:inject(rdo.js, console, noopFunc)
 androidcentral.com##script:inject(noeval-if.js, atob)
 @@/wp-content/plugins/detect-adblock/js/ads.js$script,first-party,badfilter
