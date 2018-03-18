@@ -875,3 +875,4 @@ google.*##div[class*="explore"]
 @@||ads.servebom.com/tmnhead.js$badfilter
 ||ssl.p.jwpcdn.com^$badfilter
 9anime.*##a[href*="fmovies"]
+proxy_ab.js^$script
