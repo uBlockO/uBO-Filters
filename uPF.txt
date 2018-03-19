@@ -876,3 +876,4 @@ google.*##div[class*="explore"]
 ||ssl.p.jwpcdn.com^$badfilter
 9anime.*##a[href*="fmovies"]
 proxy_ab.js^$script
+infinite_scroll$xmlhttprequest
