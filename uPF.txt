@@ -877,3 +877,11 @@ google.*##div[class*="explore"]
 ||ssl.p.jwpcdn.com^$badfilter
 9anime.*##a[href*="fmovies"]
 proxy_ab.js^$script
+animehub.to##.gc-comments.gc-icon
+animehub.to##.gc-share.gc-icon
+animehub.to##.sb-subs.goblock
+animehub.to##.comments.goblock
+animehub.to##.detail-anime.goblock > .go-full.goblock-content > .goblock-bottom
+animehub.to##.footer-anime
+animehub.to##.sb-ongoing.goblock
+||animehub.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: fonts.googleapis.com fonts.gstatic.com *.cdnmoon.com:* *.googleusercontent.com ssl.p.jwpcdn.com
