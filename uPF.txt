@@ -738,7 +738,8 @@ ad.*^$script
 ||animenewsnetwork.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com platform.twitter.com *.twimg.com *.animenewsnetwork.com
 animenewsnetwork.com###cover_image
 animenewsnetwork.com##.floating-image
-animenewsnetwork.com##script:inject(addEventListener-defuser.js, scroll, currArticleI)
+animenewsnetwork.com##script:inject(abort-on-property-read.js, ANN.infinite_scroll)
+animenewsnetwork.com##.box.alert
 animenewsnetwork.com###infinite-scroll-outlet
 ||1337x.*^$csp=script-src 'self' 'unsafe-inline'
 uservoice.js$script
@@ -876,4 +877,3 @@ google.*##div[class*="explore"]
 ||ssl.p.jwpcdn.com^$badfilter
 9anime.*##a[href*="fmovies"]
 proxy_ab.js^$script
-infinite_scroll$xmlhttprequest
