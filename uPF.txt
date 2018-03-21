@@ -885,3 +885,4 @@ animehub.to##.detail-anime.goblock > .go-full.goblock-content > .goblock-bottom
 animehub.to##.footer-anime
 animehub.to##.sb-ongoing.goblock
 ||animehub.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: fonts.googleapis.com fonts.gstatic.com *.cdnmoon.com:* *.googleusercontent.com ssl.p.jwpcdn.com
+|http://$third-party,stylesheet,domain=dwatchseries.to|thewatchseries.ac|unblckd.org|watchseries.sk,badfilter
