@@ -1,4 +1,4 @@
-[uBlock Origin 1.15.19.1]
+[uBlock Origin 1.15.19.2]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -886,3 +886,4 @@ animehub.to##.sb-ongoing.goblock
 |http://$third-party,stylesheet,domain=dwatchseries.to|thewatchseries.ac|unblckd.org|watchseries.sk,badfilter
 reddit.com###chat
 comicbook.com##.comment-activator-container
+facebook.com/ads^
