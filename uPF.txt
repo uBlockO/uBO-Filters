@@ -477,7 +477,7 @@ deadline.com##.related-article
 ||thepiratebay.*^$csp=script-src 'self' 'unsafe-inline'
 ||ugbase.eu^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 ad-view$script,important
-||kissanime.ru^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.stream *.oloadcdn.net streamango.com *.fruithosted.net;media-src *
+||kissanime.ru^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.stream *.oloadcdn.net streamango.com *.fruithosted.net *.fbcdn.net
 ||facebook.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.fbcdn.net
 ||myanimelist.net^$csp=script-src 'self' 'unsafe-eval' 'unsafe-inline' myanimelist.cdn-dena.com
 @@myanimelist.net^$elemhide
