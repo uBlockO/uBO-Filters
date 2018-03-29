@@ -889,4 +889,5 @@ comicbook.com##.comment-activator-container
 facebook.com/ads^
 facebook.com##._5r6
 */log$xmlhttprequest
-||reddit.com/*.json^$important
+@@||reddit.com/api/$xmlhttprequest,domain=reddit.com,badfilter
+@@||reddit.com/*/comment^
