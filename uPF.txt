@@ -891,3 +891,4 @@ facebook.com##._5r6
 */log$xmlhttprequest
 reddit.com/*/*.json^$important
 gorillavid.in/*.hg$script
+google-analytics.com^$important
