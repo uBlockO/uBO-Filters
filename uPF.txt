@@ -684,7 +684,7 @@ readcomics.*##a[href^="http://getcomics.info"]
 comicbook.com##.aligncenter:has-text(NEXT:)
 comicbook.com##p:has-text(NEXT:)
 kimcartoon.me##.barContent:has-text(fake)
-||gowatchfreemovies.to^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com;img-src 'self' *.gowatchfreemovies.to
+||gowatchfreemovies.to^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com ajax.cloudflare.com;img-src 'self' *.gowatchfreemovies.to
 facebook.com##._31qy:has-text(related)
 facebook.com##._4-u2:has-text(Page stories you may like)
 cbr.com##.social-account-links
