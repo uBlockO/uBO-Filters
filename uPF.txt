@@ -886,3 +886,4 @@ gorillavid.in/*.hg$script
 google-analytics.com^$important
 ghacks.net##.cookie-notice-container
 xvideos.com##.videoad-title
+youtube.com###sponsor-button
