@@ -483,7 +483,6 @@ myanimelist.net##.icon-block-small.js-sns-icon-container
 ||openload.co^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.openload.co cdnjs.cloudflare.com  *.oloadcdn.net fonts.googleapis.com *.google.com fonts.gstatic.com
 ||oload.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: cdnjs.cloudflare.com  *.oloadcdn.net fonts.googleapis.com *.google.com fonts.gstatic.com
 |http:$third-party,popup,domain=fmovies.is,badfilter
-||milfzr.com^$csp=script-src 'self' *.jwpcdn.com 'unsafe-inline'
 myanimelist.net##.js-sns-icon-container
 screenrant.com,cbr.com##.injected-video-by-load
 forbes.com##.collapse-sharing-login.slash-background.article-sidebar.article-top-navigation
