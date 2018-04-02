@@ -887,3 +887,4 @@ ghacks.net##.cookie-notice-container
 xvideos.com##.videoad-title
 youtube.com###sponsor-button
 */banner/$inline-script,subdocument
+8muses.com#@#a.t-hover iframe:style(position: absolute!important; left: -3000px!important;)
