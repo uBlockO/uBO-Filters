@@ -1,4 +1,4 @@
-[uBlock Origin 1.15.19.104]
+[uBlock Origin 1.15.23.0]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -887,3 +887,4 @@ ghacks.net##.cookie-notice-container
 xvideos.com##.videoad-title
 youtube.com###sponsor-button
 */banner/$inline-script,subdocument
+outlook.live.com##._2_qTnZN22tYhluWaFTEMvp
