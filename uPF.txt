@@ -23,11 +23,6 @@ pornhub.com###under-player-comments
 pornhub.com###welcome
 youtube.com###watch-action-panels
 youtube.com###chat
-movieweb.com##.reddit.rd.sh
-movieweb.com##.comment.cm.sh
-movieweb.com##.email.em.sh
-movieweb.com##.followistic-box
-movieweb.com##.head-1.heading
 forbes.com##.undefined-expanded
 heroichollywood.com##.adbox-long
 heroichollywood.com##.adbox-sidebar
@@ -105,9 +100,6 @@ kissanime.*##strong
 screenrant.com##.sg-sharing-option
 cartoonhd.*,movieshd.watch,istream.*###credits
 cartoonhd.*,movieshd.watch,istream.is,flixanity.*##a[href="#credits"]
-androidauthority.com/wp-admin/admin-ajax.php$xmlhttprequest
-androidauthority.com##.textwidget
-androidauthority.com##.postinfo
 heroichollywood.com##.author-box
 hanime.tv##.header-nav-item:nth-of-type(5)
 torrentfreak.com##.comments.pbx-alt.pbx
@@ -168,12 +160,6 @@ cbr.com##.injected-video-by-load
 androidauthority.com##.load-infinite.loading
 istream.*##.buttons.dmcaLink
 ads-$script
-mrskin.com/*/sk_blog_manager/core-*.js^$script
-mrskin.com##.sk-gallery-viewer-zone
-mrskin.com##.sk-gallery-viewer-az-slide
-mrskin.com###az-responsive-20
-mrskin.com###az-responsive-23
-mrskin.com###az-responsive-26
 wikia.com###WikiaBar
 screenrant.com##.desktop-vertical.video-block-with-playlist
 mozilla.org###site-nonfx
@@ -181,20 +167,6 @@ snowstorm$script
 snow$script
 wikia.com##.wds-global-footer
 tracking$script
-onhax.*###text-5
-onhax.*###text-17
-onhax.*###respond
-onhax.*###text-18
-onhax.*###googleplus-badge-2
-onhax.*###facebook-likebox-2
-onhax.*##.social-fta
-onhax.me###goog-gt-tt
-onhax.*##table
-onhax.*###prologue-143412 > h3
-onhax.*###prologue-143412 > hr:nth-of-type(1)
-onhax.*##.yarpp-related
-onhax.*###text-6
-onhax.*###text-3
 infinite-articles
 outlook.live.com##a[href^="http://www.myfreecams.com/"]
 istream.*##.sources
@@ -224,20 +196,6 @@ abtesting$important
 mrskin.com##.sk-wallpaper-riseup
 imdb.com##.footer-grid-wrapper.container
 imdb.com###sidebar
-windowscentral.com,androidcentral.com###comments
-windowscentral.com,androidcentral.com###Leaderboard_Footer_BTF-wrap
-windowscentral.com,androidcentral.com##.ad.narrow.container
-windowscentral.com,androidcentral.com###InArticle_BTF3-wrap
-windowscentral.com,androidcentral.com##.side-ad-inner
-windowscentral.com,androidcentral.com###Leaderboard_Header_ATF-wrap
-windowscentral.com,androidcentral.com##.netshelter-ad-inner
-windowscentral.com,androidcentral.com##.extra.col-right
-windowscentral.com,androidcentral.com##.visor-breaker-ad.container
-windowscentral.com,androidcentral.com##.container-breaker.hidden-gems-widget
-windowscentral.com,androidcentral.com##a[href^="https://ad.doubleclick.net/"]
-windowscentral.com,androidcentral.com##a[href^="https://www.mintsim.com/"]
-windowscentral.com,androidcentral.com##.grid_comm
-windowscentral.com,androidcentral.com##.other-channels
 ||$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval',domain=windowscentral.com|androidcentral.com
 ||youtube.com^$csp=default-src 'self' 'unsafe-inline' blob: data: *.ggpht.com *.googlevideo.com *.ytimg.com fonts.googleapis.com fonts.gstatic.com *.googleusercontent.com
 speedtest.net##.alert-container
@@ -418,13 +376,6 @@ howtogeek.com##.social-follows > .top-bar
 @@||loudloss.com^$xmlhttprequest,domain=windowscentral.com,badfilter
 @@||sneakystamp.com^$xmlhttprequest,domain=androidcentral.com,badfilter
 |https:$third-party,popup,domain=fmovies.is,badfilter
-collider.com###after-post-stuff
-collider.com##.facebook-comments-cover
-collider.com##.icon-facebook-messenger.cmplx-icon
-collider.com##.youtubefooter
-collider.com###latest-news
-collider.com##.go90--widget
-collider.com##.relevancy-widget
 infinite-newsfeed
 ||collider.com^$csp=script-src 'self' *.collider.com 'unsafe-inline' 'unsafe-eval' platform.twitter.com platform.instagram.com *.twimg.com embed.redditmedia.com cdn.embedly.com
 ||comicbook.com^$csp=script-src 'self' *.comicbook.com 'unsafe-inline' 'unsafe-eval' platform.twitter.com platform.instagram.com *.twimg.com embed.redditmedia.com cdn.embedly.com
@@ -496,18 +447,6 @@ mega.nz##.checkbox-bl.download
 @@|http:$first-party,domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|chroniclelive.co.uk|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|everquest.allakhazam.com|financialpost.com|gofugyourself.com|hearthhead.com|ibtimes.com|idigitaltimes.com|infinitiev.com|latimes.com|leaderpost.com|legacy.com|lifewire.com|lolking.net|mcall.com|metacritic.com|montrealgazette.com|msn.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|stereogum.com|sun-sentinel.com|thebalance.com|theprovince.com|thespruce.com|thestarphoenix.com|thoughtco.com|timeanddate.com|tmn.today|torontosun.com|tvguide.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com|www.ign.com|zam.com,badfilter
 @@.png^$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|chroniclelive.co.uk|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|everquest.allakhazam.com|financialpost.com|gofugyourself.com|hearthhead.com|ibtimes.com|idigitaltimes.com|infinitiev.com|latimes.com|leaderpost.com|legacy.com|lifewire.com|lolking.net|mcall.com|metacritic.com|montrealgazette.com|msn.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|stereogum.com|sun-sentinel.com|thebalance.com|theprovince.com|thespruce.com|thestarphoenix.com|thoughtco.com|timeanddate.com|tmn.today|torontosun.com|tvguide.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com|www.ign.com|zam.com,badfilter
 @@|http:$third-party,image,domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|chroniclelive.co.uk|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|everquest.allakhazam.com|financialpost.com|gofugyourself.com|hearthhead.com|ibtimes.com|idigitaltimes.com|infinitiev.com|latimes.com|leaderpost.com|legacy.com|lifewire.com|lolking.net|mcall.com|metacritic.com|montrealgazette.com|msn.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|stereogum.com|sun-sentinel.com|thebalance.com|theprovince.com|thespruce.com|thestarphoenix.com|thoughtco.com|timeanddate.com|tmn.today|torontosun.com|tvguide.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com|www.ign.com|zam.com,badfilter
-movieweb.com##.site-nav-social
-movieweb.com##.site-footer-social-links
-movieweb.com##.media-nav
-movieweb.com##.article-header-social
-movieweb.com##.current-article-actions
-movieweb.com##.sidebar
-movieweb.com##.article-followistic
-movieweb.com##.article-more
-movieweb.com##.article-ad-content
-movieweb.com##.article-more-videos
-movieweb.com##.article-tags
-||movieweb.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' platform.twitter.com *.twimg.com platform.instagram.com *.movieweb.com ajax.googleapis.com
 screenrant.com##.sidebar
 cbr.com##.section-right
 cbr.com###secondary
@@ -708,9 +647,6 @@ bmovies.*,fmovies.*##.footerdesc
 cbr.com##.article-content > p:has-text(/RELATED:|REVIEW:/)
 adbd^
 bulbagarden.net###bottomframelower
-androidcentral.com,windowscentral.com##.author-info-top-wrap
-windowscentral.com##.visor-block--destination.visor-block
-androidcentral.com,windowscentral.com##.usr-msg
 screenrant.com##.article-body > h3:has-text(/Related|RELATED|More:|MORE:|NEXT:|Next:/)
 screenrant.com##.article-body > h2:has-text(/More:|MORE:|NEXT:|Next:|Watch:|WATCH:|Upcoming/)
 screenrant.com##.article-body > h4:has-text(/Related:|RELATED:|Read More:|READ MORE:/)
@@ -891,3 +827,4 @@ outlook.live.com##._2_qTnZN22tYhluWaFTEMvp
 hanime.tv##.banner_iframe.desktop.unit
 hanime.tv##.footer__column.flex:has-text(Partners)
 hanime.tv##.info__text__tags
+hanime.tv/*/*.js$other
