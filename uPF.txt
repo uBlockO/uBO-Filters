@@ -888,3 +888,6 @@ xvideos.com##.videoad-title
 youtube.com###sponsor-button
 */banner/$inline-script,subdocument
 outlook.live.com##._2_qTnZN22tYhluWaFTEMvp
+hanime.tv##.banner_iframe.desktop.unit
+hanime.tv##.footer__column.flex:has-text(Partners)
+hanime.tv##.info__text__tags
