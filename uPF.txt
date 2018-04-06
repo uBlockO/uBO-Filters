@@ -752,7 +752,7 @@ facebook.com###page_tv_show_playlists
 facebook.com###page_tv_show_extra_clips
 facebook.com###page_photos
 heroichollywood.com##.social-follow
-openload.co,streamango.com##script:inject(addEventListener-defuser.js, wheel)
+hanime.tv,streamcherry.com,openload.co,streamango.com##script:inject(addEventListener-defuser.js, wheel)
 outlook.live.com##.ms-bgc-ns.flexCenterItems.flex._db_O
 torrentz2.*##.gener
 @@owa.Analytics$script,domain=outlook.live.com
@@ -824,3 +824,4 @@ hanime.tv##.banner_iframe.desktop.unit
 hanime.tv##.footer__column.flex:has-text(Partners)
 hanime.tv##.info__text__tags
 hanime.tv/*/*.js$other
+comicbook.com##.btn-wide-container
