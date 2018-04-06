@@ -795,6 +795,7 @@ akacdn.ru/*/random/$script
 @@||static1.akacdn.ru/assets/$script,domain=fmovies.is|fmovies.se|fmovies.to,badfilter
 @@||pubmatic.com/adserver/*showad.js$script,badfilter
 google.*##div[class*="exp-outline"]
+google.*##div[class^="r-"]
 @@||streamango.com/popunder2.js$badfilter
 @@||streamango.com/googlead.js$badfilter
 @@||streamango.com/assets/js/license.adbl.js$badfilter
