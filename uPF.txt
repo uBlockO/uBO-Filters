@@ -794,7 +794,7 @@ hanime.tv##script:inject(rdo.js, BetterJsPop, undefined)
 akacdn.ru/*/random/$script
 @@||static1.akacdn.ru/assets/$script,domain=fmovies.is|fmovies.se|fmovies.to,badfilter
 @@||pubmatic.com/adserver/*showad.js$script,badfilter
-google.*##div[style*="display: block; opacity: 1;"]
+google.*##div[class*="exp-outline"]
 @@||streamango.com/popunder2.js$badfilter
 @@||streamango.com/googlead.js$badfilter
 @@||streamango.com/assets/js/license.adbl.js$badfilter
