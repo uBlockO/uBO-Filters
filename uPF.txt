@@ -499,7 +499,7 @@ adblock$important,script
 @@blogspot.*^$elemhide
 facebook.com##._50z3._9bp._1ltv
 facebook.com##._55ob._4kqp
-sandiegouniontribune.com,cnet.com##script:inject(rdo.js, /INSTART|I10C|I11C/, undefined)
+sandiegouniontribune.com,cnet.com##script:inject(rdo.js, /INSTART|I10C|I11C/, unfunc)
 howtogeek.com##.article-bottom
 howtogeek.com##.article-extras
 howtogeek.com##.third.footer-col
