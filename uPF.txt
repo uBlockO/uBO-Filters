@@ -1,4 +1,4 @@
-[uBlock Origin 1.15.25.1]
+[uBlock Origin 1.15.25.2]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -499,7 +499,7 @@ adblock$important,script
 @@blogspot.*^$elemhide
 facebook.com##._50z3._9bp._1ltv
 facebook.com##._55ob._4kqp
-sandiegouniontribune.com,cnet.com##script:inject(abort-current-inline-script.js, XMLHttpRequest, atob)
+sandiegouniontribune.com,cnet.com##script:inject(rdo.js, /INSTART|I10C|I11C/, undefined)
 howtogeek.com##.article-bottom
 howtogeek.com##.article-extras
 howtogeek.com##.third.footer-col
