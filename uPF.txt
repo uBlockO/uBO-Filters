@@ -733,11 +733,8 @@ ghacks.net##p:nth-of-type(4) > strong
 cbr.com,screenrant.com##a[href*="amazon.com"]
 speedtest.net##a[href*="legacy.speedtest.net"]
 redditstatic.com/*chat$script
-kimcartoon.*##.episodeList.barContent > div > .clear2
-kimcartoon.*##.episodeList.barContent > div > .clear
 kimcartoon.*##div[style*="width: 300px; height: 250px; float: left;"]
 kimcartoon.*###M253206ScriptRootC193365
-kissanime.*##div > .clear2
 openload.co/r3/f^
 facebook.com###page_tv_show_playlists
 facebook.com###page_tv_show_extra_clips
