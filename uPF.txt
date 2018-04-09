@@ -491,7 +491,7 @@ googleblog.com##a[href^="https://plus.google.com/"]
 googlevideo.io^
 free-contents.org^
 @@||startpage.com/js/abp.js^$badfilter
-datasaver.googleapis.com^$domain=behind-the-scene
+datasaver.googleapis.com^
 ||fmovies.se^$first-party,popup,badfilter
 youtube.com##.style-default.force-icon-button.ytd-menu-renderer.style-scope
 @@||business-standard.com/ad/banner.js$badfilter
@@ -752,7 +752,7 @@ facebook.com##.UFIList
 facebook.com##._5pcr:has-text(Popular Across Facebook)
 facebook.com##._2a_2:has-text(Share)
 */sw.js$script
-check.googlezip.net^$domain=behind-the-scene
+check.googlezip.net^
 ghacks.net##.ghacks-ad
 speedtest.net##.top-placeholder.pure-u-1
 screenrant.com,xvideos.com##script:inject(rdo.js, console, noopFunc)
