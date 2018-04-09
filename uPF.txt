@@ -464,14 +464,6 @@ comicbook.com##.sidebar-sticky.sidebar
 comicbook.com##.about
 comicbook.com##.header-still.article-centered.footer-set.feature-row.contentset
 comicbook.com##.footer-set.feature-column.contentset
-wunderlist.com^$domain=behind-the-scene
-office.*^$domain=behind-the-scene
-microsoft.com^$third-party,domain=behind-the-scene
-evernote.com^$domain=behind-the-scene
-baydin.com^$domain=behind-the-scene
-bing.com^$domain=behind-the-scene
-olsvc.com^$domain=behind-the-scene
-sharepointonline.com^$domain=behind-the-scene
 ||outlook.live.com^$csp=script-src 'self' 'unsafe-inline' *.office365.com 'unsafe-eval'
 @@||easylist.club/popunder*.js$badfilter
 @@||oload.tv/assets/js/script.*.js$badfilter
