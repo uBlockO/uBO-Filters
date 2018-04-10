@@ -806,3 +806,6 @@ hanime.tv/*/*.js$other
 comicbook.com##.btn-wide-container
 google.*##.exp-outline
 google.*##div[id^="eob"]
+rapidvideo.com#@#script:inject(abort-on-property-write.js, executed)
+rapidvideo.com#@#script:inject(noeval.js)
+rapidvideo.com#@#script:inject(popads.net.js)
