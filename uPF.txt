@@ -1,4 +1,4 @@
-[uBlock Origin 1.15.25.2]
+[uBlock Origin 1.15.25.5]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -809,3 +809,4 @@ google.*##div[id^="eob"]
 rapidvideo.com#@#script:inject(abort-on-property-write.js, executed)
 rapidvideo.com#@#script:inject(noeval.js)
 rapidvideo.com#@#script:inject(popads.net.js)
+hanime.tv/*/user_comments
