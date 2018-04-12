@@ -732,7 +732,8 @@ facebook.com###page_photos
 heroichollywood.com##.social-follow
 hanime.tv,streamcherry.com,openload.co,streamango.com##script:inject(addEventListener-defuser.js, wheel)
 outlook.live.com##.ms-bgc-ns.flexCenterItems.flex._db_O
-torrentz2.*##.gener
+torrentz2.*##.HalfRRRAcceptableAds
+torrentz2.*/*.php
 @@owa.Analytics$script,domain=outlook.live.com
 /detroitchicago$domain=animenewsnetwork.com
 /logger
