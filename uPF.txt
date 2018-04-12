@@ -394,8 +394,6 @@ youtube.com##.yt-lockup-movie-vertical-poster.yt-lockup-tile.yt-lockup
 @@||ads.clubedohardware.com.br/www/delivery/$script,badfilter
 hollywoodreporter.com##.readmore
 ||hollywoodreporter.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.instagram.com platform.twitter.com *.twimg.com players.brightcove.net *.zencdn.net *.hollywoodreporter.com blob:
-gtpl.net##.modal
-gtpl.net##.modal-backdrop
 deadline.com##.ppp-ad
 deadline.com##.pmc-templatized-widget
 deadline.com###property-snippets
@@ -673,7 +671,7 @@ animenewsnetwork.com##p:has-text(Crunchyroll)
 @@||google.*/ads/$third-party,image,badfilter
 socialCounts^
 readcomics.*##.ads
-rapidvideo.com,pornhub.com,streamango.com,gtpl.net,openload.*,oload.*##script:inject(addEventListener-defuser.js, contextmenu)
+rapidvideo.com,pornhub.com,streamango.com,openload.*,oload.*##script:inject(addEventListener-defuser.js, contextmenu)
 pornhub.com##.sectionWrapper:has-text(Cam)
 pornhub.com##.nf-wrapper > .sectionWrapper
 1337x.*##[href*="redirect"]
