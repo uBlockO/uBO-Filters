@@ -809,3 +809,4 @@ rapidvideo.com#@#script:inject(abort-on-property-write.js, executed)
 rapidvideo.com#@#script:inject(noeval.js)
 rapidvideo.com#@#script:inject(popads.net.js)
 hanime.tv/*/user_comments
+torrentz2.*###resultarea
