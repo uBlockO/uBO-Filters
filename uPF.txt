@@ -1,4 +1,4 @@
-[uBlock Origin 1.15.25.6]
+[uBlock Origin 1.15.25.102]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
