@@ -45,7 +45,6 @@ screenrant.com##.social
 sexstories.com###bottom_panel
 sexstories.com##.title_panel
 sexstories.com##.block_panel:nth-of-type(4)
-cloudfront.net^$third-party
 */advertisement.js$script,important,redirect=noopjs
 microsofttranslator.com^$important
 skype.com^$important
@@ -100,7 +99,7 @@ air.irctc.co.in###bodyBottom
 air.irctc.co.in##.col2
 air.irctc.co.in##img[src="/IndianRailways/irctcair/images/freedom_conv.gif"]
 air.irctc.co.in###footerlogo
-googletagmanager.com^$third-party
+googletagmanager.com^$important
 mrskin.com##.col-xs-12.col-sm-8.col-md-4
 cbr.com##.embed-related-block
 script.js$script,domain=1337x.to|1337x.st
@@ -112,10 +111,6 @@ cbr.com/wp-admin^$script,inline-script
 googleadservices.com^$important
 cbr.com##.video-block-ads.video-block
 cbr.com##.related-section
-azurewebsites.net^$third-party
-outlook.com^$third-party
-microsoft.com^$third-party
-thepiratebay.*^$third-party
 myanimelist.net##.clearfix.index-watch-description
 logpopup
 heroichollywood.com##.crp_related
@@ -304,7 +299,7 @@ speedtest.net##.u-c.pure-u-custom-ad-rectangle
 speedtest.net##.u-c.pure-u-custom-ad-skyscraper
 google.*##.glif-promo
 gitlab.com##.bordered-box
-platform.twitter.com/js/button.$third-party,important
+platform.twitter.com/js/button.$important
 google.*##._RMl.tpo._rk.g
 pastebin.com##.promo-bar
 speedtest.net##.eot-mini-survey
@@ -582,7 +577,7 @@ myanimelist.net##.anime_discussions.widget
 myanimelist.net##.promotional-video.video-block
 adblocker$script
 facebook.com###pagelet_page_cover
-report-uri.*^$third-party
+report-uri.*^
 @@||facebook.com/common/referer_frame.php$subdocument,domain=facebook.com,badfilter
 authedmine.com^
 lib/*.wasm^$important
@@ -685,7 +680,6 @@ animenewsnetwork.com###prompt-message
 @@||kisshentai.net/content/js/adframe.js^$badfilter
 @@||cloudfront.net/assets/$third-party,script,badfilter
 ||github.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.github.com *.githubusercontent.com
-theporndude.com^$third-party
 kirtuclub.com##iframe[src*="youtube.com/embed/"]
 @@||hentaihaven.org/basement/js/adshow.js$badfilter
 9anime.*,bmovies.*,solarmoviex.*,dwatchseries.to##script:inject(abort-current-inline-script.js, atob, tabunder)
