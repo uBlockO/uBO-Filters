@@ -1,4 +1,4 @@
-[uBlock Origin 1.15.25.102]
+[uBlock Origin 1.15.25.103]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -581,7 +581,6 @@ report-uri.*^
 @@||facebook.com/common/referer_frame.php$subdocument,domain=facebook.com,badfilter
 authedmine.com^
 lib/*.wasm^$important
-screenrant.com##strong:has-text(RELATED:)
 jwpcdn.com/*/related.js$script
 readcomics.*##.panel-body
 readcomics.*##.alert-success.alert
@@ -623,11 +622,6 @@ bmovies.*,fmovies.*##.footerdesc
 cbr.com##.article-content > p:has-text(/RELATED:|REVIEW:/)
 adbd^
 bulbagarden.net###bottomframelower
-screenrant.com##.article-body > h3:has-text(/Related|RELATED|More:|MORE:|NEXT:|Next:/)
-screenrant.com##.article-body > h2:has-text(/More:|MORE:|NEXT:|Next:|Watch:|WATCH:|Upcoming/)
-screenrant.com##.article-body > h4:has-text(/Related:|RELATED:|Read More:|READ MORE:/)
-screenrant.com##.article-body > p:has-text(/Related:|RELATED:|Next:|NEXT:|Read More/)
-screenrant.com##.article-body > ul:has-text(Updates)
 bmovies.*,fmovies.*,9anime.*,solarmoviex.*,putlockertv.*##.pa
 xmlrpc.php^
 ||flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
