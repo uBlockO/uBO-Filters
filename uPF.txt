@@ -764,14 +764,6 @@ akacdn.ru/*/random/$script
 ||ssl.p.jwpcdn.com^$badfilter
 9anime.*##a[href*="fmovies"]
 proxy_ab.js^$script
-animehub.to##.gc-comments.gc-icon
-animehub.to##.gc-share.gc-icon
-animehub.to##.sb-subs.goblock
-animehub.to##.comments.goblock
-animehub.to##.detail-anime.goblock > .go-full.goblock-content > .goblock-bottom
-animehub.to##.footer-anime
-animehub.to##.sb-ongoing.goblock
-||animehub.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: fonts.googleapis.com fonts.gstatic.com *.cdnmoon.com:* *.googleusercontent.com ssl.p.jwpcdn.com
 |http://$third-party,stylesheet,domain=dwatchseries.to|thewatchseries.ac|unblckd.org|watchseries.sk,badfilter
 reddit.com###chat
 comicbook.com##.comment-activator-container
@@ -793,9 +785,6 @@ hanime.tv/*/*.js$other
 comicbook.com##.btn-wide-container
 google.*##.exp-outline
 google.*##div[id^="eob"]
-rapidvideo.com#@#script:inject(abort-on-property-write.js, executed)
-rapidvideo.com#@#script:inject(noeval.js)
-rapidvideo.com#@#script:inject(popads.net.js)
 hanime.tv/*/user_comments
 torrentz2.*###resultarea
 collect^$other
