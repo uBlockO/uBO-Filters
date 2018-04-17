@@ -788,3 +788,4 @@ google.*##div[id^="eob"]
 hanime.tv/*/user_comments
 torrentz2.*###resultarea
 collect^$other
+rapidvideo.com##script:inject(addEventListener-defuser.js, /mousedown|mouseup|click/, /0x|open/)
