@@ -613,7 +613,7 @@ bmovies.*,fmovies.*##a[href^="https://twitter.com/"]
 kissanime.ru##.bigBarContainer:has-text(Comments)
 kissanime.*##a[href^="https://animemerchant.com/"]
 |https://$third-party,script,domain=9anime.to,badfilter
-||rapidvideo.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.rapidvideo.com
+||rapidvideo.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 kissanime.*##.rightBox:has-text(Like me)
 @@||akamaihd.net^*/ad*.js$script,badfilter
 boxofficemojo.com###Player_82160f42-9620-4d0a-b79a-18b1abd853fb
