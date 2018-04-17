@@ -798,3 +798,4 @@ rapidvideo.com#@#script:inject(noeval.js)
 rapidvideo.com#@#script:inject(popads.net.js)
 hanime.tv/*/user_comments
 torrentz2.*###resultarea
+collect^$other
