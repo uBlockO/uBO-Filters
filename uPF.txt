@@ -791,3 +791,4 @@ collect^$other
 rapidvideo.com##script:inject(addEventListener-defuser.js, /mousedown|mouseup|click/, /0x|open/)
 hanime.tv##.community_uploads
 hanime.tv##div:nth-of-type(1) > .mb-5.htv-carousel-container.lazy
+@@/adframe.js$script,badfilter
