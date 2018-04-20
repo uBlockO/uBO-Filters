@@ -693,7 +693,7 @@ gowatchfreemovies.to##.adv_box
 gowatchfreemovies.to##.page_content > div:has-text(VPN)
 gowatchfreemovies.to##.tweet
 gowatchfreemovies.to##.twitter-follow-button
-9anime.*,bmovies.*,fmovies.*,solarmoviex.*,putlockertv.*##script:inject(dwrite.js, /wwwpromoter.com|300x250/)
+bmovies.*,fmovies.*,solarmoviex.*,putlockertv.*##script:inject(dwrite.js, /wwwpromoter.com|300x250/)
 9anime.*##.crop.widget
 @@||ajax.cloudflare.com/cdn-cgi/scripts/$third-party,script,badfilter
 ghacks.net##.ghacks_share_widget.widget
@@ -793,3 +793,4 @@ hanime.tv##.community_uploads
 hanime.tv##div:nth-of-type(1) > .mb-5.htv-carousel-container.lazy
 @@/adframe.js$script,badfilter
 syndication.twitter.com
+9anime.*##script:inject(abort-current-inline-script.js, document.write)
