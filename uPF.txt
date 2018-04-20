@@ -794,3 +794,6 @@ hanime.tv##div:nth-of-type(1) > .mb-5.htv-carousel-container.lazy
 @@/adframe.js$script,badfilter
 syndication.twitter.com
 9anime.*##script:inject(abort-current-inline-script.js, document.write)
+@@all.js$script,domain=9anime.is
+9anime.*/*/$script
+
