@@ -796,3 +796,4 @@ syndication.twitter.com
 @@all.js$script,domain=9anime.is
 9anime.*$script
 @@/script/ad.js$script,badfilter
+9anime.*##script:inject(dwrite.js, defer)
