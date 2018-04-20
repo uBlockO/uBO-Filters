@@ -796,4 +796,4 @@ syndication.twitter.com
 9anime.*##script:inject(abort-current-inline-script.js, document.write)
 @@all.js$script,domain=9anime.is
 9anime.*/*/$script
-
+@@/script/ad.js$script,badfilter
