@@ -801,3 +801,4 @@ syndication.twitter.com
 |http*://$third-party,stylesheet,domain=9anime.is,badfilter
 @@||rapidvideo.com/e^$third-party,badfilter
 |http*://$third-party,subdocument,domain=9anime.is,badfilter
+imdb.com##.ab_widget
