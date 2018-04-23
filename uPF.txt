@@ -264,7 +264,7 @@ chip.*,speedtest.net##script:inject(rdo.js, _sp_, noopFunc)
 contributor.google.com/scripts/
 androidcentral.com,windowscentral.com##.mn_mbn_share
 gyazo.com##.image-infos
-thepiratebay.*,pornhub.com,anilinkz.*,openload.co,oload.*,1337x.*,rapidvideo.com##script:inject(window.open-defuser.js)
+thepiratebay.*,pornhub.com,anilinkz.*,openload.co,oload.*,1337x.*##script:inject(window.open-defuser.js)
 cbr.com##.quiz-share-btn-wrapper
 bmovies.*,,fmovies.*,9anime.*##center
 9anime.*##.a_d
@@ -788,7 +788,6 @@ google.*##div[id^="eob"]
 hanime.tv/*/user_comments
 torrentz2.*###resultarea
 collect^$other
-rapidvideo.com##script:inject(addEventListener-defuser.js, /mousedown|mouseup|click/, /0x|open/)
 hanime.tv##.community_uploads
 hanime.tv##div:nth-of-type(1) > .mb-5.htv-carousel-container.lazy
 @@/adframe.js$script,badfilter
