@@ -694,7 +694,6 @@ gowatchfreemovies.to##.page_content > div:has-text(VPN)
 gowatchfreemovies.to##.tweet
 gowatchfreemovies.to##.twitter-follow-button
 bmovies.*,fmovies.*,solarmoviex.*,putlockertv.*##script:inject(dwrite.js, /wwwpromoter.com|300x250/)
-9anime.*##.crop.widget
 @@||ajax.cloudflare.com/cdn-cgi/scripts/$third-party,script,badfilter
 ghacks.net##.ghacks_share_widget.widget
 ghacks.net##.ghacks_this_day.widget
@@ -801,3 +800,6 @@ syndication.twitter.com
 imdb.com##.ab_widget
 @@||googleusercontent.com/gadgets/$image,domain=9anime.is,badfilter
 |http*://$third-party,image,domain=9anime.is,badfilter
+9anime.is#@#.this-message-does-not-harm-to-you-dont-remove-it
+9anime.is#@#div[class*="message"]
+9anime.*###sidebar > .text-center.crop.widget:style(visibility: collapse !important)
