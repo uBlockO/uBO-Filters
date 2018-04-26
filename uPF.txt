@@ -125,8 +125,6 @@ hollywoodreporter.com##.js-show-disqus-comments
 hollywoodreporter.com##.blog-post-syndication-section
 myanimelist.net/static/logging.html$xmlhttprequest
 screenrant.com##.read-next
-openload.co,oload.*##.center
-openload.co,oload.*##a[href="http://steepto.com/"]
 whatsapp-button.js
 adflow.js
 entityrating.js
@@ -625,7 +623,7 @@ howtogeek.com###secondary.sidebar-article.widget-area
 howtogeek.com##.relatedfull
 myanimelist.net##.mb4.di-ib
 kimcartoon.me##.barContent:has-text(Ads can be a pain)
-ad.*^$script
+ad.*^$script,domain=~cbr.com
 ||animenewsnetwork.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com platform.twitter.com *.twimg.com *.animenewsnetwork.com
 animenewsnetwork.com###cover_image
 animenewsnetwork.com##.floating-image
