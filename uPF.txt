@@ -709,7 +709,6 @@ ghacks.net##p:nth-of-type(4) > strong
 @@ghacks.net^$elemhide
 cbr.com,screenrant.com##a[href*="amazon.com"]
 speedtest.net##a[href*="legacy.speedtest.net"]
-redditstatic.com/*chat$script
 kimcartoon.*##div[style*="width: 300px; height: 250px; float: left;"]
 kimcartoon.*###M253206ScriptRootC193365
 openload.co/r3/f^
@@ -792,7 +791,7 @@ hanime.tv##div:nth-of-type(1) > .mb-5.htv-carousel-container.lazy
 @@/adframe.js$script,badfilter
 syndication.twitter.com
 @@/script/ad.js$script,badfilter
-/9anime\.is\/[0-9a-zA-Z]{20,25}/$script
+/9anime\..*\/[0-9a-zA-Z]{20,25}/$script
 |http*://$third-party,image,domain=123movies-proxy.ru|123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.net.ru|123movies.ru|123movies.vc|123moviesfree.com|123movieshd.net|123movieshd.tv|9cartoon.me|animehaven.to|auroravid.to|ay8ou8ohth.com|bitvid.sx|btdb.in|btdb.to|clipconverter.cc|cloudtime.to|cmovieshd.com|divxme.com|downloadming.tv|dropapk.com|flyordie.com|fmovies.se|fmovies.to|full-pcsoftware.com|halacima.net|hdmusic99.in|hdtv-rls.com|kannadamovies.biz|kissanime.ru|kissmanga.com|livetvcafe.net|movdivx.com|mp3clan.one|nowvideo.li|nowvideo.sx|nowvideo.to|oogh8ot0el.com|otakustream.tv|otorrents.com|pocketnow.com|putlocker.co|solarmovie.sc|speedvid.net|stream2watch.org|suprafiles.co|thepiratebay.cd|userscloud.com|vidto.me|vidtudu.com|vidzi.tv|wholecloud.net,badfilter
 |http*://$third-party,stylesheet,domain=9anime.is,badfilter
 @@||rapidvideo.com/e^$third-party,badfilter
@@ -800,3 +799,4 @@ syndication.twitter.com
 imdb.com##.ab_widget
 @@||googleusercontent.com/gadgets/$image,domain=9anime.is,badfilter
 |http*://$third-party,image,domain=9anime.is,badfilter
+reddit.com###HeaderUserActions--Chat
