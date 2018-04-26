@@ -800,3 +800,4 @@ imdb.com##.ab_widget
 @@||googleusercontent.com/gadgets/$image,domain=9anime.is,badfilter
 |http*://$third-party,image,domain=9anime.is,badfilter
 reddit.com###HeaderUserActions--Chat
+9anime.*##.text-center.crop.widget
