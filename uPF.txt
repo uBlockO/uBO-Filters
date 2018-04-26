@@ -1,12 +1,9 @@
-[uBlock Origin 1.16.1.100]
+[uBlock Origin 1.16.1.104]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
 
-gowatchfreemovies.to##.sl_wrap
-gowatchfreemovies.to##.comment_box
-gowatchfreemovies.to##.below_player
-gowatchfreemovies.to/*.php
+2mdn.net^$important
 screenrant.com##.info-wrap
 screenrant.com##.load-wrap.ajaxLoader
 screenrant.com##.switch.share-switch
@@ -79,7 +76,6 @@ milfzr.com,blockadblock.com,onhax.me##script:inject(bab-defuser.js)
 comicbook.com##a[href^="http://amzn.to/"]
 1337x.*###mgbl49472
 1337x.*##.link-box
-gowatchfreemovies.to##.link_item:nth-of-type(1)
 mozilla.org###promos
 cbr.com##.i-comment.icon.btn-comment-article
 cbr.com##.right-content.footer-content
@@ -328,8 +324,6 @@ facebook.com##._5pcr._7xp
 @@||d3ujids68p6xmq.cloudfront.net^$script,domain=beta.speedtest.net,badfilter
 screenrant.com##.title-section
 screenrant.com##.related-thumbs.thumb-list
-gowatchfreemovies.to##script:inject(abort-current-inline-script.js, addEventListener, IsAdblockRequest)
-gowatchfreemovies.to##script:inject(noeval-if.js, analytics)
 facebook.com##._3j6k
 mega.nz##.ads-left-block
 mega.nz##.ads-right-block
@@ -433,7 +427,6 @@ screenrant.com##.sidebar
 cbr.com##.section-right
 cbr.com###secondary
 ||dwatchseries.to^$csp=script-src 'self' 'unsafe-inline' *.dwatchseries.to
-gowatchfreemovies.to##.header_docs
 cookieconsent.min$important
 @@9anime.*^$elemhide
 @@bmovies.*^$elemhide
@@ -594,7 +587,6 @@ readcomics.*##a[href^="http://getcomics.info"]
 comicbook.com##.aligncenter:has-text(NEXT:)
 comicbook.com##p:has-text(NEXT:)
 kimcartoon.me##.barContent:has-text(fake)
-||gowatchfreemovies.to^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com ajax.cloudflare.com;img-src 'self' *.gowatchfreemovies.to
 facebook.com##._31qy:has-text(related)
 facebook.com##._4-u2:has-text(Page stories you may like)
 cbr.com##.social-account-links
@@ -685,11 +677,6 @@ kimcartoon.me###videoAd
 9anime.*##.share
 crwdcntrl.net^$important
 amazon-adsystem.com^$important
-@@gowatchfreemovies.to^$elemhide
-gowatchfreemovies.to##.adv_box
-gowatchfreemovies.to##.page_content > div:has-text(VPN)
-gowatchfreemovies.to##.tweet
-gowatchfreemovies.to##.twitter-follow-button
 bmovies.*,fmovies.*,solarmoviex.*,putlockertv.*##script:inject(dwrite.js, /wwwpromoter.com|300x250/)
 @@||ajax.cloudflare.com/cdn-cgi/scripts/$third-party,script,badfilter
 ghacks.net##.ghacks_share_widget.widget
