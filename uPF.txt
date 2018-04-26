@@ -800,5 +800,3 @@ syndication.twitter.com
 imdb.com##.ab_widget
 @@||googleusercontent.com/gadgets/$image,domain=9anime.is,badfilter
 |http*://$third-party,image,domain=9anime.is,badfilter
-9anime.is#@#.this-message-does-not-harm-to-you-dont-remove-it
-9anime.is#@#div[class*="message"]
