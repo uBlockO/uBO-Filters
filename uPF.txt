@@ -801,3 +801,4 @@ imdb.com##.ab_widget
 |http*://$third-party,image,domain=9anime.is,badfilter
 reddit.com###HeaderUserActions--Chat
 9anime.*##.text-center.crop.widget
+9anime.*##script:inject(dwrite.js, defer)
