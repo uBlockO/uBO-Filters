@@ -761,7 +761,6 @@ outlook.live.com##._2_qTnZN22tYhluWaFTEMvp
 hanime.tv##.desktop.unit
 hanime.tv##.footer__column.flex:has-text(Partners)
 hanime.tv##.info__text__tags
-hanime.tv/*/*.js$other
 comicbook.com##.btn-wide-container
 google.*##.exp-outline
 google.*##div[id^="eob"]
