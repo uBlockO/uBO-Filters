@@ -784,3 +784,4 @@ imdb.com##.ab_widget
 reddit.com###HeaderUserActions--Chat
 9anime.*##.text-center.crop.widget
 twitter.com##.call-to-action
+movieweb.com##.current-article-actions
