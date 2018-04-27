@@ -784,3 +784,4 @@ imdb.com##.ab_widget
 reddit.com###HeaderUserActions--Chat
 9anime.*##.text-center.crop.widget
 9anime.*##script:inject(dwrite.js, defer)
+twitter.com##.call-to-action
