@@ -157,7 +157,7 @@ sk_special_offer_video
 ph-tracking.js^$important
 premium^$script,important
 promo-banner.js^$important
-cdn-cgi/pe/bag2
+/cdn-cgi/pe/bag2^$important
 9anime.*##.notice.alert-primary.alert
 9anime.*,bmovies.*,fmovies.*,solarmoviex.*##.home-socials
 wp-adblock-dedect$important
