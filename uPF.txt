@@ -1,4 +1,4 @@
-[uBlock Origin 1.16.3.1]
+[uBlock Origin 1.16.3.101]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -70,7 +70,7 @@ pornhub.com##.clear.hd.jisfhp0w2u
 taboola.com^$important
 screenrant.com##.video-block-main.video-block
 speedtest.net##.no-shadow.ad-vertical-tower.ad-vertical-container
-$websocket
+$websocket,domain=~mega.nz|~speedtest.net
 googletagmanager.com^$important
 milfzr.com,blockadblock.com,onhax.me##script:inject(bab-defuser.js)
 comicbook.com##a[href^="http://amzn.to/"]
@@ -786,3 +786,4 @@ twitter.com##.call-to-action
 movieweb.com##.current-article-actions
 @@/wp-content/*/ads*.js$script,badfilter
 piguiqproxy.com^$important
+reddit.com##.redesign-beta-optin 
