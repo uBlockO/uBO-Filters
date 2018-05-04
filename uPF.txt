@@ -1,4 +1,4 @@
-[uBlock Origin 1.16.3.101]
+[uBlock Origin 1.16.5.0]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -787,3 +787,4 @@ movieweb.com##.current-article-actions
 @@/wp-content/*/ads*.js$script,badfilter
 piguiqproxy.com^$important
 reddit.com##.redesign-beta-optin 
+view.php^
