@@ -612,7 +612,7 @@ bulbagarden.net###bottomframelower
 bmovies.*,fmovies.*,9anime.*,solarmoviex.*,putlockertv.*##.pa
 xmlrpc.php^
 ||flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
-milfzr.com,dwatchseries.to,fmovies.*,bmovies.*,solarmoviex.*,putlockertv.*##script:inject(addEventListener-defuser.js, /mousedown|mouseup|click/, /0x|open/)
+milfzr.com,dwatchseries.to,fmovies.*,bmovies.*,solarmoviex.*,putlockertv.*##script:inject(abort-current-inline-script.js, atob, tabunder)
 rapidvideo.com###top350b
 rapidvideo.com###premiumad
 rapidvideo.com###top350
@@ -663,7 +663,6 @@ animenewsnetwork.com###prompt-message
 ||github.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.github.com *.githubusercontent.com
 kirtuclub.com##iframe[src*="youtube.com/embed/"]
 @@||hentaihaven.org/basement/js/adshow.js$badfilter
-bmovies.*,solarmoviex.*,dwatchseries.to##script:inject(addEventListener-defuser.js, /mousedown|mouseup|click/, /0x|open/)
 dwatchseries.to###rotating-item-wrapper
 dwatchseries.to##.freeEpisode
 ||gorillavid.in^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com;worker-src 'none'
