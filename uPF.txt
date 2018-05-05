@@ -787,3 +787,4 @@ movieweb.com##.current-article-actions
 piguiqproxy.com^$important
 reddit.com##.redesign-beta-optin 
 view.php^
+gitlab.com##.js-autodevops-banner
