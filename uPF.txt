@@ -69,7 +69,7 @@ pornhub.com##.abovePlayer
 pornhub.com##.clear.hd.jisfhp0w2u
 taboola.com^$important
 screenrant.com##.video-block-main.video-block
-speedtest.net##.no-shadow.ad-vertical-tower.ad-vertical-container
+.net##.no-shadow.ad-vertical-tower.ad-vertical-container
 $websocket,domain=~mega.nz|~speedtest.net
 googletagmanager.com^$important
 milfzr.com,blockadblock.com,onhax.me##script:inject(bab-defuser.js)
@@ -365,7 +365,7 @@ mega.nz##.red.download-button.button
 hollywoodreporter.com##.leaderboard-wrapper
 temp_share_folder
 ||screenrant.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.srcdn.com platform.twitter.com *.instagram.com *.twimg.com *.imgur.com embed.redditmedia.com cdn.embedly.com
-||speedtest.net^$csp=script-src 'self' 'unsafe-inline' *.speedtest.net *.cdnst.net;img-src 'self' *.cdnst.net 
+||speedtest.net^$csp=script-src 'self' 'unsafe-inline' data: *.speedtest.net *.cdnst.net;img-src 'self' *.cdnst.net 
 ||cbr.com^$csp=script-src 'self' 'unsafe-inline' platform.twitter.com *.twimg.com platform.instagram.com *.imgur.com embed.redditmedia.com cdn.embedly.com
 outlook.live.com##a[href^="http://"]
 promo$script
