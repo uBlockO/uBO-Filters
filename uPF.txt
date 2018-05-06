@@ -648,7 +648,6 @@ animenewsnetwork.com##p:has-text(Crunchyroll)
 socialCounts^
 readcomics.*##.ads
 rapidvideo.com,pornhub.com,streamango.com,openload.*,oload.*##script:inject(addEventListener-defuser.js, contextmenu)
-pornhub.com##.sectionWrapper:has-text(Cam)
 pornhub.com##.nf-wrapper > .sectionWrapper
 1337x.*##[href*="redirect"]
 1337x.*##[href*="php"]
