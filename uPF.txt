@@ -792,3 +792,4 @@ milfzr.com##.aoa_overlay
 milfzr.com###extras
 milfzr.com###respond
 milfzr.com###actions
+admin-ajax.php^
