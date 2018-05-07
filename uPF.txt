@@ -788,3 +788,7 @@ reddit.com##.redesign-beta-optin
 view.php^
 gitlab.com##.js-autodevops-banner
 milfzr.com/*/ad-overlay-anything/
+milfzr.com##.aoa_overlay
+milfzr.com###extras
+milfzr.com###respond
+milfzr.com###actions
