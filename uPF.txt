@@ -1,4 +1,4 @@
-[uBlock Origin 1.16.5.0]
+[uBlock Origin 1.16.5.1]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -787,3 +787,4 @@ piguiqproxy.com^$important
 reddit.com##.redesign-beta-optin 
 view.php^
 gitlab.com##.js-autodevops-banner
+milfzr.com##.aoa_overlay
