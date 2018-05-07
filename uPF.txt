@@ -794,3 +794,4 @@ milfzr.com###respond
 milfzr.com###actions
 admin-ajax.php^
 @@/js/advertisement-$script,badfilter
+adnxs.com^$important
