@@ -793,3 +793,4 @@ milfzr.com###extras
 milfzr.com###respond
 milfzr.com###actions
 admin-ajax.php^
+@@/js/advertisement-$script,badfilter
