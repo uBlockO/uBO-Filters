@@ -1,4 +1,4 @@
-[uBlock Origin 1.16.5.1]
+[uBlock Origin 1.16.5.2]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -277,8 +277,7 @@ log_event
 kisshentai.*##a[href="#"]
 kisshentai.*###show_id
 ||kisshentai.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.stream *.oloadcdn.net streamcherry.com *.fruithosted.net
-doubleclick^$script,important
-kimcartoon.me###disqus_thread
+doubleclick^$script,important.me###disqus_thread
 ||androidcentral.com/sites/androidcentral.com/files/advagg_js/$script,badfilter
 connect.facebook.net^$script,important
 @@||lightboxcdn.com^$script,domain=androidcentral.com|crackberry.com|imore.com|windowscentral.com,badfilter
@@ -484,7 +483,7 @@ kimcartoon.*###btnShowComments
 thepiratebay.*/*/$inline-script,subdocument
 @@screenrant.com^$elemhide
 screenrant.com##.ad-zone-container
-||kimcartoon.me^$csp=default-src 'self' 'unsafe-eval' 'unsafe-inline' data: *.zencdn.net *.rapidvideo.com *.playercdn.net openload.co *.oloadcdn.net streamango.com *.fruithosted.net www.google.com *.gstatic.com i.imgur.com;media-src *
+||kimcartoon.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.zencdn.net *.rapidvideo.com *.playercdn.net openload.co *.oloadcdn.net streamango.com *.fruithosted.net www.google.com *.gstatic.com i.imgur.com;media-src *
 screenrant.com##.twitter.icon
 @@cbr.com^$elemhide
 cbr.com##.sharing-option
