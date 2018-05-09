@@ -1,4 +1,4 @@
-[uBlock Origin 1.16.5.2]
+[uBlock Origin 1.16.5.4]
 ! Title: uBO-Personal-Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -611,7 +611,7 @@ bulbagarden.net###bottomframelower
 bmovies.*,fmovies.*,9anime.*,solarmoviex.*,putlockertv.*##.pa
 xmlrpc.php^
 ||flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
-milfzr.com,dwatchseries.to,fmovies.*,bmovies.*,solarmoviex.*,putlockertv.*##script:inject(abort-current-inline-script.js, atob, tabunder)
+milfzr.com,dwatchseries.to,bmovies.*,solarmoviex.*,putlockertv.*##script:inject(abort-current-inline-script.js, atob, tabunder)
 rapidvideo.com###top350b
 rapidvideo.com###premiumad
 rapidvideo.com###top350
@@ -672,7 +672,7 @@ kimcartoon.me###videoAd
 9anime.*##.share
 crwdcntrl.net^$important
 amazon-adsystem.com^$important
-bmovies.*,fmovies.*,solarmoviex.*,putlockertv.*##script:inject(dwrite.js, /wwwpromoter.com|300x250/)
+bmovies.*,fmovies.*,solarmoviex.*,putlockertv.*##script:inject(dwrite.js, 300x250)
 @@||ajax.cloudflare.com/cdn-cgi/scripts/$third-party,script,badfilter
 ghacks.net##.ghacks_share_widget.widget
 ghacks.net##.ghacks_this_day.widget
