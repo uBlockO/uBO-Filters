@@ -711,7 +711,7 @@ sw.js$script
 check.googlezip.net/generate_204^
 ghacks.net##.ghacks-ad
 speedtest.net##.top-placeholder.pure-u-1
-screenrant.com,xvideos.com##script:inject(rdo.js, console, noopFunc)
+xvideos.com##script:inject(rdo.js, console, noopFunc)
 androidcentral.com##script:inject(noeval-if.js, atob)
 @@/wp-content/plugins/detect-adblock/js/ads.js$script,first-party,badfilter
 @@/wp-content/plugins/google-analytics-for-wordpress/$first-party,script,badfilter
