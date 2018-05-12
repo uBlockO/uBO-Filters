@@ -4,16 +4,6 @@
 ! Expires: 1 day (update frequency)
 
 2mdn.net^$important
-screenrant.com##.info-wrap
-screenrant.com##.load-wrap.ajaxLoader
-screenrant.com##.switch.share-switch
-cbr.com,screenrant.com##.video-block-related-article.video-block
-screenrant.com##.video-disclaimer
-screenrant.com##.email.icon
-screenrant.com##.comment.icon
-screenrant.com##.plus.icon
-screenrant.com##a[href="#comments"]
-screenrant.com##.desktop.comments
 disqus.com^$important
 doubleclick.net^$important
 pornhub.com###under-player-comments
@@ -132,8 +122,6 @@ istream.*##.amazonDeals
 /track
 ugbase.eu###shoutbox
 ugbase.eu##.red_alert
-screenrant.com##.controler
-screenrant.com##.section-feature.side-featude-wrapper
 youtube.com##.ytp-ce-covering-overlay
 wikia.com###WikiaRailWrapper
 gsmarena.com###subHeader
@@ -142,7 +130,6 @@ androidauthority.com##.load-infinite.loading
 istream.*##.buttons.dmcaLink
 ads-$script
 wikia.com###WikiaBar
-screenrant.com##.desktop-vertical.video-block-with-playlist
 mozilla.org###site-nonfx
 snowstorm$script
 snow$script
@@ -295,15 +282,8 @@ pastebin.com##.promo-bar
 speedtest.net##.eot-mini-survey
 cbr.com##.quiz.browse-content
 cbr.com##.video.browse-content
-screenrant.com##.quiz.browse-content
-screenrant.com##.video.browse-content
-screenrant.com##.related.browse-content
-screenrant.com###tags-anchor
-speedtest.net##.result-item-share.result-item
 backend_ptc.php
 frontend_ptc.js
-screenrant.com##.wrap-pad.article > .thumbs-wrapper
-screenrant.com##.quiz-share-btn.quiz-action-btn
 beta.speedtest.net##a[href^="http://www.speedtest.net/"]
 youtube.com##.yt-uix-expander-collapsed.live-chat-expander.yt-uix-expander
 kimcartoon.me##.w-right
@@ -319,8 +299,6 @@ pornhub.com##.kzpcaw
 kimcartoon.*##.videoAdClose
 facebook.com##._5pcr._7xp
 @@||d3ujids68p6xmq.cloudfront.net^$script,domain=beta.speedtest.net,badfilter
-screenrant.com##.title-section
-screenrant.com##.related-thumbs.thumb-list
 facebook.com##._3j6k
 mega.nz##.ads-left-block
 mega.nz##.ads-right-block
@@ -341,8 +319,6 @@ github.com/_private/browser/errors
 messenger.com/ajax/bz
 noadblock.js
 kimcartoon.*##.kcAds
-screenrant.com,cbr.com##.header-premium-zone
-screenrant.com,cbr.com##.premium-promo
 ||fmovies.is^$first-party,popup,badfilter
 howtogeek.com###purch_Y_R_1_1
 howtogeek.com###purch_Y_L_0_1
@@ -408,7 +384,6 @@ myanimelist.net##.icon-block-small.js-sns-icon-container
 ||oload.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: cdnjs.cloudflare.com  *.oloadcdn.net fonts.googleapis.com *.google.com fonts.gstatic.com
 |http:$third-party,popup,domain=fmovies.is,badfilter
 myanimelist.net##.js-sns-icon-container
-screenrant.com,cbr.com##.injected-video-by-load
 forbes.com##.collapse-sharing-login.slash-background.article-sidebar.article-top-navigation
 forbes.com##.ng-scope.video_placeholder
 ||forbes.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.forbesimg.com *.forbes.com platform.twitter.com *.twimg.com
@@ -497,8 +472,6 @@ comicbook.com##.channel.contentgroup:has-text(WorldWide Gaming)
 comicbook.com##.leftrail.sidebar > section:has-text(Follow Us)
 @@||embed.tawk.to^$script,domain=andrija-i-andjelka.com|clik.pw|debrideco.com|streamlord.com,badfilter
 screenrant.com##H6:has-text(Follow)
-screenrant.com##.social-list
-screenrant.com##.li-premium-zone
 */advertising.js$script,important,redirect=noopjs
 facebook.com##._5pcr:has-text(/People you may know|Connect with Facebook/)
 kirtuclub.com##a[href^="http://sexdug.com/"]
@@ -632,7 +605,6 @@ animenewsnetwork.com###infinite-scroll-outlet
 ||1337x.*^$csp=script-src 'self' 'unsafe-inline'
 uservoice.js$script
 typekit.net^
-screenrant.com,cbr.com##.featured-text
 wikia.com##.featured-video__wrapper
 @@||ox-d.bannertrack.net/auid=$badfilter
 @@||google.com/adsense/start/images/favicon.ico$badfilter
@@ -686,7 +658,6 @@ ghacks.net##.user-content > ul:has(a[href^='https://www.ghacks.net/'])
 ghacks.net##p:nth-of-type(4) > strong
 ||ghacks.net^$csp=script-src 'self' 'unsafe-inline'
 @@ghacks.net^$elemhide
-cbr.com,screenrant.com##a[href*="amazon.com"]
 speedtest.net##a[href*="legacy.speedtest.net"]
 kimcartoon.*##div[style*="width: 300px; height: 250px; float: left;"]
 kimcartoon.*###M253206ScriptRootC193365
@@ -794,3 +765,9 @@ admin-ajax.php^
 @@/js/advertisement-$script,badfilter
 adnxs.com^$important
 /http*.:\/\/.*[?|=|&|%|#|+].*/$popup,domain=0123movies.com|1337x.to|1movies.to|9anime.is|a-o.ninja|adsrt.com|ahlamtv.com|akvideo.stream|allmyvideos.netakvideo.stream|animeflv.net|animeid.io|asianvote.com|avgle.com|bittorrent.am|bmovies.to|clipconverter.cc|cloudtime.to|cruzing.xyz|dropapk.com|embed.nowvideo.sx|embed.videoweed.es|escdn.co|estream.to|extreme-board.com|eztv.ag|fastbay.net|fileone.tv|flash-x.tv|flashsx.tv|flashx.cc|flashx.me|flashx.run|flashx.sx|flashx.to|flashx.tv|flashx.ws|flashx1.tv|flashxx.tv|fmovies.is|fmovies.se|fmovies.to|fruithosted.net|fruitstreams.com|gogoanime.io|gorillavid.in|gowatchfreemovies.to|grammarist.com|ikwilthepiratebay.org|imagebam.com|imagefruit.com|imageporter.com|imagerar.com|img24.org|imgadult.com|imgbox.com|imgdrive.net|imgshots.com|imgsin.com|imgspice.com|imgtaxi.com|imgvip.net|imgwallet.com|indoxxi.tv|jkanime.net|katcr.host|katcr.party|kickass.cd|kickass.gg|kissasian.ch|kisscartoon.ac|lavamovies.se|m4ufree.com|m4ufree.tv|masterani.me|megaup.net|moecdn.io|monova.org|movie4k.is|mp3indirdur.mobi|myreadingmanga.info|mywebtv.info|newser.com|nosteam.ro|nowvideo.sx|oload.site|oload.stream|oload.xyz|oloadcdn.net|onhax.me|onlinevideoconverter.com|openload.co|openloadmovies.tv|opentpb.com|otakustream.tv|piratebayblocked.com|pirateproxy.sh|pirateproxy.website|playercdn.net|pornparadise.org|povwideo.net|powvideo.net|proxydl.cf|putlockertv.se|putlockertv.to|rapidvideo.com|rarbgproxy.org|readcomiconline.to|repelis.net|rule34hentai.net|seehd.pl|sendvid.com|sexuria.com|solarmoviesc.com|speedvid.net|sportp2p.com|stream.moe|stream2watch.org|streamango.com|streamcherry.com|streamplay.to|streamshunter.tv|suprafiles.org|telepisodes.co|thehiddenbay.fi|thehiddenbay.ws|thekat.nz|thepiratebay.red|thepiratebay.rocks|thepirateproxy.ws|theproxybay.me|thevideo.cc|thevideo.ch|thevideo.me|thevideo.website|torrentz.to|tpb.zone|tpbmirror.ga|tpbship.org|uktpbmirror.pw|unblocker.cc|unblocktpb.pro|userscloud.com|vidgg.to|vidlox.me|vidlox.tv|vidoza.net|vidto.me|vidtod.me|vidtudu.com|vidup.me|vidz7.com|vidzi.tv|vipleague.mobi|vodlock.co|watchcartoononline.com|watchonline.to|watchonlinemovies.com.pk|wholecloud.net|youwatch.org|yts.am,badfilter
+screenrant.com##.nav-social-list
+screenrant.com###js-tp-menu-btn
+screenrant.com##.footer-brands
+screenrant.com##.footer-social-list
+screenrant.com##.w-sharing
+screenrant.com##.art-body-sharing
