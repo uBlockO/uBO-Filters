@@ -339,7 +339,7 @@ twitter.com#@#.message-drawer.dialog, #react-root > div[data-reactroot] > div:la
 mega.nz##.red.download-button.button
 hollywoodreporter.com##.leaderboard-wrapper
 temp_share_folder
-||screenrant.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.srcdn.com platform.twitter.com *.instagram.com *.twimg.com *.imgur.com embed.redditmedia.com cdn.embedly.com
+||screenrant.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.srcdn.com platform.twitter.com *.instagram.com *.twimg.com *.imgur.com embed.redditmedia.com cdn.embedly.com *.facebook.com
 ||speedtest.net^$csp=script-src 'self' 'unsafe-inline' data: *.speedtest.net *.cdnst.net;img-src 'self' *.cdnst.net 
 ||cbr.com^$csp=script-src 'self' 'unsafe-inline' platform.twitter.com *.twimg.com platform.instagram.com *.imgur.com embed.redditmedia.com cdn.embedly.com
 outlook.live.com##a[href^="http://"]
@@ -771,3 +771,6 @@ screenrant.com##.footer-brands
 screenrant.com##.footer-social-list
 screenrant.com##.w-sharing
 screenrant.com##.art-body-sharing
+screenrant.com##.article-tags
+screenrant.com##.w-fb-like
+screenrant.com##.premium-promo
