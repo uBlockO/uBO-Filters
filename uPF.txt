@@ -776,8 +776,5 @@ screenrant.com##.w-injected-featured
 nosteam.ro##script:inject(window.open-defuser.js)
 quora.com##div[class*="PromptsList"]
 /\.(watchcartoononline|9anime|memecenter).*\/.*[(&|=|%|\/|?)]/$image,badfilter
-@@||9anime.is/assets/min/frontend/all.js$badfilter
-@@||9anime.is/assets/player/jwplayer-*/jwplayer.js$badfilter
-@@||ajax.googleapis.com/ajax/libs/jquery/$badfilter
-@@||9anime.is/assets/favicons/favicon$image,badfilter
+9anime.is/*/jwplayer.js$important
 translate.google.com##.gt-hats
