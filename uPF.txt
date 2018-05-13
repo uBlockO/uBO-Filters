@@ -771,6 +771,7 @@ screenrant.com##.w-fb-like
 screenrant.com##.premium-promo
 screenrant.com##.next-btn
 screenrant.com##.article-related
+screenrant.com##.w-injected-featured
 ||screenrant.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.srcdn.com platform.twitter.com *.instagram.com *.twimg.com *.imgur.com embed.redditmedia.com cdn.embedly.com www.facebook.com www.youtube.com *.ytimg.com fonts.googleapis.com fonts.gstatic.com
 nosteam.ro##script:inject(window.open-defuser.js)
 quora.com##div[class*="PromptsList"]
