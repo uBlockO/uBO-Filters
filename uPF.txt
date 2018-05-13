@@ -780,3 +780,4 @@ quora.com##div[class*="PromptsList"]
 @@||9anime.is/assets/player/jwplayer-*/jwplayer.js$badfilter
 @@||ajax.googleapis.com/ajax/libs/jquery/$badfilter
 @@||9anime.is/assets/favicons/favicon$image,badfilter
+translate.google.com##.gt-hats
