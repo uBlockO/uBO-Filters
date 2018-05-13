@@ -166,7 +166,6 @@ imdb.com##.footer-grid-wrapper.container
 imdb.com###sidebar
 ||$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval',domain=windowscentral.com|androidcentral.com
 ||youtube.com^$csp=default-src 'self' 'unsafe-inline' blob: data: *.ggpht.com *.googlevideo.com *.ytimg.com fonts.googleapis.com fonts.gstatic.com *.googleusercontent.com
-speedtest.net##.alert-container
 xhamster.com###supportAds
 pubmedia.js
 wp-content/uploads/$script
@@ -238,7 +237,7 @@ dwatchseries.to###header-2
 ads$script,domain=~imdb.com
 torrentz2.eu##a[href^="/"]:has-text(Download Direct)
 istream.*##.button
-chip.*,speedtest.net##script:inject(rdo.js, _sp_, noopFunc)
+chip.*##script:inject(rdo.js, _sp_, noopFunc)
 contributor.google.com/scripts/
 androidcentral.com,windowscentral.com##.mn_mbn_share
 gyazo.com##.image-infos
@@ -284,7 +283,6 @@ cbr.com##.quiz.browse-content
 cbr.com##.video.browse-content
 backend_ptc.php
 frontend_ptc.js
-beta.speedtest.net##a[href^="http://www.speedtest.net/"]
 youtube.com##.yt-uix-expander-collapsed.live-chat-expander.yt-uix-expander
 kimcartoon.me##.w-right
 kimcartoon.me###hideAds
@@ -298,7 +296,6 @@ pornhub.com##.kzpcaw
 ||thepiratebay.org/*.php?$badfilter
 kimcartoon.*##.videoAdClose
 facebook.com##._5pcr._7xp
-@@||d3ujids68p6xmq.cloudfront.net^$script,domain=beta.speedtest.net,badfilter
 facebook.com##._3j6k
 mega.nz##.ads-left-block
 mega.nz##.ads-right-block
@@ -657,7 +654,6 @@ ghacks.net##.user-content > ul:has(a[href^='https://www.ghacks.net/'])
 ghacks.net##p:nth-of-type(4) > strong
 ||ghacks.net^$csp=script-src 'self' 'unsafe-inline'
 @@ghacks.net^$elemhide
-speedtest.net##a[href*="legacy.speedtest.net"]
 kimcartoon.*##div[style*="width: 300px; height: 250px; float: left;"]
 kimcartoon.*###M253206ScriptRootC193365
 openload.co/r3/f^
