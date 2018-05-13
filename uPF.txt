@@ -574,10 +574,8 @@ kissanime.*##.rightBox:has-text(Like me)
 boxofficemojo.com###Player_82160f42-9620-4d0a-b79a-18b1abd853fb
 bmovies.*,fmovies.*##.col-lg-12:has-text(blockbuster)
 bmovies.*,fmovies.*##.footerdesc
-cbr.com##.article-content > p:has-text(/RELATED:|REVIEW:/)
 adbd^
 bulbagarden.net###bottomframelower
-bmovies.*,fmovies.*,9anime.*,solarmoviex.*,putlockertv.*##.pa
 xmlrpc.php^
 ||flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
 milfzr.com,dwatchseries.to,bmovies.*,solarmoviex.*,putlockertv.*##script:inject(abort-current-inline-script.js, atob, tabunder)
@@ -655,7 +653,6 @@ ghacks.net##p:nth-of-type(4) > strong
 ||ghacks.net^$csp=script-src 'self' 'unsafe-inline'
 @@ghacks.net^$elemhide
 kimcartoon.*##div[style*="width: 300px; height: 250px; float: left;"]
-kimcartoon.*###M253206ScriptRootC193365
 openload.co/r3/f^
 facebook.com###page_tv_show_playlists
 facebook.com###page_tv_show_extra_clips
@@ -681,7 +678,6 @@ xvideos.com##script:inject(rdo.js, console, noopFunc)
 androidcentral.com##script:inject(noeval-if.js, atob)
 @@/wp-content/plugins/detect-adblock/js/ads.js$script,first-party,badfilter
 @@/wp-content/plugins/google-analytics-for-wordpress/$first-party,script,badfilter
-cbr.com##p > strong:has-text(READ)
 pornhub.com#@#script:inject(csp.js, img-src 'self' *; media-src 'self' *)
 @@*$csp=script-src 'self' * data: 'unsafe-inline' 'unsafe-eval',domain=pornhub.com|xhamster.com|youporn.com
 comicbook.com##.mid-content-comment
@@ -689,7 +685,7 @@ comicbook.com##.article-footer-comments
 /^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to|ebd\.cda\.pl|gamedor\.usermd\.net)\/).)*$/$subdocument,domain=a-o.ninja|centrum-dramy.pl|love-drama.pl|vidfile.net,badfilter
 /^((?!(^https?):\/\/(ajax\.googleapis\.com|cdnjs\.cloudflare\.com|vk\.com)\/).)*$/$script,third-party,domain=kinokrad.co,badfilter
 flixanity.*/*/somethingfun.js$script
-||mcloud.to^$csp=default-src 'self' 'unsafe-inline' *.mcloud.to *.fmovies.se ajax.googleapis.com ssl.p.jwpcdn.com blob: fonts.googleapis.com fonts.gstatic.com
+||mcloud.to^$csp=default-src 'self' 'unsafe-inline' blob: *.mcloud.to *.fmovies.se ajax.googleapis.com ssl.p.jwpcdn.com fonts.googleapis.com fonts.gstatic.com
 putlockertv.*##.col-md-7
 comicbook.com##.urgent-module
 |https://$third-party,stylesheet,domain=fmovies.is|fmovies.se|fmovies.to,badfilter
@@ -778,4 +774,4 @@ quora.com##div[class*="PromptsList"]
 /\.(watchcartoononline|9anime|memecenter).*\/.*[(&|=|%|\/|?)]/$image,badfilter
 9anime.is/*/jwplayer.js$important
 translate.google.com##.gt-hats
-9anime.*##script:inject(eclick.js, .cover)
+9anime.*,fmovies.*,solarmoviex.*,putlockertv.*##script:inject(eclick.js, .cover)
