@@ -715,7 +715,7 @@ google-analytics.com^$important
 ghacks.net##.cookie-notice-container
 xvideos.com##.videoad-title
 youtube.com###sponsor-button
-*/banner/$inline-script,subdocument
+/banner^$inline-script,subdocument
 outlook.live.com##._2_qTnZN22tYhluWaFTEMvp
 hanime.tv##.desktop.unit
 hanime.tv##.footer__column.flex:has-text(Partners)
@@ -775,3 +775,4 @@ quora.com##div[class*="PromptsList"]
 9anime.is/*/jwplayer.js$important
 translate.google.com##.gt-hats
 9anime.*,fmovies.*,solarmoviex.*,putlockertv.*##script:inject(eclick.js, .cover)
+*/advertisement.js$xmlhttprequest,redirect=nooptext,important
