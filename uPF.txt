@@ -776,3 +776,4 @@ quora.com##div[class*="PromptsList"]
 translate.google.com##.gt-hats
 9anime.*,fmovies.*,solarmoviex.*,putlockertv.*##script:inject(eclick.js, .cover)
 */advertisement.js$xmlhttprequest,redirect=nooptext,important
+@@/advert.js$script,badfilter
