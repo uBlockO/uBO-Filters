@@ -782,3 +782,4 @@ kimcartoon.me##script:inject(abort-current-inline-script.js, atob, 00ivc)
 kimcartoon.me###divComments
 kimcartoon.me###disqus_thread
 kimcartoon.me##div[id*="ScriptRoot"]
+|https://$xmlhttprequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
