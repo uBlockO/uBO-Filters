@@ -778,3 +778,4 @@ translate.google.com##.gt-hats
 */advertisement.js$xmlhttprequest,redirect=nooptext,important
 @@/advert.js$script,badfilter
 openload.co##script:inject(eclick.js, #videooverlay)
+/kimcartoon\.me\/[0-9a-zA-Z]{10,25}/$script
