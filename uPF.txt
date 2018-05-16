@@ -778,3 +778,5 @@ translate.google.com##.gt-hats
 */advertisement.js$xmlhttprequest,redirect=nooptext,important
 @@/advert.js$script,badfilter
 openload.co##script:inject(eclick.js, #videooverlay)
+kimcartoon.me##script:inject(abort-current-inline-script.js, atob, null)
+kimcartoon.me###divComments
