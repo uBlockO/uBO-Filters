@@ -787,3 +787,4 @@ kimcartoon.me##div[id*="ScriptRoot"]
 cxresources^$script
 player_ads.html^$important
 mellowads.com^$important
+check.googlezip.net^$other
