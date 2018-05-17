@@ -785,3 +785,4 @@ kimcartoon.me##div[id*="ScriptRoot"]
 |https://$xmlhttprequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
 9anime.*##.text-center.widget
 cxresources^
+player_ads.html^$important
