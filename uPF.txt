@@ -788,4 +788,4 @@ cxresources^$script
 player_ads.html^$important
 mellowads.com^$important
 check.googlezip.net^$other
-/9anime\.is\/[0-9a-zA-Z]{10,25}/$script
+9anime.is/*.js$script
