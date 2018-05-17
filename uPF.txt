@@ -165,7 +165,7 @@ mrskin.com##.sk-wallpaper-riseup
 imdb.com##.footer-grid-wrapper.container
 imdb.com###sidebar
 ||$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval',domain=windowscentral.com|androidcentral.com
-||youtube.com^$csp=default-src 'self' 'unsafe-inline' blob: data: *.ggpht.com *.googlevideo.com *.ytimg.com fonts.googleapis.com fonts.gstatic.com *.googleusercontent.com
+||youtube.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.ggpht.com *.googlevideo.com *.ytimg.com fonts.googleapis.com fonts.gstatic.com *.googleusercontent.com
 xhamster.com###supportAds
 pubmedia.js
 wp-content/uploads/$script
