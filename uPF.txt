@@ -772,7 +772,6 @@ screenrant.com##.w-injected-featured
 nosteam.ro##script:inject(window.open-defuser.js)
 quora.com##div[class*="PromptsList"]
 /\.(watchcartoononline|9anime|memecenter).*\/.*[(&|=|%|\/|?)]/$image,badfilter
-9anime.is/*/jwplayer.js$important
 translate.google.com##.gt-hats
 9anime.*,fmovies.*,solarmoviex.*,putlockertv.*##script:inject(eclick.js, .cover)
 */advertisement.js$xmlhttprequest,redirect=nooptext,important
