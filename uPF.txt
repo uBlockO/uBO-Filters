@@ -786,3 +786,4 @@ kimcartoon.me##div[id*="ScriptRoot"]
 9anime.*##.text-center.widget
 cxresources^$script
 player_ads.html^$important
+mellowads.com^$important
