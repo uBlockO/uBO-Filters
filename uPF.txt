@@ -624,7 +624,7 @@ facebook.com/video/*/upnext/$xmlhttprequest
 animenewsnetwork.com###prompt-message
 @@||kisshentai.net/content/js/adframe.js^$badfilter
 @@||cloudfront.net/assets/$third-party,script,badfilter
-||github.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.github.com *.githubusercontent.com
+||github.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' wss: *.github.com *.githubusercontent.com
 kirtuclub.com##iframe[src*="youtube.com/embed/"]
 @@||hentaihaven.org/basement/js/adshow.js$badfilter
 dwatchseries.to###rotating-item-wrapper
