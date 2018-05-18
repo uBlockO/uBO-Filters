@@ -60,7 +60,7 @@ pornhub.com##.clear.hd.jisfhp0w2u
 taboola.com^$important
 screenrant.com##.video-block-main.video-block
 .net##.no-shadow.ad-vertical-tower.ad-vertical-container
-$websocket,domain=~mega.nz|~speedtest.net|~mewe.com
+$websocket,domain=~mega.nz|~speedtest.net|~mewe.com|~github.com
 googletagmanager.com^$important
 milfzr.com,blockadblock.com,onhax.me##script:inject(bab-defuser.js)
 comicbook.com##a[href^="http://amzn.to/"]
