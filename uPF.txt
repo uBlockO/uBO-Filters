@@ -1,4 +1,4 @@
-[uBlock Origin 1.16.7.1]
+[uBlock Origin 1.16.7.2]
 ! Title: uBO Personal Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -787,3 +787,8 @@ player_ads.html^$important
 mellowads.com^$important
 check.googlezip.net^$other
 9anime.is/*.js$script
+google.com/adsense$important
+ad.foxnetworks.com$important
+@@||ads.twitter.com/favicon.ico$badfilter
+ads.yahoo.com$important
+@@||doubleclickbygoogle.com/favicon.ico$badfilter
