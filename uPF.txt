@@ -795,3 +795,4 @@ doubleclickbygoogle.com$important
 adnetasia.com^$important
 bannertrack.net^$important
 ||finalservers.net^$csp=script-src 'self' 'unsafe-eval' *.finalservers.net
+@@/fuckadblock.$script,badfilter
