@@ -789,6 +789,8 @@ check.googlezip.net^$other
 9anime.is/*.js$script
 google.com/adsense$important
 ad.foxnetworks.com$important
-@@||ads.twitter.com/favicon.ico$badfilter
-ads.yahoo.com$important
-@@||doubleclickbygoogle.com/favicon.ico$badfilter
+ads.twitter.com$important
+yahoo.com$third-party,important
+doubleclickbygoogle.com$important
+adnetasia.com^$important
+bannertrack.net^$important
