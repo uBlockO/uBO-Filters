@@ -786,7 +786,6 @@ cxresources^$script
 player_ads.html^$important
 mellowads.com^$important
 check.googlezip.net^$other
-9anime.is/*.js$script
 google.com/adsense$important
 ad.foxnetworks.com$important
 ads.twitter.com$important
