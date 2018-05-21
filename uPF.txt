@@ -1,4 +1,4 @@
-[uBlock Origin 1.16.7.2]
+[uBlock Origin 1.16.7b4]
 ! Title: uBO Personal Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -776,7 +776,7 @@ translate.google.com##.gt-hats
 */advertisement.js$xmlhttprequest,redirect=nooptext,important
 @@/advert.js$script,badfilter
 openload.co##script:inject(eclick.js, #videooverlay)
-kimcartoon.me##script:inject(abort-current-inline-script.js, atob, 00ivc)
+kimcartoon.me,readcomiconline.to##script:inject(abort-current-inline-script.js, atob, 00ivc)
 kimcartoon.me###divComments
 kimcartoon.me###disqus_thread
 kimcartoon.me##div[id*="ScriptRoot"]
