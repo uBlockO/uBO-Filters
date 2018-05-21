@@ -797,3 +797,5 @@ bannertrack.net^$important
 @@/fuckadblock.$script,badfilter
 ||twitter.com^$important,third-party,domain=~screenrant.com|~cbr.com|~heroichollywood.com|~collider.com|~movieweb.com|~deadline.com|~comicbook.com|~thewrap.com|~hollywoodreporter.com|~comingsoon.net
 gravatar.com^$important
+gitlab.com##.gke-promo-banner
+||streamango.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.streamango.com *.fruithosted.net cdnjs.cloudflare.com
