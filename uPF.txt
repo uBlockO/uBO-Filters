@@ -795,4 +795,4 @@ adnetasia.com^$important
 bannertrack.net^$important
 ||finalservers.net^$csp=script-src 'self' 'unsafe-eval' *.finalservers.net
 @@/fuckadblock.$script,badfilter
-||twitter.com^$important,domain=~screenrant.com|~cbr.com|~heroichollywood.com|~collider.com|~movieweb.com
+||twitter.com^$important,domain=~screenrant.com|~cbr.com|~heroichollywood.com|~collider.com|~movieweb.com|~deadline.com|~comicbook.com|~thewrap.com
