@@ -796,3 +796,4 @@ bannertrack.net^$important
 ||finalservers.net^$csp=script-src 'self' 'unsafe-eval' *.finalservers.net
 @@/fuckadblock.$script,badfilter
 ||twitter.com^$important,third-party,domain=~screenrant.com|~cbr.com|~heroichollywood.com|~collider.com|~movieweb.com|~deadline.com|~comicbook.com|~thewrap.com|~hollywoodreporter.com
+gravatar.com^$important
