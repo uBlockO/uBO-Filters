@@ -782,6 +782,7 @@ kimcartoon.me###disqus_thread
 kimcartoon.me##div[id*="ScriptRoot"]
 |https://$xmlhttprequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
 9anime.*##.text-center.widget
+9anime.*##script:inject(reor.js, #sidebar > .text-center.crop.widget)
 cxresources^$script
 player_ads.html^$important
 mellowads.com^$important
