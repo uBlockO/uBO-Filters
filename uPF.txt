@@ -802,3 +802,4 @@ gitlab.com##.gke-promo-banner
 masterani.me##.header.master.ui:has-text(Disqus)
 masterani.me##.aligned.center.column.wide.sixteen
 ||streamango.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.streamango.com *.fruithosted.net cdnjs.cloudflare.com
+reddit.com/chat^
