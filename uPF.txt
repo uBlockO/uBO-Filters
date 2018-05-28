@@ -788,10 +788,10 @@ player_ads.html^$important
 mellowads.com^$important
 check.googlezip.net^$other
 google.com/adsense$important
-ad.foxnetworks.com$important
-ads.twitter.com$important
-yahoo.com$third-party,important
-doubleclickbygoogle.com$important
+ad.foxnetworks.com^$important
+ads.twitter.com^$important
+yahoo.com^$third-party,important
+doubleclickbygoogle.com^$important
 adnetasia.com^$important
 bannertrack.net^$important
 ||finalservers.net^$csp=script-src 'self' 'unsafe-eval' *.finalservers.net
@@ -806,3 +806,4 @@ reddit.com/chat^
 masterani.me##.campaign.column.wide.sixteen
 ||masterani.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.masterani.me fonts.googleapis.com fonts.gstatic.com www.youtube.com *.ytimg.com cdnjs.cloudflare.com streamango.com *.fruithosted.com openload.co *.oloadcdn.net *.rapidvideo.com *.playercdn.net stream.moe mp4upload.com tiwi.kiwi
 ping^
+@@||trends.revcontent.com/serve.js.php$domain=9anime.is,badfilter
