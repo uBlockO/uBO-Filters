@@ -1,4 +1,4 @@
-[uBlock Origin 1.16.7b4]
+[uBlock Origin 1.16.9b0]
 ! Title: uBO Personal Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -806,4 +806,4 @@ reddit.com/chat^
 masterani.me##.campaign.column.wide.sixteen
 ||masterani.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.masterani.me fonts.googleapis.com fonts.gstatic.com www.youtube.com *.ytimg.com cdnjs.cloudflare.com streamango.com *.fruithosted.com openload.co *.oloadcdn.net *.rapidvideo.com *.playercdn.net stream.moe mp4upload.com tiwi.kiwi
 ping^
-@@||trends.revcontent.com/serve.js.php$domain=9anime.is,badfilter
+revcontent.com^$important
