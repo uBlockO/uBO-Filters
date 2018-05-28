@@ -336,7 +336,7 @@ mega.nz##.red.download-button.button
 hollywoodreporter.com##.leaderboard-wrapper
 temp_share_folder
 ||speedtest.net^$csp=script-src 'self' 'unsafe-inline' data: *.speedtest.net *.cdnst.net;img-src 'self' *.cdnst.net 
-||cbr.com^$csp=default-src 'self' 'unsafe-inline' *.cbrimages.com platform.twitter.com www.twitter.com *.twimg.com platform.instagram.com www.instagram.com *.imgur.com embed.redditmedia.com cdn.embedly.com fonts.googleapis.com fonts.gstatic.com
+||cbr.com^$csp=default-src 'self' 'unsafe-inline' *.cbrimages.com www.youtube.com *.ytimg.com platform.twitter.com www.twitter.com *.twimg.com platform.instagram.com www.instagram.com *.imgur.com embed.redditmedia.com cdn.embedly.com fonts.googleapis.com fonts.gstatic.com
 outlook.live.com##a[href^="http://"]
 promo$script
 ||pornhub.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.phncdn.com *.pornhub.com fonts.googleapis.com fonts.gstatic.com translate.googleapis.com *.nsimg.net *.rncdn3.com
