@@ -809,3 +809,4 @@ ping^
 revcontent.com^$important
 cbr.com##.premium-promo
 cbr.com##.header-premium-zone
+but.to^$important
