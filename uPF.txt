@@ -11,10 +11,6 @@ pornhub.com###welcome
 youtube.com###watch-action-panels
 youtube.com###chat
 forbes.com##.undefined-expanded
-heroichollywood.com##.adbox-long
-heroichollywood.com##.adbox-sidebar
-heroichollywood.com##.sidebar
-||heroichollywood.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' heroichollywood.b-cdn.net platform.twitter.com *.twimg.com platform.instagram.com embed.redditmedia.com cdn.embedly.com
 bulbagarden.net##.rlsmobile
 bulbagarden.net###bottomframe
 bulbagarden.net##a[href="http://goo.gl/uQ5bIR"]
@@ -78,7 +74,6 @@ kissanime.*##strong
 screenrant.com##.sg-sharing-option
 cartoonhd.*,movieshd.watch,istream.*###credits
 cartoonhd.*,movieshd.watch,istream.is,flixanity.*##a[href="#credits"]
-heroichollywood.com##.author-box
 torrentfreak.com##.comments.pbx-alt.pbx
 air.irctc.co.in###bodyBottom
 air.irctc.co.in##.col2
@@ -98,7 +93,6 @@ cbr.com##.video-block-ads.video-block
 cbr.com##.related-section
 myanimelist.net##.clearfix.index-watch-description
 logpopup
-heroichollywood.com##.crp_related
 trailer-track.com##.comments-area-wrapper
 trailer-track.com###colophon
 trailer-track.com###actionbar
@@ -511,7 +505,6 @@ comicbook.com##.categorysocial_lst
 kisshentai.*##a[href^="https://theporndude.com/"]
 kisshentai.*##a[href^="http://kissdoujin.com/"]
 kisshentai.*##img[src^="https://theporndude.com/"]
-heroichollywood.com##.insert-page
 @@||next-episode.net^$script,badfilter
 forbes.com##sharing
 forbes.com##.fs-responsive-text.fs-text-s
@@ -650,12 +643,11 @@ ghacks.net##.user-content > ul:has(a[href^='https://www.ghacks.net/'])
 ghacks.net##p:nth-of-type(4) > strong
 ||ghacks.net^$csp=script-src 'self' 'unsafe-inline'
 @@ghacks.net^$elemhide
-kimcartoon.*##div[style*="width: 300px; height: 250px; float: left;"]
+kimcartoon.*##div[style*="width: 300px; height: 250px;"]
 openload.co/r3/f^
 facebook.com###page_tv_show_playlists
 facebook.com###page_tv_show_extra_clips
 facebook.com###page_photos
-heroichollywood.com##.social-follow
 hanime.tv,streamcherry.com,openload.co,streamango.com##script:inject(addEventListener-defuser.js, wheel)
 outlook.live.com##.ms-bgc-ns.flexCenterItems.flex._db_O
 torrentz2.*##div[class*="Ad"]
