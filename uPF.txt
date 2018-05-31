@@ -802,3 +802,5 @@ cbr.com##.premium-promo
 cbr.com##.header-premium-zone
 but.to^$important
 clksite.com^$important
+kissanime.ru#@##adsIfrme8:style(display: block!important;)
+kissanime.ru#@##adsIfrme10:style(display: block!important;)
