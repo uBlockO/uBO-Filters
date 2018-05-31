@@ -127,7 +127,7 @@ mozilla.org###site-nonfx
 snowstorm$script
 snow$script
 wikia.com##.wds-global-footer
-tracking$script
+tracking$script,domain=~wikia.com
 infinite-articles
 outlook.live.com##a[href^="http://www.myfreecams.com/"]
 istream.*##.sources
