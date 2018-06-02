@@ -1,4 +1,4 @@
-[uBlock Origin 1.16.9b3]
+[uBlock Origin 1.16.9b4]
 ! Title: uBO Personal Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -707,7 +707,7 @@ youtube.com###sponsor-button
 outlook.live.com##._2_qTnZN22tYhluWaFTEMvp
 hanime.tv##.desktop.unit
 hanime.tv##.footer__column.flex:has-text(Partners)
-hanime.tv##.info__text__tags
+hanime.tv##.info__text__tags__title
 comicbook.com##.btn-wide-container
 google.*##.exp-outline
 google.*##div[id^="eob"]
