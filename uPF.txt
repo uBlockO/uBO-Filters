@@ -524,7 +524,7 @@ myanimelist.net##.anime_discussions.widget
 myanimelist.net##.promotional-video.video-block
 adblocker$script
 facebook.com###pagelet_page_cover
-report-uri.*^
+report-uri.com^
 @@||facebook.com/common/referer_frame.php$subdocument,domain=facebook.com,badfilter
 authedmine.com^
 lib/*.wasm^$important
