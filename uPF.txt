@@ -803,3 +803,5 @@ clksite.com^$important
 kissanime.ru#@##adsIfrme8:style(display: block!important;)
 kissanime.ru#@##adsIfrme10:style(display: block!important;)
 youtube.com###inline-recs-list-renderer
+9anime.*##[style*="visibility:visible"]
+/9anime.*\/[0-9a-zA-Z]{8,20}/$image
