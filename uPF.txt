@@ -806,3 +806,4 @@ youtube.com###inline-recs-list-renderer
 @@||9anime.is/assets/player/jwplayer-7.12.3/jwplayer.js$script,badfilter
 micro-logo.png^$image
 kimcartoon.me##[style*="width: 300px; height: 250px;"]
+fmovies.*##script:inject(abort-on-property-read.js, kqyyjsu)
