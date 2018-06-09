@@ -806,3 +806,4 @@ youtube.com###inline-recs-list-renderer
 /9anime.*\/[0-9a-zA-Z]{8,20}/$image
 @@||9anime.is/assets/player/jwplayer-7.12.3/jwplayer.js$script,badfilter
 micro-logo.png^$image
+kimcartoon.me##[style*="width: 300px; height: 250px;"]
