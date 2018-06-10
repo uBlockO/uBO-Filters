@@ -142,7 +142,6 @@ promo-banner.js^$important
 9anime.*,fmovies.*,solarmoviex.*##.home-socials
 wp-adblock-dedect$important
 fuckadblock.js
-readcomics.*##.main-share
 quora.com##.footer_alphabet
 quora.com##.ContentPageFeed
 forbes.com##.ng-scope.items
@@ -527,16 +526,6 @@ report-uri.com^
 authedmine.com^
 lib/*.wasm^$important
 jwpcdn.com/*/related.js$script
-readcomics.*##.panel-body
-readcomics.*##.alert-success.alert
-readcomics.*##.panel-default.panel
-readcomics.*##.col-sm-push-8.col-sm-4 > .row:nth-of-type(1) > .col-xs-12
-readcomics.*##.pager-cnt:nth-of-type(5) > .row:nth-of-type(3) > .col-xs-12
-readcomics.*##.pager-cnt:nth-of-type(5) > .row:nth-of-type(2) > .col-xs-12
-readcomics.*##.hrule
-readcomics.*##.nav-tabs.nav
-readcomics.*##a[href^="http://getcomics.info"]
-||readcomics.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' fonts.googleapis.com fonts.gstatic.com data:
 @@||facebook.com/share/share_now_menu/$xmlhttprequest,domain=facebook.com,badfilter
 @@||facebook.com/share/share_now_menu/$domain=facebook.com,badfilter
 comicbook.com##.aligncenter:has-text(NEXT:)
@@ -600,7 +589,6 @@ animenewsnetwork.com##h3:has-text(rate episode)
 animenewsnetwork.com##p:has-text(Crunchyroll)
 @@||google.*/ads/$third-party,image,badfilter
 socialCounts^
-readcomics.*##.ads
 rapidvideo.com,pornhub.com,streamango.com,openload.*,oload.*##script:inject(addEventListener-defuser.js, contextmenu)
 pornhub.com##.nf-wrapper > .sectionWrapper
 1337x.*##[href*="redirect"]
