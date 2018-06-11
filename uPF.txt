@@ -788,6 +788,7 @@ kissanime.ru#@##adsIfrme8:style(display: block!important;)
 kissanime.ru#@##adsIfrme10:style(display: block!important;)
 youtube.com###inline-recs-list-renderer
 9anime.*,kimcartoon.me##[style*="visibility:visible"]
+9anime.*##script:inject(abort-current-inline-script.js, atob, zfgloadedpopup)
 9anime.*/$image
 @@||9anime.is/assets/player/jwplayer-7.12.3/jwplayer.js$script,badfilter
 micro-logo.png^$image
