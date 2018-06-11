@@ -794,3 +794,5 @@ micro-logo.png^$image
 kimcartoon.me##[style*="width: 300px; height: 250px;"]
 fmovies.*##script:inject(abort-on-property-read.js, kqyyjsu)
 fmovies.*,putlockertv.*##script:inject(dwrite.js, /300x250|728x90/)
+hanime.tv##.htv-flag
+hanime.tv##.initialized
