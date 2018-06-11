@@ -490,7 +490,7 @@ imdb.com##.aux-content-widget-2:has-text(Connect)
 imdb.com##.aux-content-widget-2:nth-of-type(6)
 */ads.js$script,important,redirect=noopjs
 */*.ads.js$script,important,redirect=noopjs
-||hanime.tv^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.fbcdn.net cdn.discordapp.com *.googleusercontent.com vjs.zencdn.net *.hanime.tv *.algolia.net *.algolianet.com data: cdnjs.cloudflare.com fonts.googleapis.com fonts.gstatic.com cdn.jsdelivr.net unpkg.com *.satella.tv
+||hanime.tv^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.fbcdn.net cdn.discordapp.com *.googleusercontent.com vjs.zencdn.net *.hanime.tv *.algolia.net *.algolianet.com data: cdnjs.cloudflare.com fonts.googleapis.com fonts.gstatic.com cdn.jsdelivr.net unpkg.com *.satella.tv *.searchly.com
 @@||hanime.tv/*.ads.js$badfilter
 comicbook.com##.contentgroup:nth-of-type(7) > header
 comicbook.com##.contentgroup:nth-of-type(7) > article
