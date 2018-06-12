@@ -777,3 +777,4 @@ fmovies.*##script:inject(abort-on-property-read.js, kqyyjsu)
 fmovies.*,putlockertv.*##script:inject(dwrite.js, /300x250|728x90/)
 hanime.tv##.htv-flag
 hanime.tv##.initialized
+9anime.*##script:inject(abort-on-property-read.js, open)
