@@ -10,7 +10,6 @@ pornhub.com###under-player-comments
 pornhub.com###welcome
 youtube.com###watch-action-panels
 youtube.com###chat
-forbes.com##.undefined-expanded
 bulbagarden.net##.rlsmobile
 bulbagarden.net###bottomframe
 bulbagarden.net##a[href="http://goo.gl/uQ5bIR"]
@@ -144,11 +143,6 @@ wp-adblock-dedect$important
 fuckadblock.js
 quora.com##.footer_alphabet
 quora.com##.ContentPageFeed
-forbes.com##.ng-scope.items
-forbes.com##.default-expanded.article-trending-panel.article-sidebar-panel
-forbes.com##.\{\{vertical_class\}\}.\{\{sidebar_state\}\}.slash-background.article-sidebar.article-top-navigation
-forbes.com###fbs-ad-rail-article-\{\{article\.index\}\}
-iFramedAdTemplate
 myanimelist.net##.btn-mal-service
 myanimelist.net##.anime-detail-header-affiliate
 abtesting$important
@@ -185,7 +179,6 @@ youtube.com##.subscribecard-endscreen
 youtube.com##.ytp-ce-element
 youtube.com/get_endscreen?
 youtube.com#ytd-promoted-video-renderer
-forbes.com##[id^="google_ads_iframe_"]
 facebook.com##.rhc
 facebook.com###snowliftStageActions
 facebook.com##.home_right_column
@@ -370,9 +363,6 @@ myanimelist.net##.icon-block-small.js-sns-icon-container
 ||oload.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: cdnjs.cloudflare.com  *.oloadcdn.net fonts.googleapis.com *.google.com fonts.gstatic.com
 |http:$third-party,popup,domain=fmovies.is,badfilter
 myanimelist.net##.js-sns-icon-container
-forbes.com##.collapse-sharing-login.slash-background.article-sidebar.article-top-navigation
-forbes.com##.ng-scope.video_placeholder
-||forbes.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.forbesimg.com *.forbes.com platform.twitter.com *.twimg.com
 mega.nz##.checkbox-bl.download
 @@|https:$first-party,domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|chroniclelive.co.uk|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|everquest.allakhazam.com|financialpost.com|gofugyourself.com|hearthhead.com|ibtimes.com|idigitaltimes.com|infinitiev.com|latimes.com|leaderpost.com|legacy.com|lifewire.com|lolking.net|mcall.com|metacritic.com|montrealgazette.com|msn.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|stereogum.com|sun-sentinel.com|thebalance.com|theprovince.com|thespruce.com|thestarphoenix.com|thoughtco.com|timeanddate.com|tmn.today|torontosun.com|tvguide.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com|www.ign.com|zam.com,badfilter
 @@.ico^$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|chroniclelive.co.uk|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|everquest.allakhazam.com|financialpost.com|gofugyourself.com|hearthhead.com|ibtimes.com|idigitaltimes.com|infinitiev.com|latimes.com|leaderpost.com|legacy.com|lifewire.com|lolking.net|mcall.com|metacritic.com|montrealgazette.com|msn.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|stereogum.com|sun-sentinel.com|thebalance.com|theprovince.com|thespruce.com|thestarphoenix.com|thoughtco.com|timeanddate.com|tmn.today|torontosun.com|tvguide.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com|www.ign.com|zam.com,badfilter
@@ -414,10 +404,6 @@ wikia.com##.article-video
 wibbitz.com^
 thewrap.com###mobile-sticky-bottom
 ||thewrap.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' platform.twitter.com *.twimg.com platform.instagram.com *.thewrap.com *.jwpcdn.com
-forbes.com##.trending-expanded
-forbes.com##.circ-link
-forbes.com##.top-ad-container
-forbes.com##.fs-text-l
 googleblog.com##a[href^="https://plus.google.com/"]
 @@||kisscartoon.*^$first-party,script,badfilter
 googlevideo.io^
@@ -503,12 +489,6 @@ kisshentai.*##a[href^="https://theporndude.com/"]
 kisshentai.*##a[href^="http://kissdoujin.com/"]
 kisshentai.*##img[src^="https://theporndude.com/"]
 @@||next-episode.net^$script,badfilter
-forbes.com##sharing
-forbes.com##.fs-responsive-text.fs-text-s
-forbes.com##tweet-quotes
-forbes.com##a[href^="https://twitter.com/intent/tweet"]
-forbes.com/forbesapi/
-forbes.com##P:has-text(/Follow|More|Also on Forbes:/)
 hollywoodreporter.com##.logo-wrap
 hollywoodreporter.com##.social-container
 hollywoodreporter.com##.blog-post-tags
