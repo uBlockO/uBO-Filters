@@ -102,7 +102,7 @@ trailer-track.com##.post-author
 trailer-track.com##.next-post
 trailer-track.com##.prev-post
 trailer-track.com##.sidebar
-||trailer-track.com^$csp=script-src 'self' 'unsafe-inline' platform.twitter.com *.twimg.com platform.instagram.com
+||trailer-track.com^$csp=script-src 'self' 'unsafe-inline' platform.twitter.com *.twimg.com platform.instagram.com *.wp.com
 hollywoodreporter.com##.js-show-disqus-comments
 hollywoodreporter.com##.blog-post-syndication-section
 myanimelist.net/static/logging.html$xmlhttprequest
