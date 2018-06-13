@@ -777,7 +777,5 @@ fmovies.*##script:inject(abort-on-property-read.js, kqyyjsu)
 fmovies.*,putlockertv.*##script:inject(dwrite.js, /300x250|728x90/)
 hanime.tv##.htv-flag
 hanime.tv##.initialized
-9anime.*##[href^="//"]
 chromium.woolyss.com###share-this-page
 @@||chromium.woolyss.com^$elemhide
-9anime.*#@#script:inject(set-constant.js, Object.defineProperty, noopFunc)
