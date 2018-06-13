@@ -780,3 +780,4 @@ hanime.tv##.initialized
 9anime.*##script:inject(window.open-defuser.js)
 9anime.*##[href^="//"]
 chromium.woolyss.com###share-this-page
+@@||chromium.woolyss.com^$elemhide
