@@ -221,7 +221,6 @@ dwatchseries.to###header-2
 ads$script,domain=~imdb.com
 torrentz2.eu##a[href^="/"]:has-text(Download Direct)
 istream.*##.button
-chip.*##script:inject(rdo.js, _sp_, noopFunc)
 contributor.google.com/scripts/
 androidcentral.com,windowscentral.com##.mn_mbn_share
 gyazo.com##.image-infos
@@ -265,8 +264,6 @@ pastebin.com##.promo-bar
 speedtest.net##.eot-mini-survey
 cbr.com##.quiz.browse-content
 cbr.com##.video.browse-content
-backend_ptc.php
-frontend_ptc.js
 youtube.com##.yt-uix-expander-collapsed.live-chat-expander.yt-uix-expander
 kimcartoon.me##.w-right
 kimcartoon.me###hideAds
@@ -328,8 +325,6 @@ promo$script
 ||reddit.com^$csp=script-src 'self' *.redditstatic.com 'unsafe-inline' 'unsafe-eval'
 youtube.com###movie-upsell-card
 youtube.com##.yt-lockup-movie-vertical-poster.yt-lockup-tile.yt-lockup
-@@||ads.clubedohardware.com.br/$badfilter
-@@||ads.clubedohardware.com.br/www/delivery/$script,badfilter
 hollywoodreporter.com##.readmore
 ||hollywoodreporter.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.instagram.com platform.twitter.com *.twimg.com players.brightcove.net *.zencdn.net *.hollywoodreporter.com blob:
 deadline.com##.ppp-ad
@@ -351,7 +346,6 @@ deadline.com##.related-article
 ||deadline.com^$csp=script-src 'self' platform.twitter.com *.twimg.com *.deadline.com *.wp.com 'unsafe-inline'
 ||torrentz2.eu^$csp=script-src 'self' 'unsafe-inline' *.google.com *.gstatic.com
 ||thepiratebay.*^$csp=script-src 'self' 'unsafe-inline'
-||ugbase.eu^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval'
 ad-view$script,important
 ||kissanime.ru^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.stream *.oloadcdn.net streamango.com *.fruithosted.net *.fbcdn.net
 ||facebook.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.fbcdn.net
@@ -402,8 +396,6 @@ thepiratebay.*###details > div:nth-of-type(3) > div:has-text(magnets)
 wikia.com##.article-video
 @@||googletagmanager.com/gtm.js?$domain=airasia.com|bhaskar.com|broadcom.com|computerworlduk.com|desigual.com|drumstick.com|ebuyer.com|elevationscu.com|gamepix.com|git-tower.com|google.com|itv.com|jobs.net|keygames.com|magicjack.com|moviefone.com|nestio.com|newsy.com|optus.com.au|rebtel.com|rockstargames.com|rollingstone.com|rozetka.com.ua|sixflags.com|support.amd.com|talktalk.co.uk|techradar.com|toto.co.jp|usmagazine.com,badfilter
 wibbitz.com^
-thewrap.com###mobile-sticky-bottom
-||thewrap.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' platform.twitter.com *.twimg.com platform.instagram.com *.thewrap.com *.jwpcdn.com
 googleblog.com##a[href^="https://plus.google.com/"]
 @@||kisscartoon.*^$first-party,script,badfilter
 googlevideo.io^
@@ -534,7 +526,6 @@ fmovies.*##.col-lg-12:has-text(blockbuster)
 fmovies.*##.footerdesc
 adbd^
 bulbagarden.net###bottomframelower
-xmlrpc.php^
 ||flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
 milfzr.com,dwatchseries.to,solarmoviex.*,putlockertv.*##script:inject(abort-current-inline-script.js, atob, /tabunder|TABUNDER/)
 rapidvideo.com###top350b
@@ -595,7 +586,6 @@ kimcartoon.me###videoAd
 9anime.*##.share
 crwdcntrl.net^$important
 amazon-adsystem.com^$important
-
 @@||ajax.cloudflare.com/cdn-cgi/scripts/$third-party,script,badfilter
 ghacks.net##.ghacks_share_widget.widget
 ghacks.net##.ghacks_this_day.widget
@@ -604,9 +594,7 @@ ghacks.net##.ghacks_last_updated.widget
 ghacks.net##.border--top--gray
 ghacks.net###snippet-box
 ghacks.net###respond
-ghacks.net##.user-content > p:has-text(/Tip|Now You|Now Read|Related/)
 ghacks.net##.user-content > ul:has(a[href^='https://www.ghacks.net/'])
-ghacks.net##p:nth-of-type(4) > strong
 ||ghacks.net^$csp=script-src 'self' 'unsafe-inline'
 @@ghacks.net^$elemhide
 openload.co/r3/f^
@@ -721,7 +709,6 @@ screenrant.com##.article-related
 screenrant.com##.w-injected-featured
 ||screenrant.com^$csp=default-src 'self' 'unsafe-inline' data: 'unsafe-eval' *.srcdn.com twitter.com platform.twitter.com ajax.googleapis.com www.instagram.com *.twimg.com *.imgur.com embed.redditmedia.com cdn.embedly.com *.facebook.com www.youtube.com *.ytimg.com fonts.googleapis.com fonts.gstatic.com
 nosteam.ro##script:inject(window.open-defuser.js)
-quora.com##div[class*="PromptsList"]
 /\.(watchcartoononline|9anime|memecenter).*\/.*[(&|=|%|\/|?)]/$image,badfilter
 translate.google.com##.gt-hats
 9anime.*,fmovies.*,solarmoviex.*,putlockertv.*##script:inject(eclick.js, .cover)
@@ -778,3 +765,4 @@ chromium.woolyss.com###share-this-page
 @@||chromium.woolyss.com^$elemhide
 9anime.*#@#script:inject(set-constant.js, Object.defineProperty, noopFunc)
 @@/wp-content/*/adve*.js$script,badfilter
+animenewsnetwork.com##.thumbnail:has-text(ad)
