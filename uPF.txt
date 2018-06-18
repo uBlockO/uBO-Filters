@@ -767,3 +767,6 @@ chromium.woolyss.com###share-this-page
 @@/wp-content/*/adve*.js$script,badfilter
 animenewsnetwork.com##.thumbnail:has-text(ad)
 evidon.com^
+readcomiconline.to##.top_page_alert
+readcomiconline.to##[style*="width: 1010px; height: 200px"]
+readcomiconline.to###disqus_thread
