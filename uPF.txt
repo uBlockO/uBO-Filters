@@ -714,7 +714,7 @@ translate.google.com##.gt-hats
 9anime.*,fmovies.*,solarmoviex.*,putlockertv.*##script:inject(eclick.js, .cover)
 */advertisement.js$xmlhttprequest,redirect=nooptext,important
 @@/advert.js$script,badfilter
-openload.co###videoverlay,important
+openload.co###videooverlay,important
 kimcartoon.me,readcomiconline.to##script:inject(abort-current-inline-script.js, atob, 00ivc)
 kimcartoon.me###divComments
 kimcartoon.me###disqus_thread
