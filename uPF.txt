@@ -772,3 +772,4 @@ readcomiconline.to##[style*="width: 1010px; height: 200px"]
 readcomiconline.to###disqus_thread
 ||readcomiconline.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.bp.blogspot.com
 kimcartoon.me##.top_page_alert
+hanime.tv##.user_comments.lazy
