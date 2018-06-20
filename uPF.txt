@@ -554,8 +554,6 @@ kissanime.*##.bigBarContainer div[id^="adsIfrme"]
 @@||exoclick.com/ad_track.js$badfilter
 exoclick.com^$important
 exosrv.com^$important
-animenewsnetwork.com##h3:has-text(rate episode)
-animenewsnetwork.com##p:has-text(Crunchyroll)
 @@||google.*/ads/$third-party,image,badfilter
 socialCounts^
 rapidvideo.com,pornhub.com,streamango.com,openload.*,oload.*##script:inject(addEventListener-defuser.js, contextmenu)
