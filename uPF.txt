@@ -146,7 +146,7 @@ quora.com##.ContentPageFeed
 myanimelist.net##.btn-mal-service
 myanimelist.net##.anime-detail-header-affiliate
 abtesting$important
-@@wikia.com^$elemhide
+@@||wikia.com^$elemhide
 mrskin.com##.sk-wallpaper-riseup
 imdb.com##.footer-grid-wrapper.container
 imdb.com###sidebar
@@ -350,7 +350,7 @@ ad-view$script,important
 ||kissanime.ru^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.stream *.oloadcdn.net streamango.com *.fruithosted.net *.fbcdn.net
 ||facebook.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.fbcdn.net
 ||myanimelist.net^$csp=script-src 'self' 'unsafe-eval' 'unsafe-inline' myanimelist.cdn-dena.com
-@@myanimelist.net^$elemhide
+@@||myanimelist.net^$elemhide
 myanimelist.net##.icon-block-small.js-sns-icon-container
 @@||spotscenered.info/scripts/infinity.js.aspx?guid=$script,domain=watchfree.to,badfilter
 ||openload.co^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.openload.co cdnjs.cloudflare.com  *.oloadcdn.net fonts.googleapis.com *.google.com fonts.gstatic.com
@@ -370,8 +370,8 @@ cbr.com##.section-right
 cbr.com###secondary
 ||dwatchseries.to^$csp=script-src 'self' 'unsafe-inline' *.dwatchseries.to
 cookieconsent.min$important
-@@9anime.*^$elemhide
-@@fmovies.*^$elemhide
+@@||9anime.*^$elemhide
+@@||fmovies.*^$elemhide
 @@||openload.co/assets/js/script.*.js$domain=openload.co,badfilter
 fmovies.*,9anime.*##.socials
 fmovies.*,9anime.*##.twitter-follow-button
@@ -406,7 +406,6 @@ datasaver.googleapis.com^
 youtube.com##.style-default.force-icon-button.ytd-menu-renderer.style-scope
 @@||business-standard.com/ad/banner.js$badfilter
 adblock$important,script
-@@blogspot.*^$elemhide
 facebook.com##._50z3._9bp._1ltv
 facebook.com##._55ob._4kqp
 howtogeek.com##.article-bottom
@@ -419,11 +418,11 @@ kimcartoon.*##.alert-info.alert
 kimcartoon.*##.mb15.full
 kimcartoon.*###btnShowComments
 thepiratebay.*/*/$inline-script,subdocument
-@@screenrant.com^$elemhide
+@@||screenrant.com^$elemhide
 screenrant.com##.ad-zone-container
 ||kimcartoon.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.zencdn.net *.rapidvideo.com *.playercdn.net openload.co *.oloadcdn.net streamango.com *.fruithosted.net www.google.com *.gstatic.com i.imgur.com;media-src *
 screenrant.com##.twitter.icon
-@@cbr.com^$elemhide
+@@||cbr.com^$elemhide
 cbr.com##.sharing-option
 cbr.com##.ad-zone-container
 comicbook.com##.modernInContent
@@ -480,7 +479,6 @@ comicbook.com##.categorysocial_lst
 kisshentai.*##a[href^="https://theporndude.com/"]
 kisshentai.*##a[href^="http://kissdoujin.com/"]
 kisshentai.*##img[src^="https://theporndude.com/"]
-@@||next-episode.net^$script,badfilter
 hollywoodreporter.com##.logo-wrap
 hollywoodreporter.com##.social-container
 hollywoodreporter.com##.blog-post-tags
@@ -580,7 +578,7 @@ dwatchseries.to##.freeEpisode
 ||gorillavid.in^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com;worker-src 'none'
 gorillavid.in##script:inject(setTimeout-defuser.js, /0x/)
 socket.io^
-@@kimcartoon.me^$elemhide
+@@||kimcartoon.me^$elemhide
 kimcartoon.me###videoAd
 9anime.*##.comment.widget
 9anime.*##.share
@@ -596,7 +594,7 @@ ghacks.net###snippet-box
 ghacks.net###respond
 ghacks.net##.user-content > ul:has(a[href^='https://www.ghacks.net/'])
 ||ghacks.net^$csp=script-src 'self' 'unsafe-inline'
-@@ghacks.net^$elemhide
+@@||ghacks.net^$elemhide
 openload.co/r3/f^
 facebook.com###page_tv_show_playlists
 facebook.com###page_tv_show_extra_clips
@@ -774,3 +772,4 @@ readcomiconline.to###disqus_thread
 kimcartoon.me##.top_page_alert
 hanime.tv##.user_comments.lazy
 /^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|mangapanda|mangareader|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ss]cripts|[Uu]ploads|[Ii]mages|assets|combined|content|cover|img|static|thumbs|wp-content|wp-includes))(.*)/$first-party,xmlhttprequest,badfilter
+@@||animenewsnetwork.com^$elemhide
