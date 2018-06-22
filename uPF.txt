@@ -772,3 +772,4 @@ hanime.tv##.user_comments.lazy
 /^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|mangapanda|mangareader|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ss]cripts|[Uu]ploads|[Ii]mages|assets|combined|content|cover|img|static|thumbs|wp-content|wp-includes))(.*)/$first-party,xmlhttprequest,badfilter
 @@||animenewsnetwork.com^$elemhide
 9anime.is##.small
+/js.cookie.$badfilter
