@@ -773,3 +773,4 @@ hanime.tv##.user_comments.lazy
 @@||animenewsnetwork.com^$elemhide
 9anime.is##.small
 /js.cookie.$badfilter
+adroll.com^$important
