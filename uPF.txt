@@ -779,3 +779,5 @@ netdna.bootstrapcdn.com^$third-party
 fluidplayer.com^$third-party
 @@||streamango.com/assets/js/script.packed.js$badfilter
 $font,third-party,important
+fonts.googleapis.com^$stylesheet,important
+fonts.gtatic.com^$stylesheet,important
