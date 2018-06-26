@@ -150,7 +150,7 @@ abtesting$important
 mrskin.com##.sk-wallpaper-riseup
 imdb.com##.footer-grid-wrapper.container
 imdb.com###sidebar
-||youtube.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.ggpht.com *.googlevideo.com *.ytimg.com fonts.googleapis.com fonts.gstatic.com *.googleusercontent.com
+||youtube.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.ggpht.com *.googlevideo.com *.ytimg.com *.googleusercontent.com
 xhamster.com###supportAds
 pubmedia.js
 wp-content/uploads/$script
@@ -282,10 +282,10 @@ mega.nz##.ads-left-block
 mega.nz##.ads-right-block
 mega.nz##.active.top-login-warning
 dwatchseries.to##a[href^="/redirect.php"]
-||fmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.blogspot.com *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com fonts.googleapis.com fonts.gstatic.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net;upgrade-insecure-requests
-||9anime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.akacdn.ru *.blogspot.com *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com fonts.googleapis.com fonts.gstatic.com *.rapidvideo.com *.playercdn.net openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to streamango.com *.fruithosted.net;upgrade-insecure-requests
-||putlockertv.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.blogspot.com *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com fonts.googleapis.com fonts.gstatic.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net;upgrade-insecure-requests
-||solarmoviex.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.blogspot.com *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com fonts.googleapis.com fonts.gstatic.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net;upgrade-insecure-requests
+||fmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.blogspot.com *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net;upgrade-insecure-requests
+||9anime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.akacdn.ru *.blogspot.com *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com *.rapidvideo.com *.playercdn.net openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to streamango.com *.fruithosted.net;upgrade-insecure-requests
+||putlockertv.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.blogspot.com *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net;upgrade-insecure-requests
+||solarmoviex.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.blogspot.com *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net;upgrade-insecure-requests
 endscreen$script
 ads_$xmlhttprequest,important
 plg_jchoptimize$script
@@ -306,7 +306,7 @@ howtogeek.com##.social-follows > .top-bar
 |https:$third-party,popup,domain=fmovies.is,badfilter
 infinite-newsfeed
 ||collider.com^$csp=script-src 'self' *.collider.com 'unsafe-inline' 'unsafe-eval' platform.twitter.com platform.instagram.com *.twimg.com embed.redditmedia.com cdn.embedly.com
-||comicbook.com^$csp=default-src 'self' *.comicbook.com 'unsafe-inline' 'unsafe-eval' platform.twitter.com platform.instagram.com *.twimg.com embed.redditmedia.com cdn.embedly.com fonts.googleapis.com fonts.gstatic.com
+||comicbook.com^$csp=default-src 'self' *.comicbook.com 'unsafe-inline' 'unsafe-eval' platform.twitter.com platform.instagram.com *.twimg.com embed.redditmedia.com cdn.embedly.com
 variety.com###leaderboard
 variety.com##.header-utilities
 variety.com##.subscribe-aside
@@ -317,10 +317,10 @@ mega.nz##.red.download-button.button
 hollywoodreporter.com##.leaderboard-wrapper
 temp_share_folder
 ||speedtest.net^$csp=script-src 'self' 'unsafe-inline' data: *.speedtest.net *.cdnst.net;img-src 'self' *.cdnst.net 
-||cbr.com^$csp=default-src 'self' 'unsafe-inline' *.cbrimages.com www.youtube.com *.ytimg.com platform.twitter.com www.twitter.com *.twimg.com platform.instagram.com www.instagram.com *.imgur.com embed.redditmedia.com cdn.embedly.com fonts.googleapis.com fonts.gstatic.com
+||cbr.com^$csp=default-src 'self' 'unsafe-inline' *.cbrimages.com www.youtube.com *.ytimg.com platform.twitter.com www.twitter.com *.twimg.com platform.instagram.com www.instagram.com *.imgur.com embed.redditmedia.com cdn.embedly.com
 outlook.live.com##a[href^="http://"]
 promo$script
-||pornhub.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.phncdn.com *.pornhub.com fonts.googleapis.com fonts.gstatic.com translate.googleapis.com *.nsimg.net *.rncdn3.com
+||pornhub.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.phncdn.com *.pornhub.com *.nsimg.net
 ||wikia.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.nocookie.net *.youtube.com *.ytimg.com
 ||reddit.com^$csp=script-src 'self' *.redditstatic.com 'unsafe-inline' 'unsafe-eval'
 youtube.com###movie-upsell-card
@@ -344,7 +344,7 @@ deadline.com##.tags
 deadline.com##.pmc-related-link
 deadline.com##.related-article
 ||deadline.com^$csp=script-src 'self' platform.twitter.com *.twimg.com *.deadline.com *.wp.com 'unsafe-inline'
-||torrentz2.eu^$csp=script-src 'self' 'unsafe-inline' *.google.com *.gstatic.com
+||torrentz2.eu^$csp=script-src 'self' 'unsafe-inline'
 ||thepiratebay.*^$csp=script-src 'self' 'unsafe-inline'
 ad-view$script,important
 ||kissanime.ru^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.stream *.oloadcdn.net streamango.com *.fruithosted.net *.fbcdn.net
@@ -353,8 +353,8 @@ ad-view$script,important
 @@||myanimelist.net^$elemhide
 myanimelist.net##.icon-block-small.js-sns-icon-container
 @@||spotscenered.info/scripts/infinity.js.aspx?guid=$script,domain=watchfree.to,badfilter
-||openload.co^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.openload.co cdnjs.cloudflare.com  *.oloadcdn.net fonts.googleapis.com *.google.com fonts.gstatic.com
-||oload.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: cdnjs.cloudflare.com  *.oloadcdn.net fonts.googleapis.com *.google.com fonts.gstatic.com
+||openload.co^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.openload.co cdnjs.cloudflare.com  *.oloadcdn.net *.google.com
+||oload.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: cdnjs.cloudflare.com  *.oloadcdn.net *.google.com
 |http:$third-party,popup,domain=fmovies.is,badfilter
 myanimelist.net##.js-sns-icon-container
 mega.nz##.checkbox-bl.download
@@ -467,7 +467,7 @@ imdb.com##.aux-content-widget-2:has-text(Connect)
 imdb.com##.aux-content-widget-2:nth-of-type(6)
 */ads.js$script,important,redirect=noopjs
 */*.ads.js$script,important,redirect=noopjs
-||hanime.tv^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.fbcdn.net cdn.discordapp.com *.googleusercontent.com vjs.zencdn.net *.hanime.tv *.algolia.net *.algolianet.com data: cdnjs.cloudflare.com fonts.googleapis.com fonts.gstatic.com cdn.jsdelivr.net unpkg.com *.satella.tv *.searchly.com
+||hanime.tv^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.fbcdn.net cdn.discordapp.com *.googleusercontent.com vjs.zencdn.net *.hanime.tv data: cdnjs.cloudflare.com cdn.jsdelivr.net unpkg.com *.satella.tv *.searchly.com
 @@||hanime.tv/*.ads.js$badfilter
 comicbook.com##.contentgroup:nth-of-type(7) > header
 comicbook.com##.contentgroup:nth-of-type(7) > article
@@ -485,7 +485,6 @@ hollywoodreporter.com##.blog-post-tags
 pornhub.com##script:inject(abort-on-property-read.js, userABMessage)
 kisshentai.*##.rightBox:has-text(/Announcement|Like me/)
 /\.com\/.*[a-f0-9]{110}/$third-party,image,badfilter
-||imgur.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.imgur.com ajax.googleapis.com
 fmovies.*##.widget-title:has-text(Sponsored)
 myanimelist.net##.anime_discussions.widget
 myanimelist.net##.promotional-video.video-block
@@ -507,7 +506,7 @@ cbr.com##.social-account-links
 google.*##.b2hzT
 cbr.com##.link:has-text(FindaComicShop.com)
 myanimelist.net##.anime-detail-header-video
-||kirtuclub.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' fonts.googleapis.com fonts.gstatic.com 
+||kirtuclub.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval'
 comicbook.com/article/json/$xmlhttprequest
 comicbook.com##.article-break
 comicbook.com##.modern-embed
@@ -568,7 +567,7 @@ facebook.com/video/*/upnext/$xmlhttprequest
 animenewsnetwork.com###prompt-message
 @@||kisshentai.net/content/js/adframe.js^$badfilter
 @@||cloudfront.net/assets/$third-party,script,badfilter
-||github.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.github.com *.githubusercontent.com *.s3.amazonaws.com
+||github.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.github.com *.githubusercontent.com *.s3.amazonaws.com
 kirtuclub.com##iframe[src*="youtube.com/embed/"]
 @@||hentaihaven.org/basement/js/adshow.js$badfilter
 dwatchseries.to###rotating-item-wrapper
@@ -624,7 +623,7 @@ comicbook.com##.article-footer-comments
 /^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to|ebd\.cda\.pl|gamedor\.usermd\.net)\/).)*$/$subdocument,domain=a-o.ninja|centrum-dramy.pl|love-drama.pl|vidfile.net,badfilter
 /^((?!(^https?):\/\/(ajax\.googleapis\.com|cdnjs\.cloudflare\.com|vk\.com)\/).)*$/$script,third-party,domain=kinokrad.co,badfilter
 flixanity.*/*/somethingfun.js$script
-||mcloud.to^$csp=default-src 'self' 'unsafe-inline' blob: *.mcloud.to *.fmovies.se ajax.googleapis.com ssl.p.jwpcdn.com fonts.googleapis.com fonts.gstatic.com
+||mcloud.to^$csp=default-src 'self' 'unsafe-inline' blob: *.mcloud.to *.fmovies.se ajax.googleapis.com ssl.p.jwpcdn.com
 putlockertv.*##.col-md-7
 comicbook.com##.urgent-module
 |https://$third-party,stylesheet,domain=fmovies.is|fmovies.se|fmovies.to,badfilter
@@ -703,7 +702,7 @@ screenrant.com##.premium-promo
 screenrant.com##.next-btn
 screenrant.com##.article-related
 screenrant.com##.w-injected-featured
-||screenrant.com^$csp=default-src 'self' 'unsafe-inline' data: 'unsafe-eval' *.srcdn.com twitter.com platform.twitter.com ajax.googleapis.com www.instagram.com *.twimg.com *.imgur.com embed.redditmedia.com cdn.embedly.com *.facebook.com www.youtube.com *.ytimg.com fonts.googleapis.com fonts.gstatic.com
+||screenrant.com^$csp=default-src 'self' 'unsafe-inline' data: 'unsafe-eval' *.srcdn.com twitter.com platform.twitter.com ajax.googleapis.com www.instagram.com *.twimg.com *.imgur.com embed.redditmedia.com cdn.embedly.com *.facebook.com www.youtube.com *.ytimg.com
 nosteam.ro##script:inject(window.open-defuser.js)
 /\.(watchcartoononline|9anime|memecenter).*\/.*[(&|=|%|\/|?)]/$image,badfilter
 translate.google.com##.gt-hats
@@ -737,7 +736,7 @@ masterani.me##.aligned.center.column.wide.sixteen
 ||streamango.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.streamango.com *.fruithosted.net cdnjs.cloudflare.com
 reddit.com/chat^
 masterani.me##.campaign.column.wide.sixteen
-||masterani.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.masterani.me fonts.googleapis.com fonts.gstatic.com www.youtube.com *.ytimg.com cdnjs.cloudflare.com streamango.com *.fruithosted.com openload.co *.oloadcdn.net *.rapidvideo.com *.playercdn.net stream.moe mp4upload.com tiwi.kiwi
+||masterani.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.masterani.me www.youtube.com *.ytimg.com cdnjs.cloudflare.com streamango.com *.fruithosted.com openload.co *.oloadcdn.net *.rapidvideo.com *.playercdn.net stream.moe mp4upload.com tiwi.kiwi
 ping^
 revcontent.com^$important
 cbr.com##.premium-promo
