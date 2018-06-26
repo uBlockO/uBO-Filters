@@ -775,3 +775,5 @@ hanime.tv##.user_comments.lazy
 /js.cookie.$badfilter
 adroll.com^$important
 quora.com##[target*="_blank"][disable_auto_login*='True'][rel*='noopener']
+netdna.bootstrapcdn.com^$third-party
+fluidplayer.com^$third-party
