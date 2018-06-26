@@ -777,6 +777,6 @@ quora.com##[target*="_blank"][disable_auto_login*='True'][rel*='noopener']
 netdna.bootstrapcdn.com^$third-party
 fluidplayer.com^$third-party
 @@||streamango.com/assets/js/script.packed.js$badfilter
-$font,third-party,important,domain=~fmovies.se|~putlockertv.to|~solarmoviex.to|~myanimelist.net
+$font,third-party,important,domain=~fmovies.se|~putlockertv.to|~solarmoviex.to|~myanimelist.net|~quora.com
 fonts.googleapis.com^$stylesheet,important
 fonts.gtatic.com^$stylesheet,important
