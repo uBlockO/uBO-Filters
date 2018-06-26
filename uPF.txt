@@ -778,3 +778,4 @@ quora.com##[target*="_blank"][disable_auto_login*='True'][rel*='noopener']
 netdna.bootstrapcdn.com^$third-party
 fluidplayer.com^$third-party
 @@||streamango.com/assets/js/script.packed.js$badfilter
+$font,third-party,important
