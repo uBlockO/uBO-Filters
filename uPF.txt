@@ -769,3 +769,4 @@ fluidplayer.com^$third-party
 fonts.googleapis.com^$important
 fonts.gtatic.com^$important
 @@||a.bf-ad.net/makabo/ads_fol_init.js$script,domain=chip.de,badfilter
+kissanime.ru/*.aspx^
