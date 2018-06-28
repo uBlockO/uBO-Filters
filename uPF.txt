@@ -10,9 +10,6 @@ pornhub.com###under-player-comments
 pornhub.com###welcome
 youtube.com###watch-action-panels
 youtube.com###chat
-bulbagarden.net##.rlsmobile
-bulbagarden.net###bottomframe
-bulbagarden.net##a[href*="goo.gl"]
 howtogeek.com##.articleExtras
 howtogeek.com###sb2
 hollywoodreporter.com/fe_data$xmlhttprequest
@@ -40,11 +37,6 @@ variety.com##.comments-overview
 variety.com##.ad-below-tags
 variety.com###article-river
 kissanime.*###btnShowComments
-bulbagarden.net###amazon-related
-androidcentral.com##img[src="http://www.androidcentral.com/sites/androidcentral.com/files/styles/larger/public/article_images/2016/04/mobilenations-snapchat.jpg"]
-androidcentral.com##.sidebar-body
-androidcentral.com##.devicebox
-androidcentral.com##.tab-comments
 mgid.com^$important
 sharethis.com^$important
 openload.co/reward$xmlhttprequest,important
@@ -442,7 +434,6 @@ kirtuclub.com###foxyform_embed_link_885594
 kirtuclub.com##.widget_text.widget
 kirtuclub.com##.entry-meta:has-text(Posted in)
 kirtuclub.com##.wp_rp_wrap
-bulbagarden.net###upper-article
 metrics$script,important
 pornhub.com##.streamatesModelsContainer.sectionWrapper
 pornhub.com###under-player-playlists
@@ -522,7 +513,6 @@ boxofficemojo.com###Player_82160f42-9620-4d0a-b79a-18b1abd853fb
 fmovies.*##.col-lg-12:has-text(blockbuster)
 fmovies.*##.footerdesc
 adbd^
-bulbagarden.net###bottomframelower
 ||flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
 milfzr.com,dwatchseries.to,solarmoviex.*,putlockertv.*##script:inject(abort-current-inline-script.js, atob, /tabunder|TABUNDER/)
 rapidvideo.com###top350b
@@ -555,7 +545,7 @@ exoclick.com^$important
 exosrv.com^$important
 @@||google.*/ads/$third-party,image,badfilter
 socialCounts^
-rapidvideo.com,pornhub.com,streamango.com,openload.*,oload.*##script:inject(addEventListener-defuser.js, contextmenu)
+pornhub.com,oload.*##script:inject(addEventListener-defuser.js, contextmenu)
 pornhub.com##.nf-wrapper > .sectionWrapper
 1337x.*##[href*="redirect"]
 1337x.*##[href*="php"]
