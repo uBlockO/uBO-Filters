@@ -736,11 +736,9 @@ clksite.com^$important
 kissanime.ru#@##adsIfrme8:style(display: block!important;)
 kissanime.ru#@##adsIfrme10:style(display: block!important;)
 youtube.com###inline-recs-list-renderer
-9anime.*,kimcartoon.me##[style*="visibility:visible"]
+kimcartoon.me##[style*="visibility:visible"]
 9anime.*##script:inject(abort-current-inline-script.js, atob, /0x/)
-9anime.*/$image
 @@||9anime.is/assets/player/jwplayer-7.12.3/jwplayer.js$script,badfilter
-micro-logo.png^$image
 kimcartoon.me##[style*="width: 300px; height: 250px;"]
 fmovies.*##script:inject(abort-on-property-read.js, kqyyjsu)
 fmovies.*,putlockertv.*##script:inject(dwrite.js, /300x250|728x90/)
