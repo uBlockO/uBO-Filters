@@ -733,8 +733,6 @@ cbr.com##.premium-promo
 cbr.com##.header-premium-zone
 but.to^$important
 clksite.com^$important
-kissanime.ru#@##adsIfrme8:style(display: block!important;)
-kissanime.ru#@##adsIfrme10:style(display: block!important;)
 youtube.com###inline-recs-list-renderer
 kimcartoon.me##[style*="visibility:visible"]
 9anime.*##script:inject(abort-current-inline-script.js, atob, /0x/)
