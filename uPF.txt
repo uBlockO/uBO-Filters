@@ -771,4 +771,4 @@ fonts.gtatic.com^$important
 kimcartoon.me##.twitter-follow-button
 kissanime.ru#@##adsIfrme8:style(display: block!important;)	
 kissanime.ru#@##adsIfrme10:style(display: block!important;)
-kissanime.ru/Special/$xmlhttprequest
+kissanime.ru/$xmlhttprequest,first-party
