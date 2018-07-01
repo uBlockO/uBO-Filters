@@ -772,3 +772,4 @@ kimcartoon.me##.twitter-follow-button
 kissanime.ru#@##adsIfrme8:style(display: block!important;)	
 kissanime.ru#@##adsIfrme10:style(display: block!important;)
 kissanime.ru/$xmlhttprequest,first-party
+@@||facebook.com/ajax/typeahead/$domain=facebook.com,badfilter
