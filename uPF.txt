@@ -773,5 +773,3 @@ kissanime.ru#@##adsIfrme8:style(display: block!important;)
 kissanime.ru#@##adsIfrme10:style(display: block!important;)
 kissanime.ru/special/$xmlhttprequest,first-party
 @@||facebook.com/ajax/typeahead/$domain=facebook.com,badfilter
-rapidvideo.com##script:inject(abort-on-property-write.js, onload)
-||rapidvideo.com^$inline-script,badfilter
