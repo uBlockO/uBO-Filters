@@ -718,7 +718,7 @@ doubleclickbygoogle.com^$important
 adnetasia.com^$important
 bannertrack.net^$important
 @@/fuckadblock.$script,badfilter
-||twitter.com^$important,third-party,domain=~screenrant.com|~cbr.com|~heroichollywood.com|~collider.com|~movieweb.com|~deadline.com|~comicbook.com|~thewrap.com|~hollywoodreporter.com|~comingsoon.net|~trailer-track.com
+||twitter.com^$important,third-party,domain=~screenrant.com|~cbr.com|~heroichollywood.com|~collider.com|~movieweb.com|~deadline.com|~comicbook.com|~thewrap.com|~hollywoodreporter.com|~comingsoon.net|~trailer-track.com|~animenewsnetwork.com
 gravatar.com^$important
 gitlab.com##.gke-promo-banner
 masterani.me##.header.master.ui:has-text(Disqus)
