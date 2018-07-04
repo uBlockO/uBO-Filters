@@ -775,3 +775,4 @@ kissanime.ru/special/$xmlhttprequest,first-party
 ||yucloud.co^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval'
 netdna.bootstrapcdn.com^
 ||kimcartoon.me^$script,domain=kimcartoon.me,badfilter
+kissanime.ru##script:inject(setTimeout-defuser.js, YANMKABFYWRW)
