@@ -1,4 +1,4 @@
-[uBlock Origin 1.16.11rc2]
+[uBlock Origin 1.16.13rc0]
 ! Title: uBO Personal Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -48,7 +48,7 @@ taboola.com^$important
 screenrant.com##.video-block-main.video-block
 $websocket,domain=~mega.nz|~speedtest.net|~mewe.com
 googletagmanager.com^$important
-milfzr.com,blockadblock.com,onhax.me##script:inject(bab-defuser.js)
+blockadblock.com,onhax.me##script:inject(bab-defuser.js)
 comicbook.com##a[href^="http://amzn.to/"]
 1337x.*###mgbl49472
 1337x.*##.link-box
@@ -514,7 +514,7 @@ fmovies.*##.col-lg-12:has-text(blockbuster)
 fmovies.*##.footerdesc
 adbd^
 ||flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
-milfzr.com,dwatchseries.to,solarmoviex.*,putlockertv.*##script:inject(abort-current-inline-script.js, atob, /tabunder|TABUNDER/)
+dwatchseries.to,solarmoviex.*,putlockertv.*##script:inject(abort-current-inline-script.js, atob, /tabunder|TABUNDER/)
 rapidvideo.com###top350b
 rapidvideo.com###premiumad
 rapidvideo.com###top350
