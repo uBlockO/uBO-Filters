@@ -777,3 +777,4 @@ netdna.bootstrapcdn.com^
 ||kimcartoon.me^$script,domain=kimcartoon.me,badfilter
 kissanime.ru##script:inject(setTimeout-defuser.js, YANMKABFYWRW)
 @@||kissanime.ru/ads^$badfilter
+@@/wp-content/*/ad-$script,badfilter
