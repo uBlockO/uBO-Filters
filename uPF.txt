@@ -776,3 +776,4 @@ kissanime.ru/special/$xmlhttprequest,first-party
 netdna.bootstrapcdn.com^
 ||kimcartoon.me^$script,domain=kimcartoon.me,badfilter
 kissanime.ru##script:inject(setTimeout-defuser.js, YANMKABFYWRW)
+@@||kissanime.ru/ads^$badfilter
