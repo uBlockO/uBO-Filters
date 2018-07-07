@@ -1,4 +1,4 @@
-[uBlock Origin 1.16.13b1]
+[uBlock Origin 1.16.13b2]
 ! Title: uBO Personal Filters
 ! Author: uBlock-user
 ! Expires: 1 day (update frequency)
@@ -778,3 +778,6 @@ netdna.bootstrapcdn.com^
 kissanime.ru##script:inject(setTimeout-defuser.js, YANMKABFYWRW)
 @@||kissanime.ru/ads^$badfilter
 @@/wp-content/*/ad-$script,badfilter
+/fbevents.js^
+/ads/beacon^
+/AppMeasurement$script
