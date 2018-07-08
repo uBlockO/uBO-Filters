@@ -194,22 +194,22 @@ fmovies.*##.col-right
 fmovies.*##.widget:nth-of-type(4)
 gorillavid.in,zippyshare.com##script:inject(rdo.js, admvpu, noopFunc)
 scriptv2.js$domain=1337x.to|1337x.st
-dwatchseries.to##.ad_300_300
-dwatchseries.to##.fullwrap > div > div:nth-of-type(4)
-dwatchseries.to##.block-left-home-inside:nth-of-type(2)
-dwatchseries.to##.show-social
-dwatchseries.to##.sp-leader
-dwatchseries.to###go_scrolling_comments
-dwatchseries.to##.sp-leader-bottom
-dwatchseries.to###scroll_comments
-dwatchseries.to##.sp-sidetower
-dwatchseries.to##.shd_button
-dwatchseries.to##.episode-social
-dwatchseries.to##a[href^="http://178.175.132.130/"]
-dwatchseries.to##.add-comment
-dwatchseries.to##.general_button
-dwatchseries.to##a[href^="http://watchos.tv/"]
-dwatchseries.to###header-2
+swatchseries.to##.ad_300_300
+swatchseries.to##.fullwrap > div > div:nth-of-type(4)
+swatchseries.to##.block-left-home-inside:nth-of-type(2)
+swatchseries.to##.show-social
+swatchseries.to##.sp-leader
+swatchseries.to###go_scrolling_comments
+swatchseries.to##.sp-leader-bottom
+swatchseries.to###scroll_comments
+swatchseries.to##.sp-sidetower
+swatchseries.to##.shd_button
+swatchseries.to##.episode-social
+swatchseries.to##a[href^="http://178.175.132.130/"]
+swatchseries.to##.add-comment
+swatchseries.to##.general_button
+swatchseries.to##a[href^="http://watchos.tv/"]
+swatchseries.to###header-2
 ads$script,domain=~imdb.com
 torrentz2.eu##a[href^="/"]:has-text(Download Direct)
 istream.*##.button
@@ -360,7 +360,7 @@ mega.nz##.checkbox-bl.download
 screenrant.com##.sidebar
 cbr.com##.section-right
 cbr.com###secondary
-||dwatchseries.to^$csp=script-src 'self' 'unsafe-inline' *.dwatchseries.to
+||swatchseries.to^$csp=script-src 'self' 'unsafe-inline' *.swatchseries.to
 cookieconsent.min$important
 @@||9anime.*^$elemhide
 @@||fmovies.*^$elemhide
@@ -560,8 +560,8 @@ animenewsnetwork.com###prompt-message
 ||github.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.github.com *.githubusercontent.com *.s3.amazonaws.com
 kirtuclub.com##iframe[src*="youtube.com/embed/"]
 @@||hentaihaven.org/basement/js/adshow.js$badfilter
-dwatchseries.to###rotating-item-wrapper
-dwatchseries.to##.freeEpisode
+swatchseries.to###rotating-item-wrapper
+swatchseries.to##.freeEpisode
 ||gorillavid.in^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com;worker-src 'none'
 gorillavid.in##script:inject(setTimeout-defuser.js, /0x/)
 socket.io^
