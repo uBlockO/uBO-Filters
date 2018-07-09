@@ -1,5 +1,5 @@
 # uBlock-Personal-Filters
-A filterlist with additional filters for uBlock Origin to block third-party, tracking, annoyances and all other unwarranted resources from loading.
+A comprehensive personal filterlist of mine with additional filters for uBlock Origin to block third-party, tracking, annoyances, anti-adblock, popups/unders, resource-abuse and all other unwarranted resources from loading.
 
 Contains filters specific to uBlock Origin and some filters that have not yet been added to other filterlists.
 
