@@ -412,7 +412,7 @@ kimcartoon.*###btnShowComments
 thepiratebay.*/*/$inline-script,subdocument
 @@||screenrant.com^$elemhide
 screenrant.com##.ad-zone-container
-||kimcartoon.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.zencdn.net *.rapidvideo.com *.playercdn.net openload.co *.oloadcdn.net streamango.com code.jquery.com *.fruithosted.net yucloud.co *.yucloud.co i.imgur.com
+||kimcartoon.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.zencdn.net *.rapidvideo.com *.playercdn.net openload.co *.oloadcdn.net streamango.com code.jquery.com *.fruithosted.net yucloud.co *.yucloud.co i.imgur.com;media-src *
 screenrant.com##.twitter.icon
 @@||cbr.com^$elemhide
 cbr.com##.sharing-option
@@ -772,7 +772,7 @@ kissanime.ru#@##adsIfrme8:style(display: block!important; height:10px!important;
 kissanime.ru#@##adsIfrme10:style(display: block!important; height:10px!important;)
 /kissanime.ru\/[a-zA-Z]{9,30}/$xmlhttprequest,first-party
 @@||facebook.com/ajax/typeahead/$domain=facebook.com,badfilter
-||yucloud.co^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval'
+||yucloud.co^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.yucloud.co
 netdna.bootstrapcdn.com^
 ||kimcartoon.me^$script,domain=kimcartoon.me,badfilter
 kissanime.ru##script:inject(setTimeout-defuser.js, YANMKABFYWRW)
