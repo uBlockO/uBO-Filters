@@ -782,3 +782,4 @@ kissanime.ru##script:inject(setTimeout-defuser.js, YANMKABFYWRW)
 /ads/beacon^
 /AppMeasurement$script
 @@||kimcartoon.me/ads/fb.aspx^$first-party,subdocument
+kimcartoon.me##script:inject(eclick.js, #start)
