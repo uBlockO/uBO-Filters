@@ -788,3 +788,4 @@ mp4upload.com##.jw-logo
 ||mp4upload.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.mp4upload.com:* ajax.googleapis.com *.p.jwpcdn.com
 an.facebook.com^$important
 .php^$script,first-party,domain=~wikipedia.org
+*metrics$script
