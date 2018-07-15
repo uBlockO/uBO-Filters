@@ -777,7 +777,6 @@ kissanime.ru##script:inject(setTimeout-defuser.js, YANMKABFYWRW)
 @@/wp-content/*/ad-$script,badfilter
 /ads/beacon^
 /AppMeasurement$script
-kimcartoon.me##script:inject(eclick.js, #start)
 mp4upload.com/*.html$subdocument,first-party
 mp4upload.com###overlay
 mp4upload.com##.jw-logo
@@ -786,3 +785,4 @@ an.facebook.com^$important
 .php^$script,first-party,domain=~wikipedia.org
 *metrics$script
 hanime.tv##.legacy
+@@||kimcartoon.me/ads/fb.aspx$first-party,subdocument,badfilter
