@@ -754,7 +754,7 @@ hanime.tv##.user_comments.lazy
 9anime.is##.small
 /js.cookie.$badfilter
 adroll.com^$important
-quora.com##[target*="_blank"][rel*='noopener nofollow']
+quora.com##body > div > div > div > div > div > div > div > div > div > div:has([rel*="nofollow"])
 quora.com##body > div > div > div > div > div > div > div > div > div > div > div > div:has-text( ad)
 fluidplayer.com^
 @@||streamango.com/assets/js/script.packed.js$badfilter
