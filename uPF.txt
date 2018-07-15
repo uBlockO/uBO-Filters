@@ -133,8 +133,6 @@ promo-banner.js^$important
 9anime.*,fmovies.*,solarmoviex.*##.home-socials
 wp-adblock-dedect$important
 fuckadblock.js
-quora.com##.footer_alphabet
-quora.com##.ContentPageFeed
 myanimelist.net##.btn-mal-service
 myanimelist.net##.anime-detail-header-affiliate
 abtesting$important
@@ -155,7 +153,6 @@ google.*###prm-pt
 kissanime.*##.divCloseBut
 wikia.com###WikiaFooter
 wikia.com###WikiaArticleBottomAd
-quora.com##.PromptsList
 kissanime.*##.videoAdClose
 googlesyndication.com$important
 adblock-detector$script,important
@@ -757,8 +754,9 @@ hanime.tv##.user_comments.lazy
 9anime.is##.small
 /js.cookie.$badfilter
 adroll.com^$important
-quora.com##[target*="_blank"][disable_auto_login*='True'][rel*='noopener']
-fluidplayer.com^$third-party
+quora.com##[target*="_blank"][rel*='noopener nofollow']
+quora.com##body > div > div > div > div > div > div > div > div > div > div > div > div:has-text( ad)
+fluidplayer.com^
 @@||streamango.com/assets/js/script.packed.js$badfilter
 fonts.googleapis.com^$important
 fonts.gtatic.com^$important
