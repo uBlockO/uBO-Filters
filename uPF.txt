@@ -240,7 +240,7 @@ kisshentai.*###show_id
 ||kisshentai.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.stream *.oloadcdn.net streamcherry.com *.fruithosted.net
 doubleclick^$script,important.me###disqus_thread
 ||androidcentral.com/sites/androidcentral.com/files/advagg_js/$script,badfilter
-connect.facebook.net^$script
+connect.facebook.net^
 @@||lightboxcdn.com^$script,domain=androidcentral.com|crackberry.com|imore.com|windowscentral.com,badfilter
 @@||passport.mobilenations.com^$script,domain=androidcentral.com|crackberry.com|imore.com|windowscentral.com,badfilter
 @@||platform.twitter.com^$script,domain=9anime.to,badfilter
@@ -592,7 +592,6 @@ torrentz2.*##div[class*="Ad"]
 torrentz2.*/*.php
 @@owa.Analytics$script,domain=outlook.live.com
 /detroitchicago$domain=animenewsnetwork.com
-/logger
 animenewsnetwork.com##script:inject(abort-on-property-read.js, btoa)
 facebook.com/ajax/typeahead/record_basic_metrics.php
 facebook.com##.UFIList
@@ -632,7 +631,7 @@ proxy_ab.js^$script
 comicbook.com##.comment-activator-container
 facebook.com/ads^
 facebook.com##._5r6
-*/log$xmlhttprequest
+*/log$xmlhttprequest,domain=~facebook.com
 reddit.com/*/log^
 gorillavid.in/*.hg$script
 google-analytics.com^$important
@@ -778,7 +777,6 @@ netdna.bootstrapcdn.com^
 kissanime.ru##script:inject(setTimeout-defuser.js, YANMKABFYWRW)
 @@||kissanime.ru/ads^$badfilter
 @@/wp-content/*/ad-$script,badfilter
-/fbevents.js^
 /ads/beacon^
 /AppMeasurement$script
 kimcartoon.me##script:inject(eclick.js, #start)
