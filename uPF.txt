@@ -785,3 +785,4 @@ mp4upload.com##.jw-logo
 an.facebook.com^$important
 .php^$script,first-party,domain=~wikipedia.org
 *metrics$script
+hanime.tv##.legacy
