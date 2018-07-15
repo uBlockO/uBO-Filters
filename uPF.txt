@@ -1,7 +1,7 @@
 [uBlock Origin 1.16.13rc0]
 ! Title: uBO Personal Filters
 ! Author: uBlock-user
-! Expires: 1 day (update frequency)
+! Expires: 1 day
 
 2mdn.net^$important
 disqus.com^$important
