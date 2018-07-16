@@ -787,3 +787,12 @@ hanime.tv##.legacy
 @@||kimcartoon.me/ads/fb.aspx$first-party,subdocument,badfilter
 @@||githubusercontent.com^$image,badfilter
 /\.com\/.*[a-f0-9]{110}/$third-party,image,domain=~bilibili.com|~namu.wiki|~fastmail.com,badfilter
+@@||static1.akacdn.ru/assets/$script,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to,badfilter
+@@||cdnjs.cloudflare.com/ajax/libs/$domain=fmovies.is|fmovies.se|fmovies.to,badfilter
+@@||static1.akacdn.ru/assets/min/public/all.css$domain=fmovies.is|fmovies.se|fmovies.to,badfilter
+|https://$third-party,script,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to,badfilter
+@@||static1.akacdn.ru/assets/$script,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to,badfilter
+@@||static1.akacdn.ru/assets/$stylesheet,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to,badfilter
+@@||cdnjs.cloudflare.com/ajax/libs/font-awesome^$badfilter
+|https://$third-party,stylesheet,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to,badfilter
+@@||cloudflare.com^$stylesheet,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to,badfilter
