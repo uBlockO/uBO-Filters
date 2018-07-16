@@ -785,3 +785,5 @@ an.facebook.com^$important
 *metrics$script
 hanime.tv##.legacy
 @@||kimcartoon.me/ads/fb.aspx$first-party,subdocument,badfilter
+@@||githubusercontent.com^$image,badfilter
+/\.com\/.*[a-f0-9]{110}/$third-party,image,domain=~bilibili.com|~namu.wiki|~fastmail.com,badfilter
