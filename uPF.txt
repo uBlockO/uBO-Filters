@@ -798,3 +798,4 @@ hanime.tv##.legacy
 @@||cloudflare.com^$stylesheet,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to,badfilter
 kissanime.ru###my_video_1:style(display: block !important;)
 kissanime.ru###my_video_1_html5_api:style(display: block !important;)
+milfzr.com##.wpfp_custom_ad
