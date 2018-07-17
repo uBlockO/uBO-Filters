@@ -1,4 +1,4 @@
-[uBlock Origin 1.16.13rc0]
+[uBlock Origin 1.16.13rc1]
 ! Title: uBO Personal Filters
 ! Author: uBlock-user
 ! Expires: 1 day
@@ -797,4 +797,4 @@ hanime.tv##.legacy
 |https://$third-party,stylesheet,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to,badfilter
 @@||cloudflare.com^$stylesheet,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to,badfilter
 @@||kissanime.ru/Ads/fb.aspx^$first-party,subdocument
-kissanime.ru##script:inject(eclick.js, #start)
+kissanime.ru###ifrmVast
