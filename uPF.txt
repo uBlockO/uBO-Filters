@@ -799,3 +799,5 @@ hanime.tv##.legacy
 kissanime.ru###my_video_1:style(display: block !important;)
 kissanime.ru###my_video_1_html5_api:style(display: block !important;)
 milfzr.com##.wpfp_custom_ad
+/advanced-floating-content-lite
+||milfzr.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: ajax.googleapis.com
