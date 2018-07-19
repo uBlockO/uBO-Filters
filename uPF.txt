@@ -799,3 +799,6 @@ milfzr.com##.wpfp_custom_ad
 /advanced-floating-content-lite
 ||milfzr.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: ajax.googleapis.com
 /ads
+kissmanga.com###aCurr
+kissmanga.com##.clear2
+kissmanga.com##.specialButton
