@@ -764,9 +764,6 @@ fonts.gtatic.com^$important
 /^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ss]cripts|[Uu]ploads|[Ii]mages|combined|content|cover|img|static|thumbs|wp-content|wp-includes))(.*)/$first-party,image,badfilter
 @@||9anime.is/assets^$badfilter
 kimcartoon.me##.twitter-follow-button
-kissanime.ru#@##adsIfrme8:style(display: block!important; height:10px!important;)	
-kissanime.ru#@##adsIfrme10:style(display: block!important; height:10px!important;)
-/kissanime.ru\/[a-zA-Z]{9,30}/$xmlhttprequest,first-party
 @@||facebook.com/ajax/typeahead/$domain=facebook.com,badfilter
 ||yucloud.co^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.yucloud.co
 netdna.bootstrapcdn.com^
