@@ -667,7 +667,7 @@ piguiqproxy.com^$important
 reddit.com##.redesign-beta-optin 
 view.php^
 gitlab.com##.js-autodevops-banner
-milfzr.com/*/ad-overlay-anything/
+/ad-overlay-anything
 milfzr.com##.aoa_overlay
 milfzr.com###extras
 milfzr.com###respond
@@ -798,3 +798,4 @@ kissanime.ru###my_video_1_html5_api:style(display: block !important;)
 milfzr.com##.wpfp_custom_ad
 /advanced-floating-content-lite
 ||milfzr.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: ajax.googleapis.com
+/ads
