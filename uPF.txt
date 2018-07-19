@@ -10,8 +10,6 @@ pornhub.com###under-player-comments
 pornhub.com###welcome
 youtube.com###watch-action-panels
 youtube.com###chat
-howtogeek.com##.articleExtras
-howtogeek.com###sb2
 hollywoodreporter.com/fe_data$xmlhttprequest
 hollywoodreporter.com##.js-leftRail-loadNewContent
 hollywoodreporter.com##.author
@@ -21,21 +19,12 @@ hollywoodreporter.com##.fa-comment.post-has-comments.comments-square.js-scroll-t
 hollywoodreporter.com##.blog-post-author-section
 hollywoodreporter.com##.article-meta-bottom
 screenrant.com##.social
-sexstories.com###bottom_panel
-sexstories.com##.title_panel
-sexstories.com##.block_panel:nth-of-type(4)
 */advertisement.js$script,important,redirect=noopjs
 microsofttranslator.com^$important
 skype.com^$important
 skypeassets.com^$important
 chatango.com^$important
 disquscdn.com^$important
-variety.com###other-pmc-properties
-variety.com##.banner
-variety.com##.article-bottom-container
-variety.com##.comments-overview
-variety.com##.ad-below-tags
-variety.com###article-river
 kissanime.*###btnShowComments
 mgid.com^$important
 sharethis.com^$important
@@ -66,12 +55,7 @@ screenrant.com##.sg-sharing-option
 cartoonhd.*,movieshd.watch,istream.*###credits
 cartoonhd.*,movieshd.watch,istream.is,flixanity.*##a[href="#credits"]
 torrentfreak.com##.comments.pbx-alt.pbx
-air.irctc.co.in###bodyBottom
-air.irctc.co.in##.col2
-air.irctc.co.in##img[src="/IndianRailways/irctcair/images/freedom_conv.gif"]
-air.irctc.co.in###footerlogo
 googletagmanager.com^$important
-mrskin.com##.col-xs-12.col-sm-8.col-md-4
 cbr.com##.embed-related-block
 script.js$script,domain=1337x.to|1337x.st
 google.*###contain-402
@@ -110,7 +94,6 @@ youtube.com##.ytp-ce-covering-overlay
 wikia.com###WikiaRailWrapper
 gsmarena.com###subHeader
 cbr.com##.injected-video-by-load
-androidauthority.com##.load-infinite.loading
 istream.*##.buttons.dmcaLink
 ads-$script
 wikia.com###WikiaBar
@@ -122,9 +105,6 @@ tracking$script,domain=~wikia.com
 infinite-articles
 outlook.live.com##a[href^="http://www.myfreecams.com/"]
 istream.*##.sources
-mrskin.com##a[href^="/account/purchase"]
-mrskin.com##.sk-wallpaper-riseup.sk-wallpaper.sk-wallpaper-item
-sk_special_offer_video
 ph-tracking.js^$important
 premium^$script,important
 promo-banner.js^$important
@@ -138,15 +118,10 @@ myanimelist.net##.anime-detail-header-affiliate
 abtesting$important
 @@||wikia.com^$elemhide
 mrskin.com##.sk-wallpaper-riseup
-imdb.com##.footer-grid-wrapper.container
-imdb.com###sidebar
 ||youtube.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.ggpht.com *.googlevideo.com *.ytimg.com *.googleusercontent.com
-xhamster.com###supportAds
 pubmedia.js
 wp-content/uploads/$script
 magnific-popup.js
-onhax.me##div[id^="bottom-promo-abdload"]
-onhax.me##div[id^="top-promo-dload"]
 9anime.*##.ads.toggler.mbtn.item
 ab_appeal$script
 google.*###prm-pt
@@ -225,11 +200,9 @@ youtube.com##.hats-categorical-style-vertical
 solarmoviex.*##.alert
 mozilla.org##.global-notice
 mrskin.com##a[href^="http://www.amazon.com/gp/search"]
-fzpwll.mrskin.com^
 solarmoviex.*,fmovies.*,9anime.*,putlockertv.*###comment
 @@||speedtest.net/javascript/jquery-*.min.js$badfilter
 @@||d3ujids68p6xmq.cloudfront.net^$script,badfilter
-boxofficemojo.com##.survey
 youtube.com/api/stats^$important
 log_event
 kisshentai.*##a[href="#"]
@@ -296,12 +269,6 @@ howtogeek.com##.social-follows > .top-bar
 infinite-newsfeed
 ||collider.com^$csp=script-src 'self' *.collider.com 'unsafe-inline' 'unsafe-eval' platform.twitter.com platform.instagram.com *.twimg.com embed.redditmedia.com cdn.embedly.com
 ||comicbook.com^$csp=default-src 'self' *.comicbook.com 'unsafe-inline' 'unsafe-eval' platform.twitter.com platform.instagram.com *.twimg.com embed.redditmedia.com cdn.embedly.com
-variety.com###leaderboard
-variety.com##.header-utilities
-variety.com##.subscribe-aside
-||variety.com^$csp=script-src 'self' 'unsafe-inline' *.wp.com platform.twitter.com *.instagram.com *.twimg.com
-truecaller.com##.ad
-twitter.com#@#.message-drawer.dialog, #react-root > div[data-reactroot] > div:last-child:not([aria-hidden])
 mega.nz##.red.download-button.button
 hollywoodreporter.com##.leaderboard-wrapper
 temp_share_folder
@@ -316,23 +283,6 @@ youtube.com###movie-upsell-card
 youtube.com##.yt-lockup-movie-vertical-poster.yt-lockup-tile.yt-lockup
 hollywoodreporter.com##.readmore
 ||hollywoodreporter.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.instagram.com platform.twitter.com *.twimg.com players.brightcove.net *.zencdn.net *.hollywoodreporter.com blob:
-deadline.com##.ppp-ad
-deadline.com##.pmc-templatized-widget
-deadline.com###property-snippets
-deadline.com##.pmc-properties
-deadline.com###deadline-latest-vertical-news-3
-deadline.com##.marketplace-title.widget-title
-deadline.com##.markplace-ads
-deadline.com###cse-search-form
-deadline.com##.widget_deadline_voices_widget.widget-container
-deadline.com##.widget_deadline_in_preview.widget-container
-deadline.com##.widget_deadline_featured_comment.widget-container
-deadline.com##.dl-now-widget
-deadline.com##.widget_deadline_by_numbers_widget.widget-container
-deadline.com##.tags
-deadline.com##.pmc-related-link
-deadline.com##.related-article
-||deadline.com^$csp=script-src 'self' platform.twitter.com *.twimg.com *.deadline.com *.wp.com 'unsafe-inline'
 ||torrentz2.eu^$csp=script-src 'self' 'unsafe-inline'
 ||thepiratebay.*^$csp=script-src 'self' 'unsafe-inline'
 ad-view$script,important
@@ -511,7 +461,7 @@ fmovies.*##.col-lg-12:has-text(blockbuster)
 fmovies.*##.footerdesc
 adbd^
 ||flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
-dwatchseries.to,solarmoviex.*,putlockertv.*##script:inject(abort-current-inline-script.js, atob, /tabunder|TABUNDER/)
+swatchseries.to,solarmoviex.*,putlockertv.*##script:inject(abort-current-inline-script.js, atob, /tabunder|TABUNDER/)
 rapidvideo.com###top350b
 rapidvideo.com###premiumad
 rapidvideo.com###top350
@@ -633,7 +583,6 @@ reddit.com/*/log^
 gorillavid.in/*.hg$script
 google-analytics.com^$important
 ghacks.net##.cookie-notice-container
-xvideos.com##.videoad-title
 youtube.com###sponsor-button
 /banner^$inline-script,subdocument
 outlook.live.com##._2_qTnZN22tYhluWaFTEMvp
@@ -665,7 +614,6 @@ movieweb.com##.current-article-actions
 @@/wp-content/*/ads*.js$script,badfilter
 piguiqproxy.com^$important
 reddit.com##.redesign-beta-optin 
-view.php^
 gitlab.com##.js-autodevops-banner
 /ad-overlay-anything
 milfzr.com##.aoa_overlay
@@ -802,3 +750,4 @@ milfzr.com##.wpfp_custom_ad
 kissmanga.com###aCurr
 kissmanga.com##.clear2
 kissmanga.com##.specialButton
+s.yimg.com^
