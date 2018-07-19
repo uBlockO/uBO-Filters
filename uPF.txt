@@ -702,7 +702,6 @@ hanime.tv##.user_comments.lazy
 /js.cookie.$badfilter
 adroll.com^$important
 quora.com##body > div > div > div > div > div > div > div > div > div > div:has([rel*="nofollow"])
-quora.com##body > div > div > div > div > div > div > div > div > div > div > div > div:has-text(/ ad/)
 fluidplayer.com^
 @@||streamango.com/assets/js/script.packed.js$badfilter
 fonts.googleapis.com^$important
@@ -744,9 +743,9 @@ hanime.tv##.legacy
 kissanime.ru###my_video_1:style(display: block !important;)
 kissanime.ru###my_video_1_html5_api:style(display: block !important;)
 milfzr.com##.wpfp_custom_ad
-*advanced-floating-content-lite*
+/advanced-floating-content-lite
 ||milfzr.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: ajax.googleapis.com
-*ads*
+/ads
 kissmanga.com###aCurr
 kissmanga.com##.clear2
 kissmanga.com##.specialButton
