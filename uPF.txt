@@ -750,3 +750,4 @@ kissmanga.com###aCurr
 kissmanga.com##.clear2
 kissmanga.com##.specialButton
 s.yimg.com^
+myanimelist.net##.fb-page
