@@ -751,3 +751,4 @@ kissmanga.com##.clear2
 kissmanga.com##.specialButton
 s.yimg.com^
 myanimelist.net##.fb-page
+@@||wikia.com^$csp=script-src 'self' * 'unsafe-inline' 'unsafe-eval'
