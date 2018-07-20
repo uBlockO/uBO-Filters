@@ -725,7 +725,7 @@ mp4upload.com###overlay
 mp4upload.com##.jw-logo
 ||mp4upload.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.mp4upload.com:* mp4upload.com ajax.googleapis.com *.p.jwpcdn.com
 an.facebook.com^$important
-.php^$script,first-party,domain=~wikipedia.org
+.php^$script,first-party,domain=~wikipedia.org|~wikia.com
 *metrics$script
 hanime.tv##.legacy
 @@||kimcartoon.me/ads/fb.aspx$first-party,subdocument,badfilter
