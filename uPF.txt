@@ -1,4 +1,4 @@
-[uBlock Origin 1.16.15b1]
+[uBlock Origin 1.16.15b3]
 ! Title: uBO Personal Filters
 ! Author: uBlock-user
 ! Expires: 1 day
@@ -229,8 +229,7 @@ cbr.com##.video.browse-content
 youtube.com##.yt-uix-expander-collapsed.live-chat-expander.yt-uix-expander
 kimcartoon.me##.w-right
 kimcartoon.me###hideAds
-analytics$script
-reporter.js
+analytics$script,domain=~gitlab.com
 chromium.org##.__crdxFeedbackButton
 google.com/ads/$important
 9anime.to##.mb20
