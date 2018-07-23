@@ -1,9 +1,10 @@
-[uBlock Origin 1.16.15b3]
+[uBlock Origin 1.16.15b5]
 ! Title: uBO Personal Filters
 ! Author: uBlock-user
 ! Expires: 1 day
 
 2mdn.net^$important
+/generate_204
 disqus.com^$important
 doubleclick.net^$important
 pornhub.com###under-player-comments
