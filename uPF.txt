@@ -523,10 +523,10 @@ ghacks.net##.ghacks_share_widget.widget
 ghacks.net##.ghacks_this_day.widget
 ghacks.net##.ghacks_popular.widget
 ghacks.net##.ghacks_last_updated.widget
-ghacks.net##.border--top--gray
+ghacks.net##.mt--40.pt--40.border--top--gray:has([href*="paypal"])
+ghacks.net###post-author
 ghacks.net###snippet-box
 ghacks.net###respond
-ghacks.net##.user-content > ul:has(a[href^='https://www.ghacks.net/'])
 ||ghacks.net^$csp=script-src 'self' 'unsafe-inline'
 @@||ghacks.net^$elemhide
 openload.co/r3/f^
