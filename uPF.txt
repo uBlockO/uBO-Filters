@@ -753,3 +753,4 @@ s.yimg.com^
 myanimelist.net##.fb-page
 @@||wikia.com^$csp=script-src 'self' * 'unsafe-inline' 'unsafe-eval'
 @@/_ad*/_ad$first-party,xmlhttprequest,badfilter
+animenewsnetwork.com##.social-button
