@@ -753,3 +753,4 @@ myanimelist.net##.fb-page
 @@||wikia.com^$csp=script-src 'self' * 'unsafe-inline' 'unsafe-eval'
 @@/_ad*/_ad$first-party,xmlhttprequest,badfilter
 animenewsnetwork.com##.social-button
+kimcartoon.me#@#div[style^="width: 300px; height: 250px"]
