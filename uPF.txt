@@ -695,7 +695,7 @@ readcomiconline.to##[style*="width: 1010px; height: 200px"]
 readcomiconline.to###disqus_thread
 ||readcomiconline.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.bp.blogspot.com
 hanime.tv##.user_comments.lazy
-/^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ss]cripts|[Uu]ploads|[Ii]mages|combined|content|cover|img|static|thumbs|wp-content|wp-includes))(.*)/$first-party,xmlhttprequest,badfilter
+/^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ss]cripts|[Uu]ploads|[Ii]mages|combined|content|cover|img|static|wp-content|wp-includes))(.*)/$first-party,xmlhttprequest,badfilter
 @@||animenewsnetwork.com^$elemhide
 9anime.is##.small
 /js.cookie.$badfilter
@@ -754,3 +754,4 @@ myanimelist.net##.fb-page
 @@/_ad*/_ad$first-party,xmlhttprequest,badfilter
 animenewsnetwork.com##.social-button
 kimcartoon.me#@#div[style^="width: 300px; height: 250px"]
+@@||kimcartoon.me/external^$badfilter
