@@ -755,3 +755,4 @@ myanimelist.net##.fb-page
 animenewsnetwork.com##.social-button
 kimcartoon.me#@#div[style^="width: 300px; height: 250px"]
 @@||kimcartoon.me/external^$badfilter
+||imgur.com/b$badfilter
