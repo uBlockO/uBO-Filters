@@ -208,7 +208,7 @@ youtube.com/api/stats^$important
 log_event
 kisshentai.*##a[href="#"]
 kisshentai.*###show_id
-||kisshentai.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.stream *.oloadcdn.net streamcherry.com *.fruithosted.net
+||kisshentai.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net openload.co oload.stream *.oloadcdn.net streamcherry.com *.fruithosted.net
 doubleclick^$script,important.me###disqus_thread
 ||androidcentral.com/sites/androidcentral.com/files/advagg_js/$script,badfilter
 connect.facebook.net^
@@ -244,10 +244,10 @@ mega.nz##.ads-left-block
 mega.nz##.ads-right-block
 mega.nz##.active.top-login-warning
 dwatchseries.to##a[href^="/redirect.php"]
-||fmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.blogspot.com *.rapidvideo.com *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net;upgrade-insecure-requests
-||9anime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.akacdn.ru *.blogspot.com *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com *.rapidvideo.com *.playercdn.net openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to streamango.com *.fruithosted.net;upgrade-insecure-requests
-||putlockertv.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.blogspot.com *.rapidvideo.com *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net;upgrade-insecure-requests
-||solarmoviex.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.blogspot.com *.rapidvideo.com *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net;upgrade-insecure-requests
+||fmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net;upgrade-insecure-requests
+||9anime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.akacdn.ru *.blogspot.com *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to streamango.com *.fruithosted.net;upgrade-insecure-requests
+||putlockertv.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net;upgrade-insecure-requests
+||solarmoviex.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net;upgrade-insecure-requests
 endscreen$script
 ads_$xmlhttprequest,important
 plg_jchoptimize$script
@@ -359,7 +359,7 @@ kimcartoon.*###btnShowComments
 thepiratebay.*/*/$inline-script,subdocument
 @@||screenrant.com^$elemhide
 screenrant.com##.ad-zone-container
-||kimcartoon.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.zencdn.net *.rapidvideo.com *.playercdn.net openload.co *.oloadcdn.net streamango.com code.jquery.com *.fruithosted.net yucloud.co *.yucloud.co i.imgur.com;media-src *
+||kimcartoon.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.zencdn.net *.rapidvideo.com *.rapidvideo.is *.playercdn.net openload.co *.oloadcdn.net streamango.com code.jquery.com *.fruithosted.net yucloud.co *.yucloud.co i.imgur.com;media-src *
 screenrant.com##.twitter.icon
 @@||cbr.com^$elemhide
 cbr.com##.sharing-option
