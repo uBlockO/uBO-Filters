@@ -461,7 +461,7 @@ fmovies.*##.col-lg-12:has-text(blockbuster)
 fmovies.*##.footerdesc
 adbd^
 ||flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
-swatchseries.to,rapidvideo.*solarmoviex.*,putlockertv.*##+js(abort-current-inline-script.js, atob, /tabunder|TABUNDER/)
+swatchseries.to,rapidvideo.*,solarmoviex.*,putlockertv.*##+js(abort-current-inline-script.js, atob, /tabunder|TABUNDER/)
 rapidvideo.*###top350b
 rapidvideo.*###premiumad
 rapidvideo.*###top350
