@@ -453,7 +453,7 @@ fmovies.*##a[href^="https://twitter.com/"]
 kissanime.ru##.bigBarContainer:has-text(Comments)
 kissanime.*##a[href^="https://animemerchant.com/"]
 |https://$third-party,script,domain=9anime.to,badfilter
-||rapidvideo.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval';upgrade-insecure-requests
+||rapidvideo.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval';upgrade-insecure-requests
 kissanime.*##.rightBox:has-text(Like me)
 @@||akamaihd.net^*/ad*.js$script,badfilter
 boxofficemojo.com###Player_82160f42-9620-4d0a-b79a-18b1abd853fb
@@ -462,9 +462,9 @@ fmovies.*##.footerdesc
 adbd^
 ||flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
 swatchseries.to,solarmoviex.*,putlockertv.*##+js(abort-current-inline-script.js, atob, /tabunder|TABUNDER/)
-rapidvideo.com###top350b
-rapidvideo.com###premiumad
-rapidvideo.com###top350
+rapidvideo.*###top350b
+rapidvideo.*###premiumad
+rapidvideo.*###top350
 howtogeek.com##.how-to-geek-follow
 howtogeek.com##.disclaimer
 howtogeek.com##.relatedside
@@ -669,7 +669,7 @@ masterani.me##.aligned.center.column.wide.sixteen
 ||streamango.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.streamango.com *.fruithosted.net cdnjs.cloudflare.com
 reddit.com/chat^
 masterani.me##.campaign.column.wide.sixteen
-||masterani.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.masterani.me www.youtube.com *.ytimg.com cdnjs.cloudflare.com streamango.com *.fruithosted.com openload.co *.oloadcdn.net *.rapidvideo.com *.playercdn.net stream.moe mp4upload.com tiwi.kiwi
+||masterani.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.masterani.me www.youtube.com *.ytimg.com cdnjs.cloudflare.com streamango.com *.fruithosted.com openload.co *.oloadcdn.net *.rapidvideo *.playercdn.net stream.moe mp4upload.com tiwi.kiwi
 ping^
 revcontent.com^$important
 cbr.com##.premium-promo
