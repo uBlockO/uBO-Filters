@@ -526,7 +526,6 @@ ghacks.net##.ghacks_last_updated.widget
 ghacks.net##.mt--40.pt--40.border--top--gray:has([href*="paypal"])
 ghacks.net###post-author
 ghacks.net###snippet-box
-ghacks.net###respond
 ||ghacks.net^$csp=script-src 'self' 'unsafe-inline'
 @@||ghacks.net^$elemhide
 openload.co/r3/f^
