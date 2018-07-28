@@ -359,7 +359,7 @@ kimcartoon.*###btnShowComments
 thepiratebay.*/*/$inline-script,subdocument
 @@||screenrant.com^$elemhide
 screenrant.com##.ad-zone-container
-||kimcartoon.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.zencdn.net *.rapidvideo.com *.rapidvideo.is *.playercdn.net openload.co *.oloadcdn.net streamango.com code.jquery.com *.fruithosted.net yucloud.co *.yucloud.co i.imgur.com *.bp.blogspot.com
+||kimcartoon.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.zencdn.net *.rapidvideo.com *.rapidvideo.is *.playercdn.net openload.co *.oloadcdn.net streamango.com code.jquery.com *.fruithosted.net yucloud.co *.yucloud.co i.imgur.com *.bp.blogspot.com *.googleusercontent.com *.googlevideo.com
 screenrant.com##.twitter.icon
 @@||cbr.com^$elemhide
 cbr.com##.sharing-option
