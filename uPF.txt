@@ -461,7 +461,7 @@ fmovies.*##.col-lg-12:has-text(blockbuster)
 fmovies.*##.footerdesc
 adbd^
 ||flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
-swatchseries.to,rapidvideo.*,solarmoviex.*,putlockertv.*##+js(abort-current-inline-script.js, atob, /tabunder|TABUNDER/)
+swatchseries.to,solarmoviex.*,putlockertv.*##+js(abort-current-inline-script.js, atob, /tabunder|TABUNDER/)
 rapidvideo.*###top350b
 rapidvideo.*###premiumad
 rapidvideo.*###top350
@@ -757,7 +757,7 @@ kimcartoon.me#@#div[style^="width: 300px; height: 250px"]
 ||imgur.com/b$badfilter
 milfzr.com/*.gif$image
 rapidvideo.is##+js(addEventListener-defuser.js, contextmenu, preventDefault)
-fmovies.*##+js(abort-current-inline-script.js, atob, decodeURI)
+fmovies.*,rapidvideo.*##+js(abort-current-inline-script.js, atob, decodeURI)
 @@||imagesrv.adition.com/js/srp.js$script,domain=derstandard.at,badfilter
 @@||derstandard.at/metaadserver/mas.aspx$first-party,xmlhttprequest,badfilter
 @@||derstandard.at/s/$first-party,image,badfilter
