@@ -762,3 +762,4 @@ fmovies.*##+js(abort-current-inline-script.js, atob, decodeURI)
 @@||imagesrv.adition.com/js/srp.js$script,domain=derstandard.at,badfilter
 @@||derstandard.at/metaadserver/mas.aspx$first-party,xmlhttprequest,badfilter
 @@||derstandard.at/s/$first-party,image,badfilter
+||youtube.com/comment_service_ajax?$domain=youtube.com,badfilter
