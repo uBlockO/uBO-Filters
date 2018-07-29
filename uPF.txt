@@ -757,7 +757,8 @@ kimcartoon.me#@#div[style^="width: 300px; height: 250px"]
 ||imgur.com/b$badfilter
 milfzr.com/*.gif$image
 rapidvideo.is##+js(addEventListener-defuser.js, contextmenu, preventDefault)
-fmovies.*,rapidvideo.*##+js(abort-current-inline-script.js, String.fromCharCode, decodeURI)
+rapidvideo.*##+js(abort-current-inline-script.js, String.fromCharCode, decodeURI)
+fmovies.*##+js(abort-current-inline-script.js, atob, decodeURI)
 @@||imagesrv.adition.com/js/srp.js$script,domain=derstandard.at,badfilter
 @@||derstandard.at/metaadserver/mas.aspx$first-party,xmlhttprequest,badfilter
 @@||derstandard.at/s/$first-party,image,badfilter
