@@ -571,7 +571,6 @@ comicbook.com##.urgent-module
 @@||streamango.com/googlead.js$badfilter
 @@||streamango.com/assets/js/license.adbl.js$badfilter
 @@||ads.servebom.com/tmnhead.js$badfilter
-proxy_ab.js^$script
 |http://$third-party,stylesheet,domain=dwatchseries.to|thewatchseries.ac|unblckd.org|watchseries.sk,badfilter
 comicbook.com##.comment-activator-container
 facebook.com/ads^
