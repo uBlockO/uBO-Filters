@@ -544,7 +544,6 @@ facebook.com##.UFIList
 facebook.com##._5pcr:has-text(Popular Across Facebook)
 facebook.com##._2a_2:has-text(Share)
 sw.js$script
-check.googlezip.net/generate_204^
 ghacks.net##.ghacks-ad
 speedtest.net##.top-placeholder.pure-u-1
 xvideos.com##+js(rdo.js, console, noopFunc)
@@ -651,7 +650,6 @@ kimcartoon.me##div[id*="ScriptRoot"]
 @@||9anime.is/assets/player/jwplayer-*/jwplayer.js$badfilter
 player_ads.html^$important
 mellowads.com^$important
-check.googlezip.net^$other
 google.com/adsense$important
 ad.foxnetworks.com^$important
 ads.twitter.com^$important
