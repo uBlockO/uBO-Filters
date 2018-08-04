@@ -696,7 +696,6 @@ hanime.tv##.user_comments.lazy
 9anime.is##.small
 /js.cookie.$badfilter
 adroll.com^$important
-quora.com##body > div > div > div > div > div > div > div > div > div > div:has([rel*="nofollow"])
 fluidplayer.com^
 @@||streamango.com/assets/js/script.packed.js$badfilter
 fonts.googleapis.com^$important,domain=~google.com
