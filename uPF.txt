@@ -332,7 +332,6 @@ googleblog.com##a[href^="https://plus.google.com/"]
 googlevideo.io^
 free-contents.org^
 @@||startpage.com/js/abp.js^$badfilter
-datasaver.googleapis.com^
 ||fmovies.se^$first-party,popup,badfilter
 youtube.com##.style-default.force-icon-button.ytd-menu-renderer.style-scope
 @@||business-standard.com/ad/banner.js$badfilter
