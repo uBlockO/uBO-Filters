@@ -748,3 +748,7 @@ fmovies.*##+js(abort-current-inline-script.js, atob, decodeURI)
 @@||derstandard.at/metaadserver/mas.aspx$first-party,xmlhttprequest,badfilter
 @@||derstandard.at/s/$first-party,image,badfilter
 ||youtube.com/comment_service_ajax?$domain=youtube.com,badfilter
+@@||twimg.com/tweets.json?*callback$script,badfilter
+@@||platform.twitter.com/widgets/widget_iframe.$subdocument,badfilter
+||platform.twitter.com*/widgets/$third-party,badfilter
+/tweets.js$badfilter
