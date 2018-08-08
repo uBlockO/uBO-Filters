@@ -183,7 +183,7 @@ istream.*##.button
 contributor.google.com/scripts/
 androidcentral.com,windowscentral.com##.mn_mbn_share
 gyazo.com##.image-infos
-thepiratebay.*,pornhub.com,anilinkz.*,oload.*,1337x.*##+js(window.open-defuser.js)
+thepiratebay.*,pornhub.com,rapidvideo.*,anilinkz.*,oload.*,1337x.*##+js(window.open-defuser.js)
 cbr.com##.quiz-share-btn-wrapper
 fmovies.*,9anime.*##center
 9anime.*##.a_d
