@@ -58,7 +58,6 @@ cartoonhd.*,movieshd.watch,istream.is,flixanity.*##a[href="#credits"]
 torrentfreak.com##.comments.pbx-alt.pbx
 googletagmanager.com^$important
 cbr.com##.embed-related-block
-google.*###contain-402
 addthis.com^$important
 myanimelist.net##.banner-header-anime-straming
 myanimelist.net##.footer-link-icon-block
@@ -122,7 +121,7 @@ wp-content/uploads/$script,first-party
 magnific-popup.js
 9anime.*##.ads.toggler.mbtn.item
 ab_appeal$script,first-party
-google.*###prm-pt
+google.com###prm-pt
 kissanime.*##.divCloseBut
 wikia.com###WikiaFooter
 wikia.com###WikiaArticleBottomAd
@@ -214,10 +213,8 @@ ajax.cloudflare.com/cdn-cgi/nexp^$script
 speedtest.net##.high-placeholder.pure-u-1
 speedtest.net##.u-c.pure-u-custom-ad-rectangle
 speedtest.net##.u-c.pure-u-custom-ad-skyscraper
-google.*##.glif-promo
 gitlab.com##.bordered-box
 platform.twitter.com/js/button.$important
-google.*##._RMl.tpo._rk.g
 pastebin.com##.promo-bar
 speedtest.net##.eot-mini-survey
 cbr.com##.quiz.browse-content
@@ -432,7 +429,7 @@ kimcartoon.me##.barContent:has-text(fake)
 facebook.com##._31qy:has-text(related)
 facebook.com##._4-u2:has-text(Page stories you may like)
 cbr.com##.social-account-links
-google.*##.b2hzT
+google.com##.b2hzT
 cbr.com##.link:has-text(FindaComicShop.com)
 myanimelist.net##.anime-detail-header-video
 ||kirtuclub.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval'
@@ -577,8 +574,8 @@ hanime.tv##.desktop.unit
 hanime.tv##.footer__column.flex:has-text(Partners)
 hanime.tv##.info__text__tags__title
 comicbook.com##.btn-wide-container
-google.*##.exp-outline
-google.*##div[id^="eob"]
+google.com##.exp-outline
+google.com##div[id^="eob"]
 hanime.tv/*/user_comments
 torrentz2.*###resultarea
 collect^$other
@@ -751,3 +748,4 @@ fmovies.*##+js(abort-current-inline-script.js, atob, decodeURI)
 @@||platform.twitter.com/widgets/widget_iframe.$subdocument,badfilter
 ||platform.twitter.com*/widgets/$third-party,badfilter
 /tweets.js$badfilter
+google.com##[title*="Share"]
