@@ -656,7 +656,7 @@ youtube.com###inline-recs-list-renderer
 kimcartoon.me##[style*="visibility:visible"]
 9anime.*##+js(abort-current-inline-script.js, atob, /0x/)
 @@||9anime.is/assets/player/jwplayer-7.12.3/jwplayer.js$script,badfilter
-kimcartoon.me##[style*="width: 300px; height: 250px;"]
+kimcartoon.me,readcomiconline.to##[style*="width: 300px; height: 250px;"]
 fmovies.*##+js(abort-on-property-read.js, kqyyjsu)
 fmovies.*,putlockertv.*##+js(dwrite.js, /300x250|728x90/)
 hanime.tv##.htv-flag
@@ -669,7 +669,7 @@ evidon.com^
 readcomiconline.to##.top_page_alert
 readcomiconline.to##[style*="width: 1010px; height: 200px"]
 readcomiconline.to###disqus_thread
-||readcomiconline.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.bp.blogspot.com
+||readcomiconline.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bp.blogspot.com
 hanime.tv##.user_comments.lazy
 /^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ss]cripts|[Uu]ploads|[Ii]mages|combined|content|cover|img|static|wp-content|wp-includes))(.*)/$first-party,xmlhttprequest,badfilter
 @@||animenewsnetwork.com^$elemhide
