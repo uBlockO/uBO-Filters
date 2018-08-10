@@ -741,3 +741,4 @@ fmovies.*##+js(abort-current-inline-script.js, atob, decodeURI)
 ||platform.twitter.com*/widgets/$third-party,badfilter
 /tweets.js$badfilter
 google.com##[title*="Share"]
+readcomiconline.to/wp-includes/*/*.html$subdocument,first-party
