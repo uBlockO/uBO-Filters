@@ -743,3 +743,4 @@ fmovies.*##+js(abort-current-inline-script.js, atob, decodeURI)
 /tweets.js$badfilter
 google.com##[title*="Share"]
 readcomiconline.to/wp-includes/*/*.html$subdocument,first-party
+@@||gemius.pl/gstream.js$badfilter
