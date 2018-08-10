@@ -729,7 +729,8 @@ animenewsnetwork.com##.social-button
 kimcartoon.me#@#div[style^="width: 300px; height: 250px"]
 @@||kimcartoon.me/external^$badfilter
 ||imgur.com/b$badfilter
-milfzr.com/*.gif$image,first-party
+readcomiconline.to###fl-ads.rf-container
+milfzr.com##[href*="https://incezt.net/"]
 rapidvideo.is##+js(addEventListener-defuser.js, contextmenu, preventDefault)
 fmovies.*##+js(abort-current-inline-script.js, atob, decodeURI)
 @@||imagesrv.adition.com/js/srp.js$script,domain=derstandard.at,badfilter
