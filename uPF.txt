@@ -144,9 +144,6 @@ facebook.com###snowliftStageActions
 facebook.com##.home_right_column
 facebook.com/*/logging^$important
 myanimelist.net##.amazon.btn-affiliate
-imdb.com##.aux-content-widget-2:nth-of-type(4)
-imdb.com###title-overview-widget > .article
-imdb.com##.ab_ninja
 /annotations$script,first-party
 9anime.*##.alert.mt20
 9anime.*##.alert
@@ -388,9 +385,6 @@ betterpop$script,first-party,important
 @@||gigya.com/*/socialize.js$badfilter
 adpass.co.uk^
 howtogeek.com##iframe
-imdb.com###social-share-widget
-imdb.com##.aux-content-widget-2:has-text(Connect)
-imdb.com##.aux-content-widget-2:nth-of-type(6)
 */ads.js$script,first-party,important,redirect=noopjs
 */*.ads.js$script,first-party,important,redirect=noopjs
 ||hanime.tv^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: *.fbcdn.net cdn.discordapp.com *.googleusercontent.com vjs.zencdn.net *.hanime.tv data: cdnjs.cloudflare.com cdn.jsdelivr.net unpkg.com *.satella.tv *.searchly.com cloudflarestream.com
@@ -588,7 +582,6 @@ syndication.twitter.com
 |http*://$third-party,stylesheet,domain=9anime.is,badfilter
 @@||rapidvideo.com/e^$third-party,badfilter
 |http*://$third-party,subdocument,domain=9anime.is,badfilter
-imdb.com##.ab_widget
 @@||googleusercontent.com/gadgets/$image,domain=9anime.is,badfilter
 |http*://$third-party,image,domain=9anime.is,badfilter
 reddit.com###HeaderUserActions--Chat
