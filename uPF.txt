@@ -13,7 +13,6 @@ youtube.com###watch-action-panels
 youtube.com###chat
 hollywoodreporter.com/fe_data$xmlhttprequest
 hollywoodreporter.com##.js-leftRail-loadNewContent
-hollywoodreporter.com##.author
 hollywoodreporter.com###show-disqus-comments
 hollywoodreporter.com##.autoload-spinner.processed-by-autoloader.autoload-direct-render
 hollywoodreporter.com##.fa-comment.post-has-comments.comments-square.js-scroll-to-comments
