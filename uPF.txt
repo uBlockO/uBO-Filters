@@ -1,4 +1,4 @@
-[uBlock Origin 1.16.17b2]
+[uBlock Origin 1.16.17b3]
 ! Title: uBO Personal Filters
 ! Author: uBlock-user
 ! Expires: 1 day
@@ -744,3 +744,4 @@ google.com##[title*="Share"]
 readcomiconline.to/wp-includes/*/*.html$subdocument,first-party
 @@||gemius.pl/gstream.js$badfilter
 |https://$third-party,other,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to,badfilter
+screenrant.com##.w-next-article-bl
