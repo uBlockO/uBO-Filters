@@ -745,4 +745,4 @@ readcomiconline.to/wp-includes/*/*.html$subdocument,first-party
 |https://$third-party,other,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to,badfilter
 screenrant.com##.w-next-article-bl
 kissanime.ru##.adsPositioning
-
+@@||openload.co/advert2.js$badfilter
