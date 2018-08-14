@@ -746,3 +746,4 @@ readcomiconline.to/wp-includes/*/*.html$subdocument,first-party
 screenrant.com##.w-next-article-bl
 kissanime.ru##.adsPositioning
 @@||openload.co/advert2.js$badfilter
+@@||openload.co/advert2.js$script,badfilter
