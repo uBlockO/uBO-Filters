@@ -652,10 +652,9 @@ cbr.com##.header-premium-zone
 but.to^$important
 clksite.com^$important
 youtube.com###inline-recs-list-renderer
-kimcartoon.me##[style*="visibility:visible"]
 9anime.*##+js(abort-current-inline-script.js, atob, /0x/)
 @@||9anime.is/assets/player/jwplayer-7.12.3/jwplayer.js$script,badfilter
-kimcartoon.me,readcomiconline.to##[style*="width: 300px; height: 250px;"]
+kimcartoon.me,kissanime.ru,readcomiconline.to##[style*="width:300px; height:250px;"]
 fmovies.*##+js(abort-on-property-read.js, kqyyjsu)
 fmovies.*,putlockertv.*##+js(dwrite.js, /300x250|728x90/)
 hanime.tv##.htv-flag
@@ -745,3 +744,5 @@ readcomiconline.to/wp-includes/*/*.html$subdocument,first-party
 @@||gemius.pl/gstream.js$badfilter
 |https://$third-party,other,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to,badfilter
 screenrant.com##.w-next-article-bl
+kissanime.ru##.adsPositioning
+
