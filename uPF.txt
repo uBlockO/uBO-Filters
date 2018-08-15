@@ -616,7 +616,6 @@ screenrant.com##.w-injected-featured
 nosteam.ro##+js(window.open-defuser.js)
 /\.(watchcartoononline|9anime|memecenter).*\/.*[(&|=|%|\/|?)]/$image,badfilter
 translate.google.com##.gt-hats
-fmovies.*,solarmoviex.*,putlockertv.*##+js(eclick.js, .cover)
 */advertisement.js$xmlhttprequest,redirect=nooptext,important
 @@/advert.js$script,badfilter
 openload.co##+js(eclick.js, #videooverlay)
