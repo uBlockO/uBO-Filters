@@ -1,4 +1,4 @@
-[uBlock Origin 1.16.17b3]
+[uBlock Origin 1.16.17b5]
 ! Title: uBO Personal Filters
 ! Author: uBlock-user
 ! Expires: 1 day
@@ -652,7 +652,6 @@ cbr.com##.header-premium-zone
 but.to^$important
 clksite.com^$important
 youtube.com###inline-recs-list-renderer
-9anime.*##+js(abort-current-inline-script.js, atob, /0x/)
 @@||9anime.is/assets/player/jwplayer-7.12.3/jwplayer.js$script,badfilter
 kimcartoon.me,kissanime.ru,readcomiconline.to##[style*="width:300px; height:250px;"]
 fmovies.*##+js(abort-on-property-read.js, kqyyjsu)
@@ -747,3 +746,4 @@ screenrant.com##.w-next-article-bl
 kissanime.ru##.adsPositioning
 @@||openload.co/advert2.js$badfilter
 @@||openload.co/advert2.js$script,badfilter
+9anime.*#@#script:inject(setTimeout-defuser.js, return, 2000)
