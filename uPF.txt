@@ -733,3 +733,5 @@ kissanime.ru##.adsPositioning
 @@||openload.co/advert2.js$badfilter
 @@||openload.co/advert2.js$script,badfilter
 9anime.*#@#script:inject(setTimeout-defuser.js, return, 2000)
+appcache^$other,first-party
+worker.js^$script,first-party
