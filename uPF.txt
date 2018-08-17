@@ -735,3 +735,4 @@ kissanime.ru##.adsPositioning
 9anime.*#@#script:inject(setTimeout-defuser.js, return, 2000)
 appcache^$other,first-party
 worker.js^$script,first-party
+rapidvideo.*##+js(eclick.js, #confirm)
