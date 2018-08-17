@@ -639,7 +639,6 @@ but.to^$important
 clksite.com^$important
 youtube.com###inline-recs-list-renderer
 @@||9anime.is/assets/player/jwplayer-7.12.3/jwplayer.js$script,badfilter
-kimcartoon.me,kissanime.ru,readcomiconline.to##div[style*="width:300px; height:250px"]
 fmovies.*##+js(abort-on-property-read.js, kqyyjsu)
 fmovies.*,putlockertv.*##+js(dwrite.js, /300x250|728x90/)
 hanime.tv##.htv-flag
@@ -735,3 +734,4 @@ kissanime.ru##.adsPositioning
 appcache^$other,first-party
 worker.js^$script,first-party
 rapidvideo.*##+js(eclick.js, #confirm)
+kimcartoon.me,kissanime.ru,readcomiconline.to##[style*="width: 300px; height: 250px"]
