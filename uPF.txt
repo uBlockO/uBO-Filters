@@ -737,3 +737,4 @@ rapidvideo.*##+js(eclick.js, #confirm)
 kimcartoon.me,kissanime.ru,readcomiconline.to##[style*="width: 300px; height: 250px"]
 -social-media.$badfilter
 -social-media-$image,badfilter
+@@||gateway.reddit.com/desktopapi/v*/sidebar_ad$xmlhttprequest,badfilter
