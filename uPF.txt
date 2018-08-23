@@ -1,4 +1,4 @@
-[uBlock Origin 1.16.17b7]
+[uBlock Origin 1.16.17b9]
 ! Title: uBO Personal Filters
 ! Author: uBlock-user
 ! Expires: 1 day
@@ -738,3 +738,4 @@ kimcartoon.me,kissanime.ru,readcomiconline.to##[style*="width: 300px; height: 25
 -social-media.$badfilter
 -social-media-$image,badfilter
 @@||gateway.reddit.com/desktopapi/v*/sidebar_ad$xmlhttprequest,badfilter
+/\.com\/.*[a-f0-9]{110}/$third-party,image,domain=~aliexpress.com|~alipay.com|~bilibili.com|~namu.wiki|~fastmail.com,badfilter
