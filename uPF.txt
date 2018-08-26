@@ -614,7 +614,7 @@ kimcartoon.me##div[id*="ScriptRoot"]
 @@||9anime.is/assets/player/jwplayer-*/jwplayer.js$badfilter
 player_ads.html^$important
 mellowads.com^$important
-google.com/adsense$important
+cse.google.com^
 ad.foxnetworks.com^$important
 ads.twitter.com^$important
 yahoo.com^$third-party,important
