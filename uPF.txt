@@ -741,3 +741,5 @@ kimcartoon.me,kissanime.ru,readcomiconline.to##[style*="width: 300px; height: 25
 /\.com\/.*[a-f0-9]{110}/$third-party,image,domain=~aliexpress.com|~alipay.com|~bilibili.com|~namu.wiki|~fastmail.com,badfilter
 kvideo.io^
 ||animehub.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: play.animehub.ac static.animecdn.stream *.fbcdn.net
+animehub.*##.comments.goblock
+animehub.*##.goblock:nth-of-type(5) > .goblock-content:has-text(animehub.to)
