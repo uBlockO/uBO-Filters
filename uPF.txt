@@ -1,4 +1,4 @@
-[uBlock Origin 1.16.17b10]
+[uBlock Origin 1.16.21b0]
 ! Title: uBO Personal Filters
 ! Author: uBlock-user
 ! Expires: 1 day
@@ -745,3 +745,4 @@ animehub.*##.comments.goblock
 animehub.*##.goblock:nth-of-type(5) > .goblock-content:has-text(animehub.to)
 @@||static.animecdn.stream/js/ads.js$badfilter
 @@/js/ads.js$script,badfilter
+@@||office365.com^*/adbar.js$badfilter
