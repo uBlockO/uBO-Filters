@@ -749,4 +749,5 @@ animehub.*##.goblock:nth-of-type(5) > .goblock-content:has-text(animehub.to)
 quora.com##div > div > div > div > div > div > div > div > div > div:has-text(/ad  by|promoted  by/)
 animehub.ac##.dialog-ovelay
 graph*^$first-party,xmlhttprequest
+referer$first-party,xmlhttprequest
 @@||nyt.com/ads/$script,badfilter
