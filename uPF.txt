@@ -748,6 +748,6 @@ animehub.*##.goblock:nth-of-type(5) > .goblock-content:has-text(animehub.to)
 @@||office365.com^*/adbar.js$badfilter
 quora.com##div > div > div > div > div > div > div > div > div > div:has-text(/ad  by|promoted  by/)
 animehub.ac##.dialog-ovelay
-graph*^$first-party,xmlhttprequest
+graph*^$first-party,xmlhttprequest,domain=~github.com
 referer$first-party,xmlhttprequest
 @@||nyt.com/ads/$script,badfilter
