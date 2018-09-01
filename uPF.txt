@@ -750,6 +750,6 @@ animehub.*##.block-share.goblock
 @@||office365.com^*/adbar.js$badfilter
 quora.com##div > div > div > div > div > div > div > div > div > div:has-text(/ad  by|promoted  by/)
 animehub.*##.dialog-ovelay
-graph*^$first-party,xmlhttprequest,domain=~github.com
+graph*^$first-party,xmlhttprequest,domain=~github.com|~facebook.com
 referer$first-party,xmlhttprequest
 @@||nyt.com/ads/$script,badfilter
