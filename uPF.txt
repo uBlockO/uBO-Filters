@@ -115,7 +115,7 @@ myanimelist.net##.anime-detail-header-affiliate
 abtesting$important
 @@||wikia.com^$elemhide
 mrskin.com##.sk-wallpaper-riseup
-||youtube.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.ggpht.com *.googlevideo.com *.ytimg.com *.googleusercontent.com
+||youtube.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.ggpht.com *.googlevideo.com *.ytimg.com *.googleusercontent.com www.youtube.com
 pubmedia.js
 wp-content/uploads/$script,first-party
 magnific-popup.js
