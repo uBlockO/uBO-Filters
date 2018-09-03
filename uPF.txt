@@ -756,3 +756,4 @@ referer$first-party,xmlhttprequest
 @@||segment.com/analytics.js/*/analytics.min.js$script,badfilter
 @@||warnerbros-d.openx.net^$domain=dramafever.com,badfilter
 @@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|dramafever.com|forbes.com|freeshipping.com|heroku.com|hotukdeals.com|imageshack.com|lifelock.com|malwarebytes.org|policymic.com|ricardo.ch|spotify.com|techrepublic.com|zdnet.com,badfilter
+outlook.live.com##div > div > div > div > div > div > div > div > div:has-text(Upgrade)
