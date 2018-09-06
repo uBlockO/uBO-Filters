@@ -1,4 +1,4 @@
-[uBlock Origin 1.16.21b2]
+[uBlock Origin 1.16.21b4]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -630,7 +630,7 @@ masterani.me##.aligned.center.column.wide.sixteen
 ||streamango.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.streamango.com *.fruithosted.net cdnjs.cloudflare.com
 reddit.com/chat^
 masterani.me##.campaign.column.wide.sixteen
-||masterani.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.masterani.me www.youtube.com *.ytimg.com cdnjs.cloudflare.com streamango.com *.fruithosted.com openload.co *.oloadcdn.net *.rapidvideo *.playercdn.net stream.moe mp4upload.com tiwi.kiwi
+||masterani.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.masterani.me www.youtube.com *.ytimg.com cdnjs.cloudflare.com streamango.com *.fruithosted.com openload.co *.oloadcdn.net *.rapidvideo.com *.playercdn.net stream.moe mp4upload.com tiwi.kiwi
 ping^
 revcontent.com^$important
 cbr.com##.premium-promo
