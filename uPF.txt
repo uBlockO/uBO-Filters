@@ -1,4 +1,4 @@
-[uBlock Origin 1.16.21b4]
+[uBlock Origin 1.16.21b5]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -757,3 +757,4 @@ referer$first-party,xmlhttprequest
 @@||warnerbros-d.openx.net^$domain=dramafever.com,badfilter
 @@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|dramafever.com|forbes.com|freeshipping.com|heroku.com|hotukdeals.com|imageshack.com|lifelock.com|malwarebytes.org|policymic.com|ricardo.ch|spotify.com|techrepublic.com|zdnet.com,badfilter
 outlook.live.com##div > div > div > div > div > div > div > div > div:has-text(Upgrade)
+adshark.site^
