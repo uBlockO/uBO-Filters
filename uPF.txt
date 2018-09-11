@@ -1,4 +1,4 @@
-[uBlock Origin 1.16.21b6]
+[uBlock Origin 1.16.21b7]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -758,3 +758,4 @@ referer$first-party,xmlhttprequest
 @@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|dramafever.com|forbes.com|freeshipping.com|heroku.com|hotukdeals.com|imageshack.com|lifelock.com|malwarebytes.org|policymic.com|ricardo.ch|spotify.com|techrepublic.com|zdnet.com,badfilter
 outlook.live.com##div > div > div > div > div > div > div > div > div:has-text(Upgrade)
 adshark.site^
+/^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ss]cripts|[Uu]ploads|[Ii]mages|combined|content|cover|img|static|wp-content|wp-includes))(.*)/$first-party,script,badfilter
