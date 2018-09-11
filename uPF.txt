@@ -631,7 +631,6 @@ masterani.me##.aligned.center.column.wide.sixteen
 reddit.com/chat^
 masterani.me##.campaign.column.wide.sixteen
 ||masterani.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.masterani.me www.youtube.com *.ytimg.com cdnjs.cloudflare.com streamango.com *.fruithosted.com openload.co *.oloadcdn.net *.rapidvideo.com *.playercdn.net stream.moe mp4upload.com tiwi.kiwi *.mystream.to
-ping^
 revcontent.com^$important
 cbr.com##.premium-promo
 cbr.com##.header-premium-zone
