@@ -746,7 +746,7 @@ animehub.*##.block-share.goblock
 @@||static.animecdn.stream/js/ads.js$badfilter
 @@/js/ads.js$script,badfilter
 @@||office365.com^*/adbar.js$badfilter
-quora.com##div > div > div > div > div > div > div > div > div > div:has-text(/ad  by|promoted  by/)
+quora.com##div[class]:has-text(/ad  by|promoted  by/)
 animehub.*##.dialog-ovelay
 graph*^$first-party,xmlhttprequest,domain=~github.com|~facebook.com|~instagram.com
 referer$first-party,xmlhttprequest
