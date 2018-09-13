@@ -434,7 +434,7 @@ boxofficemojo.com###Player_82160f42-9620-4d0a-b79a-18b1abd853fb
 fmovies.*##.col-lg-12:has-text(blockbuster)
 fmovies.*##.footerdesc
 ||flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
-swatchseries.to,solarmoviex.*,putlockertv.*##+js(abort-current-inline-script.js, atob, /tabunder|TABUNDER/)
+putlockertv.*,solarmoviex.*##+js(addEventListener-defuser.js, /mousedown|mouseup/, 0x0)
 rapidvideo.*###top350b
 rapidvideo.*###premiumad
 rapidvideo.*###top350
