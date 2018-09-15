@@ -6,3 +6,5 @@ Contains filters specific to uBlock Origin and some filters that have not yet be
 Add the list from here: [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/uBlock-user/uBO-Personal-Filters/master/uPF.txt&title=uBO-Personal-Filters)
 
 Direct link: https://raw.githubusercontent.com/uBlock-user/uBO-Personal-Filters/master/uPF.txt
+
+Requirements: Need to add [uBO-Scriptlets](https://raw.githubusercontent.com/uBlock-user/uBO-Scriptlets/master/scriptlets.txt) to `userResourcesLocation` parameter in `Advanced-Settings` in uBlock-Origin for some filters to work.
