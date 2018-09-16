@@ -353,12 +353,6 @@ comicbook.com##.leftrail.sidebar > section:has-text(Follow Us)
 screenrant.com##H6:has-text(Follow)
 */advertising.js$script,first-party,important,redirect=noopjs
 facebook.com##._5pcr:has-text(/People you may know|Connect with Facebook/)
-kirtuclub.com##a[href^="http://sexdug.com/"]
-kirtuclub.com##a[href^="http://nudedesigirls.net/"]
-kirtuclub.com###foxyform_embed_link_885594
-kirtuclub.com##.widget_text.widget
-kirtuclub.com##.entry-meta:has-text(Posted in)
-kirtuclub.com##.wp_rp_wrap
 metrics$script,first-party,important
 pornhub.com##.streamatesModelsContainer.sectionWrapper
 pornhub.com###under-player-playlists
@@ -418,7 +412,6 @@ cbr.com##.social-account-links
 google.com##.b2hzT
 cbr.com##.link:has-text(FindaComicShop.com)
 myanimelist.net##.anime-detail-header-video
-||kirtuclub.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval'
 comicbook.com/article/json/$xmlhttprequest
 comicbook.com##.article-break
 comicbook.com##.modern-embed
@@ -473,7 +466,6 @@ animenewsnetwork.com###prompt-message
 @@||kisshentai.net/content/js/adframe.js^$badfilter
 @@||cloudfront.net/assets/$third-party,script,badfilter
 ||github.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.github.com *.githubusercontent.com *.s3.amazonaws.com
-kirtuclub.com##iframe[src*="youtube.com/embed/"]
 @@||hentaihaven.org/basement/js/adshow.js$badfilter
 swatchseries.to###rotating-item-wrapper
 swatchseries.to##.freeEpisode
