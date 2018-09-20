@@ -148,9 +148,7 @@ myanimelist.net##.amazon.btn-affiliate
 9anime.*##.alert.mt20
 9anime.*##.alert
 9anime.*,fmovies.*##.popover
-fmovies.*##a[href="http://9anime.to/"]
 fmovies.*##.alert
-fmovies.*##.remove-ad
 fmovies.*##.widget:nth-of-type(5)
 fmovies.*,9anime.*,solarmoviex.*,putlockertv.*###tags
 fmovies.*##.hidden-sm.widget
@@ -297,7 +295,6 @@ cookieconsent.min$important
 @@||openload.co/assets/js/script.*.js$domain=openload.co,badfilter
 fmovies.*,9anime.*##.socials
 fmovies.*,9anime.*##.twitter-follow-button
-fmovies.*,9anime.*##.ads
 outlook.live.com##a[href^="https://aka.ms"]
 myanimelist.net##.video-providers
 showads.js$important
@@ -416,7 +413,6 @@ comicbook.com/article/json/$xmlhttprequest
 comicbook.com##.article-break
 comicbook.com##.modern-embed
 youtube.com###pla-shelf
-fmovies.*##a[href^="https://twitter.com/"]
 kissanime.ru##.bigBarContainer:has-text(Comments)
 kissanime.*##a[href^="https://animemerchant.com/"]
 |https://$third-party,script,domain=9anime.to,badfilter
@@ -424,8 +420,6 @@ kissanime.*##a[href^="https://animemerchant.com/"]
 kissanime.*##.rightBox:has-text(Like me)
 @@||akamaihd.net^*/ad*.js$script,badfilter
 boxofficemojo.com###Player_82160f42-9620-4d0a-b79a-18b1abd853fb
-fmovies.*##.col-lg-12:has-text(blockbuster)
-fmovies.*##.footerdesc
 ||flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
 putlockertv.*,solarmoviex.*##+js(addEventListener-defuser.js, /mousedown|mouseup/, 0x0)
 rapidvideo.*###top350b
