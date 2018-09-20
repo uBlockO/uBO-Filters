@@ -698,7 +698,6 @@ animenewsnetwork.com##.social-button
 readcomiconline.to###fl-ads.rf-container
 milfzr.com##[href*="https://incezt.net/"]
 rapidvideo.is##+js(addEventListener-defuser.js, contextmenu, preventDefault)
-fmovies.*##+js(abort-current-inline-script.js, atob, decodeURI)
 @@||imagesrv.adition.com/js/srp.js$script,domain=derstandard.at,badfilter
 @@||derstandard.at/metaadserver/mas.aspx$first-party,xmlhttprequest,badfilter
 @@||derstandard.at/s/$first-party,image,badfilter
@@ -748,3 +747,4 @@ animehub.*##.footer-follow
 /owa.vendors~Analytics
 9anime.*##+js(eclick.js, .resize.control.tip.hidden-sm.hidden-xs)
 animehub.*##+js(eclick.js, .gc-expand.gc-icon)
+fmovies.*##[href*="twitter.com"]
