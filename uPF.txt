@@ -750,3 +750,5 @@ animehub.*##+js(eclick.js, .gc-expand.gc-icon)
 fmovies.*##[href*="twitter.com"]
 @@||9anime.to/ajax/$badfilter
 @@||9anime.to/user/ajax/$badfilter
+9anime.*/*/jwplayer-*/$script
+@@||9anime.to/assets^$badfilter
