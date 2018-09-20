@@ -290,7 +290,6 @@ cbr.com##.section-right
 cbr.com###secondary
 ||swatchseries.to^$csp=script-src 'self' 'unsafe-inline' *.swatchseries.to
 cookieconsent.min$important
-@@||9anime.*^$elemhide
 @@||fmovies.*^$elemhide
 @@||openload.co/assets/js/script.*.js$domain=openload.co,badfilter
 fmovies.*,9anime.*##.socials
