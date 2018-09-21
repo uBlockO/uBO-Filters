@@ -747,3 +747,5 @@ fmovies.*##[href*="twitter.com"]
 @@||9anime.to/user/ajax/$badfilter
 9anime.*/*/jwplayer-*/$script
 @@||9anime.to/assets^$badfilter
+@@||static01.nyt.com/ads/google/adsbygoogle.js$badfilter
+@@||nyt.com/ads/google/adsbygoogle.js$script,domain=nytimes.com,badfilter
