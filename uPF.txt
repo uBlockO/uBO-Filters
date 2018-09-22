@@ -1,4 +1,4 @@
-[uBlock Origin 1.16.21rc2]
+[uBlock Origin 1.16.21rc3]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -106,7 +106,6 @@ ph-tracking.js^$important
 premium^$script,first-party,important
 promo-banner.js^$important
 /cdn-cgi/pe/bag2^$important
-9anime.*##.notice.alert-primary.alert
 9anime.*,fmovies.*,solarmoviex.*##.home-socials
 wp-adblock-dedect$important
 fuckadblock.js
@@ -145,8 +144,7 @@ facebook.com##.home_right_column
 facebook.com/*/logging^$important
 myanimelist.net##.amazon.btn-affiliate
 /annotations$script,first-party
-9anime.*##.alert.mt20
-9anime.*##.alert
+
 9anime.*,fmovies.*##.popover
 fmovies.*##.alert
 fmovies.*##.widget:nth-of-type(5)
@@ -749,3 +747,5 @@ fmovies.*##[href*="twitter.com"]
 @@||9anime.to/assets^$badfilter
 @@||static01.nyt.com/ads/google/adsbygoogle.js$badfilter
 @@||nyt.com/ads/google/adsbygoogle.js$script,domain=nytimes.com,badfilter
+youtube.com##.ytd-video-secondary-info-renderer.style-scope.sticky
+9anime.*##.alert.alert-warning
