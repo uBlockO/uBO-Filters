@@ -749,3 +749,4 @@ fmovies.*##[href*="twitter.com"]
 @@||nyt.com/ads/google/adsbygoogle.js$script,domain=nytimes.com,badfilter
 youtube.com##.ytd-video-secondary-info-renderer.style-scope.sticky
 9anime.*##.alert.alert-warning
+9anime.*##.alert-primary.alert
