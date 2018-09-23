@@ -722,7 +722,6 @@ kimcartoon.me,kissanime.ru,readcomiconline.to##[style*="width: 300px; height: 25
 kvideo.io^
 ||animehub.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: play.animehub.ac static.animecdn.stream *.fbcdn.net
 animehub.*##.comments.goblock
-animehub.*##.goblock:nth-of-type(5) > .goblock-content:has-text(animehub.to)
 animehub.*##.block-share.goblock
 @@||animehub.*^$elemhide
 @@||static.animecdn.stream/js/ads.js$badfilter
@@ -750,3 +749,4 @@ fmovies.*##[href*="twitter.com"]
 youtube.com##.ytd-video-secondary-info-renderer.style-scope.sticky
 9anime.*##.alert.alert-warning
 9anime.*##.alert-primary.alert
+animehub.*##.goblock-content:has-text(animehub.to)
