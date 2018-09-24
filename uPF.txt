@@ -751,3 +751,4 @@ youtube.com##.ytd-video-secondary-info-renderer.style-scope.sticky
 9anime.*##.alert-primary.alert
 animehub.*##.goblock-content:has-text(animehub.to)
 animehub.*##.goblock-bottom:has-text(online)
+/\.com\/.*[a-f0-9]{110}/$third-party,image,domain=~parship.com|~feedbin.com|~aliexpress.com|~alipay.com|~bilibili.com|~namu.wiki|~fastmail.com,badfilter
