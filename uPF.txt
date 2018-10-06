@@ -758,3 +758,5 @@ bmovies.club##.alert
 bmovies.club###comment
 bmovies.club##[href^="https://twitter.com/"]
 ww2.swatchseries.to^
+@@||kissmanga.com/ads/*.aspx$badfilter
+@@||kissmanga.com/ads/adprotect$first-party,subdocument,badfilter
