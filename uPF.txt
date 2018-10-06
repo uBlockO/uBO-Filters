@@ -756,3 +756,5 @@ animehub.*##.goblock-bottom:has-text(online)
 bmovies.club##.hd-buttons.row
 bmovies.club##.alert
 bmovies.club###comment
+bmovies.club##[href^="https://twitter.com/"]
+ww2.swatchseries.to^
