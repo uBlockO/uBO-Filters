@@ -368,7 +368,6 @@ betterpop$script,first-party,important
 adpass.co.uk^
 */ads.js$script,important,redirect=noopjs,first-party
 */*.ads.js$script,important,redirect=noopjs,first-party
-||hanime.tv^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: *.fbcdn.net cdn.discordapp.com *.googleusercontent.com vjs.zencdn.net *.hanime.tv data: cdnjs.cloudflare.com cdn.jsdelivr.net *.satella.tv *.searchly.com cloudflarestream.com *://*.cdninstagram.com
 @@||hanime.tv/*.ads.js$badfilter
 comicbook.com##.contentgroup:nth-of-type(7) > header
 comicbook.com##.contentgroup:nth-of-type(7) > article
