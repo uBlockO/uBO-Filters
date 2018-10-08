@@ -368,7 +368,7 @@ betterpop$script,first-party,important
 adpass.co.uk^
 */ads.js$script,important,redirect=noopjs,first-party
 */*.ads.js$script,important,redirect=noopjs,first-party
-||hanime.tv^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: *.fbcdn.net cdn.discordapp.com *.googleusercontent.com vjs.zencdn.net *.hanime.tv data: cdnjs.cloudflare.com cdn.jsdelivr.net unpkg.com *.satella.tv *.searchly.com cloudflarestream.com
+||hanime.tv^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: *.fbcdn.net cdn.discordapp.com *.googleusercontent.com vjs.zencdn.net *.hanime.tv data: cdnjs.cloudflare.com cdn.jsdelivr.net *.satella.tv *.searchly.com cloudflarestream.com *.cdninstagram.com
 @@||hanime.tv/*.ads.js$badfilter
 comicbook.com##.contentgroup:nth-of-type(7) > header
 comicbook.com##.contentgroup:nth-of-type(7) > article
@@ -760,4 +760,4 @@ bmovies.club##[href^="https://twitter.com/"]
 ww2.swatchseries.to^
 @@||kissmanga.com/ads/*.aspx$badfilter
 @@||kissmanga.com/ads/adprotect$first-party,subdocument,badfilter
-masterani.me##.hero.column.wide.sixteen
+masterani.me##.hero
