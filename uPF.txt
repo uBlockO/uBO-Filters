@@ -761,3 +761,4 @@ ww2.swatchseries.to^
 @@||kissmanga.com/ads/adprotect$first-party,subdocument,badfilter
 masterani.me##.hero
 ||hanime.tv^$csp=upgrade-insecure-requests
+123movies0.com##+js(window.open-defuser.js)
