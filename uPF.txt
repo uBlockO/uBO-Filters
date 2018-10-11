@@ -266,7 +266,7 @@ hollywoodreporter.com##.readmore
 ||torrentz2.eu^$csp=script-src 'self' 'unsafe-inline'
 ||thepiratebay.*^$csp=script-src 'self' 'unsafe-inline'
 ad-view$script,first-party,important
-||kissanime.ru^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.stream *.oloadcdn.net streamango.com *.fruithosted.net *.fbcdn.net *.mp4upload.com
+||kissanime.ru^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.stream *.oloadcdn.net streamango.com *.fruithosted.net *.fbcdn.net *.mp4upload.com;media-src *
 ||facebook.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.fbcdn.net
 ||myanimelist.net^$csp=default-src 'self' 'unsafe-eval' 'unsafe-inline' myanimelist.cdn-dena.com;img-src *
 @@||myanimelist.net^$elemhide
