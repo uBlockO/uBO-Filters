@@ -14,4 +14,4 @@ Need to add [uBO-Scriptlets](https://raw.githubusercontent.com/uBlock-user/uBO-S
 
 # Disclaimer 
 
-As this is a personal filterlist of mine, there maybe some filters that you disagree with and if you do, feel free to click on the `Fork` and make your own list.
+As this is a personal filterlist of mine, there maybe some filters that you disagree with and if you do, feel free to click on the `Fork` button and make your own list.
