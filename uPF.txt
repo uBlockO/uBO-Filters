@@ -761,3 +761,4 @@ masterani.me##.hero
 kissmanga.com##+js(setTimeout-defuser.js, /YANABWEKA|HATEDBSDIDSY/)
 /webtorrent$script
 |https://$third-party,xmlhttprequest,domain=milfzr.com,badfilter
+bmovies.*##+js(abort-current-inline-script.js, parseInt, incrementClicks)
