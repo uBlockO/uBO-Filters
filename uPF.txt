@@ -760,3 +760,4 @@ masterani.me##.hero
 123movies0.com##+js(window.open-defuser.js)
 kissmanga.com##+js(setTimeout-defuser.js, /YANABWEKA|HATEDBSDIDSY/)
 /webtorrent$script
+|https://$third-party,xmlhttprequest,domain=milfzr.com,badfilter
