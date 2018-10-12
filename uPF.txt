@@ -763,3 +763,4 @@ masterani.me##.hero
 ||hanime.tv^$csp=upgrade-insecure-requests
 123movies0.com##+js(window.open-defuser.js)
 kissmanga.com##+js(setTimeout-defuser.js, /YANABWEKA|HATEDBSDIDSY/)
+/webtorrent$script
