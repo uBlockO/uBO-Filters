@@ -651,7 +651,6 @@ fonts.gtatic.com^$important,domain=~google.com
 kimcartoon.me##.twitter-follow-button
 @@||facebook.com/ajax/typeahead/$domain=facebook.com,badfilter
 ||yucloud.co^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.yucloud.co
-netdna.bootstrapcdn.com^
 ||kimcartoon.me^$script,domain=kimcartoon.me,badfilter
 kissanime.ru##+js(setTimeout-defuser.js, YANMKABFYWRW)
 @@||kissanime.ru/ads^$badfilter
