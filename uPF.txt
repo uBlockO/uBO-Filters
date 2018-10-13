@@ -707,7 +707,6 @@ screenrant.com##.w-next-article-bl
 kissanime.ru##.adsPositioning
 @@||openload.co/advert2.js$badfilter
 @@||openload.co/advert2.js$script,badfilter
-9anime.*#@#script:inject(setTimeout-defuser.js, return, 2000)
 appcache^$other,first-party
 worker.js^$script,first-party
 kimcartoon.me,kissanime.ru,readcomiconline.to##[style*="width: 300px; height: 250px"]
@@ -761,4 +760,5 @@ masterani.me##.hero
 kissmanga.com##+js(setTimeout-defuser.js, /YANABWEKA|HATEDBSDIDSY/)
 /webtorrent$script
 |https://$third-party,xmlhttprequest,domain=milfzr.com,badfilter
-bmovies.*,9anime.*##+js(abort-current-inline-script.js, parseInt, incrementClicks)
+bmovies.*##+js(abort-current-inline-script.js, parseInt, incrementClicks)
+9anime.*##+js(abort-current-inline-script.js, decodeURIComponent, incrementClicks)
