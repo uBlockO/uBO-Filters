@@ -1,4 +1,4 @@
-[uBlock Origin 1.17.1b1]
+[uBlock Origin 1.17.1b2]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -759,8 +759,7 @@ masterani.me##.hero
 kissmanga.com##+js(setTimeout-defuser.js, /YANABWEKA|HATEDBSDIDSY/)
 /webtorrent$script
 |https://$third-party,xmlhttprequest,domain=milfzr.com,badfilter
-bmovies.*,ffmovies.ru##+js(abort-current-inline-script.js, parseInt, incrementClicks)
-9anime.*,123movies0.com##+js(abort-current-inline-script.js, decodeURIComponent, incrementClicks)
+ffmovies.ru,bmovies.*,9anime.*,123movies0.com##+js(abort-current-inline-script.js, decodeURIComponent, atob)
 kimcartoon.me##+js(eclick.js, #expand)
 ffmovies.ru##.hd-buttons.row
 ffmovies.ru##.alert
