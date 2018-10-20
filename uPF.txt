@@ -249,7 +249,7 @@ kimcartoon.*##.kcAds
 |https:$third-party,popup,domain=fmovies.is,badfilter
 /infinite-newsfeed$first-party
 ||collider.com^$csp=script-src 'self' *.collider.com 'unsafe-inline' 'unsafe-eval' platform.twitter.com platform.instagram.com *.twimg.com embed.redditmedia.com cdn.embedly.com
-||comicbook.com^$csp=default-src 'self' *.comicbook.com 'unsafe-inline' 'unsafe-eval' platform.twitter.com platform.instagram.com *.twimg.com embed.redditmedia.com cdn.embedly.com
+||comicbook.com^$csp=default-src 'self' *.comicbook.com 'unsafe-inline' 'unsafe-eval' platform.twitter.com platform.instagram.com *.evidon.com *.twimg.com embed.redditmedia.com cdn.embedly.com
 mega.nz##.red.download-button.button
 hollywoodreporter.com##.leaderboard-wrapper
 temp_share_folder$first-party
