@@ -765,3 +765,4 @@ ffmovies.ru##.alert
 ffmovies.ru###comment
 ffmovies.ru###tags
 myanimelist.net##.root
+imdb.com##.ab_widget
