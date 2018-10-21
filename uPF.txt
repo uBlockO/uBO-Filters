@@ -412,7 +412,7 @@ youtube.com###pla-shelf
 kissanime.ru##.bigBarContainer:has-text(Comments)
 kissanime.*##a[href^="https://animemerchant.com/"]
 |https://$third-party,script,domain=9anime.to,badfilter
-||rapidvideo.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.rapidvideo.com *.playercdn.net
+||rapidvideo.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.rapidvideo.com *.playercdn.net;upgrade-insecure-requests
 kissanime.*##.rightBox:has-text(Like me)
 @@||akamaihd.net^*/ad*.js$script,badfilter
 boxofficemojo.com###Player_82160f42-9620-4d0a-b79a-18b1abd853fb
