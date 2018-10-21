@@ -766,4 +766,4 @@ ffmovies.ru###comment
 ffmovies.ru###tags
 myanimelist.net##.root
 imdb.com##.ab_widget
-.gif^$image
+.gif^$image,domain=~kissanime.ru
