@@ -767,3 +767,4 @@ ffmovies.ru###tags
 myanimelist.net##.root
 imdb.com##.ab_widget
 screenrant.com##.w-gdpr
+9anime.*/scripts/$script
