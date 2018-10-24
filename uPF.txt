@@ -765,4 +765,4 @@ myanimelist.net##.root
 imdb.com##.ab_widget
 screenrant.com##.w-gdpr
 9anime.*/scripts/$script
-@@*$csp=script-src 'self' * data: 'unsafe-inline' 'unsafe-eval',domain=pornhub.com|xhamster.com|youporn.com
+*$csp=script-src 'self' * data: 'unsafe-inline' 'unsafe-eval',domain=pornhub.com|xhamster.com|youporn.com,badfilter
