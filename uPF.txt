@@ -13,12 +13,7 @@ pornhub.com###welcome
 youtube.com###watch-action-panels
 youtube.com###chat
 hollywoodreporter.com/fe_data$xmlhttprequest
-hollywoodreporter.com##.js-leftRail-loadNewContent
-hollywoodreporter.com###show-disqus-comments
-hollywoodreporter.com##.autoload-spinner.processed-by-autoloader.autoload-direct-render
-hollywoodreporter.com##.fa-comment.post-has-comments.comments-square.js-scroll-to-comments
-hollywoodreporter.com##.blog-post-author-section
-hollywoodreporter.com##.article-meta-bottom
+hollywoodreporter.com##.js-leftRail-loadNewContent, .js-show-disqus-comments, .autoload-spinner.processed-by-autoloader.autoload-direct-render, .fa-comment.post-has-comments.comments-square.js-scroll-to-comments, .blog-post-author-section, .article-meta-bottom, .blog-post-syndication-section, .leaderboard-wrapper, .readmore, .logo-wrap, .social-container, .blog-post-tags
 screenrant.com##.social
 */advertisement.js$script,important,first-party,redirect=noopjs
 microsofttranslator.com^$important
@@ -78,8 +73,6 @@ trailer-track.com##.next-post
 trailer-track.com##.prev-post
 trailer-track.com##.sidebar
 ||trailer-track.com^$csp=script-src 'self' 'unsafe-inline' platform.twitter.com *.twimg.com platform.instagram.com *.wp.com
-hollywoodreporter.com##.js-show-disqus-comments
-hollywoodreporter.com##.blog-post-syndication-section
 myanimelist.net/static/logging.html$xmlhttprequest
 screenrant.com##.read-next
 whatsapp-button.js
@@ -250,7 +243,6 @@ kimcartoon.*##.kcAds
 ||collider.com^$csp=script-src 'self' *.collider.com 'unsafe-inline' 'unsafe-eval' platform.twitter.com platform.instagram.com *.twimg.com embed.redditmedia.com cdn.embedly.com
 ||comicbook.com^$csp=default-src 'self' *.comicbook.com 'unsafe-inline' 'unsafe-eval' platform.twitter.com platform.instagram.com *.evidon.com *.twimg.com embed.redditmedia.com cdn.embedly.com
 mega.nz##.red.download-button.button
-hollywoodreporter.com##.leaderboard-wrapper
 temp_share_folder$first-party
 ||speedtest.net^$csp=script-src 'self' 'unsafe-inline' data: *.speedtest.net *.cdnst.net;img-src 'self' *.cdnst.net 
 ||cbr.com^$csp=default-src 'self' 'unsafe-inline' *.cbrimages.com www.youtube.com *.ytimg.com platform.twitter.com www.twitter.com *.twimg.com platform.instagram.com www.instagram.com *.imgur.com embed.redditmedia.com cdn.embedly.com
@@ -260,7 +252,6 @@ promo$script,first-party
 ||reddit.com^$csp=script-src 'self' *.redditstatic.com 'unsafe-inline' 'unsafe-eval'
 youtube.com###movie-upsell-card
 youtube.com##.yt-lockup-movie-vertical-poster.yt-lockup-tile.yt-lockup
-hollywoodreporter.com##.readmore
 ||hollywoodreporter.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.instagram.com platform.twitter.com *.twimg.com players.brightcove.net *.zencdn.net *.hollywoodreporter.com blob:
 ||torrentz2.eu^$csp=script-src 'self' 'unsafe-inline'
 ||thepiratebay.*^$csp=script-src 'self' 'unsafe-inline'
@@ -377,9 +368,6 @@ comicbook.com##.categorysocial_lst
 kisshentai.*##a[href^="https://theporndude.com/"]
 kisshentai.*##a[href^="http://kissdoujin.com/"]
 kisshentai.*##img[src^="https://theporndude.com/"]
-hollywoodreporter.com##.logo-wrap
-hollywoodreporter.com##.social-container
-hollywoodreporter.com##.blog-post-tags
 pornhub.com##+js(abort-on-property-read.js, userABMessage)
 kisshentai.*##.rightBox:has-text(/Announcement|Like me/)
 /\.com\/.*[a-f0-9]{110}/$third-party,image,badfilter
