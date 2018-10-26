@@ -712,13 +712,10 @@ kimcartoon.me,kissanime.ru,readcomiconline.to##[style*="width: 300px; height: 25
 /\.com\/.*[a-f0-9]{110}/$third-party,image,domain=~parship.com|~aliexpress.com|~alipay.com|~bilibili.com|~namu.wiki|~fastmail.com,badfilter
 kvideo.io^
 ||animehub.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: play.animehub.ac static.animecdn.stream *.fbcdn.net *.googlevideo.com *.cdninstagram.com
-animehub.*##.comments.goblock
-animehub.*##.block-share.goblock
 @@||animehub.*^$elemhide
 @@||static.animecdn.stream/js/ads.js$badfilter
 @@/js/ads.js$script,badfilter
 @@||office365.com^*/adbar.js$badfilter
-animehub.*##.dialog-ovelay
 graph*^$first-party,xmlhttprequest,domain=~github.com|~facebook.com|~instagram.com
 referer$first-party,xmlhttprequest
 outlook.live.com##div > div > div > div > div > div > div > div > div:has-text(Upgrade)
@@ -726,7 +723,6 @@ adshark.site^
 /^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ee]xternal|[Ii]mages|[Ss]cripts|[Uu]ploads|ac|ajax|assets|combined|content|cov|cover|(img\/bg)|(img\/icon)|inc|jwplayer|player|playlist-cat-rss|static|thumbs|wp-content|wp-includes)\/)(.*)/$first-party,script,badfilter
 reddit.com##.post-sharing:style(display: none !important;)
 /^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ss]cripts|[Uu]ploads|[Ii]mages|combined|content|cover|img|static|wp-content|wp-includes))(.*)/$first-party,other,badfilter
-animehub.*##.footer-follow
 /owa.vendors~Analytics
 9anime.*##+js(eclick.js, .resize.control.tip.hidden-sm.hidden-xs)
 animehub.*##+js(eclick.js, .gc-expand.gc-icon)
@@ -739,8 +735,6 @@ fmovies.*##[href*="twitter.com"]
 @@||nyt.com/ads/google/adsbygoogle.js$script,domain=nytimes.com,badfilter
 9anime.*##.alert.alert-warning
 9anime.*##.alert-primary.alert
-animehub.*##.goblock-content:has-text(animehub.to)
-animehub.*##.goblock-bottom:has-text(online)
 /\.com\/.*[a-f0-9]{110}/$third-party,image,domain=~parship.com|~feedbin.com|~aliexpress.com|~alipay.com|~bilibili.com|~namu.wiki|~fastmail.com,badfilter
 bmovies.club##.hd-buttons.row
 bmovies.club##.alert
@@ -764,4 +758,4 @@ screenrant.com##.w-gdpr
 *$csp=script-src 'self' * data: 'unsafe-inline' 'unsafe-eval',domain=pornhub.com|xhamster.com|youporn.com,badfilter
 xvideos.com##.videoad-title
 howtogeek.com##.email, .facebook, .twitter, .rss
-animehub.ac##.gc-comments.gc-icon, .gc-share.gc-icon
+animehub.ac##.gc-comments.gc-icon, .gc-share.gc-icon, .footer-follow, .goblock-bottom:has-text(online), .goblock-content:has-text(animehub.to), .dialog-ovelay, .block-share.goblock, .comments.goblock
