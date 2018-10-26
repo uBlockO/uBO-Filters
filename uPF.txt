@@ -756,10 +756,7 @@ kissmanga.com##+js(setTimeout-defuser.js, /YANABWEKA|HATEDBSDIDSY/)
 |https://$third-party,xmlhttprequest,domain=milfzr.com,badfilter
 ffmovies.ru,bmovies.*,9anime.*,123movies0.com##+js(abort-current-inline-script.js, decodeURIComponent, atob)
 kimcartoon.me##+js(eclick.js, #expand)
-ffmovies.ru##.hd-buttons.row
-ffmovies.ru##.alert
-ffmovies.ru###comment
-ffmovies.ru###tags
+ffmovies.ru##.hd-buttons.row, .alert, #comment, #tags
 myanimelist.net##.root
 imdb.com##.ab_widget
 screenrant.com##.w-gdpr
@@ -767,3 +764,4 @@ screenrant.com##.w-gdpr
 *$csp=script-src 'self' * data: 'unsafe-inline' 'unsafe-eval',domain=pornhub.com|xhamster.com|youporn.com,badfilter
 xvideos.com##.videoad-title
 howtogeek.com##.email, .facebook, .twitter, .rss
+animehub.ac##.gc-comments.gc-icon, .gc-share.gc-icon
