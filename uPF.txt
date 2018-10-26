@@ -758,4 +758,6 @@ screenrant.com##.w-gdpr
 *$csp=script-src 'self' * data: 'unsafe-inline' 'unsafe-eval',domain=pornhub.com|xhamster.com|youporn.com,badfilter
 xvideos.com##.videoad-title
 howtogeek.com##.email, .facebook, .twitter, .rss
-animehub.ac##.gc-comments.gc-icon, .gc-share.gc-icon, .footer-follow, .goblock-bottom:has-text(online), .goblock-content:has-text(animehub.to), .dialog-ovelay, .block-share.goblock, .comments.goblock
+animehub.ac##.gc-comments.gc-icon, .gc-share.gc-icon, .footer-follow, .dialog-ovelay, .block-share.goblock, .comments.goblock
+animehub.ac##.goblock-bottom:has-text(online) 
+animehub.ac##.goblock-content:has-text(animehub.to)
