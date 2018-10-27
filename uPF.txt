@@ -8,8 +8,9 @@
 /generate_204
 disqus.com^$important
 doubleclick.net^$important
-pornhub.com###under-player-comments, #welcome, .abovePlayer, .clear.hd.jisfhp0w2u, .adlink2, .kzpcaw, .streamatesModelsContainer.sectionWrapper, #under-player-playlists, .underplayer-thumbs.videos, .item-6.menu, #watch-action-panels, .nf-wrapper > .sectionWrapper
-youtube.com###chat
+pornhub.com###under-player-comments, #welcome, .abovePlayer, .clear.hd.jisfhp0w2u, .adlink2, .kzpcaw, .streamatesModelsContainer.sectionWrapper, #under-player-playlists, .underplayer-thumbs.videos, .item-6.menu, .nf-wrapper > .sectionWrapper
+youtube.com###watch-action-panels, #chat, .ytp-ce-covering-overlay, .subscribecard-endscreen, .ytp-ce-element, #ytd-promoted-video-renderer, #watch-sidebar-live-chat, #pla-shelf, .yt-uix-expander-collapsed.live-chat-expander.yt-uix-expander, .hats-categorical-style-vertical, #movie-upsell-card, .yt-lockup-movie-vertical-poster.yt-lockup-tile.yt-lockup, .style-default.force-icon-button.ytd-menu-renderer.style-scope, #inline-recs-list-renderer, #sponsor-button      
+youtube.com/get_endscreen
 hollywoodreporter.com/fe_data$xmlhttprequest
 hollywoodreporter.com##.js-leftRail-loadNewContent, .js-show-disqus-comments, .autoload-spinner.processed-by-autoloader.autoload-direct-render, .fa-comment.post-has-comments.comments-square.js-scroll-to-comments, .blog-post-author-section, .article-meta-bottom, .blog-post-syndication-section, .leaderboard-wrapper, .readmore, .logo-wrap, .social-container, .blog-post-tags
 screenrant.com##.social
@@ -78,7 +79,6 @@ istream.*##.amazonDeals
 /track
 ugbase.eu###shoutbox
 ugbase.eu##.red_alert
-youtube.com##.ytp-ce-covering-overlay
 wikia.com###WikiaRailWrapper
 gsmarena.com###subHeader
 cbr.com##.injected-video-by-load
@@ -120,13 +120,8 @@ adblock-detector$script,first-party,important
 */assets/*/script.*.js$script,first-party
 oload.*##+js(openload.co.js)
 collider.com##.amcfooter
-youtube.com###watch-sidebar-live-chat
 windowscentral.com,androidcentral.com##.shop
 fastly.net^$script
-youtube.com##.subscribecard-endscreen
-youtube.com##.ytp-ce-element
-youtube.com/get_endscreen?
-youtube.com#ytd-promoted-video-renderer
 facebook.com##.rhc
 facebook.com###snowliftStageActions
 facebook.com##.home_right_column
@@ -171,7 +166,6 @@ fmovies.*,9anime.*##center
 github.com##.survey-container
 cse.google.com/cse.js^$important
 outlook.live.com##._n_15
-youtube.com##.hats-categorical-style-vertical
 solarmoviex.*##.alert
 mozilla.org##.global-notice
 mrskin.com##a[href^="http://www.amazon.com/gp/search"]
@@ -199,7 +193,6 @@ pastebin.com##.promo-bar
 speedtest.net##.eot-mini-survey
 cbr.com##.quiz.browse-content
 cbr.com##.video.browse-content
-youtube.com##.yt-uix-expander-collapsed.live-chat-expander.yt-uix-expander
 kimcartoon.me##.w-right
 kimcartoon.me###hideAds
 analytics$script,first-party,domain=~gitlab.com
@@ -244,8 +237,6 @@ outlook.live.com##a[href^="http://"]
 promo$script,first-party
 ||pornhub.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.phncdn.com *.pornhub.com *.nsimg.net
 ||reddit.com^$csp=script-src 'self' *.redditstatic.com 'unsafe-inline' 'unsafe-eval'
-youtube.com###movie-upsell-card
-youtube.com##.yt-lockup-movie-vertical-poster.yt-lockup-tile.yt-lockup
 ||hollywoodreporter.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.instagram.com platform.twitter.com *.twimg.com players.brightcove.net *.zencdn.net *.hollywoodreporter.com blob:
 ||torrentz2.eu^$csp=script-src 'self' 'unsafe-inline'
 ||thepiratebay.*^$csp=script-src 'self' 'unsafe-inline'
@@ -303,7 +294,6 @@ googlevideo.io^
 free-contents.org^
 @@||startpage.com/js/abp.js^$badfilter
 ||fmovies.se^$first-party,popup,badfilter
-youtube.com##.style-default.force-icon-button.ytd-menu-renderer.style-scope
 @@||business-standard.com/ad/banner.js$badfilter
 adblock$important,first-party,script
 facebook.com##._50z3._9bp._1ltv
@@ -385,7 +375,6 @@ myanimelist.net##.anime-detail-header-video
 comicbook.com/article/json/$xmlhttprequest
 comicbook.com##.article-break
 comicbook.com##.modern-embed
-youtube.com###pla-shelf
 kissanime.ru##.bigBarContainer:has-text(Comments)
 kissanime.*##a[href^="https://animemerchant.com/"]
 |https://$third-party,script,domain=9anime.to,badfilter
@@ -503,7 +492,6 @@ reddit.com/*/log^$first-party
 gorillavid.in/*.hg$script
 google-analytics.com^$important
 ghacks.net##.cookie-notice-container
-youtube.com###sponsor-button
 /banner^$inline-script,first-party,subdocument
 outlook.live.com##._2_qTnZN22tYhluWaFTEMvp
 hanime.tv##.desktop.unit
@@ -592,7 +580,6 @@ cbr.com##.premium-promo
 cbr.com##.header-premium-zone
 but.to^$important
 clksite.com^$important
-youtube.com###inline-recs-list-renderer
 @@||9anime.is/assets/player/jwplayer-7.12.3/jwplayer.js$script,badfilter
 fmovies.*##+js(abort-on-property-read.js, kqyyjsu)
 fmovies.*,putlockertv.*##+js(dwrite.js, /300x250|728x90/)
