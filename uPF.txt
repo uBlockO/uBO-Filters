@@ -750,3 +750,5 @@ animehub.ac##.gc-comments.gc-icon, .gc-share.gc-icon, .footer-follow, .dialog-ov
 animehub.ac##.goblock-bottom:has-text(online) 
 animehub.ac##.goblock-content:has-text(animehub.to)
 quora.com##div[class] > div > div > div > div > div > div > div > div > div:has-text(sponsored)
+hanime.tv##+js(cookie-remover.js, in_d)
+hanime.tv##+js(cookie-set.js, in_d, 1)
