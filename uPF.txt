@@ -749,3 +749,4 @@ howtogeek.com##.email, .facebook, .twitter, .rss
 animehub.ac##.gc-comments.gc-icon, .gc-share.gc-icon, .footer-follow, .dialog-ovelay, .block-share.goblock, .comments.goblock
 animehub.ac##.goblock-bottom:has-text(online) 
 animehub.ac##.goblock-content:has-text(animehub.to)
+quora.com##div[class] > div > div > div > div > div > div > div > div > div:has-text(sponsored)
