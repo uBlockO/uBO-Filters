@@ -8,9 +8,7 @@
 /generate_204
 disqus.com^$important
 doubleclick.net^$important
-pornhub.com###under-player-comments
-pornhub.com###welcome
-youtube.com###watch-action-panels
+pornhub.com###under-player-comments, #welcome, .abovePlayer, .clear.hd.jisfhp0w2u, .adlink2, .kzpcaw, .streamatesModelsContainer.sectionWrapper, #under-player-playlists, .underplayer-thumbs.videos, .item-6.menu, #watch-action-panels, .nf-wrapper > .sectionWrapper
 youtube.com###chat
 hollywoodreporter.com/fe_data$xmlhttprequest
 hollywoodreporter.com##.js-leftRail-loadNewContent, .js-show-disqus-comments, .autoload-spinner.processed-by-autoloader.autoload-direct-render, .fa-comment.post-has-comments.comments-square.js-scroll-to-comments, .blog-post-author-section, .article-meta-bottom, .blog-post-syndication-section, .leaderboard-wrapper, .readmore, .logo-wrap, .social-container, .blog-post-tags
@@ -27,8 +25,6 @@ sharethis.com^$important
 openload.co/reward$xmlhttprequest,important
 oload.*/reward$xmlhttprequest,important
 gyazo.com###versionup
-pornhub.com##.abovePlayer
-pornhub.com##.clear.hd.jisfhp0w2u
 taboola.com^$important
 screenrant.com##.video-block-main.video-block
 $websocket,domain=~mega.nz|~speedtest.net|~mewe.com
@@ -172,7 +168,6 @@ thepiratebay.*,pornhub.com,rapidvideo.*,anilinkz.*,oload.*,1337x.*##+js(window.o
 cbr.com##.quiz-share-btn-wrapper
 fmovies.*,9anime.*##center
 9anime.*##.a_d
-pornhub.com##.adlink2
 github.com##.survey-container
 cse.google.com/cse.js^$important
 outlook.live.com##._n_15
@@ -212,7 +207,6 @@ chromium.org##.__crdxFeedbackButton
 google.com/ads/$important
 9anime.to##.mb20
 mozilla.org##.announce-bar
-pornhub.com##.kzpcaw
 ||thepiratebay.org/*.php?$badfilter
 kimcartoon.*##.videoAdClose
 facebook.com##._5pcr._7xp
@@ -338,10 +332,6 @@ screenrant.com##H6:has-text(Follow)
 */advertising.js$script,first-party,important,redirect=noopjs
 facebook.com##._5pcr:has-text(/People you may know|Connect with Facebook/)
 metrics$script,first-party,important
-pornhub.com##.streamatesModelsContainer.sectionWrapper
-pornhub.com###under-player-playlists
-pornhub.com##.underplayer-thumbs.videos
-pornhub.com##.item-6.menu
 @@||speedtest.net/*/*bundle$script,first-party,badfilter
 @@||mapbox.com^$xmlhttprequest,domain=speedtest.net,badfilter
 @@/hello^$xmlhttprequest,domain=speedtest.net,badfilter
@@ -431,7 +421,6 @@ exosrv.com^$important
 @@||google.*/ads/$third-party,image,badfilter
 socialCounts^
 pornhub.com,oload.*##+js(addEventListener-defuser.js, contextmenu)
-pornhub.com##.nf-wrapper > .sectionWrapper
 1337x.*##[href*="redirect"]
 1337x.*##[href*="php"]
 facebook.com##._6445
