@@ -119,7 +119,7 @@ adblock-detector$script,first-party,important
 */license$script,first-party
 */assets/*/script.*.js$script,first-party
 oload.*##+js(openload.co.js)
-collider.com##.amcfooter, #bottom-banner
+collider.com##.amcfooter, #bottom-banner, .youtubefooter
 windowscentral.com,androidcentral.com##.shop
 fastly.net^$script
 facebook.com##.rhc
