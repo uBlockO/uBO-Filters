@@ -119,7 +119,7 @@ adblock-detector$script,first-party,important
 */license$script,first-party
 */assets/*/script.*.js$script,first-party
 oload.*##+js(openload.co.js)
-collider.com##.amcfooter
+collider.com##.amcfooter, #bottom-banner
 windowscentral.com,androidcentral.com##.shop
 fastly.net^$script
 facebook.com##.rhc
@@ -225,7 +225,7 @@ messenger.com/ajax/bz
 @@||sneakystamp.com^$xmlhttprequest,domain=androidcentral.com,badfilter
 |https:$third-party,popup,domain=fmovies.is,badfilter
 /infinite-newsfeed$first-party
-||collider.com^$csp=script-src 'self' *.collider.com 'unsafe-inline' 'unsafe-eval' platform.twitter.com platform.instagram.com *.twimg.com embed.redditmedia.com cdn.embedly.com
+||collider.com^$csp=default-src 'self'  'unsafe-inline' 'unsafe-eval' platform.twitter.com www.instagram.com *.collider.com *.twimg.com embed.redditmedia.com cdn.embedly.com
 ||comicbook.com^$csp=default-src 'self' *.comicbook.com 'unsafe-inline' 'unsafe-eval' platform.twitter.com platform.instagram.com *.evidon.com *.twimg.com embed.redditmedia.com cdn.embedly.com
 mega.nz##.red.download-button.button
 temp_share_folder$first-party
