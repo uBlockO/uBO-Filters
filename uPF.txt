@@ -193,15 +193,14 @@ pastebin.com##.promo-bar
 speedtest.net##.eot-mini-survey
 cbr.com##.quiz.browse-content
 cbr.com##.video.browse-content
-kimcartoon.me##.w-right
-kimcartoon.me###hideAds
+kimcartoon.*##.w-right, #hideAds, .videoAdClose, .kcAds, .alert-info.alert, .mb15.full, #btnShowComments, #videoAd, #divComments, #disqus_thread  
+kimcartoon.*##[id*="ScriptRoot"]
 analytics$script,first-party,domain=~gitlab.com
 chromium.org##.__crdxFeedbackButton
 google.com/ads/$important
 9anime.to##.mb20
 mozilla.org##.announce-bar
 ||thepiratebay.org/*.php?$badfilter
-kimcartoon.*##.videoAdClose
 facebook.com##._5pcr._7xp
 facebook.com##._3j6k
 mega.nz##.ads-left-block
@@ -220,7 +219,6 @@ scorecardresearch.com^$important
 1337x.*##+js(rdo.js, Fingerprint2, noopFunc)
 github.com/_private/browser/errors
 messenger.com/ajax/bz
-kimcartoon.*##.kcAds
 ||fmovies.is^$first-party,popup,badfilter
 ||fmovies.is^$xmlhttprequest,domain=fmovies.is,badfilter
 @@||loudloss.com^$xmlhttprequest,domain=windowscentral.com,badfilter
@@ -300,12 +298,9 @@ facebook.com##._50z3._9bp._1ltv
 facebook.com##._55ob._4kqp
 /([0-9]{1,3}\.){3}[0-9]{1,3}/$popup,domain=briansarmiento.website|divxatope1.com|kissanime.ru|newpct.com|pelisplus.tv|rapidvideo.com|strikeout.co|torrentz2.eu,badfilter
 1337x.*##.bitcoin
-kimcartoon.*##.alert-info.alert
-kimcartoon.*##.mb15.full
-kimcartoon.*###btnShowComments
 @@||screenrant.com^$elemhide
 screenrant.com##.ad-zone-container
-||kimcartoon.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.zencdn.net *.rapidvideo.com *.rapidvideo.is *.playercdn.net openload.co *.oloadcdn.net streamango.com code.jquery.com *.fruithosted.net yucloud.co *.yucloud.co i.imgur.com *.bp.blogspot.com *.googleusercontent.com *.googlevideo.com upload.wikimedia.org *.fbcdn.net
+||kimcartoon.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.zencdn.net *.rapidvideo.com *.rapidvideo.is *.playercdn.net openload.co *.oloadcdn.net streamango.com code.jquery.com *.fruithosted.net yucloud.co *.yucloud.co i.imgur.com *.bp.blogspot.com *.googleusercontent.com *.googlevideo.com upload.wikimedia.org *.fbcdn.net
 screenrant.com##.twitter.icon
 @@||cbr.com^$elemhide
 cbr.com##.sharing-option
@@ -365,7 +360,7 @@ jwpcdn.com/*/related.js$script,first-party
 @@||facebook.com/share/share_now_menu/$domain=facebook.com,badfilter
 comicbook.com##.aligncenter:has-text(NEXT:)
 comicbook.com##p:has-text(NEXT:)
-kimcartoon.me##.barContent:has-text(fake)
+kimcartoon.*##.barContent:has-text(fake)
 facebook.com##._31qy:has-text(related)
 facebook.com##._4-u2:has-text(Page stories you may like)
 cbr.com##.social-account-links
@@ -388,7 +383,7 @@ rapidvideo.*###top350b
 rapidvideo.*###premiumad
 rapidvideo.*###top350
 myanimelist.net##.mb4.di-ib
-kimcartoon.me##.barContent:has-text(Ads can be a pain)
+kimcartoon.*##.barContent:has-text(Ads can be a pain)
 ad.*^$script,first-party,domain=~cbr.com
 ||animenewsnetwork.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com platform.twitter.com *.twimg.com *.animenewsnetwork.com cdnjs.cloudflare.com
 animenewsnetwork.com###cover_image
@@ -427,8 +422,7 @@ swatchseries.to##.freeEpisode
 ||gorillavid.in^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com;worker-src 'none'
 gorillavid.in##+js(setTimeout-defuser.js, /0x/)
 socket.io^
-@@||kimcartoon.me^$elemhide
-kimcartoon.me###videoAd
+@@||kimcartoon.*^$elemhide
 9anime.*##.comment.widget
 9anime.*##.share
 crwdcntrl.net^$important
@@ -550,9 +544,6 @@ translate.google.com##.gt-hats
 */advertisement.js$xmlhttprequest,redirect=nooptext,important
 @@/advert.js$script,badfilter
 openload.co##+js(eclick.js, #videooverlay)
-kimcartoon.me###divComments
-kimcartoon.me###disqus_thread
-kimcartoon.me##div[id*="ScriptRoot"]
 |https://$xmlhttprequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
 9anime.*##.text-center.widget
 @@||9anime.is/assets/player/jwplayer-*/jwplayer.js$badfilter
@@ -610,7 +601,6 @@ fonts.gtatic.com^$important,domain=~google.com
 kimcartoon.me##.twitter-follow-button
 @@||facebook.com/ajax/typeahead/$domain=facebook.com,badfilter
 ||yucloud.co^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.yucloud.co
-||kimcartoon.me^$script,domain=kimcartoon.me,badfilter
 kissanime.ru##+js(setTimeout-defuser.js, YANMKABFYWRW)
 @@||kissanime.ru/ads^$badfilter
 @@/wp-content/*/ad-$script,badfilter
@@ -623,7 +613,6 @@ mp4upload.com##.jw-logo
 an.facebook.com^$important
 .php^$script,first-party,domain=~wikipedia.org|~wikia.com
 hanime.tv##.legacy
-@@||kimcartoon.me/ads/fb.aspx$first-party,subdocument,badfilter
 @@||githubusercontent.com^$image,badfilter
 /\.com\/.*[a-f0-9]{110}/$third-party,image,domain=~bilibili.com|~namu.wiki|~fastmail.com,badfilter
 @@||static1.akacdn.ru/assets/$script,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to,badfilter
@@ -646,7 +635,6 @@ kissmanga.com##.specialButton
 myanimelist.net##.fb-page
 @@/_ad*/_ad$first-party,xmlhttprequest,badfilter
 animenewsnetwork.com##.social-button
-@@||kimcartoon.me/external^$badfilter
 ||imgur.com/b$badfilter
 readcomiconline.to###fl-ads.rf-container
 milfzr.com##[href*="https://incezt.net/"]
@@ -669,7 +657,7 @@ kissanime.ru##.adsPositioning
 @@||openload.co/advert2.js$script,badfilter
 appcache^$other,first-party
 worker.js^$script,first-party
-kimcartoon.me,kissanime.ru,readcomiconline.to##[style*="width: 300px; height: 250px"]
+kimcartoon.*,kissanime.ru,readcomiconline.to##[style*="width: 300px; height: 250px"]
 -social-media.$badfilter
 -social-media-$image,badfilter
 @@||gateway.reddit.com/desktopapi/v*/sidebar_ad$xmlhttprequest,badfilter
@@ -713,7 +701,7 @@ kissmanga.com##+js(setTimeout-defuser.js, /YANABWEKA|HATEDBSDIDSY/)
 /webtorrent$script
 |https://$third-party,xmlhttprequest,domain=milfzr.com,badfilter
 ffmovies.ru,bmovies.*,9anime.*,123movies0.com##+js(abort-current-inline-script.js, decodeURIComponent, atob)
-kimcartoon.me##+js(eclick.js, #expand)
+kimcartoon.*##+js(eclick.js, #expand)
 ffmovies.ru##.hd-buttons.row, .alert, #comment, #tags
 myanimelist.net##.root
 imdb.com##.ab_widget
