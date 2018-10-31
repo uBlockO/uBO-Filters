@@ -717,3 +717,4 @@ hanime.tv##+js(cookie-set.js, in_d, 1)
 facebook.com/ajax/bz^
 @@||facebook.com/ajax/bz$domain=facebook.com,badfilter
 gyazo.com##.teams-induction-popup
+||google-analytics.com/ga.js$script,redirect=none
