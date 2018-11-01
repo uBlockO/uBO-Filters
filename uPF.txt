@@ -200,13 +200,12 @@ chromium.org##.__crdxFeedbackButton
 google.com/ads/$important
 9anime.to##.mb20
 mozilla.org##.announce-bar
-||thepiratebay.org/*.php?$badfilter
 facebook.com##._5pcr._7xp
 facebook.com##._3j6k
 mega.nz##.ads-left-block
 mega.nz##.ads-right-block
 mega.nz##.active.top-login-warning
-dwatchseries.to##a[href^="/redirect.php"]
+swatchseries.to##a[href^="/redirect.php"]
 ||fmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net;upgrade-insecure-requests
 ||ffmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net;upgrade-insecure-requests
 ||bmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net;upgrade-insecure-requests
@@ -609,7 +608,6 @@ mp4upload.com###overlay
 mp4upload.com##.jw-logo
 ||mp4upload.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.mp4upload.com:* mp4upload.com ajax.googleapis.com *.p.jwpcdn.com
 an.facebook.com^$important
-.php^$script,first-party,domain=~wikipedia.org|~wikia.com
 hanime.tv##.legacy
 @@||githubusercontent.com^$image,badfilter
 /\.com\/.*[a-f0-9]{110}/$third-party,image,domain=~bilibili.com|~namu.wiki|~fastmail.com,badfilter
