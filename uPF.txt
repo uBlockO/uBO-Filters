@@ -377,10 +377,8 @@ kissanime.*##.rightBox:has-text(Like me)
 @@||akamaihd.net^*/ad*.js$script,badfilter
 boxofficemojo.com###Player_82160f42-9620-4d0a-b79a-18b1abd853fb
 ||flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
-putlockertv.*,solarmoviex.*##+js(addEventListener-defuser.js, /mousedown|mouseup/, 0x0)
-rapidvideo.*###top350b
-rapidvideo.*###premiumad
-rapidvideo.*###top350
+putlockertv.*,solarmoviex.to##+js(abort-on-property-read.js, zfgloadedpopup)
+rapidvideo.*###top350b, #top350, #premiumad
 myanimelist.net##.mb4.di-ib
 kimcartoon.*##.barContent:has-text(Ads can be a pain)
 ad.*^$script,first-party,domain=~cbr.com
@@ -625,16 +623,14 @@ kissanime.ru###my_video_1_html5_api:style(display: block !important;)
 milfzr.com##.wpfp_custom_ad
 /advanced-floating-content-lite$first-party
 /ads$first-party
-kissmanga.com###aCurr
-kissmanga.com##.clear2
-kissmanga.com##.specialButton
+kissmanga.com###aCurr, .clear2, .specialButton
 myanimelist.net##.fb-page
 @@/_ad*/_ad$first-party,xmlhttprequest,badfilter
 animenewsnetwork.com##.social-button
 ||imgur.com/b$badfilter
 readcomiconline.to###fl-ads.rf-container
 milfzr.com##[href*="https://incezt.net/"]
-rapidvideo.is##+js(addEventListener-defuser.js, contextmenu, preventDefault)
+rapidvideo.*##+js(addEventListener-defuser.js, contextmenu, preventDefault)
 @@||imagesrv.adition.com/js/srp.js$script,domain=derstandard.at,badfilter
 @@||derstandard.at/metaadserver/mas.aspx$first-party,xmlhttprequest,badfilter
 @@||derstandard.at/s/$first-party,image,badfilter
@@ -643,7 +639,7 @@ rapidvideo.is##+js(addEventListener-defuser.js, contextmenu, preventDefault)
 @@||platform.twitter.com/widgets/widget_iframe.$subdocument,badfilter
 ||platform.twitter.com*/widgets/$third-party,badfilter
 /tweets.js$badfilter
-google.com##[title*="Share"]
+google.*##[title*="Share"]
 readcomiconline.to/wp-includes/*/*.html$subdocument,first-party
 @@||gemius.pl/gstream.js$badfilter
 |https://$third-party,other,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to,badfilter
