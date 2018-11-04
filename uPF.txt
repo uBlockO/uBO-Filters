@@ -158,7 +158,6 @@ contributor.google.com/scripts/
 androidcentral.com,windowscentral.com##.mn_mbn_share
 gyazo.com##.image-infos
 thepiratebay.*,pornhub.*,rapidvideo.*,anilinkz.*,oload.*,1337x.*##+js(window.open-defuser.js)
-cbr.com##.quiz-share-btn-wrapper
 fmovies.*,9anime.*##center
 9anime.*##.a_d
 github.com##.survey-container
@@ -189,8 +188,7 @@ gitlab.com##.bordered-box
 platform.twitter.com/js/button.$important
 pastebin.com##.promo-bar
 speedtest.net##.eot-mini-survey
-cbr.com##.quiz.browse-content
-cbr.com##.video.browse-content
+cbr.com##.quiz.browse-content, .video.browse-content, .quiz-share-btn-wrapper
 kimcartoon.*##.w-right, #hideAds, .videoAdClose, .kcAds, .alert-info.alert, .mb15.full, #btnShowComments, #videoAd, #divComments, #disqus_thread, .twitter-follow-button, .top_page_alert
 kimcartoon.*##[id*="ScriptRoot"]
 analytics$script,first-party
@@ -546,8 +544,7 @@ reddit.com/chat^
 masterani.me##.campaign.column.wide.sixteen
 ||masterani.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.masterani.me www.youtube.com *.ytimg.com cdnjs.cloudflare.com streamango.com *.fruithosted.com openload.co *.oloadcdn.net *.rapidvideo.com *.playercdn.net stream.moe mp4upload.com tiwi.kiwi *.mystream.to
 revcontent.com^$important
-cbr.com##.premium-promo
-cbr.com##.header-premium-zone
+cbr.com##.footer-social-list, .footer-brands, .w-sharing, .nav-social, .header-premium-zone, .premium-promo 
 but.to^$important
 clksite.com^$important
 @@||9anime.is/assets/player/jwplayer-7.12.3/jwplayer.js$script,badfilter
