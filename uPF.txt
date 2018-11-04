@@ -35,28 +35,17 @@ comicbook.com##a[href^="http://amzn.to/"]
 1337x.*###mgbl49472
 1337x.*##.link-box
 mozilla.org###promos
-cbr.com##.i-comment.icon.btn-comment-article
-cbr.com##.right-content.footer-content
-cbr.com##.social-title
-cbr.com##.is-visible.w-sticky-header
-cbr.com##.load-wrap.ajaxLoader
-cbr.com##.comment
-cbr.com##.author-tag-block
-cbr.com/wp-content/themes/cbr/ajax-action.php?action=loadMorePost&ajax_post_id=*&hash=*$xmlhttprequest
+cbr.com##.i-comment.icon.btn-comment-article, .right-content.footer-content, .social-title, .is-visible.w-sticky-header, load-wrap.ajaxLoader, .comment, .author-tag-block, .embed-related-block, .video-block-ads.video-block, .related-section, .injected-video-by-load, .quiz.browse-content, .video.browse-content, .quiz-share-btn-wrapper, .section-right, #secondary, .sharing-option, .ad-zone-container, .social-account-links, .footer-social-list, .footer-brands, .w-sharing, .nav-social, .header-premium-zone, .premium-promo     cbr.com/wp-content/themes/cbr/ajax-action.php?action=loadMorePost&ajax_post_id=*&hash=*$xmlhttprequest
 kissanime.*##strong
 screenrant.com##.sg-sharing-option
 cartoonhd.*,movieshd.watch,istream.*###credits
 cartoonhd.*,movieshd.watch,istream.is,flixanity.*##a[href="#credits"]
 torrentfreak.com##.comments.pbx-alt.pbx
 googletagmanager.com^$important
-cbr.com##.embed-related-block
 addthis.com^$important
 myanimelist.net##.banner-header-anime-straming
 myanimelist.net##.footer-link-icon-block
-cbr.com/wp-admin^$script,inline-script
 googleadservices.com^$important
-cbr.com##.video-block-ads.video-block
-cbr.com##.related-section
 myanimelist.net##.clearfix.index-watch-description
 /logpopup
 trailer-track.com##.comments-area-wrapper
@@ -81,7 +70,6 @@ ugbase.eu###shoutbox
 ugbase.eu##.red_alert
 wikia.com###WikiaRailWrapper
 gsmarena.com###subHeader
-cbr.com##.injected-video-by-load
 istream.*##.buttons.dmcaLink
 ads-$script,first-party
 wikia.com###WikiaBar
@@ -188,7 +176,6 @@ gitlab.com##.bordered-box
 platform.twitter.com/js/button.$important
 pastebin.com##.promo-bar
 speedtest.net##.eot-mini-survey
-cbr.com##.quiz.browse-content, .video.browse-content, .quiz-share-btn-wrapper
 kimcartoon.*##.w-right, #hideAds, .videoAdClose, .kcAds, .alert-info.alert, .mb15.full, #btnShowComments, #videoAd, #divComments, #disqus_thread, .twitter-follow-button, .top_page_alert
 kimcartoon.*##[id*="ScriptRoot"]
 analytics$script,first-party
@@ -251,8 +238,6 @@ mega.nz##.checkbox-bl.download
 @@.png^$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|chroniclelive.co.uk|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|everquest.allakhazam.com|financialpost.com|gofugyourself.com|hearthhead.com|ibtimes.com|idigitaltimes.com|infinitiev.com|latimes.com|leaderpost.com|legacy.com|lifewire.com|lolking.net|mcall.com|metacritic.com|montrealgazette.com|msn.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|stereogum.com|sun-sentinel.com|thebalance.com|theprovince.com|thespruce.com|thestarphoenix.com|thoughtco.com|timeanddate.com|tmn.today|torontosun.com|tvguide.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com|www.ign.com|zam.com,badfilter
 @@|http:$third-party,image,domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|chroniclelive.co.uk|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|everquest.allakhazam.com|financialpost.com|gofugyourself.com|hearthhead.com|ibtimes.com|idigitaltimes.com|infinitiev.com|latimes.com|leaderpost.com|legacy.com|lifewire.com|lolking.net|mcall.com|metacritic.com|montrealgazette.com|msn.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|stereogum.com|sun-sentinel.com|thebalance.com|theprovince.com|thespruce.com|thestarphoenix.com|thoughtco.com|timeanddate.com|tmn.today|torontosun.com|tvguide.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com|www.ign.com|zam.com,badfilter
 screenrant.com##.sidebar
-cbr.com##.section-right
-cbr.com###secondary
 ||swatchseries.to^$csp=script-src 'self' 'unsafe-inline' *.swatchseries.to
 cookieconsent.min$important
 @@||fmovies.*^$elemhide
@@ -294,8 +279,6 @@ screenrant.com##.ad-zone-container
 ||kimcartoon.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.zencdn.net *.rapidvideo.com *.rapidvideo.is *.playercdn.net openload.co *.oloadcdn.net streamango.com code.jquery.com *.fruithosted.net yucloud.co *.yucloud.co i.imgur.com *.bp.blogspot.com *.googleusercontent.com *.googlevideo.com upload.wikimedia.org *.fbcdn.net
 screenrant.com##.twitter.icon
 @@||cbr.com^$elemhide
-cbr.com##.sharing-option
-cbr.com##.ad-zone-container
 comicbook.com##.modernInContent
 comicbook.com##a[href^="https://app.viralsweep.com/"]
 comicbook.com##a[href^="http://regmovi.es/"]
@@ -352,7 +335,6 @@ comicbook.com##p:has-text(NEXT:)
 kimcartoon.*##.barContent:has-text(fake)
 facebook.com##._31qy:has-text(related)
 facebook.com##._4-u2:has-text(Page stories you may like)
-cbr.com##.social-account-links
 google.com##.b2hzT
 cbr.com##.link:has-text(FindaComicShop.com)
 myanimelist.net##.anime-detail-header-video
@@ -544,7 +526,6 @@ reddit.com/chat^
 masterani.me##.campaign.column.wide.sixteen
 ||masterani.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.masterani.me www.youtube.com *.ytimg.com cdnjs.cloudflare.com streamango.com *.fruithosted.com openload.co *.oloadcdn.net *.rapidvideo.com *.playercdn.net stream.moe mp4upload.com tiwi.kiwi *.mystream.to
 revcontent.com^$important
-cbr.com##.footer-social-list, .footer-brands, .w-sharing, .nav-social, .header-premium-zone, .premium-promo 
 but.to^$important
 clksite.com^$important
 @@||9anime.is/assets/player/jwplayer-7.12.3/jwplayer.js$script,badfilter
