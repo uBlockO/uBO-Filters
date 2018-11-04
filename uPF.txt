@@ -14,7 +14,7 @@ youtube.com/get_endscreen
 hollywoodreporter.com/fe_data$xmlhttprequest
 hollywoodreporter.com##.js-leftRail-loadNewContent, .js-show-disqus-comments, .autoload-spinner.processed-by-autoloader.autoload-direct-render, .fa-comment.post-has-comments.comments-square.js-scroll-to-comments, .blog-post-author-section, .article-meta-bottom, .blog-post-syndication-section, .leaderboard-wrapper, .readmore, .logo-wrap, .social-container, .blog-post-tags
 screenrant.com##.social
-*/advertisement.js$script,important,first-party,redirect=noopjs
+*/advertisement.js$script,important,first-party
 microsofttranslator.com^$important
 skype.com^$important
 skypeassets.com^$important
@@ -304,7 +304,7 @@ comicbook.com##.channel.contentgroup:has-text(WorldWide Gaming)
 comicbook.com##.leftrail.sidebar > section:has-text(Follow Us)
 @@||embed.tawk.to^$script,domain=andrija-i-andjelka.com|clik.pw|debrideco.com|streamlord.com,badfilter
 screenrant.com##H6:has-text(Follow)
-*/advertising.js$script,first-party,important,redirect=noopjs
+*/advertising.js$script,first-party,important
 facebook.com##._5pcr:has-text(/People you may know|Connect with Facebook/)
 metrics$script,first-party,important
 @@||speedtest.net/*/*bundle$script,first-party,badfilter
@@ -320,8 +320,8 @@ betterpop$script,first-party,important
 @@||fastly.net/ad2/$image,badfilter
 @@||gigya.com/*/socialize.js$badfilter
 adpass.co.uk^
-*/ads.js$script,important,redirect=noopjs,first-party
-*/*.ads.js$script,important,redirect=noopjs,first-party
+*/ads.js$script,important,first-party
+*/*.ads.js$script,important,first-party
 @@||hanime.tv/*.ads.js$badfilter
 comicbook.com##.contentgroup:nth-of-type(7) > header
 comicbook.com##.contentgroup:nth-of-type(7) > article
@@ -518,7 +518,7 @@ screenrant.com##.w-injected-featured
 nosteam.ro##+js(window.open-defuser.js)
 /\.(watchcartoononline|9anime|memecenter).*\/.*[(&|=|%|\/|?)]/$image,badfilter
 translate.google.com##.gt-hats
-*/advertisement.js$xmlhttprequest,redirect=nooptext,important
+*/advertisement.js$xmlhttprequest,important
 @@/advert.js$script,badfilter
 openload.co##+js(eclick.js, #videooverlay)
 |https://$xmlhttprequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
