@@ -28,7 +28,6 @@ oload.*/reward$xmlhttprequest,important
 gyazo.com###versionup
 taboola.com^$important
 screenrant.com##.video-block-main.video-block
-$websocket,domain=~mega.nz|~speedtest.net|~mewe.com
 googletagmanager.com^$important
 blockadblock.com,onhax.me##+js(bab-defuser.js)
 comicbook.com##a[href^="http://amzn.to/"]
