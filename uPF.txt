@@ -642,7 +642,7 @@ masterani.me##.hero
 kissmanga.com##+js(setTimeout-defuser.js, /YANABWEKA|HATEDBSDIDSY/)
 /webtorrent$script
 |https://$third-party,xmlhttprequest,domain=milfzr.com,badfilter
-ffmovies.ru,bmovies.*,9anime.*,123movies0.com##+js(abort-current-inline-script.js, decodeURIComponent, atob)
+ffmovies.ru,bmovies.*,9anime.*##+js(abort-current-inline-script.js, decodeURIComponent, atob)
 kimcartoon.*##+js(eclick.js, #expand)
 ffmovies.ru##.hd-buttons.row, .alert, #comment, #tags
 myanimelist.net##.root
