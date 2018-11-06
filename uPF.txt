@@ -169,13 +169,9 @@ connect.facebook.net^
 @@||passport.mobilenations.com^$script,domain=androidcentral.com|crackberry.com|imore.com|windowscentral.com,badfilter
 @@||platform.twitter.com^$script,domain=9anime.to,badfilter
 ajax.cloudflare.com/cdn-cgi/nexp^$script
-speedtest.net##.high-placeholder.pure-u-1
-speedtest.net##.u-c.pure-u-custom-ad-rectangle
-speedtest.net##.u-c.pure-u-custom-ad-skyscraper
+speedtest.net##.high-placeholder.pure-u-1, .u-c.pure-u-custom-ad-rectangle, .u-c.pure-u-custom-ad-skyscraper, .eot-mini-survey, .top-placeholder.pure-u-1, [href*="twitter.com"], [href*="facebook.com"]   
 gitlab.com##.bordered-box
 platform.twitter.com/js/button.$important
-pastebin.com##.promo-bar
-speedtest.net##.eot-mini-survey
 kimcartoon.*##.w-right, #hideAds, .videoAdClose, .kcAds, .alert-info.alert, .mb15.full, #btnShowComments, #videoAd, #divComments, #disqus_thread, .twitter-follow-button, .top_page_alert
 kimcartoon.*##[id*="ScriptRoot"]
 analytics$script,first-party
@@ -416,8 +412,6 @@ facebook.com##._5pcr:has-text(Popular Across Facebook)
 facebook.com##._2a_2:has-text(Share)
 sw.js$script,first-party,domain=~mail.google.com
 ghacks.net##.ghacks-ad
-speedtest.net##.top-placeholder.pure-u-1
-xvideos.com##+js(rdo.js, console, noopFunc)
 androidcentral.com##+js(noeval-if.js, atob)
 @@/wp-content/plugins/detect-adblock/js/ads.js$script,first-party,badfilter
 @@/wp-content/plugins/google-analytics-for-wordpress/$first-party,script,badfilter
