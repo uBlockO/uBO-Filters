@@ -665,8 +665,8 @@ jumpshot.com^
 @@||reddit.com^$elemhide
 torrentgalaxy.pw##+js(abort-on-property-read.js, document.styleSheets)
 torrentgalaxy.pw/*/*.php^
-||google-analytics.com^$important,redirect=none
-||googletagservices.com^$important,redirect=none
-||scorecardresearch.com^$important,redirect=none
+||google-analytics.com^$script,redirect=none,important
+||googletagservices.com^$script,redirect=none,important
+||scorecardresearch.com^$script,redirect=none,important
 @@/wp-content/plugins/google-analytics-for-wordpress/*$first-party,script,badfilter
 youtube.com###dismissable:has-text(Recommended channel for you)
