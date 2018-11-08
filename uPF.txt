@@ -667,4 +667,5 @@ jumpshot.com^
 @@||reddit.com^$elemhide
 torrentgalaxy.pw##+js(abort-on-property-read.js, document.styleSheets)
 torrentgalaxy.pw/*/*.php^
-||google-analytics.com^$redirect=none
+||google-analytics.com^$script,redirect=none
+@@/wp-content/plugins/google-analytics-for-wordpress/*$first-party,script,badfilter
