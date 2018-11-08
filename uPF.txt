@@ -669,3 +669,4 @@ torrentgalaxy.pw##+js(abort-on-property-read.js, document.styleSheets)
 torrentgalaxy.pw/*/*.php^
 ||google-analytics.com^$script,redirect=none
 @@/wp-content/plugins/google-analytics-for-wordpress/*$first-party,script,badfilter
+youtube.com###dismissable:has-text(Recommended channel for you)
