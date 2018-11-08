@@ -40,7 +40,6 @@ screenrant.com##.sg-sharing-option
 cartoonhd.*,movieshd.watch,istream.*###credits
 cartoonhd.*,movieshd.watch,istream.is,flixanity.*##a[href="#credits"]
 torrentfreak.com##.comments.pbx-alt.pbx
-googletagmanager.com^$important
 addthis.com^$important
 myanimelist.net##.banner-header-anime-straming
 myanimelist.net##.footer-link-icon-block
