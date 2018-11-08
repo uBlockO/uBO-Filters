@@ -1,4 +1,4 @@
-[uBlock Origin 1.17.3b6]
+[uBlock Origin 1.17.3b7]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -668,4 +668,3 @@ jumpshot.com^
 torrentgalaxy.pw##+js(abort-on-property-read.js, document.styleSheets)
 torrentgalaxy.pw/*/*.php^
 ||google-analytics.com^$redirect=none
-@@/wp-content/plugins/google-analytics-for-wordpress/*$script,stylesheet,~third-party,badfilter
