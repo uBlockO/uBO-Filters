@@ -652,7 +652,7 @@ screenrant.com##.w-gdpr
 *$csp=script-src 'self' * data: 'unsafe-inline' 'unsafe-eval',domain=pornhub.com|xhamster.com|youporn.com,badfilter
 xvideos.com##.videoad-title
 howtogeek.com##.email, .facebook, .twitter, .rss
-animehub.ac##.gc-comments.gc-icon, .gc-share.gc-icon, .footer-follow, .dialog-ovelay, .block-share.goblock, .comments.goblock
+animehub.ac##.gc-comments.gc-icon, .gc-share.gc-icon, .footer-follow, .dialog-ovelay, .block-share.goblock, .comments.goblock, .go-full.goblock-content > .alert-danger.alert
 animehub.ac##.goblock-bottom:has-text(online) 
 animehub.ac##.goblock-content:has-text(animehub.to)
 quora.com##div[class] > div > div > div > div > div > div > div > div > div:has-text(sponsored)
@@ -667,6 +667,5 @@ jumpshot.com^
 @@||reddit.com^$elemhide
 torrentgalaxy.pw##+js(abort-on-property-read.js, document.styleSheets)
 torrentgalaxy.pw/*/*.php^
-||google-analytics.com^$script,redirect=none
-animehub.ac##.go-full.goblock-content > .alert-danger.alert
+||google-analytics.com^$redirect=none
 @@/wp-content/plugins/google-analytics-for-wordpress/*$script,stylesheet,~third-party,badfilter
