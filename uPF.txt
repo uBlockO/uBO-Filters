@@ -438,7 +438,6 @@ comicbook.com##.comment-activator-container
 facebook.com/ads^$first-party
 reddit.com/*/log^$first-party
 gorillavid.in/*.hg$script
-google-analytics.com^$important
 ghacks.net##.cookie-notice-container
 /banner^$inline-script,first-party,subdocument
 outlook.live.com##._2_qTnZN22tYhluWaFTEMvp
@@ -667,6 +666,8 @@ jumpshot.com^
 @@||reddit.com^$elemhide
 torrentgalaxy.pw##+js(abort-on-property-read.js, document.styleSheets)
 torrentgalaxy.pw/*/*.php^
-||google-analytics.com^$script,redirect=none
+||google-analytics.com^$important,redirect=none
+||googletagservices.com^$important,redirect=none
+||scorecardresearch.com^$important,redirect=none
 @@/wp-content/plugins/google-analytics-for-wordpress/*$first-party,script,badfilter
 youtube.com###dismissable:has-text(Recommended channel for you)
