@@ -668,3 +668,5 @@ jumpshot.com^
 torrentgalaxy.pw##+js(abort-on-property-read.js, document.styleSheets)
 torrentgalaxy.pw/*/*.php^
 ||google-analytics.com^$script,redirect=none
+animehub.ac##.go-full.goblock-content > .alert-danger.alert
+@@/wp-content/plugins/google-analytics-for-wordpress/*$script,stylesheet,~third-party,badfilter
