@@ -645,7 +645,7 @@ screenrant.com##.w-gdpr
 9anime.*/scripts/$script
 *$csp=script-src 'self' * data: 'unsafe-inline' 'unsafe-eval',domain=pornhub.com|xhamster.com|youporn.com,badfilter
 xvideos.com##.videoad-title
-howtogeek.com##.email, .facebook, .twitter, .rss
+howtogeek.com##.email, .facebook, .twitter, .rss, #small, .entry-meta > span > span, .third.footer-col
 animehub.ac##.gc-comments.gc-icon, .gc-share.gc-icon, .footer-follow, .dialog-ovelay, .block-share.goblock, .comments.goblock, .go-full.goblock-content > .alert-danger.alert
 animehub.ac##.goblock-bottom:has-text(online) 
 animehub.ac##.goblock-content:has-text(animehub.to)
