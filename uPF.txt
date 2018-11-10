@@ -15,9 +15,6 @@ hollywoodreporter.com/fe_data$xmlhttprequest
 hollywoodreporter.com##.js-leftRail-loadNewContent, .js-show-disqus-comments, .autoload-spinner.processed-by-autoloader.autoload-direct-render, .fa-comment.post-has-comments.comments-square.js-scroll-to-comments, .blog-post-author-section, .article-meta-bottom, .blog-post-syndication-section, .leaderboard-wrapper, .readmore, .logo-wrap, .social-container, .blog-post-tags
 screenrant.com##.social
 */advertisement.js$script,important,first-party
-microsofttranslator.com^$important
-skype.com^$important
-skypeassets.com^$important
 chatango.com^$important
 disquscdn.com^$important
 kissanime.*###btnShowComments
