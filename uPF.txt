@@ -642,3 +642,4 @@ scorecardresearch.com^$important
 @@/wp-content/plugins/google-analytics-for-wordpress/*$first-party,script,badfilter
 youtube.com###dismissable:has-text(Recommended channel for you)
 torrentz2.eu##.alert--danger.alert
+mcloud.to/log/
