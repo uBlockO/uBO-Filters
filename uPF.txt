@@ -333,11 +333,8 @@ myanimelist.net##.mb4.di-ib
 kimcartoon.*##.barContent:has-text(Ads can be a pain)
 ad.*^$script,first-party
 ||animenewsnetwork.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com platform.twitter.com *.twimg.com *.animenewsnetwork.com cdnjs.cloudflare.com
-animenewsnetwork.com###cover_image
-animenewsnetwork.com##.floating-image
+animenewsnetwork.com###cover_image, .floating-image, .box.alert, #infinite-scroll-outlet, .spaceRow, #prompt-message, .social-button
 animenewsnetwork.com##+js(abort-on-property-read.js, ANN.infinite_scroll)
-animenewsnetwork.com##.box.alert
-animenewsnetwork.com###infinite-scroll-outlet
 ||1337x.*^$csp=script-src 'self' 'unsafe-inline'
 uservoice.js$script,first-party
 typekit.net^
@@ -354,10 +351,8 @@ socialCounts^
 pornhub.*,oload.*##+js(addEventListener-defuser.js, contextmenu)
 1337x.*##[href*="redirect"], [href*="php"]
 facebook.com/video/*/upnext/$xmlhttprequest
-/player-stats
 ||rapidvideo.com^$script,badfilter
 9anime.*##.sticky
-animenewsnetwork.com###prompt-message
 @@||kisshentai.net/content/js/adframe.js^$badfilter
 @@||cloudfront.net/assets/$third-party,script,badfilter
 ||github.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.github.com *.githubusercontent.com *.s3.amazonaws.com
@@ -549,7 +544,6 @@ milfzr.com##.wpfp_custom_ad
 kissmanga.com###aCurr, .clear2, .specialButton
 myanimelist.net##.fb-page
 @@/_ad*/_ad$first-party,xmlhttprequest,badfilter
-animenewsnetwork.com##.social-button
 ||imgur.com/b$badfilter
 readcomiconline.to###fl-ads.rf-container
 milfzr.com##[href*="https://incezt.net/"]
