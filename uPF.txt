@@ -430,7 +430,7 @@ hanime.tv##.footer__column.flex:has-text(Partners)
 hanime.tv##.info__text__tags__title
 comicbook.com##.btn-wide-container
 google.com##.exp-outline
-google.com##div[id^="eob"]
+google.com##div[id^="ed_"]
 hanime.tv/*/user_comments
 torrentz2.*###resultarea
 collect^$other
