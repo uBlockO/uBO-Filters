@@ -177,8 +177,8 @@ swatchseries.to##a[href^="/redirect.php"]
 ||bmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net;upgrade-insecure-requests
 ||9anime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.akacdn.ru *.blogspot.com *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to streamango.com *.fruithosted.net *.mp4upload.com;upgrade-insecure-requests
 ||putlockertv.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net;upgrade-insecure-requests
-||solarmoviex.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net;upgrade-insecure-requests
-/endscreen$script,first-party
+||solarmoviex.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.solarmoviex.to *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net;upgrade-insecure-requests
+/endscreen$script,first-party,domain=youtube.com
 ads_$xmlhttprequest,first-party,important
 scorecardresearch.com^$important
 1337x.*##+js(rdo.js, Fingerprint2, noopFunc)
@@ -186,8 +186,6 @@ github.com/_private/browser/errors
 messenger.com/ajax/bz
 ||fmovies.is^$first-party,popup,badfilter
 ||fmovies.is^$xmlhttprequest,domain=fmovies.is,badfilter
-@@||loudloss.com^$xmlhttprequest,domain=windowscentral.com,badfilter
-@@||sneakystamp.com^$xmlhttprequest,domain=androidcentral.com,badfilter
 |https:$third-party,popup,domain=fmovies.is,badfilter
 /infinite-newsfeed$first-party
 ||collider.com^$csp=default-src 'self'  'unsafe-inline' 'unsafe-eval' platform.twitter.com www.instagram.com *.collider.com *.twimg.com embed.redditmedia.com cdn.embedly.com
