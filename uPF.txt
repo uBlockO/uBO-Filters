@@ -327,7 +327,7 @@ kissanime.*##.rightBox:has-text(Like me)
 @@||akamaihd.net^*/ad*.js$script,badfilter
 boxofficemojo.com###Player_82160f42-9620-4d0a-b79a-18b1abd853fb
 ||flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
-putlockertv.*,solarmoviex.to##+js(abort-on-property-read.js, zfgloadedpopup)
+putlockertv.*,solarmoviex.to,123movies0.com##+js(abort-on-property-read.js, zfgloadedpopup)
 rapidvideo.*###top350b, #top350, #premiumad
 myanimelist.net##.mb4.di-ib
 kimcartoon.*##.barContent:has-text(Ads can be a pain)
