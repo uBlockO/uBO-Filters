@@ -72,7 +72,6 @@ ph-tracking.js^$important
 premium^$script,first-party,important
 promo-banner.js^$important
 /cdn-cgi/pe/bag2^$important
-9anime.*,fmovies.*,solarmoviex.*##.home-socials
 wp-adblock-dedect$important
 fuckadblock.js
 myanimelist.net##.btn-mal-service
@@ -84,7 +83,6 @@ mrskin.com##.sk-wallpaper-riseup
 pubmedia.js
 wp-content/uploads/$script,first-party
 magnific-popup.js
-9anime.*##.ads.toggler.mbtn.item
 ab_appeal$script,first-party
 google.com###prm-pt
 kissanime.*##.divCloseBut
@@ -103,12 +101,12 @@ facebook.com##.rhc, ._34js, #snowliftStageActions, .home_right_column, ._5pcr._7
 facebook.com/*/logging^$important
 myanimelist.net##.amazon.btn-affiliate
 /annotations$script,first-party
-9anime.*,fmovies.*##.popover
+9anime.*##.popover, #tags, .hd-buttons.row, #comment, .socials, .twitter-follow-button, .sticky, .comment.widget, .share, .text-center.crop.widget, .text-center.widget, .alert, .azlist       
 fmovies.*##.alert
 fmovies.*##.widget:nth-of-type(5)
-fmovies.*,9anime.*,solarmoviex.*,putlockertv.*###tags
+fmovies.*,solarmoviex.*,putlockertv.*###tags
 fmovies.*##.hidden-sm.widget
-fmovies.*,9anime.*,solarmoviex.*,putlockertv.*##.hd-buttons.row
+fmovies.*,solarmoviex.*,putlockertv.*##.hd-buttons.row
 fmovies.*##.col-right
 fmovies.*##.widget:nth-of-type(4)
 gorillavid.in,zippyshare.com##+js(rdo.js, admvpu, noopFunc)
@@ -135,15 +133,13 @@ contributor.google.com/scripts/
 androidcentral.com,windowscentral.com##.mn_mbn_share
 gyazo.com##.image-infos
 thepiratebay.*,pornhub.*,rapidvideo.*,anilinkz.*,oload.*,1337x.*##+js(window.open-defuser.js)
-fmovies.*,9anime.*##center
-9anime.*##.a_d
 github.com##.survey-container
 cse.google.com/cse.js^$important
 outlook.live.com##._n_15
 solarmoviex.*##.alert
 mozilla.org##.global-notice
 mrskin.com##a[href^="http://www.amazon.com/gp/search"]
-solarmoviex.*,fmovies.*,9anime.*,putlockertv.*###comment
+solarmoviex.*,fmovies.*,putlockertv.*###comment
 @@||speedtest.net/javascript/jquery-*.min.js$badfilter
 @@||d3ujids68p6xmq.cloudfront.net^$script,badfilter
 youtube.com/api/stats^$important
@@ -220,8 +216,8 @@ mega.nz##.checkbox-bl.download
 cookieconsent.min$important
 @@||fmovies.*^$elemhide
 @@||openload.co/assets/js/script.*.js$domain=openload.co,badfilter
-fmovies.*,9anime.*##.socials
-fmovies.*,9anime.*##.twitter-follow-button
+fmovies.*##.socials
+fmovies.*##.twitter-follow-button
 outlook.live.com##a[href^="https://aka.ms"]
 myanimelist.net##.video-providers
 showads.js$important
@@ -349,7 +345,6 @@ pornhub.*,oload.*##+js(addEventListener-defuser.js, contextmenu)
 1337x.*##[href*="redirect"], [href*="php"]
 facebook.com/video/*/upnext/$xmlhttprequest
 ||rapidvideo.com^$script,badfilter
-9anime.*##.sticky
 @@||kisshentai.net/content/js/adframe.js^$badfilter
 @@||cloudfront.net/assets/$third-party,script,badfilter
 ||github.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.github.com *.githubusercontent.com *.s3.amazonaws.com
@@ -360,8 +355,6 @@ swatchseries.to##.freeEpisode
 gorillavid.in##+js(setTimeout-defuser.js, /0x/)
 socket.io^
 @@||kimcartoon.*^$elemhide
-9anime.*##.comment.widget
-9anime.*##.share
 crwdcntrl.net^$important
 amazon-adsystem.com^$important
 @@||ajax.cloudflare.com/cdn-cgi/scripts/$third-party,script,badfilter
@@ -436,7 +429,6 @@ syndication.twitter.com
 @@||googleusercontent.com/gadgets/$image,domain=9anime.is,badfilter
 |http*://$third-party,image,domain=9anime.is,badfilter
 reddit.com###HeaderUserActions--Chat
-9anime.*##.text-center.crop.widget
 twitter.com##.call-to-action
 movieweb.com##.current-article-actions
 @@/wp-content/*/ads*.js$script,badfilter
@@ -459,7 +451,6 @@ translate.google.com##.gt-hats
 @@/advert.js$script,badfilter
 openload.co##+js(eclick.js, #videooverlay)
 |https://$xmlhttprequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
-9anime.*##.text-center.widget
 @@||9anime.is/assets/player/jwplayer-*/jwplayer.js$badfilter
 player_ads.html^$important
 mellowads.com^$important
@@ -586,8 +577,6 @@ fmovies.*##[href*="twitter.com"]
 @@||9anime.to/assets^$badfilter
 @@||static01.nyt.com/ads/google/adsbygoogle.js$badfilter
 @@||nyt.com/ads/google/adsbygoogle.js$script,domain=nytimes.com,badfilter
-9anime.*##.alert.alert-warning
-9anime.*##.alert-primary.alert
 /\.com\/.*[a-f0-9]{110}/$third-party,image,domain=~parship.com|~feedbin.com|~aliexpress.com|~alipay.com|~bilibili.com|~namu.wiki|~fastmail.com,badfilter
 bmovies.club##.hd-buttons.row
 bmovies.club##.alert
@@ -603,7 +592,7 @@ kissmanga.com##+js(setTimeout-defuser.js, /YANABWEKA|HATEDBSDIDSY/)
 |https://$third-party,xmlhttprequest,domain=milfzr.com,badfilter
 ffmovies.ru,bmovies.*,9anime.*##+js(abort-current-inline-script.js, decodeURIComponent, atob)
 kimcartoon.*##+js(eclick.js, #expand)
-ffmovies.ru##.hd-buttons.row, .alert, #comment, #tags
+ffmovies.ru##.hd-buttons.row, .alert, #comment, #tags, [href^="https://twitter.com/"]
 myanimelist.net##.root
 imdb.com##.ab_widget
 9anime.*/scripts/$script
