@@ -619,4 +619,4 @@ youtube.com###dismissable:has-text(Recommended channel for you)
 torrentz2.eu##.alert--danger.alert
 mcloud.to/log/
 flixanity.*##.miflix, .sources
-||flixanity.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com cdnjs.cloudflare.com maxcdn.bootstrapcdn.com
+||flixanity.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.flixanity.xyz ajax.googleapis.com cdnjs.cloudflare.com maxcdn.bootstrapcdn.com
