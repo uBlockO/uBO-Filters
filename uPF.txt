@@ -620,3 +620,4 @@ torrentz2.eu##.alert--danger.alert
 mcloud.to/log/
 flixanity.*##.miflix, .sources
 ||flixanity.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.flixanity.xyz ajax.googleapis.com cdnjs.cloudflare.com maxcdn.bootstrapcdn.com
+|https://$xmlhttprequest,domain=dwatchseries.to|swatchseries.to|thewatchseries.ac|unblckd.org|watchseries.sk,badfilter
