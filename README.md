@@ -6,7 +6,7 @@ Contains filters specific to uBlock Origin and some filters that have not yet be
 
 Add the list from here: [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/uBlock-user/uBO-Personal-Filters/master/uPF.txt&title=uBO-Personal-Filters)
 
-Direct link: https://raw.githubusercontent.com/uBlock-user/uBO-Personal-Filters/master/uPF.txt
+Direct link: [https://raw.githubusercontent.com/uBlock-user/uBO-Personal-Filters/master/uPF.txt](https://raw.githubusercontent.com/uBlock-user/uBO-Personal-Filters/master/uPF.txt)
 
 # Requirements 
 
