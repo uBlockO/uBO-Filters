@@ -1,4 +1,4 @@
-[uBlock Origin 1.17.3b8]
+[uBlock Origin 1.17.3rc0]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -221,7 +221,6 @@ fmovies.*##.twitter-follow-button
 outlook.live.com##a[href^="https://aka.ms"]
 myanimelist.net##.video-providers
 showads.js$important
-flixanity.*##.sources
 comicbook.com##.button-wide.button-blue-gradient.button
 comicbook.com##.vdb_player
 comicbook.com##.clearfix.channel-nav
@@ -319,7 +318,6 @@ kissanime.*##a[href^="https://animemerchant.com/"]
 kissanime.*##.rightBox:has-text(Like me)
 @@||akamaihd.net^*/ad*.js$script,badfilter
 boxofficemojo.com###Player_82160f42-9620-4d0a-b79a-18b1abd853fb
-||flixanity.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com
 putlockertv.*,solarmoviex.to,123movies0.com##+js(abort-on-property-read.js, zfgloadedpopup)
 rapidvideo.*###top350b, #top350, #premiumad
 myanimelist.net##.mb4.di-ib
@@ -386,7 +384,6 @@ comicbook.com##.mid-content-comment
 comicbook.com##.article-footer-comments
 /^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to|ebd\.cda\.pl|gamedor\.usermd\.net)\/).)*$/$subdocument,domain=a-o.ninja|centrum-dramy.pl|love-drama.pl|vidfile.net,badfilter
 /^((?!(^https?):\/\/(ajax\.googleapis\.com|cdnjs\.cloudflare\.com|vk\.com)\/).)*$/$script,third-party,domain=kinokrad.co,badfilter
-flixanity.*/*/somethingfun.js$script
 ||mcloud.to^$csp=default-src 'self' 'unsafe-inline' blob: *.mcloud.to *.fmovies.se *.solarmoviex.to *.ffmovies.ru *.9anime.to *.putlocketv.to ajax.googleapis.com ssl.p.jwpcdn.com
 putlockertv.*##.col-md-7
 comicbook.com##.urgent-module
@@ -621,3 +618,5 @@ scorecardresearch.com^$important
 youtube.com###dismissable:has-text(Recommended channel for you)
 torrentz2.eu##.alert--danger.alert
 mcloud.to/log/
+flixanity.*##.miflix, .sources
+||flixanity.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com cdnjs.cloudflare.com maxcdn.bootstrapcdn.com
