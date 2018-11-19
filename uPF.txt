@@ -1,4 +1,4 @@
-[uBlock Origin 1.17.3rc0]
+[uBlock Origin 1.17.3rc2]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -553,7 +553,7 @@ kimcartoon.*,kissanime.ru,readcomiconline.to##[style*="width: 300px; height: 250
 @@||gateway.reddit.com/desktopapi/v*/sidebar_ad$xmlhttprequest,badfilter
 /\.com\/.*[a-f0-9]{110}/$third-party,image,domain=~parship.com|~aliexpress.com|~alipay.com|~bilibili.com|~namu.wiki|~fastmail.com,badfilter
 kvideo.io^
-||animehub.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: play.animehub.ac static.animecdn.stream *.fbcdn.net *.googlevideo.com *.cdninstagram.com *.apps.fbsbx.com;connect-src *
+||animehub.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: play.animehub.ac static.animecdn.stream *.fbcdn.net *.googlevideo.com *.cdninstagram.com *.apps.fbsbx.com
 @@||animehub.*^$elemhide
 @@||static.animecdn.stream/js/ads.js$badfilter
 @@/js/ads.js$script,badfilter
@@ -621,3 +621,5 @@ mcloud.to/log/
 flixanity.*##.miflix, .sources
 ||flixanity.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.flixanity.xyz ajax.googleapis.com cdnjs.cloudflare.com maxcdn.bootstrapcdn.com *.rapidvideo.com *.playercdn.net openload.co oload.cloud *.oloadcdn.net streamango.com *.fruithosted.net
 |https://$xmlhttprequest,domain=dwatchseries.to|swatchseries.to|thewatchseries.ac|unblckd.org|watchseries.sk,badfilter
+||apps.fbsbx.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.fbcdn.net
+animehub.*##.footer-az, .footer-anime
