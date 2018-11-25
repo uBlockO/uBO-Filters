@@ -10,8 +10,8 @@ Direct link: [https://raw.githubusercontent.com/uBlock-user/uBO-Personal-Filters
 
 # Requirements 
 
-Need to add [uBO-Scriptlets](https://raw.githubusercontent.com/uBlock-user/uBO-Scriptlets/master/scriptlets.txt) to `userResourcesLocation` parameter in `Advanced-Settings` in uBlock-Origin for some filters to work.
+Need to add [uBO-Scriptlets](https://raw.githubusercontent.com/uBlock-user/uBO-Scriptlets/master/scriptlets.txt) to `userResourcesLocation` parameter in `Advanced-Settings` in uBlock-Origin for **some** filters to work.
 
 # Disclaimer 
 
-As this is a personal filterlist of mine, there maybe some filters that you disagree with and if you do, feel free to click on the `Fork` button and make your own list.
+As this is a personal filterlist of mine, there maybe some filters that you disagree with and if you do, feel free to click on the **Fork** button and make your own list.
