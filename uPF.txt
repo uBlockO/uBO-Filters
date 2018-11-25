@@ -102,14 +102,9 @@ facebook.com/*/logging^$important
 myanimelist.net##.amazon.btn-affiliate
 /annotations$script,first-party
 9anime.*##.popover, #tags, .hd-buttons.row, #comment, .socials, .twitter-follow-button, .sticky, .comment.widget, .share, .text-center.crop.widget, .text-center.widget, .alert, .azlist       
-fmovies.*##.alert
-fmovies.*##.widget:nth-of-type(5)
-fmovies.*,solarmoviex.*,putlockertv.*###tags
-fmovies.*##.hidden-sm.widget
-fmovies.*,solarmoviex.*,putlockertv.*##.hd-buttons.row
-fmovies.*##.col-right
-fmovies.*##.widget:nth-of-type(4)
-gorillavid.in,zippyshare.com##+js(rdo.js, admvpu, noopFunc)
+fmovies.*##.alert, .text, .widget:nth-of-type(5), #tags, .hidden-sm.widget, .hd-buttons.row, .col-right, .widget:nth-of-type(4), [href*="twitter.com"]     
+solarmoviex.*,putlockertv.*###tags
+solarmoviex.*,putlockertv.*##.hd-buttons.row
 swatchseries.to##.ad_300_300
 swatchseries.to##.fullwrap > div > div:nth-of-type(4)
 swatchseries.to##.block-left-home-inside:nth-of-type(2)
@@ -567,7 +562,6 @@ reddit.com##.post-sharing:style(display: none !important;)
 /owa.vendors~Analytics
 9anime.*##+js(eclick.js, .resize.control.tip.hidden-sm.hidden-xs)
 animehub.*##+js(eclick.js, .gc-expand.gc-icon)
-fmovies.*##[href*="twitter.com"]
 @@||9anime.to/ajax/$badfilter
 @@||9anime.to/user/ajax/$badfilter
 9anime.*/*/jwplayer-*/$script
