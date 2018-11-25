@@ -102,7 +102,7 @@ facebook.com/*/logging^$important
 myanimelist.net##.amazon.btn-affiliate
 /annotations$script,first-party
 9anime.*##.popover, #tags, .hd-buttons.row, #comment, .socials, .twitter-follow-button, .sticky, .comment.widget, .share, .text-center.crop.widget, .text-center.widget, .alert, .azlist       
-fmovies.*##.alert, .text, .widget:nth-of-type(5), #tags, .hidden-sm.widget, .hd-buttons.row, .col-right, .widget:nth-of-type(4), [href*="twitter.com"]     
+fmovies.*##.alert, .text, .widget:nth-of-type(5), #tags, .hidden-sm.widget, .hd-buttons.row, .col-right, .widget:nth-of-type(4), [href*="twitter.com"], #comment, .socials, .twitter-follow-button     
 solarmoviex.*,putlockertv.*###tags
 solarmoviex.*,putlockertv.*##.hd-buttons.row
 swatchseries.to##.ad_300_300
@@ -134,11 +134,11 @@ outlook.live.com##._n_15
 solarmoviex.*##.alert
 mozilla.org##.global-notice
 mrskin.com##a[href^="http://www.amazon.com/gp/search"]
-solarmoviex.*,fmovies.*,putlockertv.*###comment
+solarmoviex.*,putlockertv.*###comment
 @@||speedtest.net/javascript/jquery-*.min.js$badfilter
 @@||d3ujids68p6xmq.cloudfront.net^$script,badfilter
 youtube.com/api/stats^$important
-log_event
+/log_event
 kisshentai.*##a[href="#"]
 kisshentai.*###show_id
 ||kisshentai.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net openload.co oload.stream *.oloadcdn.net streamcherry.com *.fruithosted.net
@@ -211,8 +211,6 @@ mega.nz##.checkbox-bl.download
 cookieconsent.min$important
 @@||fmovies.*^$elemhide
 @@||openload.co/assets/js/script.*.js$domain=openload.co,badfilter
-fmovies.*##.socials
-fmovies.*##.twitter-follow-button
 outlook.live.com##a[href^="https://aka.ms"]
 myanimelist.net##.video-providers
 showads.js$important
