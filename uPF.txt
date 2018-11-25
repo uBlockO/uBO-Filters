@@ -102,7 +102,7 @@ facebook.com/*/logging^$important
 myanimelist.net##.amazon.btn-affiliate
 /annotations$script,first-party
 9anime.*##.popover, #tags, .hd-buttons.row, #comment, .socials, .twitter-follow-button, .sticky, .comment.widget, .share, .text-center.crop.widget, .text-center.widget, .alert, .azlist       
-fmovies.*##.alert, .text, .widget:nth-of-type(5), #tags, .hidden-sm.widget, .hd-buttons.row, .col-right, .widget:nth-of-type(4), [href*="twitter.com"], #comment, .socials, .twitter-follow-button     
+fmovies.*##.alert, .text, .widget:nth-of-type(5), #tags, .hidden-sm.widget, .hd-buttons.row, .col-right, .widget:nth-of-type(4), [href*="twitter.com"], #comment, .socials, .twitter-follow-button, [href*="/redirect"]     
 solarmoviex.*,putlockertv.*###tags
 solarmoviex.*,putlockertv.*##.hd-buttons.row
 swatchseries.to##.ad_300_300
