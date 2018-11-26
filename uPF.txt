@@ -159,7 +159,6 @@ messenger.com/ajax/bz
 ||fmovies.is^$xmlhttprequest,domain=fmovies.is,badfilter
 |https:$third-party,popup,domain=fmovies.is,badfilter
 /infinite-newsfeed$first-party
-||collider.com^$csp=default-src 'self'  'unsafe-inline' 'unsafe-eval' platform.twitter.com www.instagram.com *.collider.com *.twimg.com embed.redditmedia.com cdn.embedly.com
 ||comicbook.com^$csp=default-src 'self' *.comicbook.com 'unsafe-inline' 'unsafe-eval' platform.twitter.com platform.instagram.com *.evidon.com *.twimg.com embed.redditmedia.com cdn.embedly.com
 mega.nz##.red.download-button.button
 temp_share_folder$first-party,domain=screenrant.com|cbr.com
