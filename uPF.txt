@@ -1,4 +1,4 @@
-[uBlock Origin 1.17.3rc3]
+[uBlock Origin 1.17.3rc4]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -39,9 +39,7 @@ googleadservices.com^$important
 myanimelist.net##.clearfix.index-watch-description
 /logpopup
 myanimelist.net/static/logging.html$xmlhttprequest
-whatsapp-button.js
 adflow.js
-entityrating.js
 istream.*##.amazonDeals
 /track
 ugbase.eu###shoutbox
@@ -62,16 +60,13 @@ premium^$script,first-party,important
 promo-banner.js^$important
 /cdn-cgi/pe/bag2^$important
 wp-adblock-dedect$important
-fuckadblock.js
 myanimelist.net##.btn-mal-service
 myanimelist.net##.anime-detail-header-affiliate
-abtesting$important
+abtesting$important,domain=fandom.com|wikia.com
 @@||wikia.com^$elemhide
 mrskin.com##.sk-wallpaper-riseup
 ||youtube.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.ggpht.com *.googlevideo.com *.ytimg.com *.googleusercontent.com www.youtube.com
-pubmedia.js
 wp-content/uploads/$script,first-party
-magnific-popup.js
 ab_appeal$script,first-party
 google.com###prm-pt
 kissanime.*##.divCloseBut
@@ -168,17 +163,15 @@ messenger.com/ajax/bz
 ||collider.com^$csp=default-src 'self'  'unsafe-inline' 'unsafe-eval' platform.twitter.com www.instagram.com *.collider.com *.twimg.com embed.redditmedia.com cdn.embedly.com
 ||comicbook.com^$csp=default-src 'self' *.comicbook.com 'unsafe-inline' 'unsafe-eval' platform.twitter.com platform.instagram.com *.evidon.com *.twimg.com embed.redditmedia.com cdn.embedly.com
 mega.nz##.red.download-button.button
-temp_share_folder$first-party
+temp_share_folder$first-party,domain=screenrant.com|cbr.com
 ||speedtest.net^$csp=default-src 'self' 'unsafe-inline' data: www.speedtest.net *.cdnst.net;connect-src *
 ||cbr.com^$csp=default-src 'self' 'unsafe-inline' *.cbrimages.com www.youtube.com *.ytimg.com platform.twitter.com www.twitter.com *.twimg.com platform.instagram.com www.instagram.com *.imgur.com embed.redditmedia.com cdn.embedly.com
 outlook.live.com##a[href^="http://"]
-promo$script,first-party
 ||pornhub.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.phncdn.com *.pornhub.com *.nsimg.net
 ||reddit.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.redditstatic.com *.redditmedia.com
 ||hollywoodreporter.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.instagram.com platform.twitter.com *.twimg.com players.brightcove.net *.zencdn.net *.hollywoodreporter.com blob:
 ||thepiratebay.*^$csp=script-src 'self' 'unsafe-inline'
-ad-view$script,first-party,important
-||kissanime.ru^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.cloud *.oloadcdn.net streamango.com *.fruithosted.net *.fbcdn.net *.mp4upload.com *.apps.fbsbx.com;media-src *
+||kissanime.ru^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.cloud *.oloadcdn.net streamango.com *.fruithosted.net *.hydrax.com *.fbcdn.net *.mp4upload.com *.apps.fbsbx.com;media-src *
 ||facebook.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.fbcdn.net
 ||myanimelist.net^$csp=default-src 'self' 'unsafe-eval' 'unsafe-inline' myanimelist.cdn-dena.com;img-src *;upgrade-insecure-requests
 @@||myanimelist.net^$elemhide
@@ -197,7 +190,6 @@ mega.nz##.checkbox-bl.download
 @@.png^$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|chroniclelive.co.uk|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|everquest.allakhazam.com|financialpost.com|gofugyourself.com|hearthhead.com|ibtimes.com|idigitaltimes.com|infinitiev.com|latimes.com|leaderpost.com|legacy.com|lifewire.com|lolking.net|mcall.com|metacritic.com|montrealgazette.com|msn.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|stereogum.com|sun-sentinel.com|thebalance.com|theprovince.com|thespruce.com|thestarphoenix.com|thoughtco.com|timeanddate.com|tmn.today|torontosun.com|tvguide.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com|www.ign.com|zam.com,badfilter
 @@|http:$third-party,image,domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|chroniclelive.co.uk|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|everquest.allakhazam.com|financialpost.com|gofugyourself.com|hearthhead.com|ibtimes.com|idigitaltimes.com|infinitiev.com|latimes.com|leaderpost.com|legacy.com|lifewire.com|lolking.net|mcall.com|metacritic.com|montrealgazette.com|msn.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|stereogum.com|sun-sentinel.com|thebalance.com|theprovince.com|thespruce.com|thestarphoenix.com|thoughtco.com|timeanddate.com|tmn.today|torontosun.com|tvguide.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com|www.ign.com|zam.com,badfilter
 ||swatchseries.to^$csp=script-src 'self' 'unsafe-inline' *.swatchseries.to
-cookieconsent.min$important
 @@||fmovies.*^$elemhide
 @@||openload.co/assets/js/script.*.js$domain=openload.co,badfilter
 outlook.live.com##a[href^="https://aka.ms"]
@@ -221,7 +213,6 @@ wikia.com##.article-video
 wibbitz.com^
 googleblog.com##a[href^="https://plus.google.com/"]
 @@||kisscartoon.*^$first-party,script,badfilter
-googlevideo.io^
 free-contents.org^
 @@||startpage.com/js/abp.js^$badfilter
 ||fmovies.se^$first-party,popup,badfilter
