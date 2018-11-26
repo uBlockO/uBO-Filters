@@ -24,7 +24,6 @@ openload.co/reward$xmlhttprequest,important
 oload.*/reward$xmlhttprequest,important
 gyazo.com###versionup
 taboola.com^$important
-blockadblock.com,onhax.me##+js(bab-defuser.js)
 comicbook.com##a[href^="http://amzn.to/"]
 1337x.*###mgbl49472, .link-box 
 mozilla.org###promos
@@ -171,7 +170,7 @@ outlook.live.com##a[href^="http://"]
 ||reddit.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.redditstatic.com *.redditmedia.com
 ||hollywoodreporter.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.instagram.com platform.twitter.com *.twimg.com players.brightcove.net *.zencdn.net *.hollywoodreporter.com blob:
 ||thepiratebay.*^$csp=script-src 'self' 'unsafe-inline'
-||kissanime.ru^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.cloud *.oloadcdn.net streamango.com *.fruithosted.net *.hydrax.com *.fbcdn.net *.mp4upload.com *.apps.fbsbx.com;media-src *
+||kissanime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.cloud *.oloadcdn.net streamango.com *.fruithosted.net *.hydrax.net *.fbcdn.net *.mp4upload.com *.apps.fbsbx.com;media-src *
 ||facebook.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.fbcdn.net
 ||myanimelist.net^$csp=default-src 'self' 'unsafe-eval' 'unsafe-inline' myanimelist.cdn-dena.com;img-src *;upgrade-insecure-requests
 @@||myanimelist.net^$elemhide
