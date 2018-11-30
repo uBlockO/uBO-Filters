@@ -337,7 +337,8 @@ ghacks.net###snippet-box
 ||ghacks.net^$csp=script-src 'self' 'unsafe-inline'
 @@||ghacks.net^$elemhide
 openload.co/r3/f^
-hanime.tv,streamcherry.com,openload.co,streamango.com##+js(addEventListener-defuser.js, wheel)
+hanime.tv,openload.co##+js(addEventListener-defuser.js, wheel)
+streamango.com##+js(addEventListener-defuser.js, DOMMouseScroll)
 outlook.live.com##.ms-bgc-ns.flexCenterItems.flex._db_O
 torrentz2.*##div[class*="Ad"]
 torrentz2.*/*.php
@@ -469,7 +470,6 @@ fonts.gtatic.com^$important,domain=~google.com
 /^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ee]xternal|[Ii]mages|[Ss]cripts|[Uu]ploads|ac|ajax|assets|combined|content|cov|cover|(img\/bg)|(img\/icon)|inc|jwplayer|player|playlist-cat-rss|static|thumbs|wp-content|wp-includes)\/)(.*)/$first-party,image,badfilter
 @@||9anime.is/assets^$badfilter
 @@||facebook.com/ajax/typeahead/$domain=facebook.com,badfilter
-||yucloud.co^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.yucloud.co
 kissanime.ru##+js(setTimeout-defuser.js, YANMKABFYWRW)
 @@||kissanime.ru/ads^$badfilter
 @@/wp-content/*/ad-$script,badfilter
