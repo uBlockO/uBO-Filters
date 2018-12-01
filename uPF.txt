@@ -295,8 +295,9 @@ myanimelist.net##.mb4.di-ib
 kimcartoon.*##.barContent:has-text(Ads can be a pain)
 ad.*^$script,first-party
 ||animenewsnetwork.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com platform.twitter.com *.twimg.com www.animenewsnetwork.com cdn.animenewsnetwork.com
-animenewsnetwork.com###cover_image, .floating-image, .box.alert, #infinite-scroll-outlet, .spaceRow, #prompt-message, .social-button, .ezoic-ad
-animenewsnetwork.com##+js(remove-inline-script.js, ANN.infinite_scroll)
+animenewsnetwork.com###cover_image, .floating-image, .box.alert, #infinite-scroll-outlet, .spaceRow, #prompt-message, .social-button, .ezoic-ad, #social-bookmarks 
+animenewsnetwork.com/logger.performance^
+animenewsnetwork.com##+js(abort-on-property-read.js, ANN.infinite_scroll)
 ||1337x.*^$csp=script-src 'self' 'unsafe-inline'
 uservoice.js$script,first-party
 typekit.net^
@@ -343,7 +344,7 @@ outlook.live.com##.ms-bgc-ns.flexCenterItems.flex._db_O
 torrentz2.*##div[class*="Ad"]
 torrentz2.*/*.php
 /detroitchicago$domain=animenewsnetwork.com
-animenewsnetwork.com##+js(remove-inline-script.js, btoa)
+animenewsnetwork.com##+js(abort-on-property-read.js, btoa)
 facebook.com/ajax/typeahead/record_basic_metrics.php
 facebook.com##._5pcr:has-text(Popular Across Facebook)
 facebook.com##._2a_2:has-text(Share)
