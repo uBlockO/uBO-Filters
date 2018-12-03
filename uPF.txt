@@ -17,7 +17,7 @@ screenrant.com##.social, .video-block-main.video-block, .sg-sharing-option, .ad-
 */advertisement.js$script,important,first-party
 chatango.com^$important
 disquscdn.com^$important
-kissanime.*###btnShowComments
+kissanime.*###btnShowComments, strong, .videoAdClose, .divCloseBut, .bigBarContainer div[id^="adsIfrme"], .adsPositioning,[style*="width: 300px; height: 250px"]  
 mgid.com^$important
 sharethis.com^$important
 openload.co/reward$xmlhttprequest,important
@@ -29,7 +29,6 @@ comicbook.com##a[href^="http://amzn.to/"]
 mozilla.org###promos
 cbr.com##.i-comment.icon.btn-comment-article, .right-content.footer-content, .social-title, .is-visible.w-sticky-header, load-wrap.ajaxLoader, .comment, .author-tag-block, .embed-related-block, .video-block-ads.video-block, .related-section, .injected-video-by-load, .quiz.browse-content, .video.browse-content, .quiz-share-btn-wrapper, .section-right, #secondary, .sharing-option, .ad-zone-container, .social-account-links, .footer-social-list, .footer-brands, .w-sharing, .nav-social, .header-premium-zone, .premium-promo
 cbr.com/wp-content/themes/cbr/ajax-action.php?action=loadMorePost&ajax_post_id=*&hash=*$xmlhttprequest
-kissanime.*##strong
 torrentfreak.com##.comments.pbx-alt.pbx
 addthis.com^$important
 myanimelist.net##.banner-header-anime-straming, .footer-link-icon-block, .clearfix.index-watch-description, .btn-mal-service, .anime-detail-header-affiliate, .amazon.btn-affiliate, .anime_discussions.widget, .video-providers, .js-sns-icon-container, .icon-block-small.js-sns-icon-container, .promotional-video.video-block, .anime-detail-header-video, .mb4.di-ib, .fb-page, .root  
@@ -62,10 +61,8 @@ mrskin.com##.sk-wallpaper-riseup
 wp-content/uploads/$script,first-party
 ab_appeal$script,first-party
 google.com###prm-pt
-kissanime.*##.divCloseBut
 wikia.com###WikiaFooter
 wikia.com###WikiaArticleBottomAd
-kissanime.*##.videoAdClose
 googlesyndication.com$important
 adblock-detector$script,first-party,important
 */license$script,first-party
@@ -162,7 +159,7 @@ outlook.live.com##a[href^="http://"]
 ||reddit.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.redditstatic.com *.redditmedia.com
 ||hollywoodreporter.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.instagram.com platform.twitter.com *.twimg.com players.brightcove.net *.zencdn.net *.hollywoodreporter.com blob:
 ||thepiratebay.*^$csp=script-src 'self' 'unsafe-inline'
-||kissanime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.cloud *.oloadcdn.net streamango.com *.fruithosted.net *.hydrax.net *.fbcdn.net *.mp4upload.com *.apps.fbsbx.com;media-src *;upgrade-insecure-requests
+||kissanime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.cloud *.oloadcdn.net streamango.com *.fruithosted.net *.hydrax.net *.media.tumblr.com *.fbcdn.net *.mp4upload.com *.apps.fbsbx.com;media-src *;upgrade-insecure-requests
 ||facebook.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.fbcdn.net
 ||myanimelist.net^$csp=default-src 'self' 'unsafe-eval' 'unsafe-inline' *.myanimelist.net;img-src *;upgrade-insecure-requests
 @@||myanimelist.net^$elemhide
@@ -269,8 +266,7 @@ cbr.com##.link:has-text(FindaComicShop.com)
 comicbook.com/article/json/$xmlhttprequest
 comicbook.com##.article-break
 comicbook.com##.modern-embed
-kissanime.ru##.bigBarContainer:has-text(Comments)
-kissanime.*##a[href^="https://animemerchant.com/"]
+kissanime.*##.bigBarContainer:has-text(Comments)
 |https://$third-party,script,domain=9anime.to,badfilter
 ||rapidvideo.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.rapidvideo.com *.playercdn.net;upgrade-insecure-requests
 kissanime.*##.rightBox:has-text(Like me)
@@ -291,7 +287,6 @@ wikia.com##.featured-video__wrapper
 @@||ox-d.bannertrack.net/auid=$badfilter
 @@||google.com/adsense/start/images/favicon.ico$badfilter
 @@||s.206ads.com/core.js$domain=androidauthority.com,badfilter
-kissanime.*##.bigBarContainer div[id^="adsIfrme"]
 @@||exoclick.com/ad_track.js$badfilter
 exoclick.com^$important
 exosrv.com^$important
@@ -498,12 +493,11 @@ google.*##[title*="Share"]
 readcomiconline.to/wp-includes/*/*.html$subdocument,first-party
 @@||gemius.pl/gstream.js$badfilter
 |https://$third-party,other,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to,badfilter
-kissanime.ru##.adsPositioning
 @@||openload.co/advert2.js$badfilter
 @@||openload.co/advert2.js$script,badfilter
 appcache^$other,first-party
 worker.js^$script,first-party
-kimcartoon.*,kissanime.ru,readcomiconline.to##[style*="width: 300px; height: 250px"]
+kimcartoon.*,readcomiconline.to##[style*="width: 300px; height: 250px"]
 -social-media.$badfilter
 -social-media-$image,badfilter
 @@||gateway.reddit.com/desktopapi/v*/sidebar_ad$xmlhttprequest,badfilter
