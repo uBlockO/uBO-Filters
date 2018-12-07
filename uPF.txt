@@ -71,7 +71,7 @@ oload.*##+js(openload.co.js)
 collider.com##.amcfooter, #bottom-banner, .youtubefooter
 windowscentral.com,androidcentral.com##.shop
 fastly.net^$script
-facebook.com##.rhc, ._34js, #snowliftStageActions, .home_right_column, ._5pcr._7xp, ._3j6k, ._50z3._9bp._1ltv, ._55ob._4kqp, ._4nef.fbUserContent._5pcr, #page_tv_show_playlists, ._6445, #pagelet_page_cover, #page_tv_show_extra_clips, #page_photos, .UFIList, ._5r6
+facebook.com##.rhc, ._34js, #snowliftStageActions, .home_right_column, ._5pcr._7xp, ._3j6k, ._50z3._9bp._1ltv, ._55ob._4kqp, ._4nef.fbUserContent._5pcr, #page_tv_show_playlists, ._6445, #pagelet_page_cover, #page_tv_show_extra_clips, #page_photos, .UFIList, ._5r6, ._3w53
 facebook.com/*/logging^$important
 /annotations$script,first-party
 9anime.*##.popover, #tags, .hd-buttons.row, #comment, .socials, .twitter-follow-button, .sticky, .comment.widget, .share, .text-center.crop.widget, .text-center.widget, .alert, .azlist       
