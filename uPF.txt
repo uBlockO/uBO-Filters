@@ -272,7 +272,7 @@ kissanime.*##.bigBarContainer:has-text(Comments)
 kissanime.*##.rightBox:has-text(Like me)
 @@||akamaihd.net^*/ad*.js$script,badfilter
 boxofficemojo.com###Player_82160f42-9620-4d0a-b79a-18b1abd853fb
-9anime.*,ffmovies.ru,bmovies.*,putlockertv.*,solarmoviex.to,123movies0.com##+js(abort-current-inline-script.js, decodeURIComponent, zfgloadedpopup)
+9anime.*,ffmovies.ru,fmovies.*,bmovies.*,putlockertv.*,solarmoviex.to,123movies0.com##+js(abort-current-inline-script.js, decodeURIComponent, zfgloadedpopup)
 rapidvideo.*###top350b, #top350, #premiumad
 kimcartoon.*##.barContent:has-text(Ads can be a pain)
 ad.*^$script,first-party
@@ -424,8 +424,6 @@ revcontent.com^$important
 but.to^$important
 clksite.com^$important
 @@||9anime.is/assets/player/jwplayer-7.12.3/jwplayer.js$script,badfilter
-fmovies.*##+js(abort-on-property-read.js, kqyyjsu)
-fmovies.*,putlockertv.*##+js(dwrite.js, /300x250|728x90/)
 hanime.tv##.htv-flag
 hanime.tv##.initialized
 chromium.woolyss.com###share-this-page
