@@ -272,7 +272,7 @@ kissanime.*##.bigBarContainer:has-text(Comments)
 kissanime.*##.rightBox:has-text(Like me)
 @@||akamaihd.net^*/ad*.js$script,badfilter
 boxofficemojo.com###Player_82160f42-9620-4d0a-b79a-18b1abd853fb
-putlockertv.*,solarmoviex.to,123movies0.com##+js(abort-on-property-read.js, zfgloadedpopup)
+9anime.*,ffmovies.ru,bmovies.*,putlockertv.*,solarmoviex.to,123movies0.com##+js(abort-current-inline-script.js, decodeURIComponent, zfgloadedpopup)
 rapidvideo.*###top350b, #top350, #premiumad
 kimcartoon.*##.barContent:has-text(Ads can be a pain)
 ad.*^$script,first-party
@@ -534,7 +534,6 @@ masterani.me##.hero
 kissmanga.com##+js(setTimeout-defuser.js, /YANABWEKA|HATEDBSDIDSY/)
 /webtorrent$script
 |https://$third-party,xmlhttprequest,domain=milfzr.com,badfilter
-ffmovies.ru,bmovies.*##+js(abort-on-property-read.js, zfgloadedpopup)
 kimcartoon.*##+js(eclick.js, #expand)
 ffmovies.ru##.hd-buttons.row, .alert, #comment, #tags, [href^="https://twitter.com/"]
 imdb.com##.ab_widget
@@ -576,4 +575,3 @@ dnsleaktest.com##.sponsor
 torrentz2.*##.alert--danger
 /^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ee]xternal|[Ii]mages|[Ss]cripts|[Uu]ploads|ac|ajax|assets|combined|content|cov|cover|(img\/bg)|(img\/icon)|inc|jwplayer|player|playlist-cat-rss|static|thumbs|wp-content|wp-includes)\/)(.*)/$first-party,xmlhttprequest,domain=~animeland.hu,badfilter
 /^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ee]xternal|[Ii]mages|[Ss]cripts|[Uu]ploads|ac|ajax|assets|combined|content|cov|cover|(img\/bg)|(img\/icon)|inc|jwplayer|player|playlist-cat-rss|static|thumbs|wp-content|wp-includes)\/)(.*)/$first-party,image,domain=~animeland.hu,badfilter
-9anime.*##+js(abort-current-inline-script.js, decodeURIComponent, zfgloadedpopup)
