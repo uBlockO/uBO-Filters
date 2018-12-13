@@ -351,16 +351,11 @@ reddit.com/*/log^$first-party
 gorillavid.in/*.hg$script
 /banner^$inline-script,first-party,subdocument
 outlook.live.com##._2_qTnZN22tYhluWaFTEMvp
-hanime.tv##.desktop.unit
 hanime.tv##.footer__column.flex:has-text(Partners)
-hanime.tv##.info__text__tags__title
 comicbook.com##.btn-wide-container
-google.com##.exp-outline
-google.com##div[id^="ed_"]
+google.com##.exp-outline, div[id^="ed_"]
 hanime.tv/*/user_comments
 torrentz2.*###resultarea
-hanime.tv##.community_uploads
-hanime.tv##div:nth-of-type(1) > .mb-5.htv-carousel-container.lazy
 @@/adframe.js$script,badfilter
 syndication.twitter.com^
 @@/script/ad.js$script,badfilter
@@ -415,8 +410,6 @@ revcontent.com^$important
 but.to^$important
 clksite.com^$important
 @@||9anime.is/assets/player/jwplayer-7.12.3/jwplayer.js$script,badfilter
-hanime.tv##.htv-flag
-hanime.tv##.initialized
 chromium.woolyss.com###share-this-page
 @@||chromium.woolyss.com^$elemhide
 @@/wp-content/*/adve*.js$script,badfilter
@@ -425,7 +418,7 @@ readcomiconline.to##.top_page_alert
 readcomiconline.to##[style*="width: 1010px; height: 200px"]
 readcomiconline.to###disqus_thread
 ||readcomiconline.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bp.blogspot.com
-hanime.tv##.user_comments.lazy
+hanime.tv##.user_comments.lazy, .initialized, .htv-flag, div:nth-of-type(1) > .mb-5.htv-carousel-container.lazy, .community_uploads, .info__text__tags__title, .desktop.unit
 @@||animenewsnetwork.com^$elemhide
 9anime.is##.small
 /js.cookie.$badfilter
@@ -448,7 +441,6 @@ mp4upload.com###overlay
 mp4upload.com##.jw-logo
 ||mp4upload.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.mp4upload.com:* mp4upload.com ajax.googleapis.com *.p.jwpcdn.com
 an.facebook.com^$important
-hanime.tv##.legacy
 @@||githubusercontent.com^$image,badfilter
 /\.com\/.*[a-f0-9]{110}/$third-party,image,domain=~bilibili.com|~namu.wiki|~fastmail.com,badfilter
 @@||static1.akacdn.ru/assets/$script,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to,badfilter
@@ -534,7 +526,7 @@ animehub.*##.gc-comments.gc-icon, .gc-share.gc-icon, .footer-follow, .dialog-ove
 animehub.*##.goblock-bottom:has-text(online) 
 animehub.*##.goblock-content:has-text(animehub.to)
 quora.com##div[class] > div > div > div > div > div > div > div > div > div:has-text(/sponsored|promoted/)
-hanime.tv##+js(cookie-set.js, in_d, 1)
+hanime.tv##+js(cookie-set.js, in_d1, 1)
 /(readcomiconline|kimcartoon|kiss-anime|9anime|gogoanime|toonova|animeflv|animeplus|goodanime|animewow|animenova|animeland|animetoon|mangapanda|memecenter|mangareader)\.[a-z]{2,4}\/[-_a-zA-Z0-9]{3,}\/[-_a-zA-Z0-9]{20,}.(gif|jpg|png)/$domain=gogoanime.sh|mangapanda.com|memecenter.com|mangareader.net|animeland.tv|animetoon.org|animenova.org|animewow.org|goodanime.co|animeplus.tv|animeflv.net|toonova.net|gogoanime.to|gogoanime.se|gogoanime.in|9anime.is|9anime.to|kiss-anime.me|kimcartoon.me|readcomiconline.to,badfilter
 facebook.com/ajax/bz^
 @@||facebook.com/ajax/bz$domain=facebook.com,badfilter
