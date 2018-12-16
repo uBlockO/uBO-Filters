@@ -1,4 +1,4 @@
-[uBlock Origin 1.17.5b6]
+[uBlock Origin 1.17.5b8]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -114,11 +114,7 @@ youtube.com/api/stats^$important
 kisshentai.*##a[href="#"]
 kisshentai.*###show_id
 ||kisshentai.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net openload.co oload.stream *.oloadcdn.net streamcherry.com *.fruithosted.net
-doubleclick^$script,important.me###disqus_thread
-||androidcentral.com/sites/androidcentral.com/files/advagg_js/$script,badfilter
 connect.facebook.net^
-@@||lightboxcdn.com^$script,domain=androidcentral.com|crackberry.com|imore.com|windowscentral.com,badfilter
-@@||passport.mobilenations.com^$script,domain=androidcentral.com|crackberry.com|imore.com|windowscentral.com,badfilter
 @@||platform.twitter.com^$script,domain=9anime.to,badfilter
 ajax.cloudflare.com/cdn-cgi/nexp^$script
 speedtest.net##.high-placeholder.pure-u-1, .u-c.pure-u-custom-ad-rectangle, .u-c.pure-u-custom-ad-skyscraper, .eot-mini-survey, .top-placeholder.pure-u-1, [href*="twitter.com"], [href*="facebook.com"]   
@@ -162,7 +158,6 @@ outlook.live.com##a[href^="http://"]
 ||facebook.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.fbcdn.net
 ||myanimelist.net^$csp=default-src 'self' 'unsafe-eval' 'unsafe-inline' *.myanimelist.net;img-src *;upgrade-insecure-requests
 @@||myanimelist.net^$elemhide
-@@||spotscenered.info/scripts/infinity.js.aspx?guid=$script,domain=watchfree.to,badfilter
 ||openload.co^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.openload.co cdnjs.cloudflare.com  *.oloadcdn.net *.google.com
 ||oload.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: cdnjs.cloudflare.com  *.oloadcdn.net *.google.com
 |http:$third-party,popup,domain=fmovies.is,badfilter
@@ -188,7 +183,6 @@ comicbook.com##.about
 comicbook.com##.header-still.article-centered.footer-set.feature-row.contentset
 comicbook.com##.footer-set.feature-column.contentset
 ||outlook.live.com^$csp=script-src 'self' 'unsafe-inline' *.office365.com 'unsafe-eval'
-@@||easylist.club/popunder*.js$badfilter
 @@||oload.tv/assets/js/script.*.js$badfilter
 @@||oload.tv/assets/js/license.*.js$badfilter
 thepiratebay.*###adrestop, [href*="https://#/"]
@@ -200,7 +194,6 @@ googleblog.com##a[href^="https://plus.google.com/"]
 free-contents.org^
 @@||startpage.com/js/abp.js^$badfilter
 ||fmovies.se^$first-party,popup,badfilter
-@@||business-standard.com/ad/banner.js$badfilter
 adblock$important,first-party,script
 /([0-9]{1,3}\.){3}[0-9]{1,3}/$popup,domain=briansarmiento.website|divxatope1.com|kissanime.ru|newpct.com|pelisplus.tv|rapidvideo.com|strikeout.co|torrentz2.eu,badfilter
 1337x.*##.bitcoin
@@ -213,7 +206,6 @@ comicbook.com##a[href^="http://regmovi.es/"]
 comicbook.com##IMG[alt="Kingsman_Banner"][title="Kingsman_Banner"]
 comicbook.com##.channel.contentgroup:has-text(WorldWide Gaming)
 comicbook.com##.leftrail.sidebar > section:has-text(Follow Us)
-@@||embed.tawk.to^$script,domain=andrija-i-andjelka.com|clik.pw|debrideco.com|streamlord.com,badfilter
 */advertising.js$script,first-party,important
 facebook.com##._5pcr:has-text(/People you may know|Connect with Facebook/)
 metrics$script,first-party,important
@@ -442,15 +434,8 @@ mp4upload.com##.jw-logo
 an.facebook.com^$important
 @@||githubusercontent.com^$image,badfilter
 /\.com\/.*[a-f0-9]{110}/$third-party,image,domain=~bilibili.com|~namu.wiki|~fastmail.com,badfilter
-@@||static1.akacdn.ru/assets/$script,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to,badfilter
-@@||cdnjs.cloudflare.com/ajax/libs/$domain=fmovies.is|fmovies.se|fmovies.to,badfilter
-@@||static1.akacdn.ru/assets/min/public/all.css$domain=fmovies.is|fmovies.se|fmovies.to,badfilter
-|https://$third-party,script,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to,badfilter
-@@||static1.akacdn.ru/assets/$script,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to,badfilter
-@@||static1.akacdn.ru/assets/$stylesheet,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to,badfilter
+|https://$third-party,stylesheet,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to|fmovies.world,badfilter
 @@||cdnjs.cloudflare.com/ajax/libs/font-awesome^$badfilter
-|https://$third-party,stylesheet,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to,badfilter
-@@||cloudflare.com^$stylesheet,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to,badfilter
 kissanime.ru###my_video_1:style(display: block !important;)
 kissanime.ru###my_video_1_html5_api:style(display: block !important;)
 milfzr.com##.wpfp_custom_ad
@@ -470,7 +455,7 @@ rapidvideo.*##+js(addEventListener-defuser.js, contextmenu, preventDefault)
 google.*##[title*="Share"]
 readcomiconline.to/wp-includes/*/*.html$subdocument,first-party
 @@||gemius.pl/gstream.js$badfilter
-|https://$third-party,other,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to,badfilter
+|https://$third-party,other,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to|fmovies.world,badfilter
 @@||openload.co/advert2.js$badfilter
 @@||openload.co/advert2.js$script,badfilter
 appcache^$other,first-party
@@ -499,8 +484,6 @@ animehub.*##+js(eclick.js, .gc-expand.gc-icon)
 @@||9anime.to/user/ajax/$badfilter
 9anime.*/*/jwplayer-*/$script
 @@||9anime.to/assets^$badfilter
-@@||static01.nyt.com/ads/google/adsbygoogle.js$badfilter
-@@||nyt.com/ads/google/adsbygoogle.js$script,domain=nytimes.com,badfilter
 /\.com\/.*[a-f0-9]{110}/$third-party,image,domain=~parship.com|~feedbin.com|~aliexpress.com|~alipay.com|~bilibili.com|~namu.wiki|~fastmail.com,badfilter
 bmovies.club##.hd-buttons.row
 bmovies.club##.alert
@@ -545,7 +528,7 @@ flixanity.*##.miflix, .sources
 ||flixanity.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.flixanity.xyz ajax.googleapis.com cdnjs.cloudflare.com maxcdn.bootstrapcdn.com *.rapidvideo.com *.playercdn.net openload.co oload.cloud *.oloadcdn.net streamango.com *.fruithosted.net
 |https://$xmlhttprequest,domain=dwatchseries.to|swatchseries.to|thewatchseries.ac|unblckd.org|watchseries.sk,badfilter
 ||apps.fbsbx.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.fbcdn.net *.cdninstagram.com
-*$csp=default-src 'self' * data: 'unsafe-inline' 'unsafe-eval',domain=101greatgoals.com|1337x.to|1channel.biz|1movies.is|4chan.org|allthetests.com|ancient-origins.net|androidcentral.com|antonymsfor.com|auroravid.to|biology-online.org|bitvid.sx|breakingisraelnews.com|britannica.com|btdb.in|btdb.to|champion.gg|cloudtime.to|colourlovers.com|connectedly.com|convert-me.com|convertcase.net|couch-tuner.at|couch-tuner.me|couchtuner.ac|couchtuner.us|crackberry.com|datpiff.com|demonoid.pw|destructoid.com|dietlast.com|dreamfilm.se|episodetube.com|episodetube.net|ewatchseries.to|fastpic.ru|filme-streamz.com|filmlinks4u.is|firstrowau.eu|firstrowus1.eu|fmovies.is|fmovies.se|fmovies.to|fullmatchesandshows.com|getinmybelly.com|gofirstrow.eu|gogoanime.sh|gorillavid.in|hdfilme.tv|homerun.re|igvnews.co.uk|imagefap.com|imgadult.com|imgtaxi.com|imgwallet.com|imore.com|israelnationalnews.com|jerusalemonline.com|jewsnews.co.il|keepvid.com|kickass.cd|kino-streamz.com|kiplinger.com|kissmanga.com|kshowonline.com|letmewatchthis.pl|letmewatchthis.video|livecricketz.org|lolcounter.com|ludokado.com|merriam-webster.com|movies4stream.com|movpod.in|mylivecricket.org|mywatchseries.to|newtvworld.com|noslocker.com|nosvideo.com|nowfeed2all.eu|nowvideo.li|nowvideo.sx|nowvideo.to|olympicstreams.me|onwatchseries.to|openload.co|pcgames-download.net|phonearena.com|phonesreview.co.uk|pocketnow.com|primewire.is|primewire.to|primewire.unblockall.xyz|psu.com|rinf.com|roadracerunner.com|serietvsubita.net|sgvideos.net|skidrowcrack.com|snowysmile.com|sockshare.net|sportspickle.com|streamazone.com|streamgaroo.com|strikeout.co|strikeout.me|strikeout.mobi|teamliquid.net|tetrisfriends.com|textsfromlastnight.com|thefreethoughtproject.com|thevideo.me|thewatchseries.ac|torrentz2.eu|torrentz2.me|trifind.com|tv-series.me|unblckd.org|veteranstoday.com|videotoolbox.com|vidtodo.com|vidup.me|vidwatch3.me|vipbox.bz|vipbox.is|vipbox.nu|vipbox.sx|vipbox.tv|vipboxeu.co|vipboxoc.co|vipboxtv.me|vipleague.ch|vipleague.co|vipleague.is|vipleague.me|vipleague.mobi|vipleague.se|vipleague.sx|vipleague.tv|vipleague.ws|vipstand.is|vivo.sx|vrheads.com|watchcartoononline.io|watchepisodes-tv.com|watchseries.sk|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|webfirstrow.eu|wholecloud.net|windowscentral.com|world4ufree.ws,badfilter
+*$csp=default-src 'self' * data: 'unsafe-inline' 'unsafe-eval',domain=101greatgoals.com|1337x.to|1channel.biz|1movies.is|4chan.org|allthetests.com|ancient-origins.net|androidcentral.com|antonymsfor.com|auroravid.to|biology-online.org|bitvid.sx|breakingisraelnews.com|britannica.com|btdb.in|btdb.to|champion.gg|cloudtime.to|colourlovers.com|connectedly.com|convert-me.com|convertcase.net|couch-tuner.at|couch-tuner.me|couchtuner.ac|couchtuner.us|crackberry.com|datpiff.com|demonoid.pw|destructoid.com|dietlast.com|dreamfilm.se|episodetube.com|episodetube.net|ewatchseries.to|fastpic.ru|filme-streamz.com|filmlinks4u.is|firstrowau.eu|firstrowus1.eu|fmovies.is|fmovies.se|fmovies.to|fmovies.world|fullmatchesandshows.com|getinmybelly.com|gofirstrow.eu|gogoanime.sh|gorillavid.in|hdfilme.tv|homerun.re|igvnews.co.uk|imagefap.com|imgadult.com|imgtaxi.com|imgwallet.com|imore.com|israelnationalnews.com|jerusalemonline.com|jewsnews.co.il|keepvid.com|kickass.cd|kino-streamz.com|kiplinger.com|kissmanga.com|kshowonline.com|letmewatchthis.pl|letmewatchthis.video|livecricketz.org|lolcounter.com|ludokado.com|merriam-webster.com|movies4stream.com|movpod.in|mylivecricket.org|mywatchseries.to|newtvworld.com|noslocker.com|nosvideo.com|nowfeed2all.eu|nowvideo.li|nowvideo.sx|nowvideo.to|olympicstreams.me|onwatchseries.to|openload.co|pcgames-download.net|phonearena.com|phonesreview.co.uk|pocketnow.com|primewire.is|primewire.to|primewire.unblockall.xyz|psu.com|rinf.com|roadracerunner.com|serietvsubita.net|sgvideos.net|skidrowcrack.com|snowysmile.com|sockshare.net|sportspickle.com|streamazone.com|streamgaroo.com|strikeout.co|strikeout.me|strikeout.mobi|teamliquid.net|tetrisfriends.com|textsfromlastnight.com|thefreethoughtproject.com|thevideo.me|thewatchseries.ac|torrentz2.eu|torrentz2.me|trifind.com|tv-series.me|unblckd.org|veteranstoday.com|videotoolbox.com|vidtodo.com|vidup.me|vidwatch3.me|vipbox.bz|vipbox.is|vipbox.nu|vipbox.sx|vipbox.tv|vipboxeu.co|vipboxoc.co|vipboxtv.me|vipleague.ch|vipleague.co|vipleague.is|vipleague.me|vipleague.mobi|vipleague.se|vipleague.sx|vipleague.tv|vipleague.ws|vipstand.is|vivo.sx|vrheads.com|watchcartoononline.io|watchepisodes-tv.com|watchseries.sk|watchvideo.us|watchvideo10.us|watchvideo11.us|watchvideo12.us|watchvideo13.us|watchvideo14.us|watchvideo15.us|webfirstrow.eu|wholecloud.net|windowscentral.com|world4ufree.ws,badfilter
 /porpoiseant$domain=animenewsnetwork.com
 reddit.com##+js(remove-attr.js, data-inbound-url, a[data-href-url])
 rediff.com^
