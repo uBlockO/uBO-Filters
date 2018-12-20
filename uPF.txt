@@ -1,4 +1,4 @@
-[uBlock Origin 1.17.5b12]
+[uBlock Origin 1.17.5b13]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -363,7 +363,6 @@ movieweb.com##.current-article-actions
 reddit.com##.redesign-beta-optin 
 gitlab.com##.js-autodevops-banner
 /ad-overlay-anything
-milfzr.com##.aoa_overlay
 milfzr.com###extras
 milfzr.com###respond
 milfzr.com###actions
@@ -438,7 +437,6 @@ an.facebook.com^$important
 @@||cdnjs.cloudflare.com/ajax/libs/font-awesome^$badfilter
 kissanime.ru###my_video_1:style(display: block !important;)
 kissanime.ru###my_video_1_html5_api:style(display: block !important;)
-milfzr.com##.wpfp_custom_ad
 /advanced-floating-content-lite$first-party
 /ads$first-party
 kissmanga.com###aCurr, .clear2, .specialButton
@@ -541,4 +539,3 @@ torrentz2.*##.alert--danger
 porntcomic.net/ptc_foc.js
 @@||scontent.xx.fbcdn.net/hads-ak-prn2/*.png$domain=facebook.com,badfilter
 deadline.com,variety.com##.async-hide:style(opacity: 1.0 !important)
-milfzr.com##+js(abort-on-property-read.js, q7x69)
