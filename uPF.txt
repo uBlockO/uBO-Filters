@@ -1,4 +1,4 @@
-[uBlock Origin 1.17.5b13]
+[uBlock Origin 1.17.5b14]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -156,7 +156,7 @@ outlook.live.com##a[href^="http://"]
 ||thepiratebay.*^$csp=script-src 'self' 'unsafe-inline'
 ||kissanime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.cloud *.oloadcdn.net streamango.com *.fruithosted.net *.hydrax.net *.media.tumblr.com *.fbcdn.net *.mp4upload.com *.apps.fbsbx.com;media-src *;upgrade-insecure-requests
 ||facebook.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.fbcdn.net
-||myanimelist.net^$csp=default-src 'self' 'unsafe-eval' 'unsafe-inline' *.myanimelist.net;img-src *;upgrade-insecure-requests
+||myanimelist.net^$csp=default-src 'self' 'unsafe-inline' cdn.myanimelist.net;img-src *;upgrade-insecure-requests
 @@||myanimelist.net^$elemhide
 ||openload.co^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.openload.co cdnjs.cloudflare.com  *.oloadcdn.net *.google.com
 ||oload.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: cdnjs.cloudflare.com  *.oloadcdn.net *.google.com
