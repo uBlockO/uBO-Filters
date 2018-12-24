@@ -1,4 +1,4 @@
-[uBlock Origin 1.17.5b15]
+[uBlock Origin 1.17.5b17]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -529,3 +529,4 @@ porntcomic.net/ptc_foc.js
 @@||scontent.xx.fbcdn.net/hads-ak-prn2/*.png$domain=facebook.com,badfilter
 deadline.com,variety.com##.async-hide:style(opacity: 1.0 !important)
 youtube.com###masthead-ad
+@@||$elemhide,domain=animehub.ac|myanimelist.net|fmovies.to|screenrant.com|kimcartoon.to|ghacks.net|chromium.woolyss.com|animenewsnetwork.com
