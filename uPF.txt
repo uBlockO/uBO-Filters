@@ -1,4 +1,4 @@
-[uBlock Origin 1.17.5rc1]
+[uBlock Origin 1.17.5rc2]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -296,7 +296,7 @@ amazon-adsystem.com^$important
 @@||ajax.cloudflare.com/cdn-cgi/scripts/$third-party,script,badfilter
 ghacks.net##.ghacks_share_widget.widget, .category-deals, .ghacks_this_day.widget, .ghacks_popular.widget, .ghacks_last_updated.widget, #post-author, #snippet-box, .ghacks-ad, .cookie-notice-container    
 ghacks.net##.mt--40.pt--40.border--top--gray:has([href*="paypal"]) 
-||ghacks.net^$csp=script-src 'self' 'unsafe-inline'
+||ghacks.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval'
 openload.co/r3/f^
 hanime.tv,openload.co##+js(addEventListener-defuser.js, wheel)
 streamango.com##+js(addEventListener-defuser.js, DOMMouseScroll)
