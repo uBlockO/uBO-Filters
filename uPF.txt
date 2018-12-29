@@ -529,4 +529,5 @@ porntcomic.net/ptc_foc.js
 @@||scontent.xx.fbcdn.net/hads-ak-prn2/*.png$domain=facebook.com,badfilter
 deadline.com,variety.com##.async-hide:style(opacity: 1.0 !important)
 @@||$elemhide,domain=animehub.ac|myanimelist.net|fmovies.to|screenrant.com|kimcartoon.to|ghacks.net|chromium.woolyss.com|animenewsnetwork.com
-localhost^
+localhost^$third-party
+127.0.0.1^$third-party
