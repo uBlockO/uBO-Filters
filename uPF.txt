@@ -1,4 +1,4 @@
-[uBlock Origin 1.17.5rc4]
+[uBlock Origin 1.17.7b0]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -34,12 +34,9 @@ myanimelist.net##.banner-header-anime-straming, .footer-link-icon-block, .clearf
 googleadservices.com^$important
 /logpopup
 myanimelist.net/static/logging.html$xmlhttprequest
-/track
 ugbase.eu###shoutbox
 ugbase.eu##.red_alert
 wikia.com###WikiaRailWrapper
-gsmarena.com###subHeader
-istream.*##.buttons.dmcaLink
 ads-$script,first-party
 wikia.com###WikiaBar
 mozilla.org###site-nonfx
@@ -47,7 +44,6 @@ wikia.com##.wds-global-footer
 tracking$script,first-party,domain=~wikia.com
 /infinite-articles
 outlook.live.com##a[href^="http://www.myfreecams.com/"]
-istream.*##.sources
 ph-tracking.js^$important
 premium^$script,first-party,important
 promo-banner.js^$important
@@ -94,7 +90,6 @@ swatchseries.to##a[href^="http://watchos.tv/"]
 swatchseries.to###header-2
 ads$script,first-party,domain=~imdb.com
 torrentz2.eu##a[href^="/"]:has-text(Download Direct)
-istream.*##.button
 contributor.google.com/scripts/
 androidcentral.com,windowscentral.com##.mn_mbn_share
 gyazo.com##.image-infos
