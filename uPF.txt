@@ -395,7 +395,7 @@ readcomiconline.to##.top_page_alert
 readcomiconline.to##[style*="width: 1010px; height: 200px"]
 readcomiconline.to###disqus_thread
 ||readcomiconline.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bp.blogspot.com
-hanime.tv##.user_comments.lazy, .initialized, .htv-flag, div:nth-of-type(1) > .mb-5.htv-carousel-container.lazy, .community_uploads, .info__text__tags__title, .desktop.unit
+hanime.tv##.user_comments.lazy, .initialized, .htv-flag, div:nth-of-type(1) > .mb-5.htv-carousel-container.lazy, .community_uploads, .info__text__tags__title, .desktop.unit, .sponsors, .htvadx.mb-5
 9anime.is##.small
 /js.cookie.$badfilter
 adroll.com^$important
