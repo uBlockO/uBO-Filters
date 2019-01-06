@@ -459,8 +459,8 @@ adshark.site^
 reddit.com##.post-sharing:style(display: none !important;)
 /^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ss]cripts|[Uu]ploads|[Ii]mages|combined|content|cover|img|static|wp-content|wp-includes))(.*)/$first-party,other,badfilter
 /owa.vendors~Analytics
-9anime.*##+js(eclick2.js, .resize.control.tip.hidden-sm.hidden-xs)
-animehub.*##+js(eclick2.js, .gc-expand.gc-icon)
+9anime.*##+js(eclick.js, .resize.control.tip.hidden-sm.hidden-xs)
+animehub.*##+js(eclick.js, .gc-expand.gc-icon)
 @@||9anime.to/ajax/$badfilter
 @@||9anime.to/user/ajax/$badfilter
 9anime.*/*/jwplayer-*/$script
@@ -478,7 +478,7 @@ masterani.me##.hero
 kissmanga.com##+js(setTimeout-defuser.js, /YANABWEKA|HATEDBSDIDSY/)
 /webtorrent$script
 |https://$third-party,xmlhttprequest,domain=milfzr.com,badfilter
-kimcartoon.*##+js(eclick2.js, #expand)
+kimcartoon.*##+js(eclick.js, #expand)
 ffmovies.ru##.hd-buttons.row, .alert, #comment, #tags, [href^="https://twitter.com/"]
 imdb.com##.ab_widget
 9anime.*/scripts/$script
