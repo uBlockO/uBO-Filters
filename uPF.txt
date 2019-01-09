@@ -342,12 +342,10 @@ syndication.twitter.com^
 |http*://$third-party,subdocument,domain=9anime.is,badfilter
 @@||googleusercontent.com/gadgets/$image,domain=9anime.is,badfilter
 |http*://$third-party,image,domain=9anime.is,badfilter
-reddit.com###HeaderUserActions--Chat
+reddit.com###HeaderUserActions--Chat, .redesign-beta-optin, .post-sharing:style(display: none !important), .premium-banner 
 twitter.com##.call-to-action
 movieweb.com##.current-article-actions
 @@/wp-content/*/ads*.js$script,badfilter
-reddit.com##.redesign-beta-optin 
-gitlab.com##.js-autodevops-banner
 /ad-overlay-anything
 milfzr.com###extras
 milfzr.com###respond
@@ -456,7 +454,6 @@ graph*^$first-party,xmlhttprequest,domain=~github.com|~facebook.com|~instagram.c
 outlook.live.com##div > div > div > div > div > div > div > div > div:has-text(Upgrade)
 adshark.site^
 /^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ee]xternal|[Ii]mages|[Ss]cripts|[Uu]ploads|ac|ajax|assets|combined|content|cov|cover|(img\/bg)|(img\/icon)|inc|jwplayer|player|playlist-cat-rss|static|thumbs|wp-content|wp-includes)\/)(.*)/$first-party,script,badfilter
-reddit.com##.post-sharing:style(display: none !important;)
 /^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ss]cripts|[Uu]ploads|[Ii]mages|combined|content|cover|img|static|wp-content|wp-includes))(.*)/$first-party,other,badfilter
 /owa.vendors~Analytics
 9anime.*##+js(eclick.js, .resize.control.tip.hidden-sm.hidden-xs)
