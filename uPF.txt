@@ -520,3 +520,4 @@ deadline.com,variety.com##.async-hide:style(opacity: 1.0 !important)
 @@||$elemhide,domain=animehub.ac|myanimelist.net|fmovies.to|screenrant.com|kimcartoon.to|ghacks.net|chromium.woolyss.com|animenewsnetwork.com
 localhost^$third-party
 ||kimcartoon.to^$csp=script-src 'self' * 'unsafe-inline',badfilter
+myanimelist.net##+js(abort-current-inline-script.js, addEventListener, adRefresh)
