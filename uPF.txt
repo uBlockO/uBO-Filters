@@ -482,7 +482,7 @@ imdb.com##.ab_widget
 *$csp=script-src 'self' * data: 'unsafe-inline' 'unsafe-eval',domain=pornhub.com|xhamster.com|youporn.com,badfilter
 xvideos.com##.videoad-title
 howtogeek.com##.email, .facebook, .twitter, .rss, #small, .entry-meta > span > span, .third.footer-col
-animehub.*##.gc-comments.gc-icon, .gc-share.gc-icon, .footer-follow, .dialog-ovelay, .block-share.goblock, .comments.goblock, .go-full.goblock-content > .alert-danger.alert, .footer-az, .footer-anime
+animehub.*##.gc-comments, .gc-share, .footer-follow, .dialog-ovelay, .block-share, .comments, .go-full > .alert-danger.alert, .footer-az, .footer-anime, .sb-subs
 animehub.*##.goblock-bottom:has-text(online) 
 animehub.*##.goblock-content:has-text(animehub.to)
 quora.com##div[class] > div > div > div > div > div > div > div > div > div:has-text(/sponsored|promoted/)
