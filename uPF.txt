@@ -1,4 +1,4 @@
-[uBlock Origin 1.17.7b2]
+[uBlock Origin 1.17.7b3]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -53,7 +53,7 @@ mrskin.com##.sk-wallpaper-riseup
 ||youtube.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.ggpht.com *.googlevideo.com *.ytimg.com *.googleusercontent.com www.youtube.com
 wp-content/uploads/$script,first-party
 ab_appeal$script,first-party
-google.com###prm-pt
+google.*###prm-pt, .b2hzT, .exp-outline, [id^="ed_"], [title*="Share"] 
 wikia.com###WikiaFooter
 wikia.com###WikiaArticleBottomAd
 googlesyndication.com$important
@@ -185,7 +185,6 @@ googleblog.com##a[href^="https://plus.google.com/"]
 free-contents.org^
 @@||startpage.com/js/abp.js^$badfilter
 ||fmovies.se^$first-party,popup,badfilter
-adblock$important,first-party,script
 /([0-9]{1,3}\.){3}[0-9]{1,3}/$popup,domain=briansarmiento.website|divxatope1.com|kissanime.ru|newpct.com|pelisplus.tv|rapidvideo.com|strikeout.co|torrentz2.eu,badfilter
 1337x.*##.bitcoin
 ||kimcartoon.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.zencdn.net *.rapidvideo.com *.rapidvideo.is *.playercdn.net openload.co *.oloadcdn.net streamango.com code.jquery.com *.fruithosted.net i.imgur.com *.bp.blogspot.com *.googleusercontent.com *.googlevideo.com upload.wikimedia.org *.fbcdn.net *.apps.fbsbx.com
@@ -228,7 +227,6 @@ pornhub.*##+js(abort-on-property-read.js, userABMessage)
 kisshentai.*##.rightBox:has-text(/Announcement|Like me/)
 /\.com\/.*[a-f0-9]{110}/$third-party,image,badfilter
 fmovies.*##.widget-title:has-text(Sponsored)
-adblocker$script,first-party
 report-uri.com^
 @@||facebook.com/common/referer_frame.php$subdocument,domain=facebook.com,badfilter
 authedmine.com^
@@ -241,7 +239,6 @@ comicbook.com##p:has-text(NEXT:)
 kimcartoon.*##.barContent:has-text(fake)
 facebook.com##._31qy:has-text(related)
 facebook.com##._4-u2:has-text(Page stories you may like)
-google.com##.b2hzT
 cbr.com##.link:has-text(FindaComicShop.com)
 comicbook.com/article/json/$xmlhttprequest
 comicbook.com##.article-break
@@ -330,7 +327,6 @@ gorillavid.in/*.hg$script
 outlook.live.com##._2_qTnZN22tYhluWaFTEMvp
 hanime.tv##.footer__column.flex:has-text(Partners)
 comicbook.com##.btn-wide-container
-google.com##.exp-outline, div[id^="ed_"]
 hanime.tv/*/user_comments
 torrentz2.*###resultarea
 @@/adframe.js$script,badfilter
@@ -432,7 +428,6 @@ rapidvideo.*##+js(addEventListener-defuser.js, contextmenu, preventDefault)
 @@||platform.twitter.com/widgets/widget_iframe.$subdocument,badfilter
 ||platform.twitter.com*/widgets/$third-party,badfilter
 /tweets.js$badfilter
-google.*##[title*="Share"]
 readcomiconline.to/wp-includes/*/*.html$subdocument,first-party
 @@||gemius.pl/gstream.js$badfilter
 |https://$third-party,other,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to|fmovies.world,badfilter
