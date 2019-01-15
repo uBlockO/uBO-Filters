@@ -1,4 +1,4 @@
-[uBlock Origin 1.17.7b4]
+[uBlock Origin 1.17.7b5]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -520,3 +520,4 @@ myanimelist.net##+js(abort-current-inline-script.js, addEventListener, adRefresh
 screenrant.com##+js(remove-attr.js, onclick, a)
 @@||munchkin.marketo.net/munchkin.js$badfilter
 @@||kimcartoon.to^$csp=script-src 'self' * 'unsafe-inline',badfilter
+@@||mail.google.com^*&view=ad&$xmlhttprequest,badfilter
