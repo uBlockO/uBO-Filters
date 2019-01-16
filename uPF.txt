@@ -104,7 +104,7 @@ solarmoviex.*,putlockertv.*###comment
 @@||d3ujids68p6xmq.cloudfront.net^$script,badfilter
 youtube.com/api/stats^$important
 /log_event
-kisshentai.*##a[href="#"], #show_id
+kisshentai.*##a[href="#"], #show_id, a[href^="https://theporndude.com/"], a[href^="http://kissdoujin.com/"], img[src^="https://theporndude.com/"]  
 ||kisshentai.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net openload.co oload.stream *.oloadcdn.net streamcherry.com *.fruithosted.net cdn.myanimelist.net
 connect.facebook.net^
 @@||platform.twitter.com^$script,domain=9anime.to,badfilter
@@ -219,7 +219,6 @@ comicbook.com##.contentgroup:nth-of-type(4) > header
 comicbook.com##.contentgroup:nth-of-type(4) > article
 comicbook.com##.contentgroup:nth-of-type(4)
 comicbook.com##.categorysocial_lst
-kisshentai.*##a[href^="https://theporndude.com/"], a[href^="http://kissdoujin.com/"], img[src^="https://theporndude.com/"]  
 pornhub.*##+js(abort-on-property-read.js, userABMessage)
 kisshentai.*##.rightBox:has-text(/Announcement|Like me/)
 /\.com\/.*[a-f0-9]{110}/$third-party,image,badfilter
