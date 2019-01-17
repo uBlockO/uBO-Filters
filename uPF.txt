@@ -472,7 +472,7 @@ animehub.*##.gc-comments, .gc-share, .footer-follow, .dialog-ovelay, .block-shar
 animehub.*##.goblock-bottom:has-text(online) 
 animehub.*##.goblock-content:has-text(animehub.to)
 quora.com##div[class] > div > div > div > div > div > div > div > div > div:has-text(/sponsored|promoted/)
-hanime.tv##+js(cookie-set.js, in_d1, 1, 2114785965)
+hanime.tv##+js(cookie-set.js, in_d2, 1, 2114785965)
 /(readcomiconline|kimcartoon|kiss-anime|9anime|gogoanime|toonova|animeflv|animeplus|goodanime|animewow|animenova|animeland|animetoon|mangapanda|memecenter|mangareader)\.[a-z]{2,4}\/[-_a-zA-Z0-9]{3,}\/[-_a-zA-Z0-9]{20,}.(gif|jpg|png)/$domain=gogoanime.sh|mangapanda.com|memecenter.com|mangareader.net|animeland.tv|animetoon.org|animenova.org|animewow.org|goodanime.co|animeplus.tv|animeflv.net|toonova.net|gogoanime.to|gogoanime.se|gogoanime.in|9anime.is|9anime.to|kiss-anime.me|kimcartoon.me|readcomiconline.to,badfilter
 facebook.com/ajax/bz^
 @@||facebook.com/ajax/bz$domain=facebook.com,badfilter
