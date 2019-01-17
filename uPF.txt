@@ -304,8 +304,6 @@ comicbook.com##.article-footer-comments
 ||mcloud.to^$csp=default-src 'self' 'unsafe-inline' blob: *.mcloud.to *.fmovies.se *.solarmoviex.to *.ffmovies.ru *.9anime.to *.putlocketv.to ajax.googleapis.com ssl.p.jwpcdn.com
 putlockertv.*##.col-md-7
 comicbook.com##.urgent-module
-|https://$third-party,stylesheet,domain=fmovies.is|fmovies.se|fmovies.to,badfilter
-|https://$third-party,script,domain=fmovies.is|fmovies.se|fmovies.to,badfilter
 @@||ssl-images-amazon.com^*/ads/$script,badfilter
 @@||static1.akacdn.ru/assets/$script,domain=fmovies.is|fmovies.se|fmovies.to,badfilter
 @@||pubmatic.com/adserver/*showad.js$script,badfilter
@@ -424,7 +422,6 @@ rapidvideo.*##+js(addEventListener-defuser.js, contextmenu, preventDefault)
 /tweets.js$badfilter
 readcomiconline.to/wp-includes/*/*.html$subdocument,first-party
 @@||gemius.pl/gstream.js$badfilter
-|https://$third-party,other,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to|fmovies.world,badfilter
 @@||openload.co/advert2.js$badfilter
 @@||openload.co/advert2.js$script,badfilter
 appcache^$other,first-party
@@ -515,3 +512,7 @@ screenrant.com##+js(remove-attr.js, onclick, a)
 @@||munchkin.marketo.net/munchkin.js$badfilter
 @@||kimcartoon.to^$csp=script-src 'self' * 'unsafe-inline',badfilter
 @@||mail.google.com^*&view=ad&$xmlhttprequest,badfilter
+|https://$third-party,image,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to|fmovies.today|fmovies.world,badfilter
+|https://$third-party,stylesheet,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to|fmovies.today|fmovies.world,badfilter
+|https://$third-party,script,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to|fmovies.today|fmovies.world,badfilter
+|https://$third-party,other,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to|fmovies.today|fmovies.world,badfilter
