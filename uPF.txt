@@ -67,7 +67,7 @@ fastly.net^$script
 facebook.com##.rhc, ._34js, #snowliftStageActions, .home_right_column, ._5pcr._7xp, ._3j6k, ._50z3._9bp._1ltv, ._55ob._4kqp, ._4nef.fbUserContent._5pcr, #page_tv_show_playlists, ._6445, #pagelet_page_cover, #page_tv_show_extra_clips, #page_photos, .UFIList, ._5r6, ._3w53
 facebook.com/*/logging^$important
 /annotations$script,first-party,domain=youtube.com
-9anime.*##.popover, #tags, .hd-buttons.row, #comment, .socials, .twitter-follow-button, .sticky, .comment.widget, .share, .text-center.crop.widget, .text-center.widget, .alert, .azlist       
+9anime.*##.popover, #tags, .hd-buttons.row, #comment, .socials, .twitter-follow-button, .sticky, .comment.widget, .share, .text-center.crop.widget, .text-center.widget, .alert, .azlist, .mb20       
 fmovies.*##.alert, .text, .widget:nth-of-type(5), #tags, .hidden-sm.widget, .hd-buttons.row, .col-right, .widget:nth-of-type(4), [href*="twitter.com"], #comment, .socials, .twitter-follow-button, [href*="/redirect"]     
 solarmoviex.*,putlockertv.*###tags
 solarmoviex.*,putlockertv.*##.hd-buttons.row
@@ -116,7 +116,6 @@ kimcartoon.*##.w-right, #hideAds, .videoAdClose, .kcAds, .alert-info.alert, .mb1
 analytics$script,first-party
 chromium.org##.__crdxFeedbackButton
 google.com/ads/$important
-9anime.to##.mb20
 mozilla.org##.announce-bar
 mega.nz##.ads-left-block, .ads-right-block, .active.top-login-warning
 swatchseries.to##a[href^="/redirect.php"]
@@ -384,7 +383,6 @@ readcomiconline.to##[style*="width: 1010px; height: 200px"]
 readcomiconline.to###disqus_thread
 ||readcomiconline.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bp.blogspot.com
 hanime.tv##.user_comments.lazy, .initialized, .htv-flag, div:nth-of-type(1) > .mb-5.htv-carousel-container.lazy, .community_uploads, .info__text__tags__title, .desktop.unit, .sponsors, .htvadx
-9anime.is##.small
 /js.cookie.$badfilter
 adroll.com^$important
 fluidplayer.com^
@@ -469,7 +467,7 @@ kissmanga.com##+js(setTimeout-defuser.js, /YANABWEKA|HATEDBSDIDSY/)
 kimcartoon.*##+js(eclick.js, #expand)
 ffmovies.ru##.hd-buttons.row, .alert, #comment, #tags, [href^="https://twitter.com/"]
 imdb.com##.ab_widget
-9anime.*/scripts/$script
+9anime.*/inc/
 *$csp=script-src 'self' * data: 'unsafe-inline' 'unsafe-eval',domain=pornhub.com|xhamster.com|youporn.com,badfilter
 xvideos.com##.videoad-title
 howtogeek.com##.email, .facebook, .twitter, .rss, #small, .entry-meta > span > span, .third.footer-col
