@@ -1,4 +1,4 @@
-[uBlock Origin 1.17.7rc1]
+[uBlock Origin 1.17.7rc2]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -345,7 +345,7 @@ nosteam.ro##+js(window.open-defuser.js)
 translate.google.com##.gt-hats
 */advertisement.js$xmlhttprequest,important
 @@/advert.js$script,badfilter
-openload.co##+js(eclick.js, #videooverlay)
+openload.co,oload.*###videooverlay,important
 |https://$xmlhttprequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
 @@||9anime.is/assets/player/jwplayer-*/jwplayer.js$badfilter
 player_ads.html^$important
