@@ -345,7 +345,7 @@ nosteam.ro##+js(window.open-defuser.js)
 translate.google.com##.gt-hats
 */advertisement.js$xmlhttprequest,important
 @@/advert.js$script,badfilter
-openload.co,oload.*###videooverlay,important
+openload.co,oload.*##+js(eclick.js, #videooverlay)
 |https://$xmlhttprequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
 @@||9anime.is/assets/player/jwplayer-*/jwplayer.js$badfilter
 player_ads.html^$important
@@ -517,3 +517,5 @@ screenrant.com##+js(remove-attr.js, onclick, a)
 sharesome.com/api/user-action$xhr
 sharesome.com/api/data$xhr
 fandom.com###WikiaRailWrapper
+@@/advert3.js|$first-party,domain=openload.co|openload.pw|oload.fun|oload.icu|oload.cloud|oload.download|oload.stream|oload.info,badfilter
+@@||openload.co/advert$script,badfilter
