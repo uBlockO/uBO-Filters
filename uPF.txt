@@ -519,3 +519,4 @@ sharesome.com/api/data$xhr
 fandom.com###WikiaRailWrapper
 @@/advert3.js|$first-party,domain=openload.co|openload.pw|oload.fun|oload.icu|oload.cloud|oload.download|oload.stream|oload.info,badfilter
 @@||openload.co/advert$script,badfilter
+@@||thepiratebay.org^$subdocument,badfilter
