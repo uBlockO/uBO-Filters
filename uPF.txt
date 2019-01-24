@@ -1,4 +1,4 @@
-[uBlock Origin 1.17.7rc2]
+[uBlock Origin 1.17.7rc3]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -461,7 +461,6 @@ kissmanga.com##+js(setTimeout-defuser.js, /YANABWEKA|HATEDBSDIDSY/)
 kimcartoon.*##+js(eclick.js, #expand)
 ffmovies.ru##.hd-buttons.row, .alert, #comment, #tags, [href^="https://twitter.com/"]
 imdb.com##.ab_widget
-9anime.*/inc/
 *$csp=script-src 'self' * data: 'unsafe-inline' 'unsafe-eval',domain=pornhub.com|xhamster.com|youporn.com,badfilter
 xvideos.com##.videoad-title
 howtogeek.com##.email, .facebook, .twitter, .rss, #small, .entry-meta > span > span, .third.footer-col
