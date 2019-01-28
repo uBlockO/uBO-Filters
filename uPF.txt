@@ -348,7 +348,6 @@ translate.google.com##.gt-hats
 openload.co,oload.*##+js(eclick.js, #videooverlay)
 |https://$xmlhttprequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
 @@||9anime.is/assets/player/jwplayer-*/jwplayer.js$badfilter
-player_ads.html^$important
 mellowads.com^$important
 cse.google.com^
 ad.foxnetworks.com^$important
@@ -370,7 +369,6 @@ revcontent.com^$important
 but.to^$important
 clksite.com^$important
 @@||9anime.is/assets/player/jwplayer-7.12.3/jwplayer.js$script,badfilter
-chromium.woolyss.com###share-this-page
 @@/wp-content/*/adve*.js$script,badfilter
 animenewsnetwork.com##.aside.box.herald:has([href*="advert"])
 readcomiconline.to##.top_page_alert
@@ -391,7 +389,6 @@ fonts.gtatic.com^$important,domain=~google.com
 kissanime.ru##+js(setTimeout-defuser.js, YANMKABFYWRW)
 @@||kissanime.ru/ads^$badfilter
 @@/wp-content/*/ad-$script,badfilter
-/ads/beacon^
 /AppMeasurement$script,first-party
 mp4upload.com/*.html$subdocument,first-party
 mp4upload.com###overlay
@@ -517,3 +514,4 @@ fandom.com###WikiaRailWrapper
 @@/advert3.js|$first-party,domain=openload.co|openload.pw|oload.fun|oload.icu|oload.cloud|oload.download|oload.stream|oload.info,badfilter
 @@||openload.co/advert$script,badfilter
 @@||thepiratebay.org^$subdocument,badfilter
+github.com##+js(set-value.js, navigator.sendBeacon, noopFunc)
