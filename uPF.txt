@@ -408,7 +408,6 @@ kissanime.ru###my_video_1_html5_api:style(display: block !important;)
 /ads$first-party
 kissmanga.com###aCurr, .clear2, .specialButton
 @@/_ad*/_ad$first-party,xmlhttprequest,badfilter
-||imgur.com/b$badfilter
 readcomiconline.to###fl-ads.rf-container
 milfzr.com##[href*="https://incezt.net/"]
 rapidvideo.*##+js(addEventListener-defuser.js, contextmenu, preventDefault)
