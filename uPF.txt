@@ -497,7 +497,7 @@ deadline.com,variety.com##.async-hide:style(opacity: 1.0 !important)
 localhost^$third-party
 ||kimcartoon.to^$csp=script-src 'self' * 'unsafe-inline',badfilter
 myanimelist.net##+js(abort-current-inline-script.js, addEventListener, adRefresh)
-||embed.streamx.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: unpkg.com *.googlevideo.com *.apps.fbsbx.com scontent.graph-facebook.com
+||embed.streamx.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: unpkg.com *.googlevideo.com *.apps.fbsbx.com scontent.graph-facebook.com cdn.jsdelivr.net *.openstream.io
 screenrant.com##+js(remove-attr.js, onclick, a)
 @@||munchkin.marketo.net/munchkin.js$badfilter
 @@||kimcartoon.to^$csp=script-src 'self' * 'unsafe-inline',badfilter
