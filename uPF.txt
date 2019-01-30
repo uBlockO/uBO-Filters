@@ -1,4 +1,4 @@
-[uBlock Origin 1.18.3b1]
+[uBlock Origin 1.18.3b2]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -332,10 +332,8 @@ reddit.com###HeaderUserActions--Chat, .redesign-beta-optin, .premium-banner, .sh
 twitter.com##.call-to-action
 movieweb.com##.current-article-actions
 @@/wp-content/*/ads*.js$script,badfilter
-/ad-overlay-anything
-milfzr.com###extras
-milfzr.com###respond
-milfzr.com###actions
+/ad-overlay-anything$domain=milfzr.com
+milfzr.com###extras, #respond, #actions, [href*="https://incezt.net/"],
 @@/js/advertisement-$script,badfilter
 adnxs.com^$important
 /http*.:\/\/.*[?|=|&|%|#|+].*/$popup,domain=0123movies.com|1337x.to|1movies.to|9anime.is|a-o.ninja|adsrt.com|ahlamtv.com|akvideo.stream|allmyvideos.netakvideo.stream|animeflv.net|animeid.io|asianvote.com|avgle.com|bittorrent.am|bmovies.to|clipconverter.cc|cloudtime.to|cruzing.xyz|dropapk.com|embed.nowvideo.sx|embed.videoweed.es|escdn.co|estream.to|extreme-board.com|eztv.ag|fastbay.net|fileone.tv|flash-x.tv|flashsx.tv|flashx.cc|flashx.me|flashx.run|flashx.sx|flashx.to|flashx.tv|flashx.ws|flashx1.tv|flashxx.tv|fmovies.is|fmovies.se|fmovies.to|fruithosted.net|fruitstreams.com|gogoanime.io|gorillavid.in|gowatchfreemovies.to|grammarist.com|ikwilthepiratebay.org|imagebam.com|imagefruit.com|imageporter.com|imagerar.com|img24.org|imgadult.com|imgbox.com|imgdrive.net|imgshots.com|imgsin.com|imgspice.com|imgtaxi.com|imgvip.net|imgwallet.com|indoxxi.tv|jkanime.net|katcr.host|katcr.party|kickass.cd|kickass.gg|kissasian.ch|kisscartoon.ac|lavamovies.se|m4ufree.com|m4ufree.tv|masterani.me|megaup.net|moecdn.io|monova.org|movie4k.is|mp3indirdur.mobi|myreadingmanga.info|mywebtv.info|newser.com|nosteam.ro|nowvideo.sx|oload.site|oload.stream|oload.xyz|oloadcdn.net|onhax.me|onlinevideoconverter.com|openload.co|openloadmovies.tv|opentpb.com|otakustream.tv|piratebayblocked.com|pirateproxy.sh|pirateproxy.website|playercdn.net|pornparadise.org|povwideo.net|powvideo.net|proxydl.cf|putlockertv.se|putlockertv.to|rapidvideo.com|rarbgproxy.org|readcomiconline.to|repelis.net|rule34hentai.net|seehd.pl|sendvid.com|sexuria.com|solarmoviesc.com|speedvid.net|sportp2p.com|stream.moe|stream2watch.org|streamango.com|streamcherry.com|streamplay.to|streamshunter.tv|suprafiles.org|telepisodes.co|thehiddenbay.fi|thehiddenbay.ws|thekat.nz|thepiratebay.red|thepiratebay.rocks|thepirateproxy.ws|theproxybay.me|thevideo.cc|thevideo.ch|thevideo.me|thevideo.website|torrentz.to|tpb.zone|tpbmirror.ga|tpbship.org|uktpbmirror.pw|unblocker.cc|unblocktpb.pro|userscloud.com|vidgg.to|vidlox.me|vidlox.tv|vidoza.net|vidto.me|vidtod.me|vidtudu.com|vidup.me|vidz7.com|vidzi.tv|vipleague.mobi|vodlock.co|watchcartoononline.com|watchonline.to|watchonlinemovies.com.pk|wholecloud.net|youwatch.org|yts.am,badfilter
@@ -406,7 +404,6 @@ kissanime.ru###my_video_1_html5_api:style(display: block !important;)
 kissmanga.com###aCurr, .clear2, .specialButton
 @@/_ad*/_ad$first-party,xmlhttprequest,badfilter
 readcomiconline.to###fl-ads.rf-container
-milfzr.com##[href*="https://incezt.net/"]
 rapidvideo.*##+js(addEventListener-defuser.js, contextmenu, preventDefault)
 ||youtube.com/comment_service_ajax?$domain=youtube.com,badfilter
 @@||twimg.com/tweets.json?*callback$script,badfilter
@@ -516,3 +513,4 @@ fandom.com###WikiaRailWrapper
 @@||thepiratebay.org^$subdocument,badfilter
 github.com##+js(set-value.js, navigator.sendBeacon, noopFunc)
 ||readcomiconline.to^$csp=script-src 'self' 'unsafe-inline' *.disquscdn.com *.disqus.com,badfilter
+milfzr.com##+js(addEventListener-defuser.js, contextmenu)
