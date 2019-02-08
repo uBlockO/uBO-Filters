@@ -489,7 +489,6 @@ torrentz2.*##.ads_box
 /^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ee]xternal|[Ii]mages|[Ss]cripts|[Uu]ploads|ac|ajax|assets|combined|content|cov|cover|(img\/bg)|(img\/icon)|inc|jwplayer|player|playlist-cat-rss|static|thumbs|wp-content|wp-includes)\/)(.*)/$first-party,image,domain=~animeland.hu,badfilter
 porntcomic.net/ptc_foc.js
 @@||scontent.xx.fbcdn.net/hads-ak-prn2/*.png$domain=facebook.com,badfilter
-deadline.com,variety.com##.async-hide:style(opacity: 1.0 !important)
 @@||$elemhide,domain=animehub.ac|myanimelist.net|fmovies.to|screenrant.com|kimcartoon.to|ghacks.net|animenewsnetwork.com
 localhost^$third-party
 ||kimcartoon.to^$csp=script-src 'self' * 'unsafe-inline',badfilter
@@ -515,3 +514,5 @@ github.com##+js(set-value.js, navigator.sendBeacon, noopFunc)
 ||readcomiconline.to^$csp=script-src 'self' 'unsafe-inline' *.disquscdn.com *.disqus.com,badfilter
 milfzr.com##+js(addEventListener-defuser.js, contextmenu)
 redditstatic.com/reddit.en.*.js^
+@@||vox-cdn.com/packs/concert_ads$script,badfilter
+@@||s1.wp.com^$badfilter
