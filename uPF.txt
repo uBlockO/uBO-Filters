@@ -1,4 +1,4 @@
-[uBlock Origin 1.18.3b2]
+[uBlock Origin 1.18.3rc2]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -514,3 +514,4 @@ fandom.com###WikiaRailWrapper
 github.com##+js(set-value.js, navigator.sendBeacon, noopFunc)
 ||readcomiconline.to^$csp=script-src 'self' 'unsafe-inline' *.disquscdn.com *.disqus.com,badfilter
 milfzr.com##+js(addEventListener-defuser.js, contextmenu)
+redditstatic.com/reddit.en.*.js^
