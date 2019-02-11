@@ -1,4 +1,4 @@
-[uBlock Origin 1.18.3rc2]
+[uBlock Origin 1.18.5b0]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -516,3 +516,4 @@ milfzr.com##+js(addEventListener-defuser.js, contextmenu)
 redditstatic.com/reddit.en.*.js^
 @@||vox-cdn.com/packs/concert_ads$script,badfilter
 @@||s1.wp.com^$badfilter
+animehub.*##+js(abort-current-inline-script.js, RegExp, zfgloaded)
