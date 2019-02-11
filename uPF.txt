@@ -516,4 +516,3 @@ milfzr.com##+js(addEventListener-defuser.js, contextmenu)
 redditstatic.com/reddit.en.*.js^
 @@||vox-cdn.com/packs/concert_ads$script,badfilter
 @@||s1.wp.com^$badfilter
-animehub.*##+js(abort-current-inline-script.js, RegExp, zfgloaded)
