@@ -493,7 +493,7 @@ porntcomic.net/ptc_foc.js
 localhost^$third-party
 ||kimcartoon.to^$csp=script-src 'self' * 'unsafe-inline',badfilter
 myanimelist.net##+js(abort-current-inline-script.js, addEventListener, adRefresh)
-||embed.streamx.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: unpkg.com *.googlevideo.com *.apps.fbsbx.com scontent.graph-facebook.com *.openstream.io ajax.googleapis.com *.fbcdn.net hydrax.net
+||embed.streamx.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: unpkg.com *.googlevideo.com *.apps.fbsbx.com scontent.graph-facebook.com *.openstream.io ajax.googleapis.com *.fbcdn.net hydrax.net iamcdn.net
 screenrant.com##+js(remove-attr.js, onclick, a)
 @@||munchkin.marketo.net/munchkin.js$badfilter
 @@||kimcartoon.to^$csp=script-src 'self' * 'unsafe-inline',badfilter
