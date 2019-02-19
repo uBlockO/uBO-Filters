@@ -421,7 +421,7 @@ kimcartoon.*,readcomiconline.to##[style*="width: 300px; height: 250px"]
 @@||gateway.reddit.com/desktopapi/v*/sidebar_ad$xmlhttprequest,badfilter
 /\.com\/.*[a-f0-9]{110}/$third-party,image,domain=~parship.com|~aliexpress.com|~alipay.com|~bilibili.com|~namu.wiki|~fastmail.com,badfilter
 kvideo.io^
-||animehub.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: play.animehub.ac static.animecdn.stream *.fbcdn.net *.googlevideo.com *.cdninstagram.com *.bootstrapcdn.com *.apps.fbsbx.com *.pw *.googleusercontent.com *.streamx.me ajax.googleapis.com
+||animehub.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: play.animehub.ac static.animecdn.stream *.fbcdn.net *.googlevideo.com *.cdninstagram.com *.bootstrapcdn.com *.apps.fbsbx.com *.pw *.googleusercontent.com *.streamx.me
 @@||static.animecdn.stream/js/ads.js$badfilter
 @@/js/ads.js$script,badfilter
 @@||office365.com^*/adbar.js$badfilter
@@ -493,7 +493,7 @@ porntcomic.net/ptc_foc.js
 localhost^$third-party
 ||kimcartoon.to^$csp=script-src 'self' * 'unsafe-inline',badfilter
 myanimelist.net##+js(abort-current-inline-script.js, addEventListener, adRefresh)
-||embed.streamx.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: unpkg.com *.googlevideo.com *.apps.fbsbx.com scontent.graph-facebook.com *.openstream.io
+||embed.streamx.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: unpkg.com *.googlevideo.com *.apps.fbsbx.com scontent.graph-facebook.com *.openstream.io ajax.googleapis.com
 screenrant.com##+js(remove-attr.js, onclick, a)
 @@||munchkin.marketo.net/munchkin.js$badfilter
 @@||kimcartoon.to^$csp=script-src 'self' * 'unsafe-inline',badfilter
