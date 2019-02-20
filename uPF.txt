@@ -475,8 +475,6 @@ scorecardresearch.com^$important
 youtube.com###dismissable:has-text(Recommended channel for you)
 torrentz2.eu##.alert--danger.alert
 mcloud.to/log/
-flixanity.*##.miflix, .sources
-||flixanity.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.flixanity.site ajax.googleapis.com cdnjs.cloudflare.com maxcdn.bootstrapcdn.com *.rapidvideo.com *.playercdn.net openload.co oload.cloud *.oloadcdn.net streamango.com *.fruithosted.net cdn.jsdelivr.net
 |https://$xmlhttprequest,domain=dwatchseries.to|swatchseries.to|thewatchseries.ac|unblckd.org|watchseries.sk,badfilter
 ||apps.fbsbx.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.fbcdn.net *.cdninstagram.com ajax.googleapis.com *.satella.tv hanime.tv *.hanime.tv 
 /porpoiseant$domain=animenewsnetwork.com
