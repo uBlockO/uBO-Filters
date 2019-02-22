@@ -510,7 +510,6 @@ fandom.com###WikiaRailWrapper
 github.com##+js(set-value.js, navigator.sendBeacon, noopFunc)
 ||readcomiconline.to^$csp=script-src 'self' 'unsafe-inline' *.disquscdn.com *.disqus.com,badfilter
 milfzr.com##+js(addEventListener-defuser.js, contextmenu)
-redditstatic.com/reddit.en.*.js^
 @@||vox-cdn.com/packs/concert_ads$script,badfilter
 @@||s1.wp.com^$badfilter
 @@||bidvertiser.com/*?pid=$script,domain=exrapidleech.info,badfilter
