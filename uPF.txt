@@ -13,7 +13,7 @@ youtube.com###watch-action-panels, #chat, .ytp-ce-covering-overlay, .subscribeca
 youtube.com/get_endscreen
 hollywoodreporter.com/*/home.bundle.js
 hollywoodreporter.com##.js-leftRail-loadNewContent, .js-show-disqus-comments, .autoload-spinner.processed-by-autoloader.autoload-direct-render, .fa-comment.post-has-comments.comments-square.js-scroll-to-comments, .blog-post-author-section, .article-meta-bottom, .blog-post-syndication-section, .leaderboard-wrapper, .readmore, .logo-wrap, .social-container, .blog-post-tags
-screenrant.com##.social, .video-block-main.video-block, .sg-sharing-option, .ad-zone-container, .twitter.icon, .nav-social-list, #js-tp-menu-btn, .footer-brands, .footer-social-list, .w-sharing, .art-body-sharing, .article-tags, .w-fb-like, .premium-promo, .w-injected-featured, .w-gdpr  
+screenrant.com##.social, .video-block-main.video-block, .sg-sharing-option, .ad-zone-container, .twitter.icon, .nav-social-list, #js-tp-menu-btn, .footer-brands, .footer-social-list, .w-sharing, .art-body-sharing, .article-tags, .w-fb-like, .premium-promo, .w-injected-featured, .w-gdpr, .w-newsletter-signup  
 */advertisement.js$script,important,first-party
 chatango.com^$important
 disquscdn.com^$important
