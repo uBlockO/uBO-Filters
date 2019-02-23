@@ -513,3 +513,4 @@ milfzr.com##+js(addEventListener-defuser.js, contextmenu)
 @@||vox-cdn.com/packs/concert_ads$script,badfilter
 @@||s1.wp.com^$badfilter
 @@||bidvertiser.com/*?pid=$script,domain=exrapidleech.info,badfilter
+animehub.*##+js(abort-current-inline-script.js, RegExp, zfgloaded)
