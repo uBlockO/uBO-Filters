@@ -505,10 +505,9 @@ fandom.com###WikiaRailWrapper
 @@/advert3.js|$first-party,domain=openload.co|openload.pw|oload.fun|oload.icu|oload.cloud|oload.download|oload.stream|oload.info,badfilter
 @@||openload.co/advert$script,badfilter
 @@||thepiratebay.org^$subdocument,badfilter
-github.com##+js(set-value.js, navigator.sendBeacon, noopFunc)
 ||readcomiconline.to^$csp=script-src 'self' 'unsafe-inline' *.disquscdn.com *.disqus.com,badfilter
 milfzr.com##+js(addEventListener-defuser.js, contextmenu)
 @@||vox-cdn.com/packs/concert_ads$script,badfilter
 @@||s1.wp.com^$badfilter
 @@||bidvertiser.com/*?pid=$script,domain=exrapidleech.info,badfilter
-embed.streamx.me##+js(etog-attr.js, video, autoplay)
+streamx.me##+js(etog-attr.js, video, autoplay)
