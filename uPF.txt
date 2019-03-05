@@ -511,3 +511,4 @@ milfzr.com##+js(addEventListener-defuser.js, contextmenu)
 @@||s1.wp.com^$badfilter
 @@||bidvertiser.com/*?pid=$script,domain=exrapidleech.info,badfilter
 streamx.me##+js(etog-attr.js, video, autoplay)
+youtube.com###dismissable:has-text(Related Movies)
