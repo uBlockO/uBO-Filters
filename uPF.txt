@@ -1,4 +1,4 @@
-[uBlock Origin 1.18.5rc0]
+[uBlock Origin 1.18.5rc2]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -512,3 +512,9 @@ milfzr.com##+js(addEventListener-defuser.js, contextmenu)
 @@||bidvertiser.com/*?pid=$script,domain=exrapidleech.info,badfilter
 streamx.me##+js(etog-attr.js, video, autoplay)
 youtube.com###dismissable:has-text(Related Movies)
+*adblock*
+@@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$badfilter
+@@/adblockdetector.min.js$badfilter
+@@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$first-party,script,badfilter
+*_gap*
+@@||dev.visualwebsiteoptimizer.com/j.php$badfilter
