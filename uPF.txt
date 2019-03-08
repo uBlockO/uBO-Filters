@@ -515,5 +515,5 @@ youtube.com###dismissable:has-text(Related Movies)
 @@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$badfilter
 @@/adblockdetector.min.js$badfilter
 @@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$first-party,script,badfilter
-*_gap*
 @@||dev.visualwebsiteoptimizer.com/j.php$badfilter
+prettyfast.to##+js(etog-attr.js, video, autoplay)
