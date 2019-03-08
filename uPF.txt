@@ -510,10 +510,9 @@ milfzr.com##+js(addEventListener-defuser.js, contextmenu)
 @@||vox-cdn.com/packs/concert_ads$script,badfilter
 @@||s1.wp.com^$badfilter
 @@||bidvertiser.com/*?pid=$script,domain=exrapidleech.info,badfilter
-streamx.me##+js(etog-attr.js, video, autoplay)
+streamx.me,prettyfast.to##+js(etog-attr.js, video, autoplay)
 youtube.com###dismissable:has-text(Related Movies)
 @@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$badfilter
 @@/adblockdetector.min.js$badfilter
 @@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$first-party,script,badfilter
 @@||dev.visualwebsiteoptimizer.com/j.php$badfilter
-prettyfast.to##+js(etog-attr.js, video, autoplay)
