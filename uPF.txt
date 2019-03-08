@@ -1,4 +1,4 @@
-[uBlock Origin 1.18.5rc2]
+[uBlock Origin 1.18.5rc3]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -119,12 +119,12 @@ google.com/ads/$important
 mozilla.org##.announce-bar
 mega.nz##.ads-left-block, .ads-right-block, .active.top-login-warning
 swatchseries.to##a[href^="/redirect.php"]
-||fmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net;upgrade-insecure-requests
-||ffmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net;upgrade-insecure-requests
-||bmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net;upgrade-insecure-requests
-||9anime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.akacdn.ru *.blogspot.com *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to streamango.com *.fruithosted.net *.mp4upload.com;upgrade-insecure-requests
-||putlockertv.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net;upgrade-insecure-requests
-||solarmoviex.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net;upgrade-insecure-requests
+||fmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net prettyfast.to;upgrade-insecure-requests
+||ffmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net prettyfast.to;upgrade-insecure-requests
+||bmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net prettyfast.to;upgrade-insecure-requests
+||9anime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.akacdn.ru *.blogspot.com *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to streamango.com *.fruithosted.net *.mp4upload.com prettyfast.to;upgrade-insecure-requests
+||putlockertv.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net prettyfast.to;upgrade-insecure-requests
+||solarmoviex.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net prettyfast.to;upgrade-insecure-requests
 /endscreen$script,first-party,domain=youtube.com
 ads_$xmlhttprequest,first-party,important
 scorecardresearch.com^$important
