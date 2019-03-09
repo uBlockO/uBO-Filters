@@ -113,7 +113,7 @@ speedtest.net##.high-placeholder.pure-u-1, .u-c.pure-u-custom-ad-rectangle, .u-c
 gitlab.com##.bordered-box
 platform.twitter.com/js/button.$important
 kimcartoon.*##.w-right, #hideAds, .videoAdClose, .kcAds, .alert-info.alert, .mb15.full, #btnShowComments, #videoAd, #divComments, #disqus_thread, .twitter-follow-button, .top_page_alert, [id*="ScriptRoot"]
-analytics$script
+*analytics*$script,important
 chromium.org##.__crdxFeedbackButton
 google.com/ads/$important
 mozilla.org##.announce-bar
