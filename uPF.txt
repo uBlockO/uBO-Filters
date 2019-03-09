@@ -17,7 +17,7 @@ screenrant.com##.social, .video-block-main.video-block, .sg-sharing-option, .ad-
 */advertisement.js$script,important,first-party
 chatango.com^$important
 disquscdn.com^$important
-kissanime.*###btnShowComments, strong, .videoAdClose, .divCloseBut, .bigBarContainer div[id^="adsIfrme"], .adsPositioning,[style*="width: 300px; height: 250px"]  
+kissanime.ru###btnShowComments, strong, .videoAdClose, .divCloseBut, .bigBarContainer div[id^="adsIfrme"], .adsPositioning,[style*="width: 300px; height: 250px"]  
 mgid.com^$important
 sharethis.com^$important
 openload.co/reward$xmlhttprequest,important
@@ -238,10 +238,10 @@ cbr.com##.link:has-text(FindaComicShop.com)
 comicbook.com/article/json/$xmlhttprequest
 comicbook.com##.article-break
 comicbook.com##.modern-embed
-kissanime.*##.bigBarContainer:has-text(Comments)
+kissanime.ru##.bigBarContainer:has-text(Comments)
 |https://$third-party,script,domain=9anime.to,badfilter
 ||rapidvideo.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.rapidvideo.com *.playercdn.net;upgrade-insecure-requests
-kissanime.*##.rightBox:has-text(Like me)
+kissanime.ru##.rightBox:has-text(Like me)
 @@||akamaihd.net^*/ad*.js$script,badfilter
 boxofficemojo.com###Player_82160f42-9620-4d0a-b79a-18b1abd853fb
 ffmovies.ru,bmovies.*,putlockertv.*,solarmoviex.to,123movies0.com##+js(abort-current-inline-script.js, decodeURIComponent, zfgloadedpopup)
