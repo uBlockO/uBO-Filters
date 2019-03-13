@@ -516,6 +516,5 @@ youtube.com###dismissable:has-text(Related Movies)
 @@/adblockdetector.min.js$badfilter
 @@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$first-party,script,badfilter
 @@||dev.visualwebsiteoptimizer.com/j.php$badfilter
-9anime.*#@#+js(set-constant.js, String.prototype.charAt, trueFunc)
 @@||9anime.*/assets/$first-party,script,badfilter
 ||9anime.*^$first-party,script,badfilter
