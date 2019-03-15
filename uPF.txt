@@ -470,7 +470,7 @@ googletagservices.com^$important
 scorecardresearch.com^$important
 @@/wp-content/plugins/google-analytics-for-wordpress/*$first-party,script,badfilter
 youtube.com###dismissable:has-text(Recommended channel for you)
-torrentz2.##.alert-danger, .ads_box, #resultarea, [class*="Ad"] 
+torrentz2.*##.alert-danger, #resultarea 
 mcloud.to/log/
 |https://$xmlhttprequest,domain=dwatchseries.to|swatchseries.to|thewatchseries.ac|unblckd.org|watchseries.sk,badfilter
 ||apps.fbsbx.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.fbcdn.net *.cdninstagram.com ajax.googleapis.com *.satella.tv hanime.tv *.hanime.tv 
@@ -516,3 +516,4 @@ youtube.com###dismissable:has-text(Related Movies)
 @@||dev.visualwebsiteoptimizer.com/j.php$badfilter
 @@||9anime.*/assets/$first-party,script,badfilter
 ||9anime.*^$first-party,script,badfilter
+torrentz2.*##.downlinks > dl:has-text(Sponsored) > dd
