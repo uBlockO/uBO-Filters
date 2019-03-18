@@ -71,22 +71,6 @@ facebook.com/*/logging^$important
 fmovies.*##.alert, .text, .widget:nth-of-type(5), #tags, .hidden-sm.widget, .hd-buttons.row, .col-right, .widget:nth-of-type(4), [href*="twitter.com"], #comment, .socials, .twitter-follow-button, [href*="/redirect"]     
 solarmoviex.*,putlockertv.*###tags
 solarmoviex.*,putlockertv.*##.hd-buttons.row
-swatchseries.to##.ad_300_300
-swatchseries.to##.fullwrap > div > div:nth-of-type(4)
-swatchseries.to##.block-left-home-inside:nth-of-type(2)
-swatchseries.to##.show-social
-swatchseries.to##.sp-leader
-swatchseries.to###go_scrolling_comments
-swatchseries.to##.sp-leader-bottom
-swatchseries.to###scroll_comments
-swatchseries.to##.sp-sidetower
-swatchseries.to##.shd_button
-swatchseries.to##.episode-social
-swatchseries.to##a[href^="http://178.175.132.130/"]
-swatchseries.to##.add-comment
-swatchseries.to##.general_button
-swatchseries.to##a[href^="http://watchos.tv/"]
-swatchseries.to###header-2
 ads$script,first-party,domain=~imdb.com
 torrentz2.eu##a[href^="/"]:has-text(Download Direct)
 contributor.google.com/scripts/
@@ -112,13 +96,12 @@ ajax.cloudflare.com/cdn-cgi/nexp^$script
 speedtest.net##.high-placeholder.pure-u-1, .u-c.pure-u-custom-ad-rectangle, .u-c.pure-u-custom-ad-skyscraper, .eot-mini-survey, .top-placeholder.pure-u-1, [href*="twitter.com"], [href*="facebook.com"]   
 gitlab.com##.bordered-box
 platform.twitter.com/js/button.$important
-kimcartoon.*##.w-right, #hideAds, .videoAdClose, .kcAds, .alert-info.alert, .mb15.full, #btnShowComments, #videoAd, #divComments, #disqus_thread, .twitter-follow-button, .top_page_alert, [id*="ScriptRoot"]
+kimcartoon.*##.w-right, #hideAds, .videoAdClose, .kcAds, .alert-info.alert, .mb15.full, #btnShowComments, #videoAd, #divComments, #disqus_thread, .twitter-follow-button, [id*="ScriptRoot"]
 *analytics*$1p,important
 chromium.org##.__crdxFeedbackButton
 google.com/ads/$important
 mozilla.org##.announce-bar
 mega.nz##.ads-left-block, .ads-right-block, .active.top-login-warning
-swatchseries.to##a[href^="/redirect.php"]
 ||fmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net prettyfast.to;upgrade-insecure-requests
 ||ffmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net prettyfast.to;upgrade-insecure-requests
 ||bmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net prettyfast.to;upgrade-insecure-requests
@@ -159,7 +142,6 @@ mega.nz##.checkbox-bl.download
 @@|http:$first-party,domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|chroniclelive.co.uk|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|everquest.allakhazam.com|financialpost.com|gofugyourself.com|hearthhead.com|ibtimes.com|idigitaltimes.com|infinitiev.com|latimes.com|leaderpost.com|legacy.com|lifewire.com|lolking.net|mcall.com|metacritic.com|montrealgazette.com|msn.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|stereogum.com|sun-sentinel.com|thebalance.com|theprovince.com|thespruce.com|thestarphoenix.com|thoughtco.com|timeanddate.com|tmn.today|torontosun.com|tvguide.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com|www.ign.com|zam.com,badfilter
 @@.png^$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|chroniclelive.co.uk|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|everquest.allakhazam.com|financialpost.com|gofugyourself.com|hearthhead.com|ibtimes.com|idigitaltimes.com|infinitiev.com|latimes.com|leaderpost.com|legacy.com|lifewire.com|lolking.net|mcall.com|metacritic.com|montrealgazette.com|msn.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|stereogum.com|sun-sentinel.com|thebalance.com|theprovince.com|thespruce.com|thestarphoenix.com|thoughtco.com|timeanddate.com|tmn.today|torontosun.com|tvguide.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com|www.ign.com|zam.com,badfilter
 @@|http:$third-party,image,domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|chroniclelive.co.uk|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|everquest.allakhazam.com|financialpost.com|gofugyourself.com|hearthhead.com|ibtimes.com|idigitaltimes.com|infinitiev.com|latimes.com|leaderpost.com|legacy.com|lifewire.com|lolking.net|mcall.com|metacritic.com|montrealgazette.com|msn.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|stereogum.com|sun-sentinel.com|thebalance.com|theprovince.com|thespruce.com|thestarphoenix.com|thoughtco.com|timeanddate.com|tmn.today|torontosun.com|tvguide.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com|www.ign.com|zam.com,badfilter
-||swatchseries.to^$csp=script-src 'self' 'unsafe-inline' *.swatchseries.to
 @@||openload.co/assets/js/script.*.js$domain=openload.co,badfilter
 outlook.live.com##a[href^="https://aka.ms"]
 showads.js$important
@@ -272,8 +254,6 @@ facebook.com/video/*/upnext/$xmlhttprequest
 @@||cloudfront.net/assets/$third-party,script,badfilter
 ||github.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.githubassets.com *.githubusercontent.com *.s3.amazonaws.com
 @@||hentaihaven.org/basement/js/adshow.js$badfilter
-swatchseries.to###rotating-item-wrapper
-swatchseries.to##.freeEpisode
 socket.io^
 crwdcntrl.net^$important
 amazon-adsystem.com^$important
@@ -413,7 +393,6 @@ readcomiconline.to/wp-includes/*/*.html$subdocument,first-party
 @@||openload.co/advert2.js$script,badfilter
 appcache^$other,first-party
 worker.js^$script,first-party
-kimcartoon.*,readcomiconline.to##[style*="width: 300px; height: 250px"]
 -social-media.$badfilter
 -social-media-$image,badfilter
 @@||gateway.reddit.com/desktopapi/v*/sidebar_ad$xmlhttprequest,badfilter
@@ -440,7 +419,6 @@ bmovies.club##.hd-buttons.row
 bmovies.club##.alert
 bmovies.club###comment
 bmovies.club##[href^="https://twitter.com/"]
-ww2.swatchseries.to^
 @@||kissmanga.com/ads/*.aspx$badfilter
 @@||kissmanga.com/ads/adprotect$first-party,subdocument,badfilter
 masterani.me##.hero
