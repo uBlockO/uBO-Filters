@@ -496,3 +496,4 @@ youtube.com###dismissable:has-text(Related Movies)
 ||9anime.*^$first-party,script,badfilter
 torrentz2.*##.downlinks > dl:has-text(Sponsored) > dd
 @@||client-event-reporter.twitch.tv^$xmlhttprequest,domain=twitch.tv,badfilter
+animehub.*##+js(set-value.js, onError, noopFunc)
