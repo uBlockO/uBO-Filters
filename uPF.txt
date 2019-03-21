@@ -335,12 +335,8 @@ bannertrack.net^$important
 @@/fuckadblock.$script,badfilter
 gravatar.com^$important
 gitlab.com##.gke-promo-banner
-masterani.me##.header.master.ui:has-text(Disqus)
-masterani.me##.aligned.center.column.wide.sixteen
 ||streamango.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.streamango.com *.fruithosted.net cdnjs.cloudflare.com;upgrade-insecure-requests
 reddit.com/chat^
-masterani.me##.campaign.column.wide.sixteen
-||masterani.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.masterani.me www.youtube.com *.ytimg.com cdnjs.cloudflare.com streamango.com *.fruithosted.com openload.co *.oloadcdn.net *.rapidvideo.com *.playercdn.net stream.moe mp4upload.com tiwi.kiwi *.mystream.to
 revcontent.com^$important
 but.to^$important
 clksite.com^$important
@@ -421,7 +417,6 @@ bmovies.club###comment
 bmovies.club##[href^="https://twitter.com/"]
 @@||kissmanga.com/ads/*.aspx$badfilter
 @@||kissmanga.com/ads/adprotect$first-party,subdocument,badfilter
-masterani.me##.hero
 ||hanime.tv^$csp=upgrade-insecure-requests
 kissmanga.com##+js(setTimeout-defuser.js, /YANABWEKA|HATEDBSDIDSY/)
 /webtorrent$script
