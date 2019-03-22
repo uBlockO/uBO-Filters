@@ -1,4 +1,4 @@
-[uBlock Origin 1.18.9rc1]
+[uBlock Origin 1.18.11b0]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -211,12 +211,9 @@ lib/*.wasm^$important
 jwpcdn.com/*/related.js$script,first-party
 @@||facebook.com/share/share_now_menu/$xmlhttprequest,domain=facebook.com,badfilter
 @@||facebook.com/share/share_now_menu/$domain=facebook.com,badfilter
-comicbook.com##.aligncenter:has-text(NEXT:)
-comicbook.com##p:has-text(NEXT:)
 kimcartoon.*##.barContent:has-text(fake)
 facebook.com##._31qy:has-text(related)
 facebook.com##._4-u2:has-text(Page stories you may like)
-cbr.com##.link:has-text(FindaComicShop.com)
 comicbook.com/article/json/$xmlhttprequest
 comicbook.com##.article-break
 comicbook.com##.modern-embed
@@ -492,3 +489,4 @@ youtube.com###dismissable:has-text(Related Movies)
 torrentz2.*##.downlinks > dl:has-text(Sponsored) > dd
 @@||client-event-reporter.twitch.tv^$xmlhttprequest,domain=twitch.tv,badfilter
 animehub.*##+js(set-value.js, onError, noopFunc)
+torrentz2.*##[href*="https://pledge2019.eu/"]
