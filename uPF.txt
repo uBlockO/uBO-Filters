@@ -61,9 +61,6 @@ adblock-detector$script,first-party,important
 */license$script,first-party
 */assets/*/script.*.js$script,first-party
 oload.*##+js(openload.co.js)
-collider.com##.amcfooter, #bottom-banner, .youtubefooter
-windowscentral.com,androidcentral.com##.shop
-fastly.net^$script
 facebook.com##.rhc, ._34js, #snowliftStageActions, .home_right_column, ._5pcr._7xp, ._3j6k, ._50z3._9bp._1ltv, ._55ob._4kqp, ._4nef.fbUserContent._5pcr, #page_tv_show_playlists, ._6445, #pagelet_page_cover, #page_tv_show_extra_clips, #page_photos, .UFIList, ._5r6, ._3w53
 facebook.com/*/logging^$important
 /annotations$script,first-party,domain=youtube.com
@@ -74,7 +71,6 @@ solarmoviex.*,putlockertv.*##.hd-buttons.row
 ads$script,first-party,domain=~imdb.com
 torrentz2.eu##a[href^="/"]:has-text(Download Direct)
 contributor.google.com/scripts/
-androidcentral.com,windowscentral.com##.mn_mbn_share
 gyazo.com##.image-infos
 thepiratebay.*,pornhub.*,rapidvideo.*,anilinkz.*,oload.*,1337x.*##+js(window.open-defuser.js)
 github.com##.survey-container
@@ -111,9 +107,6 @@ mega.nz##.ads-left-block, .ads-right-block, .active.top-login-warning
 /endscreen$script,first-party,domain=youtube.com
 ads_$xmlhttprequest,first-party,important
 scorecardresearch.com^$important
-1337x.*##+js(rdo.js, Fingerprint2, noopFunc)
-github.com/_private/browser/errors
-messenger.com/ajax/bz
 ||fmovies.is^$first-party,popup,badfilter
 ||fmovies.is^$xmlhttprequest,domain=fmovies.is,badfilter
 |https:$third-party,popup,domain=fmovies.is,badfilter
@@ -206,8 +199,6 @@ kisshentai.*##.rightBox:has-text(/Announcement|Like me/)
 fmovies.*##.widget-title:has-text(Sponsored)
 report-uri.com^
 @@||facebook.com/common/referer_frame.php$subdocument,domain=facebook.com,badfilter
-authedmine.com^
-lib/*.wasm^$important
 jwpcdn.com/*/related.js$script,first-party
 @@||facebook.com/share/share_now_menu/$xmlhttprequest,domain=facebook.com,badfilter
 @@||facebook.com/share/share_now_menu/$domain=facebook.com,badfilter
@@ -289,7 +280,7 @@ comicbook.com##.urgent-module
 comicbook.com##.comment-activator-container
 facebook.com/ads^$first-party
 reddit.com/*/log^$first-party
-/banner^$inline-script,first-party,subdocument
+/banner^$$first-party,subdocument
 outlook.live.com##._2_qTnZN22tYhluWaFTEMvp
 hanime.tv##.footer__column.flex:has-text(Partners)
 comicbook.com##.btn-wide-container
@@ -323,7 +314,6 @@ openload.co,oload.*##+js(eclick.js, #videooverlay)
 @@||9anime.is/assets/player/jwplayer-*/jwplayer.js$badfilter
 mellowads.com^$important
 cse.google.com^
-ad.foxnetworks.com^$important
 twitter.com^$third-party,important
 yahoo.com^$third-party,important
 doubleclickbygoogle.com^$important
@@ -335,19 +325,14 @@ gitlab.com##.gke-promo-banner
 ||streamango.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.streamango.com *.fruithosted.net cdnjs.cloudflare.com;upgrade-insecure-requests
 reddit.com/chat^
 revcontent.com^$important
-but.to^$important
 clksite.com^$important
 @@||9anime.is/assets/player/jwplayer-7.12.3/jwplayer.js$script,badfilter
 @@/wp-content/*/adve*.js$script,badfilter
 animenewsnetwork.com##.aside.box.herald:has([href*="advert"])
-readcomiconline.to##.top_page_alert
-readcomiconline.to##[style*="width: 1010px; height: 200px"]
-readcomiconline.to###disqus_thread
 ||readcomiconline.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bp.blogspot.com
 hanime.tv##.user_comments.lazy, .initialized, .htv-flag, div:nth-of-type(1) > .mb-5.htv-carousel-container.lazy, .community_uploads, .info__text__tags__title, .desktop.unit, .sponsors, .htvad, .site-description, .align-center.justify-center.column.flex.event-container
 /js.cookie.$badfilter
 adroll.com^$important
-fluidplayer.com^
 @@||streamango.com/assets/js/script.packed.js$badfilter
 fonts.googleapis.com^$important,domain=~google.com
 fonts.gtatic.com^$important,domain=~google.com
@@ -489,3 +474,4 @@ youtube.com###dismissable:has-text(Related Movies)
 torrentz2.*##.downlinks > dl:has-text(Sponsored) > dd
 @@||client-event-reporter.twitch.tv^$xmlhttprequest,domain=twitch.tv,badfilter
 animehub.*##+js(set-value.js, onError, noopFunc)
+torrentz2.eu##.gener:has([href*="pledge"])
