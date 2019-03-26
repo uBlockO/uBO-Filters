@@ -194,7 +194,7 @@ comicbook.com##.contentgroup:nth-of-type(4) > article
 comicbook.com##.contentgroup:nth-of-type(4)
 comicbook.com##.categorysocial_lst
 pornhub.*##+js(abort-on-property-read.js, userABMessage)
-kisshentai.*##.rightBox:has-text(/Announcement|Like me/)
+kisshentai.net##.rightBox:has-text(/Announcement|Like me/)
 /\.com\/.*[a-f0-9]{110}/$third-party,image,badfilter
 fmovies.*##.widget-title:has-text(Sponsored)
 report-uri.com^
@@ -463,7 +463,8 @@ milfzr.com##+js(addEventListener-defuser.js, contextmenu)
 @@||s1.wp.com^$badfilter
 @@||bidvertiser.com/*?pid=$script,domain=exrapidleech.info,badfilter
 @@||static.animecdn.xyz/js/ads.js$badfilter
-streamx.me,prettyfast.to##+js(eset-attr.js, video, autoplay, none)
+streamx.me##+js(eset-attr.js, video, autoplay, none)
+prettyfast.to##+js(set-attr.js, autoplay, none, video) 
 youtube.com###dismissable:has-text(Related Movies)
 @@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$badfilter
 @@/adblockdetector.min.js$badfilter
