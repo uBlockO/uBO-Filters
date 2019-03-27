@@ -445,3 +445,4 @@ torrentz2.*##.downlinks > dl:has-text(Sponsored) > dd
 @@||client-event-reporter.twitch.tv^$xmlhttprequest,domain=twitch.tv,badfilter
 animehub.*##+js(set-value.js, onError, noopFunc)
 torrentz2.eu##.gener:has([href*="pledge"])
+comicbook.com/article/json/$1p,xhr
