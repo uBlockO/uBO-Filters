@@ -433,7 +433,7 @@ milfzr.com##+js(addEventListener-defuser.js, contextmenu)
 @@||bidvertiser.com/*?pid=$script,domain=exrapidleech.info,badfilter
 @@||static.animecdn.xyz/js/ads.js$badfilter
 streamx.me##+js(eset-attr.js, video, autoplay, none, interactive)
-4anime.to##+js(eset-attr.js, video, preload, auto, interactive) 
+4anime.to##+js(eset-attr.js, video, preload, auto, loading) 
 youtube.com###dismissable:has-text(Related Movies)
 @@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$badfilter
 @@/adblockdetector.min.js$badfilter
