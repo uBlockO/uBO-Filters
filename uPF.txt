@@ -24,7 +24,6 @@ openload.co/reward$xmlhttprequest,important
 oload.*/reward$xmlhttprequest,important
 gyazo.com###versionup
 taboola.com^$important
-comicbook.com##a[href^="http://amzn.to/"]
 1337x.*###mgbl49472, .link-box 
 cbr.com##.i-comment.icon.btn-comment-article, .right-content.footer-content, .social-title, .is-visible.w-sticky-header, load-wrap.ajaxLoader, .comment, .author-tag-block, .embed-related-block, .video-block-ads.video-block, .related-section, .injected-video-by-load, .quiz.browse-content, .video.browse-content, .quiz-share-btn-wrapper, .section-right, #secondary, .sharing-option, .ad-zone-container, .social-account-links, .footer-social-list, .footer-brands, .w-sharing, .nav-social, .header-premium-zone, .premium-promo
 cbr.com/wp-content/themes/cbr/ajax-action.php?action=loadMorePost&ajax_post_id=*&hash=*$xmlhttprequest
@@ -111,7 +110,6 @@ scorecardresearch.com^$important
 ||fmovies.is^$xmlhttprequest,domain=fmovies.is,badfilter
 |https:$third-party,popup,domain=fmovies.is,badfilter
 /infinite-newsfeed$first-party
-||comicbook.com^$csp=default-src 'self' *.comicbook.com 'unsafe-inline' 'unsafe-eval' platform.twitter.com platform.instagram.com *.evidon.com *.twimg.com embed.redditmedia.com cdn.embedly.com
 mega.nz##.red.download-button.button
 temp_share_folder$first-party,domain=screenrant.com|cbr.com
 ||speedtest.net^$csp=default-src 'self' 'unsafe-inline' data: www.speedtest.net *.cdnst.net;connect-src *
@@ -138,14 +136,6 @@ mega.nz##.checkbox-bl.download
 @@||openload.co/assets/js/script.*.js$domain=openload.co,badfilter
 outlook.live.com##a[href^="https://aka.ms"]
 showads.js$important
-comicbook.com##.button-wide.button-blue-gradient.button
-comicbook.com##.vdb_player
-comicbook.com##.clearfix.channel-nav
-comicbook.com##.embed
-comicbook.com##.sidebar-sticky.sidebar
-comicbook.com##.about
-comicbook.com##.header-still.article-centered.footer-set.feature-row.contentset
-comicbook.com##.footer-set.feature-column.contentset
 ||outlook.live.com^$csp=script-src 'self' 'unsafe-inline' *.office365.com 'unsafe-eval'
 @@||oload.tv/assets/js/script.*.js$badfilter
 @@||oload.tv/assets/js/license.*.js$badfilter
@@ -161,12 +151,6 @@ free-contents.org^
 /([0-9]{1,3}\.){3}[0-9]{1,3}/$popup,domain=briansarmiento.website|divxatope1.com|kissanime.ru|newpct.com|pelisplus.tv|rapidvideo.com|strikeout.co|torrentz2.eu,badfilter
 1337x.*##.bitcoin
 ||kimcartoon.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.zencdn.net *.rapidvideo.com *.rapidvideo.is *.playercdn.net openload.co *.oloadcdn.net streamango.com code.jquery.com *.fruithosted.net i.imgur.com *.bp.blogspot.com *.googleusercontent.com *.googlevideo.com upload.wikimedia.org *.fbcdn.net *.apps.fbsbx.com
-comicbook.com##.modernInContent
-comicbook.com##a[href^="https://app.viralsweep.com/"]
-comicbook.com##a[href^="http://regmovi.es/"]
-comicbook.com##IMG[alt="Kingsman_Banner"][title="Kingsman_Banner"]
-comicbook.com##.channel.contentgroup:has-text(WorldWide Gaming)
-comicbook.com##.leftrail.sidebar > section:has-text(Follow Us)
 */advertising.js$script,first-party,important
 facebook.com##._5pcr:has-text(/People you may know|Connect with Facebook/)
 metrics$script,first-party,important
@@ -186,13 +170,6 @@ adpass.co.uk^
 */ads.js$script,important,first-party
 */*.ads.js$script,important,first-party
 @@||hanime.tv/*.ads.js$badfilter
-comicbook.com##.contentgroup:nth-of-type(7) > header
-comicbook.com##.contentgroup:nth-of-type(7) > article
-comicbook.com##.contentgroup:nth-of-type(7)
-comicbook.com##.contentgroup:nth-of-type(4) > header
-comicbook.com##.contentgroup:nth-of-type(4) > article
-comicbook.com##.contentgroup:nth-of-type(4)
-comicbook.com##.categorysocial_lst
 pornhub.*##+js(abort-on-property-read.js, userABMessage)
 kisshentai.net##.rightBox:has-text(/Announcement|Like me/)
 /\.com\/.*[a-f0-9]{110}/$third-party,image,badfilter
@@ -205,9 +182,6 @@ jwpcdn.com/*/related.js$script,first-party
 kimcartoon.*##.barContent:has-text(fake)
 facebook.com##._31qy:has-text(related)
 facebook.com##._4-u2:has-text(Page stories you may like)
-comicbook.com/article/json/$xmlhttprequest
-comicbook.com##.article-break
-comicbook.com##.modern-embed
 kissanime.ru##.bigBarContainer:has-text(Comments)
 |https://$third-party,script,domain=9anime.to,badfilter
 ||rapidvideo.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.rapidvideo.com *.playercdn.net;upgrade-insecure-requests
@@ -262,13 +236,10 @@ facebook.com##._2a_2:has-text(Share)
 sw.js$script,first-party,domain=~mail.google.com
 @@/wp-content/plugins/detect-adblock/js/ads.js$script,first-party,badfilter
 @@/wp-content/plugins/google-analytics-for-wordpress/$first-party,script,badfilter
-comicbook.com##.mid-content-comment
-comicbook.com##.article-footer-comments
 /^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to|ebd\.cda\.pl|gamedor\.usermd\.net)\/).)*$/$subdocument,domain=a-o.ninja|centrum-dramy.pl|love-drama.pl|vidfile.net,badfilter
 /^((?!(^https?):\/\/(ajax\.googleapis\.com|cdnjs\.cloudflare\.com|vk\.com)\/).)*$/$script,third-party,domain=kinokrad.co,badfilter
 ||mcloud.to^$csp=default-src 'self' 'unsafe-inline' blob: *.mcloud.to *.fmovies.to *.solarmoviex.to *.ffmovies.ru *.9anime.to *.putlockertv.to ajax.googleapis.com ssl.p.jwpcdn.com static1.akacdn.ru
 putlockertv.*##.col-md-7
-comicbook.com##.urgent-module
 @@||ssl-images-amazon.com^*/ads/$script,badfilter
 @@||static1.akacdn.ru/assets/$script,domain=fmovies.is|fmovies.se|fmovies.to,badfilter
 @@||pubmatic.com/adserver/*showad.js$script,badfilter
@@ -277,13 +248,11 @@ comicbook.com##.urgent-module
 @@||streamango.com/assets/js/license.adbl.js$badfilter
 @@||ads.servebom.com/tmnhead.js$badfilter
 |http://$third-party,stylesheet,domain=dwatchseries.to|thewatchseries.ac|unblckd.org|watchseries.sk,badfilter
-comicbook.com##.comment-activator-container
 facebook.com/ads^$first-party
 reddit.com/*/log^$first-party
 /banner^$$first-party,subdocument
 outlook.live.com##._2_qTnZN22tYhluWaFTEMvp
 hanime.tv##.footer__column.flex:has-text(Partners)
-comicbook.com##.btn-wide-container
 hanime.tv/*/user_comments
 @@/adframe.js$script,badfilter
 syndication.twitter.com^
@@ -464,7 +433,7 @@ milfzr.com##+js(addEventListener-defuser.js, contextmenu)
 @@||bidvertiser.com/*?pid=$script,domain=exrapidleech.info,badfilter
 @@||static.animecdn.xyz/js/ads.js$badfilter
 streamx.me##+js(eset-attr.js, video, autoplay, none)
-prettyfast.to##+js(set-attr.js, autoplay, none, video) 
+4anime.to##+js(eset-attr.js, video, preload, auto) 
 youtube.com###dismissable:has-text(Related Movies)
 @@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$badfilter
 @@/adblockdetector.min.js$badfilter
