@@ -60,7 +60,7 @@ adblock-detector$script,first-party,important
 */license$script,first-party
 */assets/*/script.*.js$script,first-party
 oload.*##+js(openload.co.js)
-facebook.com##.rhc, ._34js, #snowliftStageActions, .home_right_column, ._5pcr._7xp, ._3j6k, ._50z3._9bp._1ltv, ._55ob._4kqp, ._4nef.fbUserContent._5pcr, #page_tv_show_playlists, ._6445, #pagelet_page_cover, #page_tv_show_extra_clips, #page_photos, .UFIList, ._5r6, ._3w53
+facebook.com##.rhc, #snowliftStageActions, .home_right_column, ._4nef.fbUserContent, #page_tv_show_playlists, #pagelet_page_cover, #page_tv_show_extra_clips, #page_photos, .UFIList
 facebook.com/*/logging^$important
 /annotations$script,first-party,domain=youtube.com
 9anime.*##.popover, #tags, .hd-buttons.row, #comment, .socials, .twitter-follow-button, .sticky, .comment.widget, .share, .text-center.crop.widget, .text-center.widget, .alert, .azlist, .mb20       
@@ -152,7 +152,6 @@ free-contents.org^
 1337x.*##.bitcoin
 ||kimcartoon.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.zencdn.net *.rapidvideo.com *.rapidvideo.is *.playercdn.net openload.co *.oloadcdn.net streamango.com code.jquery.com *.fruithosted.net i.imgur.com *.bp.blogspot.com *.googleusercontent.com *.googlevideo.com upload.wikimedia.org *.fbcdn.net *.apps.fbsbx.com
 */advertising.js$script,first-party,important
-facebook.com##._5pcr:has-text(/People you may know|Connect with Facebook/)
 metrics$script,first-party,important
 @@||speedtest.net/*/*bundle$script,first-party,badfilter
 @@||mapbox.com^$xmlhttprequest,domain=speedtest.net,badfilter
@@ -380,7 +379,6 @@ xvideos.com##.videoad-title
 howtogeek.com##.email, .facebook, .twitter, .rss, #small, .entry-meta > span > span, .third.footer-col
 animehub.*##.gc-comments, .gc-share, .footer-follow, .dialog-ovelay, .block-share, .comments, .go-full > .alert-danger.alert, .footer-az, .footer-anime, .sb-subs
 animehub.*##[id]:has-text(gpt-ad)
-quora.com##div[class] > div > div > div > div > div > div > div > div > div:has-text(/sponsored|promoted/)
 hanime.tv##+js(cookie-set.js, in_d2, 1, 2114785965)
 /(readcomiconline|kimcartoon|kiss-anime|9anime|gogoanime|toonova|animeflv|animeplus|goodanime|animewow|animenova|animeland|animetoon|mangapanda|memecenter|mangareader)\.[a-z]{2,4}\/[-_a-zA-Z0-9]{3,}\/[-_a-zA-Z0-9]{20,}.(gif|jpg|png)/$domain=gogoanime.sh|mangapanda.com|memecenter.com|mangareader.net|animeland.tv|animetoon.org|animenova.org|animewow.org|goodanime.co|animeplus.tv|animeflv.net|toonova.net|gogoanime.to|gogoanime.se|gogoanime.in|9anime.is|9anime.to|kiss-anime.me|kimcartoon.me|readcomiconline.to,badfilter
 facebook.com/ajax/bz^
