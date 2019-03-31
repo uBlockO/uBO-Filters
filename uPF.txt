@@ -338,7 +338,6 @@ readcomiconline.to/wp-includes/*/*.html$subdocument,first-party
 @@||openload.co/advert2.js$badfilter
 @@||openload.co/advert2.js$script,badfilter
 appcache^$other,first-party
-worker.js^$script,first-party
 -social-media.$badfilter
 -social-media-$image,badfilter
 @@||gateway.reddit.com/desktopapi/v*/sidebar_ad$xmlhttprequest,badfilter
