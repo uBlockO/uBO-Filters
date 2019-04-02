@@ -8,7 +8,7 @@
 /generate_204
 disqus.com^$important
 doubleclick.net^$important
-pornhub.*###under-player-comments, #welcome, .abovePlayer, .clear.hd.jisfhp0w2u, .adlink2, .kzpcaw, .streamatesModelsContainer.sectionWrapper, #under-player-playlists, .underplayer-thumbs.videos, .item-6.menu, .nf-wrapper > .sectionWrapper, #pb_template, .clear.hd, .fadeInMTubes, body:style(overflow: auto !important;)
+pornhub.*###under-player-comments, #welcome, .abovePlayer, .clear.hd.jisfhp0w2u, .adlink2, .kzpcaw, .streamatesModelsContainer.sectionWrapper, #under-player-playlists, .underplayer-thumbs.videos, .item-6.menu, .nf-wrapper > .sectionWrapper, #pb_template, .clear.hd, body:style(overflow: auto !important;), .fadeInMTubes
 youtube.com###watch-action-panels, #chat, .ytp-ce-covering-overlay, .subscribecard-endscreen, .ytp-ce-element, #ytd-promoted-video-renderer, #watch-sidebar-live-chat, #pla-shelf, .yt-uix-expander-collapsed.live-chat-expander.yt-uix-expander, .hats-categorical-style-vertical, #movie-upsell-card, .yt-lockup-movie-vertical-poster.yt-lockup-tile.yt-lockup, .style-default.force-icon-button.ytd-menu-renderer.style-scope, #inline-recs-list-renderer, #sponsor-button, .ytp-miniplayer-button, ytd-button-renderer.size-default.style-default.force-icon-button.ytd-menu-renderer.style-scope      
 youtube.com/get_endscreen
 hollywoodreporter.com/*/home.bundle.js
