@@ -330,7 +330,6 @@ kissmanga.com###aCurr, .clear2, .specialButton
 @@/_ad*/_ad$first-party,xmlhttprequest,badfilter
 readcomiconline.to###fl-ads.rf-container
 rapidvideo.*##+js(addEventListener-defuser.js, contextmenu, preventDefault)
-||youtube.com/comment_service_ajax?$domain=youtube.com,badfilter
 @@||twimg.com/tweets.json?*callback$script,badfilter
 @@||platform.twitter.com/widgets/widget_iframe.$subdocument,badfilter
 ||platform.twitter.com*/widgets/$third-party,badfilter
