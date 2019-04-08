@@ -115,7 +115,6 @@ temp_share_folder$first-party,domain=screenrant.com|cbr.com
 ||cbr.com^$csp=default-src 'self' 'unsafe-inline' *.cbrimages.com www.youtube.com *.ytimg.com platform.twitter.com www.twitter.com *.twimg.com platform.instagram.com www.instagram.com *.imgur.com embed.redditmedia.com cdn.embedly.com
 outlook.live.com##a[href^="http://"]
 ||pornhub.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.phncdn.com *.pornhub.com *.nsimg.net
-||reddit.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.redditstatic.com *.redditmedia.com
 ||hollywoodreporter.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' *.instagram.com platform.twitter.com *.twimg.com players.brightcove.net *.zencdn.net *.hollywoodreporter.com blob:
 ||thepiratebay.*^$csp=script-src 'self' 'unsafe-inline'
 ||kissanime.ru^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.cloud *.oloadcdn.net streamango.com *.fruithosted.net *.fbcdn.net *.mp4upload.com *.apps.fbsbx.com *.replay.watch;media-src *;upgrade-insecure-requests
@@ -247,7 +246,6 @@ putlockertv.*##.col-md-7
 @@||ads.servebom.com/tmnhead.js$badfilter
 |http://$third-party,stylesheet,domain=dwatchseries.to|thewatchseries.ac|unblckd.org|watchseries.sk,badfilter
 facebook.com/ads^$first-party
-reddit.com/*/log^$first-party
 /banner^$$first-party,subdocument
 outlook.live.com##._2_qTnZN22tYhluWaFTEMvp
 hanime.tv##.footer__column.flex:has-text(Partners)
@@ -261,7 +259,6 @@ syndication.twitter.com^
 |http*://$third-party,subdocument,domain=9anime.is,badfilter
 @@||googleusercontent.com/gadgets/$image,domain=9anime.is,badfilter
 |http*://$third-party,image,domain=9anime.is,badfilter
-reddit.com###HeaderUserActions--Chat, .redesign-beta-optin, .redesignbetabar-js, .share 
 twitter.com##.call-to-action
 movieweb.com##.current-article-actions
 @@/wp-content/*/ads*.js$script,badfilter
@@ -290,7 +287,6 @@ bannertrack.net^$important
 gravatar.com^$important
 gitlab.com##.gke-promo-banner
 ||streamango.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.streamango.com *.fruithosted.net cdnjs.cloudflare.com;upgrade-insecure-requests
-reddit.com/chat^
 revcontent.com^$important
 clksite.com^$important
 @@||9anime.is/assets/player/jwplayer-7.12.3/jwplayer.js$script,badfilter
@@ -339,7 +335,6 @@ appcache^$other,first-party
 worker.js^$script,first-party
 -social-media.$badfilter
 -social-media-$image,badfilter
-@@||gateway.reddit.com/desktopapi/v*/sidebar_ad$xmlhttprequest,badfilter
 /\.com\/.*[a-f0-9]{110}/$third-party,image,domain=~parship.com|~aliexpress.com|~alipay.com|~bilibili.com|~namu.wiki|~fastmail.com,badfilter
 kvideo.io^
 ||animehub.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: play.animehub.ac static.animecdn.xyz *.fbcdn.net *.googlevideo.com *.cdninstagram.com *.bootstrapcdn.com *.apps.fbsbx.com *.pw *.googleusercontent.com *.streamx.live
