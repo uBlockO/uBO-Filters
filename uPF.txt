@@ -70,7 +70,7 @@ ads$script,first-party,domain=~imdb.com
 torrentz2.eu##a[href^="/"]:has-text(Download Direct)
 contributor.google.com/scripts/
 gyazo.com##.image-infos
-thepiratebay.*,pornhub.*,rapidvideo.*,anilinkz.*,oload.*,1337x.*##+js(window.open-defuser.js)
+thepiratebay.*,pornhub.*,rapidvideo.*,anilinkz.*,animehub.*,oload.*,1337x.*##+js(window.open-defuser.js)
 github.com##.survey-container
 cse.google.com/cse.js^$important
 outlook.live.com##._n_15
