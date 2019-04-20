@@ -434,6 +434,6 @@ youtube.com###dismissable:has-text(Related Movies)
 torrentz2.*##.downlinks > dl:has-text(Sponsored) > dd
 @@||client-event-reporter.twitch.tv^$xmlhttprequest,domain=twitch.tv,badfilter
 animehub.*##+js(set-value.js, onError, noopFunc)
-animehub.*##+js(remove-inline-script.js zfgloadedpopup)
+animehub.*##+js(remove-inline-script.js, zfgloadedpopup)
 torrentz2.eu##.gener:has([href*="pledge"])
 comicbook.com/article/json/$1p,xhr
