@@ -1,4 +1,4 @@
-[uBlock Origin 1.18.17b2]
+[uBlock Origin 1.18.17b4]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -434,6 +434,6 @@ youtube.com###dismissable:has-text(Related Movies)
 torrentz2.*##.downlinks > dl:has-text(Sponsored) > dd
 @@||client-event-reporter.twitch.tv^$xmlhttprequest,domain=twitch.tv,badfilter
 animehub.*##+js(set-value.js, onError, noopFunc)
-animehub.*##+js(disable-newtab-links.js)
+animehub.*##+js(abort-on-property-read.js, open)
 torrentz2.eu##.gener:has([href*="pledge"])
 comicbook.com/article/json/$1p,xhr
