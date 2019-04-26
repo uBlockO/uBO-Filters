@@ -439,4 +439,4 @@ comicbook.com/article/json/$1p,xhr
 torrentz2.eu##.ToleratedAd
 discordapp.com/widget^
 fmovies.to#@#a[href^="//"][rel="nofollow norefferer noopener"][style^="position: fixed; z-index:"]
-fmovies.to##+js(abort-on-property-read.js, zfgloadedpopup)
+fmovies.to##+js(addEventListener-defuser.js, mousedown)
