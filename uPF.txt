@@ -1,4 +1,4 @@
-[uBlock Origin 1.18.17b12]
+[uBlock Origin 1.18.17b13]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -336,7 +336,7 @@ worker.js^$script,first-party
 -social-media-$image,badfilter
 /\.com\/.*[a-f0-9]{110}/$third-party,image,domain=~parship.com|~aliexpress.com|~alipay.com|~bilibili.com|~namu.wiki|~fastmail.com,badfilter
 kvideo.io^
-||animehub.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: play.animehub.ac static.animecdn.xyz *.fbcdn.net *.googlevideo.com *.cdninstagram.com *.bootstrapcdn.com *.apps.fbsbx.com *.pw *.googleusercontent.com *.streamx.live
+||animehub.ac^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: play.animehub.ac static.animecdn.xyz *.fbcdn.net *.googlevideo.com *.cdninstagram.com *.bootstrapcdn.com *.apps.fbsbx.com *.pw *.googleusercontent.com *.streamx.live
 @@||static.animecdn.stream/js/ads.js$badfilter
 @@/js/ads.js$script,badfilter
 @@||office365.com^*/adbar.js$badfilter
@@ -368,8 +368,8 @@ imdb.com##.ab_widget
 *$csp=script-src 'self' * data: 'unsafe-inline' 'unsafe-eval',domain=pornhub.com|xhamster.com|youporn.com,badfilter
 xvideos.com##.videoad-title
 howtogeek.com##.email, .facebook, .twitter, .rss, #small, .entry-meta > span > span, .third.footer-col
-animehub.*##.gc-comments, .gc-share, .footer-follow, .dialog-ovelay, .block-share, .comments, .go-full > .alert-danger.alert, .footer-az, .footer-anime, .sb-subs
-animehub.*##[id]:has-text(gpt-ad)
+animehub.ac##.gc-comments, .gc-share, .footer-follow, .dialog-ovelay, .block-share, .comments, .go-full > .alert-danger.alert, .footer-az, .footer-anime, .sb-subs
+animehub.ac##[id]:has-text(gpt-ad)
 hanime.tv##+js(cookie-set.js, in_d2, 1, 2114785965)
 /(readcomiconline|kimcartoon|kiss-anime|9anime|gogoanime|toonova|animeflv|animeplus|goodanime|animewow|animenova|animeland|animetoon|mangapanda|memecenter|mangareader)\.[a-z]{2,4}\/[-_a-zA-Z0-9]{3,}\/[-_a-zA-Z0-9]{20,}.(gif|jpg|png)/$domain=gogoanime.sh|mangapanda.com|memecenter.com|mangareader.net|animeland.tv|animetoon.org|animenova.org|animewow.org|goodanime.co|animeplus.tv|animeflv.net|toonova.net|gogoanime.to|gogoanime.se|gogoanime.in|9anime.is|9anime.to|kiss-anime.me|kimcartoon.me|readcomiconline.to,badfilter
 facebook.com/ajax/bz^
@@ -421,8 +421,7 @@ milfzr.com##+js(addEventListener-defuser.js, contextmenu)
 @@||s1.wp.com^$badfilter
 @@||bidvertiser.com/*?pid=$script,domain=exrapidleech.info,badfilter
 @@||static.animecdn.xyz/js/ads.js$badfilter
-streamx.*##+js(eset-attr.js, video, autoplay, none, interactive)
-4anime.to##+js(eset-attr.js, video, preload, auto, loading) 
+embed.streamx.me##+js(eset-attr.js, video, autoplay, none, interactive)
 youtube.com###dismissable:has-text(Related Movies)
 @@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$badfilter
 @@/adblockdetector.min.js$badfilter
@@ -432,9 +431,10 @@ youtube.com###dismissable:has-text(Related Movies)
 ||9anime.*^$first-party,script,badfilter
 torrentz2.*##.downlinks > dl:has-text(Sponsored) > dd
 @@||client-event-reporter.twitch.tv^$xmlhttprequest,domain=twitch.tv,badfilter
-animehub.*##+js(set-value.js, onError, noopFunc)
+animehub.ac##+js(set-value.js, onError, noopFunc)
 animehub.ac##+js(remove-inline-script.js, zfgloadedpopup)
-animehub.*##+js(eclick.js, .gc-expand.gc-icon)
+animehub.ac##+js(eclick.js, .gc-expand.gc-icon)
 torrentz2.eu##.gener:has([href*="pledge"])
 comicbook.com/article/json/$1p,xhr
 torrentz2.eu##.ToleratedAd
+discordapp.com/widget^
