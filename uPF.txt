@@ -397,7 +397,7 @@ dnsleaktest.com##.sponsor
 /^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ee]xternal|[Ii]mages|[Ss]cripts|[Uu]ploads|ac|ajax|assets|combined|content|cov|cover|(img\/bg)|(img\/icon)|inc|jwplayer|player|playlist-cat-rss|static|thumbs|wp-content|wp-includes)\/)(.*)/$first-party,image,domain=~animeland.hu,badfilter
 porntcomic.net/ptc_foc.js
 @@||scontent.xx.fbcdn.net/hads-ak-prn2/*.png$domain=facebook.com,badfilter
-@@||$elemhide,domain=animehub.ac|myanimelist.net|fmovies.to|screenrant.com|kimcartoon.to|ghacks.net|animenewsnetwork.com
+@@||$generichide,domain=animehub.ac|myanimelist.net|fmovies.to|screenrant.com|kimcartoon.to|ghacks.net|animenewsnetwork.com
 localhost^$third-party
 ||kimcartoon.to^$csp=script-src 'self' * 'unsafe-inline',badfilter
 ||streamx.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: unpkg.com *.googlevideo.com *.apps.fbsbx.com scontent.graph-facebook.com *.openstream.io ajax.googleapis.com *.fbcdn.net hydrax.net *.hydrax.net iamcdn.net *.iamcdn.net *.googleusercontent.com cdn.jwplayer.com ssl.p.jwpcdn.com
