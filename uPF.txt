@@ -1,4 +1,4 @@
-[uBlock Origin 1.18.17b13]
+[uBlock Origin 1.18.17b14]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -438,5 +438,3 @@ torrentz2.eu##.gener:has([href*="pledge"])
 comicbook.com/article/json/$1p,xhr
 torrentz2.eu##.ToleratedAd
 discordapp.com/widget^
-fmovies.to#@#a[href^="//"][rel="nofollow norefferer noopener"][style^="position: fixed; z-index:"]
-fmovies.to##+js(addEventListener-defuser.js, mousedown)
