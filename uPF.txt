@@ -1,4 +1,4 @@
-[uBlock Origin 1.18.17b14]
+[uBlock Origin 1.18.17b18]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -431,6 +431,6 @@ animehub.ac##+js(set-value.js, onError, noopFunc)
 animehub.ac##+js(remove-inline-script.js, zfgloadedpopup)
 animehub.ac##+js(eclick.js, .gc-expand.gc-icon)
 torrentz2.eu##.gener:has([href*="pledge"])
-comicbook.com/article/json/$1p,xhr
+||comicbook.com/article/json^$1p,xhr
 torrentz2.eu##.ToleratedAd
 ||discordapp.com/widget^
