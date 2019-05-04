@@ -435,3 +435,4 @@ torrentz2.eu##.gener:has([href*="pledge"])
 torrentz2.eu##.ToleratedAd
 ||discordapp.com/widget^
 quora.com##[rel="noopener nofollow"] > div > div:nth-ancestor(5)
+9anime.*##.alert-primary:not(:has-text(Estimated))
