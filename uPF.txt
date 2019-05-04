@@ -60,7 +60,7 @@ oload.*##+js(openload.co.js)
 facebook.com##.home_right_column, #page_tv_show_playlists, #pagelet_page_cover, #page_tv_show_extra_clips, #page_photos, .UFIList, .photoUfiContainer.rhc
 ||facebook.com/*/logging^$important
 /annotations$script,first-party,domain=youtube.com
-9anime.*##.popover, #tags, .hd-buttons.row, #comment, .socials, .twitter-follow-button, .sticky, .comment, .share, .text-center.crop.widget, .text-center.widget, .azlist, .mb20, [href*="twitter.com"]       
+9anime.*##.popover, #tags, .hd-buttons.row, #comment, .socials, .twitter-follow-button, .sticky, .comment, .share, .text-center.crop.widget, .text-center.widget, .azlist, .mb20, [href*="twitter.com"], .alert       
 fmovies.to##.alert, .text, .widget:nth-of-type(5), #tags, .hidden-sm.widget, .hd-buttons.row, .col-right, .widget:nth-of-type(4), [href*="twitter.com"], #comment, .socials, .twitter-follow-button, [href*="/redirect"]     
 solarmoviex.*,putlockertv.*###tags
 solarmoviex.*,putlockertv.*##.hd-buttons.row
@@ -435,4 +435,3 @@ torrentz2.eu##.gener:has([href*="pledge"])
 torrentz2.eu##.ToleratedAd
 ||discordapp.com/widget^
 quora.com##[rel="noopener nofollow"] > div > div:nth-ancestor(5)
-9anime.*##.alert-primary:not(:has-text(Estimated))
