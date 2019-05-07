@@ -153,9 +153,7 @@ betterpop$script,first-party,important
 @@||fastly.net/ad2/$image,badfilter
 @@||gigya.com/*/socialize.js$badfilter
 ||adpass.co.uk^
-*/ads.js$script,important,first-party
-*/*.ads.js$script,important,first-party
-@@||hanime.tv/*.ads.js$badfilter
+*ads.js*$important
 pornhub.*##+js(abort-on-property-read.js, userABMessage)
 kisshentai.net##.rightBox:has-text(/Announcement|Like me/)
 /\.com\/.*[a-f0-9]{110}/$third-party,image,badfilter
@@ -219,7 +217,6 @@ facebook.com/ajax/typeahead/record_basic_metrics.php
 facebook.com##._5pcr:has-text(Popular Across Facebook)
 facebook.com##._2a_2:has-text(Share)
 sw.js$script,first-party,domain=~mail.google.com
-@@/wp-content/plugins/detect-adblock/js/ads.js$script,first-party,badfilter
 @@/wp-content/plugins/google-analytics-for-wordpress/$first-party,script,badfilter
 /^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to|ebd\.cda\.pl|gamedor\.usermd\.net)\/).)*$/$subdocument,domain=a-o.ninja|centrum-dramy.pl|love-drama.pl|vidfile.net,badfilter
 /^((?!(^https?):\/\/(ajax\.googleapis\.com|cdnjs\.cloudflare\.com|vk\.com)\/).)*$/$script,third-party,domain=kinokrad.co,badfilter
@@ -324,8 +321,6 @@ worker.js^$script,first-party
 /\.com\/.*[a-f0-9]{110}/$third-party,image,domain=~parship.com|~aliexpress.com|~alipay.com|~bilibili.com|~namu.wiki|~fastmail.com,badfilter
 kvideo.io^
 ||animehub.ac^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: play.animehub.ac static.animecdn.xyz *.fbcdn.net *.googlevideo.com *.cdninstagram.com *.bootstrapcdn.com *.apps.fbsbx.com *.pw *.googleusercontent.com *.streamx.live
-@@||static.animecdn.stream/js/ads.js$badfilter
-@@/js/ads.js$script,badfilter
 @@||office365.com^*/adbar.js$badfilter
 graph*^$first-party,xmlhttprequest,domain=~github.com|~facebook.com|~instagram.com
 outlook.live.com##div > div > div > div > div > div > div > div > div:has-text(Upgrade)
@@ -404,7 +399,6 @@ milfzr.com##+js(addEventListener-defuser.js, contextmenu)
 @@||vox-cdn.com/packs/concert_ads$script,badfilter
 @@||s1.wp.com^$badfilter
 @@||bidvertiser.com/*?pid=$script,domain=exrapidleech.info,badfilter
-@@||static.animecdn.xyz/js/ads.js$badfilter
 embed.streamx.me##+js(eset-attr.js, video, autoplay, none, interactive)
 youtube.com###dismissable:has-text(Related Movies)
 @@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$badfilter
@@ -423,3 +417,4 @@ torrentz2.eu##.gener:has([href*="pledge"])
 torrentz2.eu##.ToleratedAd
 ||discordapp.com/widget^$important
 quora.com##[rel="noopener nofollow"] > div > div:nth-ancestor(5)
+@@||gateway.reddit.com/desktopapi/v*/sidebar_ad$xmlhttprequest,badfilter
