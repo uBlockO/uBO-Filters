@@ -418,4 +418,5 @@ torrentz2.eu##.gener:has([href*="pledge"])
 torrentz2.eu##.ToleratedAd
 ||discordapp.com/widget^$important
 quora.com##[rel="noopener nofollow"] > div > div:nth-ancestor(5)
+quora.com##.OutOfDateAnswerSurvey
 @@||gateway.reddit.com/desktopapi/v*/sidebar_ad$xmlhttprequest,badfilter
