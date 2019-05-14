@@ -141,7 +141,7 @@ wibbitz.com^
 @@||fastly.net/ad2/$image,badfilter
 @@||gigya.com/*/socialize.js$badfilter
 ||adpass.co.uk^
-*ads.js*$important,1p
+*ads.js*$important,1p,3p
 pornhub.*##+js(abort-on-property-read.js, userABMessage)
 kisshentai.net##.rightBox:has-text(/Announcement|Like me/)
 /\.com\/.*[a-f0-9]{110}/$third-party,image,badfilter
