@@ -48,7 +48,7 @@ wikia.com###WikiaArticleBottomAd
 */license$script,first-party
 */assets/*/script.*.js$script,first-party
 oload.*##+js(openload.co.js)
-facebook.com##.home_right_column, #page_tv_show_playlists, #pagelet_page_cover, #page_tv_show_extra_clips, #page_photos, .UFIList, .photoUfiContainer.rhc
+facebook.com##.home_right_column, #page_tv_show_playlists, #pagelet_page_cover, #page_tv_show_extra_clips, #page_photos, .UFIList, .photoUfiContainer.rhc, #fb_stories_card_root
 ||facebook.com/*/logging^$important,1p
 /annotations$script,first-party,domain=youtube.com
 9anime.*##.popover, #tags, .hd-buttons.row, #comment, .socials, .twitter-follow-button, .sticky, .comment, .share, .text-center.crop.widget, .text-center.widget, .azlist, .mb20, [href*="twitter.com"], .alert       
