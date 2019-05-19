@@ -5,7 +5,7 @@
 ! Expires: 1 day
 
 ||2mdn.net^$important
-/generate_204
+/generate_204$1p
 ||disqus.com^$important
 ||doubleclick.net^$important
 pornhub.*###under-player-comments, #welcome, .abovePlayer, .clear.hd.jisfhp0w2u, .adlink2, .kzpcaw, .streamatesModelsContainer.sectionWrapper, #under-player-playlists, .underplayer-thumbs.videos, .item-6.menu, .nf-wrapper > .sectionWrapper, #pb_template, .clear.hd, .fadeInMTubes
