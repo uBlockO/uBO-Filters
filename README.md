@@ -1,4 +1,4 @@
-[![license](https://img.shields.io/badge/license-MIT-%233fb912.svg)](https://raw.githubusercontent.com/uBlock-user/uBO-Personal-Filters/master/LICENSE)
+[![license](https://upload.wikimedia.org/wikipedia/commons/0/0a/WTFPL_badge.svg)](https://raw.githubusercontent.com/uBlock-user/uBO-Personal-Filters/master/LICENSE)
 [![syntax](https://img.shields.io/badge/syntax-uBlock%20Origin-%23c61300.svg)](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax)
 
 # uBlock-Personal-Filters
