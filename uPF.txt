@@ -1,4 +1,4 @@
-[uBlock Origin 1.19.3b10]
+[uBlock Origin 1.19.3b12]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -117,7 +117,7 @@ outlook.live.com##a[href^="https://aka.ms"]
 @@||oload.tv/assets/js/license.*.js$badfilter
 thepiratebay.*###adrestop, [href*="https://#/"]
 @@||googletagmanager.com/gtm.js?$domain=airasia.com|bhaskar.com|broadcom.com|computerworlduk.com|desigual.com|drumstick.com|ebuyer.com|elevationscu.com|gamepix.com|git-tower.com|google.com|itv.com|jobs.net|keygames.com|magicjack.com|moviefone.com|nestio.com|newsy.com|optus.com.au|rebtel.com|rockstargames.com|rollingstone.com|rozetka.com.ua|sixflags.com|support.amd.com|talktalk.co.uk|techradar.com|toto.co.jp|usmagazine.com,badfilter
-wibbitz.com^
+||wibbitz.com^
 @@||kisscartoon.*^$first-party,script,badfilter
 @@||startpage.com/js/abp.js^$badfilter
 ||fmovies.se^$first-party,popup,badfilter
@@ -158,12 +158,10 @@ kissanime.ru##.rightBox:has-text(Like me)
 @@||akamaihd.net^*/ad*.js$script,badfilter
 boxofficemojo.com###Player_82160f42-9620-4d0a-b79a-18b1abd853fb
 ffmovies.*,bmovies.*,putlockertv.*,solarmoviex.to,123movies0.com##+js(abort-current-inline-script.js, decodeURIComponent, zfgloadedpopup)
-rapidvideo.*###top350b, #top350, #premiumad
 ad.*^$first-party
 ||animenewsnetwork.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com platform.twitter.com *.twimg.com www.animenewsnetwork.com cdn.animenewsnetwork.com
 animenewsnetwork.com###cover_image, .floating-image, .box.alert, #infinite-scroll-outlet, .spaceRow, #prompt-message, .social-button, .ezoic-ad, #social-bookmarks 
 ||animenewsnetwork.com/logger.performance^
-animenewsnetwork.com##+js(abort-on-property-read.js, ANN.infinite_scroll)
 ||1337x.*^$csp=script-src 'self' 'unsafe-inline'
 uservoice.js$script,first-party
 ||typekit.net^
@@ -190,14 +188,13 @@ pornhub.com,oload.*##+js(addEventListener-defuser.js, contextmenu)
 ghacks.net##.ghacks_share_widget, .category-deals, .ghacks_this_day, .ghacks_popular, .ghacks_last_updated, #post-author, #snippet-box, .ghacks-ad, .cookie-notice-container, [href^="https://deals.ghacks.net/"]    
 ghacks.net##.mt--40.pt--40.border--top--gray:has([href*="paypal"]) 
 ||ghacks.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval'
-||openload.co/r3/f^
+||openload.co/r3/f^$1p
 hanime.tv,openload.co##+js(addEventListener-defuser.js, wheel)
 streamango.com##+js(addEventListener-defuser.js, DOMMouseScroll)
 outlook.live.com##.ms-bgc-ns.flexCenterItems.flex._db_O
 ||torrentz2.*/*.php^$1p
 /detroitchicago$domain=animenewsnetwork.com
-animenewsnetwork.com##+js(abort-on-property-read.js, btoa)
-facebook.com/ajax/typeahead/record_basic_metrics.php
+facebook.com/ajax/typeahead/record_basic_metrics.php$1p
 facebook.com##._5pcr:has-text(Popular Across Facebook)
 facebook.com##._2a_2:has-text(Share)
 sw.js$script,first-party,domain=~mail.google.com
@@ -217,7 +214,7 @@ putlockertv.*##.col-md-7
 *banner^$$first-party
 outlook.live.com##._2_qTnZN22tYhluWaFTEMvp
 hanime.tv##.footer__column.flex:has-text(Partners)
-hanime.tv/*/user_comments
+hanime.tv/*/user_comments^$1p
 @@/adframe.js$script,badfilter
 ||syndication.twitter.com^
 @@/script/ad.js$script,badfilter
@@ -228,7 +225,7 @@ hanime.tv/*/user_comments
 @@||googleusercontent.com/gadgets/$image,domain=9anime.is,badfilter
 |http*://$third-party,image,domain=9anime.is,badfilter
 @@/wp-content/*/ads*.js$script,badfilter
-/ad-overlay-anything$domain=milfzr.com
+/ad-overlay-anything$1p,domain=milfzr.com
 milfzr.com###extras, #respond, #actions, [href*="https://incezt.net/"]
 @@/js/advertisement-$script,badfilter
 ||adnxs.com^$important
@@ -254,7 +251,7 @@ openload.co,oload.*##+js(eclick.js, #videooverlay)
 ||clksite.com^$important
 @@||9anime.is/assets/player/jwplayer-7.12.3/jwplayer.js$script,badfilter
 @@/wp-content/*/adve*.js$script,badfilter
-animenewsnetwork.com##.aside.box.herald:has([href*="advert"])
+animenewsnetwork.com##.box.herald:has([href*="/advert"])
 ||readcomiconline.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bp.blogspot.com
 hanime.tv##.user_comments.lazy, .initialized, .htv-flag, div:nth-of-type(1) > .mb-5.htv-carousel-container.lazy, .community_uploads, .info__text__tags__title, .desktop.unit, .sponsors, .htvad, .site-description, .align-center.justify-center.column.flex.event-container
 /js.cookie.$badfilter
