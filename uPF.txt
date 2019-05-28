@@ -244,7 +244,6 @@ openload.co,oload.*##+js(eclick.js, #videooverlay)
 ||doubleclickbygoogle.com^$important
 ||adnetasia.com^$important
 ||bannertrack.net^$important
-@@/fuckadblock.$script,badfilter
 ||gravatar.com^$important
 ||streamango.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.streamango.com *.fruithosted.net cdnjs.cloudflare.com;upgrade-insecure-requests
 ||revcontent.com^$important
@@ -364,9 +363,6 @@ milfzr.com##+js(addEventListener-defuser.js, contextmenu)
 @@||s1.wp.com^$badfilter
 @@||bidvertiser.com/*?pid=$script,domain=exrapidleech.info,badfilter
 youtube.com###dismissable:has-text(Related Movies)
-@@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$badfilter
-@@/adblockdetector.min.js$badfilter
-@@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$first-party,script,badfilter
 @@||dev.visualwebsiteoptimizer.com/j.php$badfilter
 @@||9anime.*/assets/$first-party,script,badfilter
 ||9anime.*^$first-party,script,badfilter
@@ -388,3 +384,4 @@ quora.com##.OutOfDateAnswerSurvey
 @@/js/ads.js$script,badfilter
 |https://$third-party,script,domain=kimcartoon.to,badfilter
 facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
+*adblock*$1p,important
