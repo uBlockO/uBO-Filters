@@ -384,4 +384,4 @@ quora.com##.OutOfDateAnswerSurvey
 @@/js/ads.js$script,badfilter
 |https://$third-party,script,domain=kimcartoon.to,badfilter
 facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
-*adblock*$1p,important
+*adblock*$1p,script,important
