@@ -83,7 +83,6 @@ mega.nz##.ads-left-block, .ads-right-block, .active.top-login-warning
 ||putlockertv.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net prettyfast.to;upgrade-insecure-requests
 ||solarmoviex.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net prettyfast.to;upgrade-insecure-requests
 /endscreen$script,domain=youtube.com
-||scorecardresearch.com^$important
 ||fmovies.is^$first-party,popup,badfilter
 ||fmovies.is^$xmlhttprequest,domain=fmovies.is,badfilter
 |https:$third-party,popup,domain=fmovies.is,badfilter
