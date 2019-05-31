@@ -52,7 +52,6 @@ facebook.com##.home_right_column, #page_tv_show_playlists, #pagelet_page_cover, 
 fmovies.*##.alert, .text, .widget:nth-of-type(5), #tags, .hidden-sm.widget, .hd-buttons.row, .col-right, .widget:nth-of-type(4), [href*="twitter.com"], #comment, .socials, .twitter-follow-button, [href*="/redirect"]     
 solarmoviex.*,putlockertv.*###tags
 solarmoviex.*,putlockertv.*##.hd-buttons.row
-torrentz2.eu##a[href^="/"]:has-text(Download Direct)
 ||contributor.google.com/scripts^
 gyazo.com##.image-infos
 thepiratebay.*,pornhub.*,rapidvideo.*,anilinkz.*,nostream.ro,oload.*,1337x.*##+js(window.open-defuser.js)
@@ -321,7 +320,7 @@ gyazo.com##.teams-induction-popup
 ||scorecardresearch.com^$important
 @@/wp-content/plugins/google-analytics-for-wordpress/*$first-party,script,badfilter
 youtube.com###dismissable:has-text(Recommended channel for you)
-torrentz2.*##.alert-danger, #resultarea 
+torrentz2.*##.alert-danger, #resultarea, [href*="/lorem"] 
 ||mcloud.to/log^$1p
 |https://$xmlhttprequest,domain=dwatchseries.to|swatchseries.to|thewatchseries.ac|unblckd.org|watchseries.sk,badfilter
 ||apps.fbsbx.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.fbcdn.net *.cdninstagram.com ajax.googleapis.com *.satella.tv hanime.tv *.hanime.tv 
@@ -360,7 +359,6 @@ youtube.com###dismissable:has-text(Related Movies)
 @@||dev.visualwebsiteoptimizer.com/j.php$badfilter
 @@||9anime.*/assets/$first-party,script,badfilter
 ||9anime.*^$first-party,script,badfilter
-torrentz2.*##.downlinks > dl:has-text(Sponsored) > dd
 @@||client-event-reporter.twitch.tv^$xmlhttprequest,domain=twitch.tv,badfilter
 animehub.ac##+js(set-value.js, onError, noopFunc)
 !#if !env_firefox
@@ -377,4 +375,3 @@ quora.com##.OutOfDateAnswerSurvey
 |https://$third-party,script,domain=kimcartoon.to,badfilter
 facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
 *adblock*$1p,script,important
-torrentz.eu##div > div:has-text(Sponsored)
