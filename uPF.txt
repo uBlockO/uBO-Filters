@@ -320,7 +320,7 @@ gyazo.com##.teams-induction-popup
 ||scorecardresearch.com^$important
 @@/wp-content/plugins/google-analytics-for-wordpress/*$first-party,script,badfilter
 youtube.com###dismissable:has-text(Recommended channel for you)
-torrentz2.*##.alert-danger, #resultarea, [href*="/lorem"] 
+torrentz2.*##.alert-danger, #resultarea, [href*="/lorem"], .downlinks > dl:nth-of-type(1) > dd 
 ||mcloud.to/log^$1p
 |https://$xmlhttprequest,domain=dwatchseries.to|swatchseries.to|thewatchseries.ac|unblckd.org|watchseries.sk,badfilter
 ||apps.fbsbx.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.fbcdn.net *.cdninstagram.com ajax.googleapis.com *.satella.tv hanime.tv *.hanime.tv 
