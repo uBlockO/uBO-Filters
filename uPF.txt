@@ -367,9 +367,7 @@ animehub.ac##+js(set-value.js, onError, noopFunc)
 animehub.ac##+js(remove-inline-script.js, zfgloaded)
 !#endif
 animehub.ac##+js(eclick.js, .gc-expand.gc-icon)
-torrentz2.eu##.gener:has([href*="pledge"])
 ||comicbook.com/article/json^$1p,xhr
-torrentz2.eu##.ToleratedAd
 ||discordapp.com/widget^$important
 quora.com##[rel="noopener nofollow"] > div > div:nth-ancestor(5)
 quora.com##.OutOfDateAnswerSurvey
@@ -379,3 +377,4 @@ quora.com##.OutOfDateAnswerSurvey
 |https://$third-party,script,domain=kimcartoon.to,badfilter
 facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
 *adblock*$1p,script,important
+torrentz.eu##div > div:has-text(Sponsored)
