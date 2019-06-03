@@ -1,4 +1,4 @@
-[uBlock Origin 1.19.7rc1]
+[uBlock Origin 1.19.7rc2]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
