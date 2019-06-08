@@ -68,7 +68,7 @@ solarmoviex.*,putlockertv.*###comment
 *log_event*$1p
 kisshentai.net##a[href="#"], #show_id, a[href^="https://theporndude.com/"], a[href^="http://kissdoujin.com/"], img[src^="https://theporndude.com/"]  
 ||kisshentai.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net openload.co oload.stream *.oloadcdn.net streamcherry.com *.fruithosted.net cdn.myanimelist.net
-kisshentai.net##+js(set-prop.js, playVid, undefined)
+kisshentai.net##+js(set-prop.js, playVid, null)
 ||connect.facebook.net^$important
 @@||platform.twitter.com^$script,domain=9anime.to,badfilter
 ||ajax.cloudflare.com/cdn-cgi/nexp^$script
