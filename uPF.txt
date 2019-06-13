@@ -359,9 +359,8 @@ youtube.com###dismissable:has-text(Related Movies)
 @@||9anime.*/assets/$first-party,script,badfilter
 ||9anime.*^$first-party,script,badfilter
 @@||client-event-reporter.twitch.tv^$xmlhttprequest,domain=twitch.tv,badfilter
-animehub.ac##+js(set-value.js, onError, noopFunc)
 !#if !env_firefox
-animehub.ac##+js(remove-inline-script.js, zfgloaded)
+animehub.ac##+js(remove-inline-script.js, /zfgloaded|onError/)
 !#endif
 animehub.ac##+js(eclick.js, .gc-expand.gc-icon)
 ||comicbook.com/article/json^$1p,xhr
