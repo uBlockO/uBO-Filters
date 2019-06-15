@@ -374,3 +374,4 @@ quora.com##.OutOfDateAnswerSurvey
 facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
 *advert*$1p,script,important
 ||imasdk.googleapis.com^$important
+||ahost.bulbagarden.net^
