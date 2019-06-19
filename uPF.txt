@@ -88,7 +88,6 @@ mega.nz##.ads-left-block, .ads-right-block, .active.top-login-warning
 |https:$third-party,popup,domain=fmovies.is,badfilter
 *infinite-newsfeed*$first-party
 mega.nz##.red.download-button.button
-temp_share_folder$first-party,domain=screenrant.com|cbr.com
 ||speedtest.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: www.speedtest.net *.cdnst.net;connect-src *
 ||cbr.com^$csp=default-src 'self' 'unsafe-inline' *.cbrimages.com www.youtube.com *.ytimg.com platform.twitter.com www.twitter.com *.twimg.com platform.instagram.com www.instagram.com *.imgur.com embed.redditmedia.com cdn.embedly.com
 ||pornhub.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.phncdn.com *.pornhub.com *.nsimg.net
