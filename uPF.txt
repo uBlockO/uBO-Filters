@@ -377,3 +377,4 @@ facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
 ||ahost.bulbagarden.net^
 *exoclick*$script,important
 |https://$third-party,script,domain=milfzr.com,badfilter
+||spot.im^$important
