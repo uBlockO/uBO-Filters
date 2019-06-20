@@ -183,7 +183,7 @@ ghacks.net##.mt--40.pt--40.border--top--gray:has([href*="paypal"])
 ||ghacks.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval'
 ||openload.co/r3/f^$1p
 hanime.tv,openload.co##+js(addEventListener-defuser.js, wheel)
-streamango.com##+js(addEventListener-defuser.js, DOMMouseScroll)
+streamango.com,openload.*,oload.*##+js(addEventListener-defuser.js, DOMMouseScroll)
 ||torrentz2.*/*.php^$1p
 /detroitchicago$domain=animenewsnetwork.com
 facebook.com/ajax/typeahead/record_basic_metrics.php$1p
