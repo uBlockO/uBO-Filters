@@ -44,7 +44,6 @@ wikia.com###WikiaArticleBottomAd
 ||googlesyndication.com^$important
 */license$script,first-party
 */assets/*/script.*.js$script,first-party
-oload.*##+js(openload.co.js)
 facebook.com##.home_right_column, #page_tv_show_playlists, #pagelet_page_cover, #page_tv_show_extra_clips, #page_photos, .UFIList, .photoUfiContainer.rhc, #fb_stories_card_root
 ||facebook.com/*/logging^$important,1p
 /annotations$script,first-party,domain=youtube.com
@@ -167,7 +166,7 @@ uservoice.js$script,first-party
 ||exosrv.com^$important
 @@||google.*/ads/$third-party,image,badfilter
 *socialCounts*$1p
-pornhub.com,oload.*##+js(addEventListener-defuser.js, contextmenu)
+pornhub.com,oload.*,openload.*##+js(addEventListener-defuser.js, contextmenu)
 1337x.*##[href*="redirect"], [href*="php"]
 ||facebook.com/video/*/upnext^$xmlhttprequest
 ||rapidvideo.com^$script,badfilter
