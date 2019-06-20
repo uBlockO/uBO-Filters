@@ -227,7 +227,7 @@ milfzr.com###extras, #respond, #actions, [href*="https://incezt.net/"]
 /\.(watchcartoononline|9anime|memecenter).*\/.*[(&|=|%|\/|?)]/$image,badfilter
 translate.google.com##.gt-hats
 @@/advert.js$script,badfilter
-openload.co,oload.*##+js(eclick.js, #videooverlay)
+openload.*,oload.*##+js(eclick.js, #videooverlay)
 |https://$xmlhttprequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
 @@||9anime.is/assets/player/jwplayer-*/jwplayer.js$badfilter
 ||mellowads.com^$important
