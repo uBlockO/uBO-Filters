@@ -1,4 +1,4 @@
-[uBlock Origin 1.20.1b0]
+[uBlock Origin 1.20.1b2]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -376,3 +376,4 @@ facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
 *exoclick*$script,important
 |https://$third-party,script,domain=milfzr.com,badfilter
 ||spot.im^$important
+||torrentz2.eu^$csp=script-src 'self' 'unsafe-inline',badfilter
