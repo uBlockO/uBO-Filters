@@ -38,8 +38,6 @@ promo-banner.js^$important,domain=pornhub.com
 abtesting$important,script,domain=fandom.com
 ||youtube.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.ggpht.com *.googlevideo.com *.ytimg.com *.googleusercontent.com www.youtube.com
 google.*###prm-pt, .b2hzT, .exp-outline, [id^="ed_"], [title*="Share"] 
-wikia.com###WikiaFooter
-wikia.com###WikiaArticleBottomAd
 ||googlesyndication.com^$important
 */license$script,first-party
 */assets/*/script.*.js$script,first-party
@@ -147,14 +145,12 @@ kissanime.ru##.bigBarContainer:has-text(Comments)
 ||rapidvideo.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.rapidvideo.com *.playercdn.net;upgrade-insecure-requests
 kissanime.ru##.rightBox:has-text(Like me)
 @@||akamaihd.net^*/ad*.js$script,badfilter
-boxofficemojo.com###Player_82160f42-9620-4d0a-b79a-18b1abd853fb
 ffmovies.*,bmovies.*,putlockertv.*,solarmoviex.to,123movies0.com##+js(abort-current-inline-script.js, decodeURIComponent, zfgloadedpopup)
 ad.*^$first-party
 ||animenewsnetwork.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com platform.twitter.com *.twimg.com www.animenewsnetwork.com cdn.animenewsnetwork.com
 animenewsnetwork.com###cover_image, .floating-image, .box.alert, #infinite-scroll-outlet, .spaceRow, #prompt-message, .social-button, .ezoic-ad, #social-bookmarks 
 ||animenewsnetwork.com/logger.performance^$1p
 ||1337x.*^$csp=script-src 'self' 'unsafe-inline'
-uservoice.js$script,first-party
 ||typekit.net^
 @@||ox-d.bannertrack.net/auid=$badfilter
 @@||google.com/adsense/start/images/favicon.ico$badfilter
@@ -361,7 +357,6 @@ animehub.ac##+js(eclick.js, .gc-expand.gc-icon)
 ||comicbook.com/article/json^$1p,xhr
 ||discordapp.com/widget^$important
 quora.com##[rel="noopener nofollow"] > div > div:nth-ancestor(5)
-quora.com##.OutOfDateAnswerSurvey
 @@||gateway.reddit.com/desktopapi/v*/sidebar_ad$xmlhttprequest,badfilter
 @@||static.animecdn.xyz/js/ads.js$badfilter
 @@/js/ads.js$script,badfilter
@@ -375,3 +370,8 @@ facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
 ||spot.im^$important
 ||torrentz2.eu^$csp=script-src 'self' 'unsafe-inline',badfilter
 ||prettyfast.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: ajax.googleapis.com ssl.p.jwpcdn.com *.googleusercontent.com
+4anime.to##+js(tog-attr.js, preload, video)
+4anime.to##+js(addEventListener-defuser.js, wheel)
+4anime.to##+js(eclick.js, .changeexpandtext)
+||4anime.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: ajax.googleapis.com *.4animu.me
+4anime.to##.comments-block
