@@ -1,4 +1,4 @@
-[uBlock Origin 1.20.1b3]
+[uBlock Origin 1.20.1b4]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -374,3 +374,7 @@ facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
 4anime.to##+js(eclick.js, .changeexpandtext)
 ||4anime.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: ajax.googleapis.com *.4animu.me
 4anime.to##.comments-block
+||luxubu.review/asset/rev/$important,xmlhttprequest
+||luxubu.review^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.hlsmp4.com fvs.io
+|https://$third-party,subdocument,domain=kimcartoon.to,badfilter
+@@||luxubu.review/v/$domain=kimcartoon.to,badfilter
