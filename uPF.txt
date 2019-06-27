@@ -87,7 +87,7 @@ mega.nz##.red.download-button.button
 ||cbr.com^$csp=default-src 'self' 'unsafe-inline' *.cbrimages.com www.youtube.com *.ytimg.com platform.twitter.com www.twitter.com *.twimg.com platform.instagram.com www.instagram.com *.imgur.com embed.redditmedia.com cdn.embedly.com
 ||pornhub.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.phncdn.com *.pornhub.com *.nsimg.net
 ||thepiratebay.*^$csp=script-src 'self' 'unsafe-inline'
-||kissanime.ru^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.cloud *.oloadcdn.net streamango.com *.fruithosted.net *.fbcdn.net *.mp4upload.com *.apps.fbsbx.com *.replay.watch;media-src *;upgrade-insecure-requests
+||kissanime.ru^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.cloud *.oloadcdn.net streamango.com *.fruithosted.net *.fbcdn.net *.mp4upload.com *.apps.fbsbx.com *.novelplanet.me;media-src *;upgrade-insecure-requests
 ||facebook.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.fbcdn.net
 ||myanimelist.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' myanimelist.cdn-dena.com cdn.myanimelist.net;img-src *;upgrade-insecure-requests
 ||openload.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.openload.co cdnjs.cloudflare.com  *.oloadcdn.net *.google.com
@@ -374,7 +374,7 @@ facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
 4anime.to##+js(eclick.js, .changeexpandtext)
 ||4anime.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: ajax.googleapis.com *.4animu.me
 4anime.to##.comments-block
-||luxubu.review/asset/rev/$important,xmlhttprequest
+*/asset/rev/$important,xmlhttprequest,domain=luxubu.review|novelplanet.me
 ||luxubu.review^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.hlsmp4.com fvs.io
 |https://$third-party,subdocument,domain=kimcartoon.to,badfilter
 @@||luxubu.review/v/$domain=kimcartoon.to,badfilter
