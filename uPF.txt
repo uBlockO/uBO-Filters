@@ -377,3 +377,4 @@ facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
 */asset/rev/$important,xmlhttprequest,domain=luxubu.review|novelplanet.me
 |https://$third-party,subdocument,domain=kimcartoon.to,badfilter
 @@||luxubu.review/v/$domain=kimcartoon.to,badfilter
+||youtube.com/comment_service_ajax?$domain=youtube.com,badfilter
