@@ -1,4 +1,4 @@
-[uBlock Origin 1.20.1b6]
+[uBlock Origin 1.20.1b9]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -10,7 +10,6 @@
 ||segment.com^$important
 ||doubleclick.net^$important
 pornhub.*###under-player-comments, #welcome, .abovePlayer, .clear.hd.jisfhp0w2u, .adlink2, .kzpcaw, .streamatesModelsContainer.sectionWrapper, #under-player-playlists, .underplayer-thumbs.videos, .item-6.menu, .nf-wrapper > .sectionWrapper, #pb_template, .clear.hd, .fadeInMTubes
-pornhub.com##body:style(overflow: auto !important)
 screenrant.com##.social, .video-block-main.video-block, .sg-sharing-option, .ad-zone-container, .twitter.icon, .nav-social-list, #js-tp-menu-btn, .footer-brands, .footer-social-list, .w-sharing, .art-body-sharing, .article-tags, .w-fb-like, .premium-promo, .w-injected-featured, .w-newsletter-signup, .w-btn-j, .tldr-btn-category, .tldr-btn-section, .w-injected-video  
 ||chatango.com^$important
 ||disquscdn.com^$important
@@ -308,7 +307,8 @@ gyazo.com##.teams-induction-popup
 ||scorecardresearch.com^$important
 @@/wp-content/plugins/google-analytics-for-wordpress/*$first-party,script,badfilter
 youtube.com###dismissable:has-text(Recommended channel for you)
-torrentz2.*##.alert-danger, #resultarea, [href*="/lorem"], .downlinks > dl:nth-of-type(1) > dd 
+torrentz2.*##.alert-danger, #resultarea, [href*="/lorem"], .downlinks > dl:nth-of-type(1) > dd
+torrentz2.*##div[class]:has-text(Sponsored)
 ||mcloud.to/log^$1p
 |https://$xmlhttprequest,domain=dwatchseries.to|swatchseries.to|thewatchseries.ac|unblckd.org|watchseries.sk,badfilter
 ||apps.fbsbx.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.fbcdn.net *.cdninstagram.com ajax.googleapis.com *.satella.tv hanime.tv *.hanime.tv 
