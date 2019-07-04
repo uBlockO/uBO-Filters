@@ -375,3 +375,5 @@ facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
 @@||luxubu.review/v/$domain=kimcartoon.to,badfilter
 ||youtube.com/comment_service_ajax?$domain=youtube.com,badfilter
 *vast-*$1p,script,important
+@@||easylist.club/ados.js$badfilter
+@@||easylist.club/popunder*.js$badfilter
