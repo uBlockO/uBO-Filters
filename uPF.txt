@@ -123,7 +123,7 @@ thepiratebay.*###adrestop, [href*="https://#/"]
 @@||fastly.net/ad2/$image,badfilter
 @@||gigya.com/*/socialize.js$badfilter
 ||adpass.co.uk^
-*ads.js*$1p,important
+*ads.js*$script,xmlhttprequest,important
 pornhub.*##+js(abort-on-property-read.js, userABMessage)
 /\.com\/.*[a-f0-9]{110}/$third-party,image,badfilter
 fmovies.*##.widget-title:has-text(Sponsored)
@@ -347,8 +347,6 @@ animehub.ac##+js(eclick.js, .gc-expand.gc-icon)
 ||discordapp.com/widget^$important
 quora.com##[rel="noopener nofollow"] > div > div:nth-ancestor(5)
 @@||gateway.reddit.com/desktopapi/v*/sidebar_ad$xmlhttprequest,badfilter
-@@||static.animecdn.xyz/js/ads.js$badfilter
-@@/js/ads.js$script,badfilter
 |https://$third-party,script,domain=kimcartoon.to,badfilter
 facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
 *advert*$1p,script,important
