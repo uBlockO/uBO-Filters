@@ -1,4 +1,4 @@
-[uBlock Origin 1.20.3b4]
+[uBlock Origin 1.20.3b5]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -368,3 +368,4 @@ facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
 ||youtube.com/comment_service_ajax?$domain=youtube.com,badfilter
 *vast-*$1p,script,important
 ||easylist.club^$important
+||*clid=$1p,document,important
