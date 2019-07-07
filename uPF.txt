@@ -1,4 +1,4 @@
-[uBlock Origin 1.20.3b7]
+[uBlock Origin 1.20.3b8]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -27,7 +27,7 @@ torrentfreak.com##.comments.pbx-alt.pbx
 myanimelist.net##.banner-header-anime-straming, .footer-link-icon-block, .clearfix.index-watch-description, .btn-mal-service, .anime-detail-header-affiliate, .amazon, .anime_discussions.widget, .video-providers, .js-sns-icon-container, .icon-block-small.js-sns-icon-container, .promotional-video, .anime-detail-header-video, .mb4.di-ib, .fb-page, .root, [id^="div-gpt-ad"]
 ||googleadservices.com^$important
 *logpopup*$1p,important
-||myanimelist.net/static/logging.html^$xmlhttprequest
+||myanimelist.net/static/logging.html^$xmlhttprequest,1p
 ph-tracking.js^$important,domain=pornhub.com
 premium^$script,domain=pornhub.com,important
 promo-banner.js^$important,domain=pornhub.com
@@ -85,7 +85,7 @@ mega.nz##.red.download-button.button
 ||thepiratebay.*^$csp=script-src 'self' 'unsafe-inline'
 ||kissanime.ru^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.cloud *.oloadcdn.net streamango.com *.fruithosted.net *.fbcdn.net *.mp4upload.com *.apps.fbsbx.com *.novelplanet.me;media-src *;upgrade-insecure-requests
 ||facebook.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.fbcdn.net
-||myanimelist.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' myanimelist.cdn-dena.com cdn.myanimelist.net;img-src *;upgrade-insecure-requests
+||myanimelist.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' cdn.myanimelist.net;img-src *;upgrade-insecure-requests
 ||openload.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.openload.co cdnjs.cloudflare.com  *.oloadcdn.net *.google.com
 ||oload.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: cdnjs.cloudflare.com  *.oloadcdn.net *.google.com
 |http:$third-party,popup,domain=fmovies.is,badfilter
