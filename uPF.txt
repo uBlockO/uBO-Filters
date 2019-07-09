@@ -352,7 +352,7 @@ facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
 *advert*$1p,script,important
 ||imasdk.googleapis.com^$important
 ||ahost.bulbagarden.net^
-*exoclick*$script,important
+*exoclick*$script,1p,important
 |https://$third-party,script,domain=milfzr.com,badfilter
 ||spot.im^$important
 ||torrentz2.eu^$csp=script-src 'self' 'unsafe-inline',badfilter
@@ -368,4 +368,5 @@ facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
 ||youtube.com/comment_service_ajax?$domain=youtube.com,badfilter
 *vast-*$1p,script,important
 ||easylist.club^$important
-||*clid=$1p,document,important
+*clid=$1p,document,important
+@@||p.jwpcdn.com^$third-party,script,badfilter
