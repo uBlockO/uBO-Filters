@@ -192,7 +192,6 @@ putlockertv.*##.col-md-7
 @@||streamango.com/assets/js/license.adbl.js$badfilter
 @@||ads.servebom.com/tmnhead.js$badfilter
 |http://$third-party,stylesheet,domain=dwatchseries.to|thewatchseries.ac|unblckd.org|watchseries.sk,badfilter
-*banner^$$first-party
 hanime.tv##.footer__column.flex:has-text(Partners)
 hanime.tv/*/user_comments^$1p
 @@/adframe.js$script,badfilter
@@ -222,7 +221,6 @@ openload.*,oload.*##+js(eclick.js, #videooverlay)
 ||yahoo.com^$third-party,important
 ||doubleclickbygoogle.com^$important
 ||adnetasia.com^$important
-||bannertrack.net^$important
 ||gravatar.com^$important
 ||streamango.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.streamango.com *.fruithosted.net cdnjs.cloudflare.com;upgrade-insecure-requests
 ||revcontent.com^$important
