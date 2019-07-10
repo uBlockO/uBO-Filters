@@ -21,7 +21,7 @@ kissanime.ru###btnShowComments, strong, .videoAdClose, .divCloseBut, .bigBarCont
 ||taboola.com^$important
 1337x.*###mgbl49472, .link-box 
 cbr.com##.i-comment.icon.btn-comment-article, .right-content.footer-content, .social-title, .is-visible.w-sticky-header, load-wrap.ajaxLoader, .comment, .author-tag-block, .embed-related-block, .video-block-ads.video-block, .related-section, .injected-video-by-load, .quiz.browse-content, .video.browse-content, .quiz-share-btn-wrapper, .section-right, #secondary, .sharing-option, .ad-zone-container, .social-account-links, .footer-social-list, .footer-brands, .w-sharing, .nav-social, .header-premium-zone, .premium-promo
-cbr.com/wp-content/themes/cbr/ajax-action.php?action=loadMorePost&ajax_post_id=*&hash=*$xmlhttprequest
+||cbr.com/wp-content/themes/cbr/ajax-action.php?action=loadMorePost&ajax_post_id=*&hash=*$xmlhttprequest
 torrentfreak.com##.comments.pbx-alt.pbx
 ||addthis.com^$important
 myanimelist.net##.banner-header-anime-straming, .footer-link-icon-block, .clearfix.index-watch-description, .btn-mal-service, .anime-detail-header-affiliate, .amazon, .anime_discussions.widget, .video-providers, .js-sns-icon-container, .icon-block-small.js-sns-icon-container, .promotional-video, .anime-detail-header-video, .mb4.di-ib, .fb-page, .root, [id^="div-gpt-ad"]
