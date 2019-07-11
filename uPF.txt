@@ -138,6 +138,7 @@ facebook.com##._4-u2:has-text(Page stories you may like)
 kissanime.ru##.bigBarContainer:has-text(Comments)
 |https://$third-party,script,domain=9anime.to,badfilter
 ||rapidvideo.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.rapidvideo.com *.playercdn.net;upgrade-insecure-requests
+||rapidvid.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.rapidvid.to *.playercdn.net;upgrade-insecure-requests
 kissanime.ru##.rightBox:has-text(Like me)
 @@||akamaihd.net^*/ad*.js$script,badfilter
 ffmovies.*,bmovies.*,putlockertv.*,solarmoviex.to,123movies0.com##+js(abort-current-inline-script, decodeURIComponent, zfgloadedpopup)
