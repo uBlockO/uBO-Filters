@@ -367,3 +367,4 @@ facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
 ||easylist.club^$important
 *clid=$1p,document,important
 @@||p.jwpcdn.com^$third-party,script,badfilter
+rapidvid.*,rapidvideo.*#@#+js(abort-current-inline-script.js, Math, zfgloaded)
