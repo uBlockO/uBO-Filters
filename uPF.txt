@@ -365,5 +365,5 @@ facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
 *clid=$1p,document,important
 @@||p.jwpcdn.com^$third-party,script,badfilter
 rapidvid.*,rapidvideo.*#@#+js(abort-current-inline-script.js, Math, zfgloaded)
-||rapidvid.*/*.php$1p
-/videojs.ima.js$1p
+/genads.php$1p,important
+/videojs.ima.js$1p,important
