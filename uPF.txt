@@ -368,11 +368,3 @@ facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
 ||easylist.club^$important
 *clid=$1p,document,important
 @@||p.jwpcdn.com^$third-party,script,badfilter
-rapidvideo.*#@#+js(abort-on-property-read, open)
-rapidvideo.*#@#+js(noeval)
-rapidvideo.*#@#+js(popads.net)
-rapidvideo.*#@#+js(abort-on-property-write, executed)
-rapidvideo.*#@#+js(abort-current-inline-script, Math, zfgloaded)
-rapidvideo.*#@#+js(set-constant, onload, noopFunc)
-rapidvideo.*#@#+js(abort-current-inline-script, decodeURI, getScriptFromCss)
-rapidvideo.*#@#+js(addEventListener-defuser, mousedown, preventDefault)
