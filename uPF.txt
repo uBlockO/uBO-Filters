@@ -1,4 +1,4 @@
-[uBlock Origin 1.20.3rc4]
+[uBlock Origin 1.20.3rc5]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -140,8 +140,9 @@ kissanime.ru##.rightBox:has-text(Like me)
 ffmovies.*,bmovies.*,putlockertv.*,solarmoviex.to,123movies0.com##+js(abort-current-inline-script, decodeURIComponent, zfgloadedpopup)
 ad.*^$first-party
 ||animenewsnetwork.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com platform.twitter.com *.twimg.com www.animenewsnetwork.com cdn.animenewsnetwork.com
-animenewsnetwork.com###cover_image, .floating-image, .box.alert, #infinite-scroll-outlet, .spaceRow, #prompt-message, .social-button, .ezoic-ad, #social-bookmarks 
+animenewsnetwork.com###cover_image, .floating-image, .box.alert, #infinite-scroll-outlet, .spaceRow, #prompt-message, .social-button, .ezoic-ad
 ||animenewsnetwork.com/logger.performance^$1p
+||animenewsnetwork.com/sponsor/$1p
 ||1337x.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval';img-src *
 ||typekit.net^
 @@||ox-d.bannertrack.net/auid=$badfilter
