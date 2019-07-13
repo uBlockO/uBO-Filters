@@ -59,8 +59,8 @@ kisshentai.net##+js(set-prop, playVid, null)
 ||connect.facebook.net^$important
 @@||platform.twitter.com^$script,domain=9anime.to,badfilter
 ||ajax.cloudflare.com/cdn-cgi/nexp^$script
-speedtest.net##.high-placeholder.pure-u-1, .u-c.pure-u-custom-ad-rectangle, .u-c.pure-u-custom-ad-skyscraper, .eot-mini-survey, .top-placeholder.pure-u-1, [href*="twitter.com"], [href*="facebook.com"]   
-platform.twitter.com/js/button.$important
+speedtest.net##.high-placeholder.pure-u-1, .u-c.pure-u-custom-ad-rectangle, .u-c.pure-u-custom-ad-skyscraper, .eot-mini-survey, .top-placeholder.pure-u-1, [href*="twitter.com"], [href*="facebook.com"]
+||platform.twitter.com/js/button.$important
 kimcartoon.to##.w-right, #hideAds, .videoAdClose, .kcAds, .alert-info.alert, .mb15.full, #btnShowComments, #videoAd, #divComments, #disqus_thread, .twitter-follow-button, [id*="ScriptRoot"], .adbWarnContainer
 *analytics*$1p,important
 mega.nz##.ads-left-block, .ads-right-block, .active.top-login-warning
@@ -74,18 +74,16 @@ mega.nz##.ads-left-block, .ads-right-block, .active.top-login-warning
 ||fmovies.is^$first-party,popup,badfilter
 ||fmovies.is^$xmlhttprequest,domain=fmovies.is,badfilter
 |https:$third-party,popup,domain=fmovies.is,badfilter
-mega.nz##.red.download-button.button
+mega.nz##.red.download-button.button, .checkbox-bl.download
 ||speedtest.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: www.speedtest.net *.cdnst.net;connect-src *
 ||cbr.com^$csp=default-src 'self' 'unsafe-inline' *.cbrimages.com www.youtube.com *.ytimg.com platform.twitter.com www.twitter.com *.twimg.com platform.instagram.com www.instagram.com *.imgur.com embed.redditmedia.com cdn.embedly.com
 ||pornhub.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.phncdn.com *.pornhub.com *.nsimg.net
-||thepiratebay.*^$csp=script-src 'self' 'unsafe-inline'
 ||kissanime.ru^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.cloud *.oloadcdn.net streamango.com *.fruithosted.net *.fbcdn.net *.mp4upload.com *.rapidvid.to *.novelplanet.me;media-src *;upgrade-insecure-requests
 ||facebook.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.fbcdn.net
 ||myanimelist.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' cdn.myanimelist.net;img-src *;upgrade-insecure-requests
 ||openload.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.openload.co cdnjs.cloudflare.com  *.oloadcdn.net *.google.com
 ||oload.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: cdnjs.cloudflare.com  *.oloadcdn.net *.google.com
 |http:$third-party,popup,domain=fmovies.is,badfilter
-mega.nz##.checkbox-bl.download
 @@|https:$first-party,domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|chroniclelive.co.uk|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|everquest.allakhazam.com|financialpost.com|gofugyourself.com|hearthhead.com|ibtimes.com|idigitaltimes.com|infinitiev.com|latimes.com|leaderpost.com|legacy.com|lifewire.com|lolking.net|mcall.com|metacritic.com|montrealgazette.com|msn.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|stereogum.com|sun-sentinel.com|thebalance.com|theprovince.com|thespruce.com|thestarphoenix.com|thoughtco.com|timeanddate.com|tmn.today|torontosun.com|tvguide.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com|www.ign.com|zam.com,badfilter
 @@.ico^$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|chroniclelive.co.uk|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|everquest.allakhazam.com|financialpost.com|gofugyourself.com|hearthhead.com|ibtimes.com|idigitaltimes.com|infinitiev.com|latimes.com|leaderpost.com|legacy.com|lifewire.com|lolking.net|mcall.com|metacritic.com|montrealgazette.com|msn.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|stereogum.com|sun-sentinel.com|thebalance.com|theprovince.com|thespruce.com|thestarphoenix.com|thoughtco.com|timeanddate.com|tmn.today|torontosun.com|tvguide.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com|www.ign.com|zam.com,badfilter
 @@.gif^$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|chroniclelive.co.uk|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|everquest.allakhazam.com|financialpost.com|gofugyourself.com|hearthhead.com|ibtimes.com|idigitaltimes.com|infinitiev.com|latimes.com|leaderpost.com|legacy.com|lifewire.com|lolking.net|mcall.com|metacritic.com|montrealgazette.com|msn.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|stereogum.com|sun-sentinel.com|thebalance.com|theprovince.com|thespruce.com|thestarphoenix.com|thoughtco.com|timeanddate.com|tmn.today|torontosun.com|tvguide.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com|www.ign.com|zam.com,badfilter
@@ -97,7 +95,7 @@ mega.nz##.checkbox-bl.download
 ||outlook.live.com^$csp=script-src 'self' 'unsafe-inline' *.office365.com 'unsafe-eval'
 @@||oload.tv/assets/js/script.*.js$badfilter
 @@||oload.tv/assets/js/license.*.js$badfilter
-thepiratebay.*###adrestop, [href*="https://#/"]
+thepiratebay.org###adrestop, [href*="https://#/"]
 @@||googletagmanager.com/gtm.js?$domain=airasia.com|bhaskar.com|broadcom.com|computerworlduk.com|desigual.com|drumstick.com|ebuyer.com|elevationscu.com|gamepix.com|git-tower.com|google.com|itv.com|jobs.net|keygames.com|magicjack.com|moviefone.com|nestio.com|newsy.com|optus.com.au|rebtel.com|rockstargames.com|rollingstone.com|rozetka.com.ua|sixflags.com|support.amd.com|talktalk.co.uk|techradar.com|toto.co.jp|usmagazine.com,badfilter
 ||wibbitz.com^
 @@||kisscartoon.*^$first-party,script,badfilter
@@ -112,7 +110,6 @@ thepiratebay.*###adrestop, [href*="https://#/"]
 @@/download^$xmlhttprequest,domain=speedtest.net,badfilter 
 @@/upload^$xmlhttprequest,domain=speedtest.net,badfilter
 |http://$xmlhttprequest,domain=speedtest.net,badfilter
-*betterpop*$script,first-party
 @@/js/adframe.js$first-party,script,badfilter
 @@||fastly.net/ad2/$xmlhttprequest,badfilter
 @@||fastly.net/ad2/$script,badfilter
@@ -200,8 +197,6 @@ hanime.tv/*/user_comments^$1p
 @@||googleusercontent.com/gadgets/$image,domain=9anime.is,badfilter
 |http*://$third-party,image,domain=9anime.is,badfilter
 @@/wp-content/*/ads*.js$script,badfilter
-/ad-overlay-anything$1p,domain=milfzr.com
-milfzr.com###extras, #respond, #actions, [href*="https://incezt.net/"]
 @@/js/advertisement-$script,badfilter
 ||adnxs.com^$important
 /http*.:\/\/.*[?|=|&|%|#|+].*/$popup,domain=0123movies.com|1337x.to|1movies.to|9anime.is|a-o.ninja|adsrt.com|ahlamtv.com|akvideo.stream|allmyvideos.netakvideo.stream|animeflv.net|animeid.io|asianvote.com|avgle.com|bittorrent.am|bmovies.to|clipconverter.cc|cloudtime.to|cruzing.xyz|dropapk.com|embed.nowvideo.sx|embed.videoweed.es|escdn.co|estream.to|extreme-board.com|eztv.ag|fastbay.net|fileone.tv|flash-x.tv|flashsx.tv|flashx.cc|flashx.me|flashx.run|flashx.sx|flashx.to|flashx.tv|flashx.ws|flashx1.tv|flashxx.tv|fmovies.is|fmovies.se|fmovies.to|fruithosted.net|fruitstreams.com|gogoanime.io|gorillavid.in|gowatchfreemovies.to|grammarist.com|ikwilthepiratebay.org|imagebam.com|imagefruit.com|imageporter.com|imagerar.com|img24.org|imgadult.com|imgbox.com|imgdrive.net|imgshots.com|imgsin.com|imgspice.com|imgtaxi.com|imgvip.net|imgwallet.com|indoxxi.tv|jkanime.net|katcr.host|katcr.party|kickass.cd|kickass.gg|kissasian.ch|kisscartoon.ac|lavamovies.se|m4ufree.com|m4ufree.tv|masterani.me|megaup.net|moecdn.io|monova.org|movie4k.is|mp3indirdur.mobi|myreadingmanga.info|mywebtv.info|newser.com|nosteam.ro|nowvideo.sx|oload.site|oload.stream|oload.xyz|oloadcdn.net|onhax.me|onlinevideoconverter.com|openload.co|openloadmovies.tv|opentpb.com|otakustream.tv|piratebayblocked.com|pirateproxy.sh|pirateproxy.website|playercdn.net|pornparadise.org|povwideo.net|powvideo.net|proxydl.cf|putlockertv.se|putlockertv.to|rapidvideo.com|rarbgproxy.org|readcomiconline.to|repelis.net|rule34hentai.net|seehd.pl|sendvid.com|sexuria.com|solarmoviesc.com|speedvid.net|sportp2p.com|stream.moe|stream2watch.org|streamango.com|streamcherry.com|streamplay.to|streamshunter.tv|suprafiles.org|telepisodes.co|thehiddenbay.fi|thehiddenbay.ws|thekat.nz|thepiratebay.red|thepiratebay.rocks|thepirateproxy.ws|theproxybay.me|thevideo.cc|thevideo.ch|thevideo.me|thevideo.website|torrentz.to|tpb.zone|tpbmirror.ga|tpbship.org|uktpbmirror.pw|unblocker.cc|unblocktpb.pro|userscloud.com|vidgg.to|vidlox.me|vidlox.tv|vidoza.net|vidto.me|vidtod.me|vidtudu.com|vidup.me|vidz7.com|vidzi.tv|vipleague.mobi|vodlock.co|watchcartoononline.com|watchonline.to|watchonlinemovies.com.pk|wholecloud.net|youwatch.org|yts.am,badfilter
@@ -244,7 +239,6 @@ kissanime.ru##+js(setTimeout-defuser, /YANMKABFYWRW|YANABWEKA/)
 @@||cdnjs.cloudflare.com/ajax/libs/font-awesome^$badfilter
 kissanime.ru###my_video_1:style(display: block !important;)
 kissanime.ru###my_video_1_html5_api:style(display: block !important;)
-*advanced-floating-content-lite*$first-party
 kissmanga.com###aCurr, .clear2, .specialButton
 @@/_ad*/_ad$first-party,xmlhttprequest,badfilter
 readcomiconline.to###fl-ads.rf-container
@@ -275,7 +269,6 @@ bmovies.club##.hd-buttons, .alert, #comment, [href^="https://twitter.com/"]
 @@||kissmanga.com/ads/adprotect$first-party,subdocument,badfilter
 ||hanime.tv^$csp=upgrade-insecure-requests
 kissmanga.com##+js(setTimeout-defuser, /YANABWEKA|HATEDBSDIDSY/)
-|https://$third-party,xmlhttprequest,domain=milfzr.com,badfilter
 kimcartoon.to##+js(eclick.js, #expand)
 ffmovies.*##.hd-buttons.row, .alert, #comment, #tags, [href^="https://twitter.com/"]
 *$csp=script-src 'self' * data: 'unsafe-inline' 'unsafe-eval',domain=pornhub.com|xhamster.com|youporn.com,badfilter
@@ -321,7 +314,6 @@ screenrant.com##+js(remove-attr, onclick)
 fandom.com###WikiaRailWrapper
 @@||thepiratebay.org^$subdocument,badfilter
 ||readcomiconline.to^$csp=script-src 'self' 'unsafe-inline' *.disquscdn.com *.disqus.com,badfilter
-milfzr.com##+js(addEventListener-defuser, contextmenu)
 @@||vox-cdn.com/packs/concert_ads$script,badfilter
 @@||s1.wp.com^$badfilter
 @@||bidvertiser.com/*?pid=$script,domain=exrapidleech.info,badfilter
@@ -345,7 +337,6 @@ facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
 ||imasdk.googleapis.com^$important
 ||ahost.bulbagarden.net^
 *exoclick*$script,1p,important
-|https://$third-party,script,domain=milfzr.com,badfilter
 ||spot.im^$important
 ||torrentz2.eu^$csp=script-src 'self' 'unsafe-inline',badfilter
 ||prettyfast.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: ajax.googleapis.com ssl.p.jwpcdn.com *.googleusercontent.com
@@ -367,3 +358,4 @@ rapidvid.*,rapidvideo.*#@#+js(abort-current-inline-script.js, Math, zfgloaded)
 /videojs.ima.js$1p,script,important
 @@||1337x.to/torrent/$first-party,csp,badfilter
 ||1337x.to^$csp=script-src 'self' 'unsafe-inline',badfilter
+||momzr.com/related_videos_html/$1p,xmlhttprequest
