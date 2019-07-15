@@ -251,7 +251,7 @@ readcomiconline.to###fl-ads.rf-container
 -social-media-$image,badfilter
 /\.com\/.*[a-f0-9]{110}/$third-party,image,domain=~parship.com|~aliexpress.com|~alipay.com|~bilibili.com|~namu.wiki|~fastmail.com,badfilter
 ||kvideo.io^
-||animehub.ac^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: play.animehub.ac static.animecdn.xyz *.googlevideo.com *.googleusercontent.com *.streamx.live
+||animehub.ac^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: play.animehub.ac static.animecdn.xyz *.googlevideo.com *.googleusercontent.com embed.streamx.live
 @@||office365.com^*/adbar.js$badfilter
 ||adshark.site^
 /^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ee]xternal|[Ii]mages|[Ss]cripts|[Uu]ploads|ac|ajax|assets|combined|content|cov|cover|(img\/bg)|(img\/icon)|inc|jwplayer|player|playlist-cat-rss|static|thumbs|wp-content|wp-includes)\/)(.*)/$first-party,script,badfilter
@@ -298,7 +298,7 @@ dnsleaktest.com##.sponsor
 @@||$generichide,domain=animehub.ac|myanimelist.net|fmovies.to|screenrant.com|kimcartoon.to|ghacks.net|animenewsnetwork.com
 ||localhost^$third-party
 ||kimcartoon.to^$csp=script-src 'self' * 'unsafe-inline',badfilter
-||streamx.live^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.googlevideo.com *.openstream.io ajax.googleapis.com hydrax.net *.hydrax.net iamcdn.net *.iamcdn.net *.hailhydra.org *.googleusercontent.com cdn.jwplayer.com ssl.p.jwpcdn.com *.bighost.be
+||embed.streamx.live^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.googlevideo.com *.openstream.io *.googleapis.com hydrax.net *.hydrax.net iamcdn.net *.iamcdn.net *.hailhydra.org *.googleusercontent.com cdn.jwplayer.com ssl.p.jwpcdn.com *.bighost.be
 screenrant.com##+js(remove-attr, onclick)
 @@||munchkin.marketo.net/munchkin.js$badfilter
 @@||kimcartoon.to^$csp=script-src 'self' * 'unsafe-inline',badfilter
