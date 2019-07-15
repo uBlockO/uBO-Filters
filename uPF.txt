@@ -139,7 +139,6 @@ ad.*^$first-party
 animenewsnetwork.com###cover_image, .floating-image, .box.alert, #infinite-scroll-outlet, .spaceRow, #prompt-message, .social-button, .ezoic-ad
 ||animenewsnetwork.com/logger.performance^$1p
 ||animenewsnetwork.com/sponsor/$1p
-||1337x.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval';img-src *
 ||typekit.net^
 @@||ox-d.bannertrack.net/auid=$badfilter
 @@||google.com/adsense/start/images/favicon.ico$badfilter
