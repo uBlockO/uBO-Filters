@@ -362,3 +362,4 @@ crunchyroll.com##+js(setInterval-defuser, onAdVideoStart)
 ||1337x.*^$csp=upgrade-insecure-requests
 hollywoodreporter.com##.autoload-spinner, .blog-post-thr-newsletter-section, .speedbump-carousel
 @@/advertisement.js$script,badfilter
+||hollywoodreporter.com/fe_data/$1p,xmlhttprequest
