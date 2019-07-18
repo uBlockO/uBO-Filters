@@ -1,4 +1,4 @@
-[uBlock Origin 1.20.3rc6]
+[uBlock Origin 1.21.1b0]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -356,6 +356,7 @@ rapidvid.*,rapidvideo.*#@#+js(abort-current-inline-script.js, Math, zfgloaded)
 @@||1337x.to/torrent/$first-party,csp,badfilter
 ||1337x.to^$csp=script-src 'self' 'unsafe-inline',badfilter
 ||momzr.com/related_videos_html/$1p,xmlhttprequest
+momzr.com##.table
 crunchyroll.com##+js(setInterval-defuser, onAdVideoStart)
 @@||1337x.to/home/$first-party,csp,badfilter
 ||1337x.*^$csp=upgrade-insecure-requests
