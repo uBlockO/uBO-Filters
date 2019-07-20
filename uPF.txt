@@ -16,8 +16,6 @@ screenrant.com##.social, .video-block-main.video-block, .sg-sharing-option, .ad-
 kissanime.ru###btnShowComments, strong, .videoAdClose, .divCloseBut, .bigBarContainer div[id^="adsIfrme"], .adsPositioning,[style*="width: 300px; height: 250px"]  
 ||mgid.com^$important
 ||sharethis.com^$important
-||openload.co/reward^$xmlhttprequest,important
-||oload.*/reward^$xmlhttprequest,important
 ||taboola.com^$important
 cbr.com##.i-comment.icon.btn-comment-article, .right-content.footer-content, .social-title, .is-visible.w-sticky-header, load-wrap.ajaxLoader, .comment, .author-tag-block, .embed-related-block, .video-block-ads.video-block, .related-section, .injected-video-by-load, .quiz.browse-content, .video.browse-content, .quiz-share-btn-wrapper, .section-right, #secondary, .sharing-option, .ad-zone-container, .social-account-links, .footer-social-list, .footer-brands, .w-sharing, .nav-social, .header-premium-zone, .premium-promo
 ||cbr.com/wp-content/themes/cbr/ajax-action.php?action=loadMorePost&ajax_post_id=*&hash=*$xmlhttprequest
@@ -147,7 +145,7 @@ animenewsnetwork.com###cover_image, .floating-image, .box.alert, #infinite-scrol
 ||exoclick.com^$important
 ||exosrv.com^$important
 @@||google.*/ads/$third-party,image,badfilter
-pornhub.com,oload.*,openload.*##+js(addEventListener-defuser, contextmenu)
+pornhub.*,openload.*##+js(addEventListener-defuser, contextmenu)
 ||facebook.com/video/*/upnext^$xmlhttprequest
 ||rapidvideo.com^$script,badfilter
 @@||kisshentai.net/content/js/adframe.js^$badfilter
@@ -200,7 +198,7 @@ hanime.tv/*/user_comments^$1p
 ||screenrant.com^$csp=default-src 'self' 'unsafe-inline' data: 'unsafe-eval' *.srcdn.com ajax.googleapis.com www.youtube.com *.ytimg.com
 /\.(watchcartoononline|9anime|memecenter).*\/.*[(&|=|%|\/|?)]/$image,badfilter
 @@/advert.js$script,badfilter
-openload.*,oload.*##+js(eclick, #videooverlay)
+openload.*##+js(eclick, #videooverlay)
 |https://$xmlhttprequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
 @@||9anime.is/assets/player/jwplayer-*/jwplayer.js$badfilter
 ||mellowads.com^$important
@@ -365,3 +363,4 @@ hollywoodreporter.com##.autoload-spinner, .blog-post-thr-newsletter-section, .sp
 ||hollywoodreporter.com/fe_data/$1p,xmlhttprequest
 @@||1337x.to/top-100$first-party,csp,badfilter
 9anime.*#@#+js(abort-current-inline-script.js, Math, zfgloaded)
+oload.*##body > div:nth-of-type(2)
