@@ -349,7 +349,7 @@ facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
 *clid=$1p,document,important
 @@||p.jwpcdn.com^$third-party,script,badfilter
 rapidvid.*,rapidvideo.*#@#+js(abort-current-inline-script.js, Math, zfgloaded)
-/genads.php$1p,domain=rapidvideo.com|rapidvid.to,important
+/genads.php$1p,domain=rapidvideo.com|rapidvid.to|rapidvideo.is,important
 /videojs.ima.js$1p,script,important
 @@||1337x.to/torrent/$first-party,csp,badfilter
 ||1337x.to^$csp=script-src 'self' 'unsafe-inline',badfilter
@@ -364,3 +364,4 @@ hollywoodreporter.com##.autoload-spinner, .blog-post-thr-newsletter-section, .sp
 @@||1337x.to/top-100$first-party,csp,badfilter
 9anime.*#@#+js(abort-current-inline-script.js, Math, zfgloaded)
 oload.*##body > div:nth-of-type(2)
+movieweb.com##.nav-message, .facebook
