@@ -348,7 +348,7 @@ rapidvid.*,rapidvideo.*#@#+js(abort-current-inline-script.js, Math, zfgloaded)
 /videojs.ima.js$1p,script,important
 @@||1337x.to/torrent/$first-party,csp,badfilter
 ||1337x.to^$csp=script-src 'self' 'unsafe-inline',badfilter
-||momzr.com/related_videos_html/$1p,xmlhttprequest
+||momzr.com/*.php^$1p
 momzr.com##.table
 crunchyroll.com##+js(setInterval-defuser, onAdVideoStart)
 @@||1337x.to/home/$first-party,csp,badfilter
