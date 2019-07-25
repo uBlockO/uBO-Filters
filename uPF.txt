@@ -358,7 +358,6 @@ hollywoodreporter.com##.autoload-spinner, .blog-post-thr-newsletter-section, .sp
 @@/advertisement.js$script,badfilter
 ||hollywoodreporter.com/fe_data/$1p,xmlhttprequest
 @@||1337x.to/top-100$first-party,csp,badfilter
-9anime.*#@#+js(abort-current-inline-script.js, Math, zfgloaded)
 kissanime.*#@#+js(set-constant, check_adblock, true)
 oload.*##body > div:nth-of-type(2)
 movieweb.com##.nav-message, .facebook
