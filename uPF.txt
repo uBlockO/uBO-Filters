@@ -290,7 +290,6 @@ dnsleaktest.com##.sponsor
 ||localhost^$third-party
 ||kimcartoon.to^$csp=script-src 'self' * 'unsafe-inline',badfilter
 ||embed.streamx.live^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.googlevideo.com *.openstream.io *.googleapis.com hydrax.net *.hydrax.net iamcdn.net *.iamcdn.net *.hailhydra.org *.googleusercontent.com cdn.jwplayer.com ssl.p.jwpcdn.com *.bighost.be
-screenrant.com##+js(remove-attr, onclick)
 @@||munchkin.marketo.net/munchkin.js$badfilter
 @@||kimcartoon.to^$csp=script-src 'self' * 'unsafe-inline',badfilter
 @@||mail.google.com^*&view=ad&$xmlhttprequest,badfilter
