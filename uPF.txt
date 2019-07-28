@@ -359,3 +359,4 @@ hollywoodreporter.com##.autoload-spinner, .blog-post-thr-newsletter-section, .sp
 kissanime.*#@#+js(set-constant, check_adblock, true)
 oload.*##body > div:nth-of-type(2)
 movieweb.com##.nav-message, .facebook
+||katcr.co^$csp=script-src 'self' 'unsafe-inline',badfilter
