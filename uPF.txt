@@ -62,12 +62,11 @@ speedtest.net##.high-placeholder.pure-u-1, .u-c.pure-u-custom-ad-rectangle, .u-c
 kimcartoon.to##.w-right, #hideAds, .videoAdClose, .kcAds, .alert-info.alert, .mb15.full, #btnShowComments, #videoAd, #divComments, #disqus_thread, .twitter-follow-button, [id*="ScriptRoot"], .adbWarnContainer
 *analytics*$1p,important
 mega.nz##.ads-left-block, .ads-right-block, .active.top-login-warning, .red.download-button.button, .checkbox-bl.download
-||fmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream oload.biz *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to *.bp.blogspot.com;upgrade-insecure-requests
+||fmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.rapidvid.to *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream oload.biz *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to *.bp.blogspot.com;upgrade-insecure-requests
 ||ffmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net prettyfast.to;upgrade-insecure-requests
-||bmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net prettyfast.to;upgrade-insecure-requests
 ||9anime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.akacdn.ru *.blogspot.com *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com *.rapidvideo.com *.rapidvid.to *.playercdn.net openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to streamango.com *.fruithosted.net *.mp4upload.com prettyfast.to;upgrade-insecure-requests
-||putlockertv.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net prettyfast.to;upgrade-insecure-requests
-||solarmoviex.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.blogspot.com *.rapidvideo.com *.rapidvideo.is *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com streamango.com *.fruithosted.net prettyfast.to;upgrade-insecure-requests
+||putlockertv.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bp.blogspot.com *.rapidvid.to *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to;upgrade-insecure-requests
+||solarmoviex.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bp.blogspot.com *.rapidvid.to *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to;upgrade-insecure-requests
 /endscreen$script,domain=youtube.com
 ||fmovies.is^$first-party,popup,badfilter
 ||fmovies.is^$xmlhttprequest,domain=fmovies.is,badfilter
@@ -129,7 +128,7 @@ facebook.com##._4-u2:has-text(Page stories you may like)
 ||rapidvideo.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.rapidvideo.com *.playercdn.net;upgrade-insecure-requests
 ||rapidvid.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: static.rapidvideo.com *.playercdn.net cdnjs.cloudflare.com;upgrade-insecure-requests
 @@||akamaihd.net^*/ad*.js$script,badfilter
-ffmovies.*,bmovies.*,putlockertv.*,solarmoviex.to,123movies0.com##+js(abort-current-inline-script, decodeURIComponent, zfgloadedpopup)
+ffmovies.*,putlockertv.*,solarmoviex.to,123movies0.com##+js(abort-current-inline-script, decodeURIComponent, zfgloadedpopup)
 ad.*^$first-party
 ||animenewsnetwork.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com platform.twitter.com *.twimg.com www.animenewsnetwork.com cdn.animenewsnetwork.com
 animenewsnetwork.com###cover_image, .floating-image, .box.alert, #infinite-scroll-outlet, .spaceRow, #prompt-message, .social-button, .ezoic-ad
@@ -254,8 +253,7 @@ readcomiconline.to###fl-ads.rf-container
 9anime.*/*/jwplayer-*/$script
 @@||9anime.to/assets^$badfilter
 /\.com\/.*[a-f0-9]{110}/$third-party,image,domain=~parship.com|~feedbin.com|~aliexpress.com|~alipay.com|~bilibili.com|~namu.wiki|~fastmail.com,badfilter
-bmovies.club##.hd-buttons, .alert, #comment, [href^="https://twitter.com/"]  
-@@||kissmanga.com/ads/*.aspx$badfilter
+ @@||kissmanga.com/ads/*.aspx$badfilter
 @@||kissmanga.com/ads/adprotect$first-party,subdocument,badfilter
 ||hanime.tv^$csp=upgrade-insecure-requests
 kissmanga.com##+js(setTimeout-defuser, /YANABWEKA|HATEDBSDIDSY/)
