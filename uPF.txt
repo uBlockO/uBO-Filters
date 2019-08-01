@@ -346,7 +346,6 @@ rapidvid.*,rapidvideo.*#@#+js(abort-current-inline-script.js, Math, zfgloaded)
 ||momzr.com/*.php$1p
 ||momzr.com/related_videos_html/$1p
 momzr.com##.table
-crunchyroll.com##+js(setInterval-defuser, onAdVideoStart)
 @@||1337x.to/home/$first-party,csp,badfilter
 ||1337x.*^$csp=upgrade-insecure-requests
 hollywoodreporter.com##.autoload-spinner, .blog-post-thr-newsletter-section, .speedbump-carousel
