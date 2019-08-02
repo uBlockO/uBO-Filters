@@ -338,7 +338,6 @@ facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
 ||easylist.club^$important
 *clid=$1p,document,important
 @@||p.jwpcdn.com^$third-party,script,badfilter
-rapidvid.*,rapidvideo.*#@#+js(abort-current-inline-script.js, Math, zfgloaded)
 /genads.php$1p,domain=rapidvideo.com|rapidvid.to|rapidvideo.is,important
 /videojs.ima.js$1p,script,important
 @@||1337x.to/torrent/$first-party,csp,badfilter
