@@ -324,7 +324,7 @@ facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
 *exoclick*$script,1p,important
 ||spot.im^$important
 ||torrentz2.eu^$csp=script-src 'self' 'unsafe-inline',badfilter
-||prettyfast.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: ajax.googleapis.com ssl.p.jwpcdn.com *.googleusercontent.com
+||prettyfast.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: ajax.googleapis.com ssl.p.jwpcdn.com *.akacdn.ru *.googleusercontent.com
 4anime.to##+js(tog-attr, preload, video)
 4anime.to##+js(addEventListener-defuser, wheel)
 4anime.to##+js(eclick, .changeexpandtext)
