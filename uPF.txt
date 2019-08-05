@@ -1,4 +1,4 @@
-[uBlock Origin 1.21.7b2]
+[uBlock Origin 1.21.7b3]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -308,9 +308,7 @@ youtube.com###watch-action-panels, #chat, .ytp-ce-covering-overlay, .subscribeca
 @@||9anime.*/assets/$first-party,script,badfilter
 ||9anime.*^$first-party,script,badfilter
 @@||client-event-reporter.twitch.tv^$xmlhttprequest,domain=twitch.tv,badfilter
-!#if !env_firefox
-animehub.ac##+js(remove-inline-script, /zfgloaded|onError/)
-!#endif
+animehub.ac##+js(ris, /zfgloaded|onError/)
 animehub.ac##+js(eclick, .gc-expand.gc-icon)
 ||comicbook.com/article/json^$1p,xhr
 ||discordapp.com/widget^$important
