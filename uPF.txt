@@ -308,7 +308,7 @@ youtube.com###watch-action-panels, #chat, .ytp-ce-covering-overlay, .subscribeca
 @@||9anime.*/assets/$first-party,script,badfilter
 ||9anime.*^$first-party,script,badfilter
 @@||client-event-reporter.twitch.tv^$xmlhttprequest,domain=twitch.tv,badfilter
-animehub.ac##+js(remove-inline-script, /zfgloaded|onError/)
+animehub.ac##+js(rm-js, /zfgloaded|onError/)
 animehub.ac##+js(eclick, .gc-expand.gc-icon)
 ||comicbook.com/article/json^$1p,xhr
 ||discordapp.com/widget^$important
