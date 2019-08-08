@@ -195,7 +195,6 @@ hanime.tv/*/user_comments^$1p
 ||screenrant.com^$csp=default-src 'self' 'unsafe-inline' data: 'unsafe-eval' *.srcdn.com ajax.googleapis.com www.youtube.com *.ytimg.com
 /\.(watchcartoononline|9anime|memecenter).*\/.*[(&|=|%|\/|?)]/$image,badfilter
 @@/advert.js$script,badfilter
-openload.*,oload.*##+js(eclick, #videooverlay)
 |https://$xmlhttprequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
 @@||9anime.is/assets/player/jwplayer-*/jwplayer.js$badfilter
 ||mellowads.com^$important
