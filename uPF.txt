@@ -1,4 +1,4 @@
-[uBlock Origin 1.21.7b3]
+[uBlock Origin 1.21.7b4]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -247,7 +247,6 @@ readcomiconline.to###fl-ads.rf-container
 ||adshark.site^
 /^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ee]xternal|[Ii]mages|[Ss]cripts|[Uu]ploads|ac|ajax|assets|combined|content|cov|cover|(img\/bg)|(img\/icon)|inc|jwplayer|player|playlist-cat-rss|static|thumbs|wp-content|wp-includes)\/)(.*)/$first-party,script,badfilter
 /^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ss]cripts|[Uu]ploads|[Ii]mages|combined|content|cover|img|static|wp-content|wp-includes))(.*)/$first-party,other,badfilter
-9anime.*##+js(eclick, .resize.control.tip.hidden-sm.hidden-xs)
 @@||9anime.to/ajax/$badfilter
 @@||9anime.to/user/ajax/$badfilter
 9anime.*/*/jwplayer-*/$script
@@ -257,7 +256,6 @@ readcomiconline.to###fl-ads.rf-container
 @@||kissmanga.com/ads/adprotect$first-party,subdocument,badfilter
 ||hanime.tv^$csp=upgrade-insecure-requests
 kissmanga.com##+js(setTimeout-defuser, /YANABWEKA|HATEDBSDIDSY/)
-kimcartoon.to##+js(eclick.js, #expand)
 ffmovies.*##.hd-buttons.row, .alert, #comment, #tags, [href^="https://twitter.com/"]
 *$csp=script-src 'self' * data: 'unsafe-inline' 'unsafe-eval',domain=pornhub.com|xhamster.com|youporn.com,badfilter
 howtogeek.com##.email, .facebook, .twitter, .rss, #small, .entry-meta > span > span, .third.footer-col
@@ -309,7 +307,6 @@ youtube.com###watch-action-panels, #chat, .ytp-ce-covering-overlay, .subscribeca
 ||9anime.*^$first-party,script,badfilter
 @@||client-event-reporter.twitch.tv^$xmlhttprequest,domain=twitch.tv,badfilter
 animehub.ac##+js(rm-js, /zfgloaded|onError/)
-animehub.ac##+js(eclick, .gc-expand.gc-icon)
 ||comicbook.com/article/json^$1p,xhr
 ||discordapp.com/widget^$important
 quora.com##[rel="noopener nofollow"] > div > div:nth-ancestor(5)
@@ -325,7 +322,6 @@ facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
 ||prettyfast.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: ajax.googleapis.com ssl.p.jwpcdn.com *.akacdn.ru *.googleusercontent.com
 4anime.to##+js(tog-attr, preload, video)
 4anime.to##+js(addEventListener-defuser, wheel)
-4anime.to##+js(eclick, .changeexpandtext)
 ||4anime.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: ajax.googleapis.com *.4animu.me
 4anime.to##.comments-block
 */asset/rev/$important,xmlhttprequest,domain=luxubu.review|novelplanet.me
