@@ -349,3 +349,5 @@ movieweb.com##.nav-message, .facebook
 ||data.microsoft.com^$important
 truecaller.com##.absolute.flex, .ad
 developer.mozilla.org##+js(eremove, .mdn-cta-container\, .notification-tray)
+reddit.com##+js(eremove, #redesign-beta-optin-btn)
+||redditstatic.com/_chat$script
