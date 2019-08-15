@@ -153,7 +153,7 @@ pornhub.*,openload.*##+js(addEventListener-defuser, contextmenu)
 ||crwdcntrl.net^$important
 ||amazon-adsystem.com^$important
 @@||ajax.cloudflare.com/cdn-cgi/scripts/$third-party,script,badfilter
-ghacks.net##.ghacks_share_widget, .category-deals, .ghacks_this_day, .ghacks_popular, .ghacks_last_updated, #post-author, #snippet-box, .ghacks-ad, .cookie-notice-container, [href^="https://deals.ghacks.net/"]    
+ghacks.net##+js(eremove, .ghacks_share_widget\, .category-deals\, .ghacks_this_day\, .ghacks_popular\, .ghacks_last_updated\, #post-author\, #snippet-box\, .ghacks-ad\, .cookie-notice-container\, [href^="https://deals.ghacks.net/"])  
 ghacks.net##.mt--40.pt--40.border--top--gray:has([href*="paypal"]) 
 ||openload.co/r3/f^$1p
 hanime.tv,openload.*##+js(addEventListener-defuser, wheel)
