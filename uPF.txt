@@ -349,5 +349,5 @@ movieweb.com##.nav-message, .facebook
 ||thepiratebay.org^$script,badfilter
 ||thepiratebay.$script,domain=ahoypirate.in|bayception.pw|cruzing.xyz|mirror.superproxy.biz|mypirate.cc|noobnoob.rocks|piratebay.tel|piratebay.town|piratebay1.top|piratebayblocked.com|pirateproxy.ch|pirateproxy.live|pirateproxy.rocks|proxyfrom.asia|proxyindia.net|superbay.link|superproxy.biz|thehiddenbay.com|thepiratebay.cr|thepiratebay.kiwi|thepiratebay.org|thepiratebay.vip|tpb.hid.li|tpb6.ukpass.co|tpbproxyone.org|unblockpirate.uk|unblocktheship.org,badfilter
 ||data.microsoft.com^$important
-truecaller.com##+js(eremove, .absolute.flex\, .ad)
+truecaller.com##.absolute.flex, .ad
 developer.mozilla.org##+js(eremove, .mdn-cta-container\, .notification-tray)
