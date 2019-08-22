@@ -254,7 +254,7 @@ readcomiconline.to###fl-ads.rf-container
  @@||kissmanga.com/ads/*.aspx$badfilter
 @@||kissmanga.com/ads/adprotect$first-party,subdocument,badfilter
 ||hanime.tv^$csp=upgrade-insecure-requests
-kissmanga.com##+js(setTimeout-defuser-if, !/YANABWEKA|HATEDBSDIDSY/)
+kissmanga.com##+js(setTimeout-if, !/YANABWEKA|HATEDBSDIDSY/)
 ffmovies.*##.hd-buttons.row, .alert, #comment, #tags, [href^="https://twitter.com/"]
 *$csp=script-src 'self' * data: 'unsafe-inline' 'unsafe-eval',domain=pornhub.com|xhamster.com|youporn.com,badfilter
 howtogeek.com##.email, .facebook, .twitter, .rss, #small, .entry-meta > span > span, .third.footer-col
