@@ -269,7 +269,7 @@ hanime.tv##+js(cookie-set, in_d4, 1, 2114785965)
 ||googletagservices.com^$important
 ||googletagmanager.com^$important
 ||scorecardresearch.com^$important
-youtube.com###dismissable:has-text(Recommended channel for you)
+youtube.com###dismissable:has-text(Recommended channel)
 torrentz2.*##.alert-danger, #resultarea, [href*="/lorem"], .downlinks > dl:nth-of-type(1) > dd, .NonToleratedds
 ||mcloud.to/log^$1p
 |https://$xmlhttprequest,domain=dwatchseries.to|swatchseries.to|thewatchseries.ac|unblckd.org|watchseries.sk,badfilter
