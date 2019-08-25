@@ -356,3 +356,6 @@ reddit.com##+js(eremove, #redesign-beta-optin-btn)
 !#if env_firefox
 github.com##^.js-notice-dismiss
 !#endif
+@@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$badfilter
+@@/adblockdetector.min.js$badfilter
+@@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$first-party,script,badfilter
