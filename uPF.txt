@@ -359,3 +359,4 @@ github.com##^.js-notice-dismiss
 @@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$badfilter
 @@/adblockdetector.min.js$badfilter
 @@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$first-party,script,badfilter
+||best.momzr.com^
