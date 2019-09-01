@@ -13,7 +13,7 @@ pornhub.*###under-player-comments, #welcome, .abovePlayer, .clear.hd.jisfhp0w2u,
 screenrant.com##.social, .video-block-main.video-block, .sg-sharing-option, .ad-zone-container, .twitter.icon, .nav-social-list, #js-tp-menu-btn, .footer-brands, .footer-social-list, .w-sharing, .art-body-sharing, .article-tags, .w-fb-like, .premium-promo, .w-injected-featured, .w-newsletter-signup, .w-btn-j, .tldr-btn-category, .tldr-btn-section, .w-injected-video  
 ||chatango.com^$important
 ||disquscdn.com^$important
-kissanime.ru###btnShowComments, strong, .videoAdClose, .divCloseBut, .bigBarContainer div[id^="adsIfrme"], .adsPositioning,[style*="width: 300px; height: 250px"]  
+kissanime.ru###btnShowComments, strong, .videoAdClose, .divCloseBut, .bigBarContainer div[id^="adsIfrme"], .adsPositioning,[style*="width: 300px; height: 250px"], [href^="http://kissanime.ru/ads/"]
 ||mgid.com^$important
 ||sharethis.com^$important
 ||taboola.com^$important
