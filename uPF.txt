@@ -351,7 +351,7 @@ movieweb.com##.nav-message, .facebook
 ||data.microsoft.com^$important
 truecaller.com##.absolute.flex, .ad, [href*="premium"]
 developer.mozilla.org##+js(eremove, .mdn-cta-container\, .notification-tray)
-reddit.com##+js(eremove, #redesign-beta-optin-btn)
+reddit.com##+js(eremove, #redesign-beta-optin-btn\, .comment-visits-box)
 ||redditstatic.com/_chat$script
 !#if env_firefox
 github.com##^.js-notice-dismiss
