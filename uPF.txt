@@ -352,7 +352,7 @@ movieweb.com##.nav-message, .facebook
 truecaller.com##.absolute.flex, .ad, [href*="premium"]
 developer.mozilla.org##+js(eremove, .mdn-cta-container\, .notification-tray)
 reddit.com##+js(eremove, #redesign-beta-optin-btn\, .comment-visits-box)
-reddit.com##+js(remove-div, adblock)
+reddit.com##+js(remove-div, adblock-test)
 ||redditstatic.com/_chat$script
 !#if env_firefox
 github.com##^.js-notice-dismiss
