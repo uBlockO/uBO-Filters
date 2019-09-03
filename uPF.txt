@@ -116,7 +116,7 @@ thepiratebay.org###adrestop
 pornhub.*##+js(abort-on-property-read, userABMessage)
 /\.com\/.*[a-f0-9]{110}/$third-party,image,badfilter
 fmovies.*##.widget-title:has-text(Sponsored)
-||report-uri.com^
+||report-uri.com^$all,important
 @@||facebook.com/common/referer_frame.php$subdocument,domain=facebook.com,badfilter
 ||jwpcdn.com/*/related.js^$script,first-party
 @@||facebook.com/share/share_now_menu/$xmlhttprequest,domain=facebook.com,badfilter
