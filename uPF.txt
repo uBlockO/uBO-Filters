@@ -121,7 +121,6 @@ fmovies.*##.widget-title:has-text(Sponsored)
 ||jwpcdn.com/*/related.js^$script,first-party
 @@||facebook.com/share/share_now_menu/$xmlhttprequest,domain=facebook.com,badfilter
 @@||facebook.com/share/share_now_menu/$domain=facebook.com,badfilter
-kimcartoon.to##.barContent:has-text(fake)
 facebook.com##._31qy:has-text(related)
 facebook.com##._4-u2:has-text(Page stories you may like)
 |https://$third-party,script,domain=9anime.to,badfilter
