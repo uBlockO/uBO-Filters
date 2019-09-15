@@ -362,3 +362,4 @@ github.com##^.js-notice-dismiss
 ||best.momzr.com^
 ||pubmatic.com^$important
 |https://$third-party,script,domain=milfzr.com,badfilter
+boxofficemojo.com##object
