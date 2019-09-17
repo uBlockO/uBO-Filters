@@ -350,8 +350,7 @@ movieweb.com##.nav-message, .facebook
 ||data.microsoft.com^$important
 truecaller.com##.absolute.flex, .ad, [href*="premium"]
 developer.mozilla.org##+js(eremove, .mdn-cta-container\, .notification-tray)
-reddit.com##+js(eremove, #redesign-beta-optin-btn\, .comment-visits-box\, .promotedlink\, .premium-banner-outer)
-reddit.com##+js(remove-div-tag, adblock-test)
+reddit.com##+js(eremove, #redesign-beta-optin-btn\, .comment-visits-box\, .promotedlink\, .premium-banner-outer\, #adblock-test)
 ||redditstatic.com/_chat$script
 !#if env_firefox
 github.com##^.js-notice-dismiss
