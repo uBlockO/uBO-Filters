@@ -21,7 +21,7 @@ cbr.com##.i-comment.icon.btn-comment-article, .right-content.footer-content, .so
 ||cbr.com/wp-content/themes/cbr/ajax-action.php?action=loadMorePost&ajax_post_id=*&hash=*$xmlhttprequest
 torrentfreak.com##.comments.pbx-alt.pbx
 ||addthis.com^$important
-myanimelist.net##.banner-header-anime-straming, .footer-link-icon-block, .clearfix.index-watch-description, .btn-mal-service, .anime-detail-header-affiliate, .amazon, .anime_discussions.widget, .video-providers, .js-sns-icon-container, .icon-block-small.js-sns-icon-container, .promotional-video, .anime-detail-header-video, .mb4.di-ib, .fb-page, .root, [id^="div-gpt-ad"]
+myanimelist.net##.banner-header-anime-straming, .footer-link-icon-block, .clearfix.index-watch-description, .btn-mal-service, .anime-detail-header-affiliate, .amazon, .anime_discussions.widget, .video-providers, .js-sns-icon-container, .icon-block-small.js-sns-icon-container, .promotional-video, .anime-detail-header-video, .mb4.di-ib, .fb-page, .root, [id^="div-gpt-ad"], .watch-description
 ||googleadservices.com^$important
 *logpopup*$1p,important
 ||myanimelist.net/static/logging.html^$xmlhttprequest,1p
