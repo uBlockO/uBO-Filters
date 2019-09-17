@@ -362,3 +362,5 @@ github.com##^.js-notice-dismiss
 ||pubmatic.com^$important
 |https://$third-party,script,domain=milfzr.com,badfilter
 boxofficemojo.com##object
+/fuckadblock.js^$first-party,important,script
+/ads/*$first-party,important
