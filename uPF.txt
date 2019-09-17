@@ -1,4 +1,4 @@
-[uBlock Origin 1.22.3b3]
+[uBlock Origin 1.22.3b7]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -350,7 +350,7 @@ movieweb.com##.nav-message, .facebook
 ||data.microsoft.com^$important
 truecaller.com##.absolute.flex, .ad, [href*="premium"]
 developer.mozilla.org##+js(eremove, .mdn-cta-container\, .notification-tray)
-reddit.com##+js(eremove, #redesign-beta-optin-btn\, .comment-visits-box)
+reddit.com##+js(eremove, #redesign-beta-optin-btn\, .comment-visits-box\, .promotedlink)
 reddit.com##+js(remove-div-tag, adblock-test)
 ||redditstatic.com/_chat$script
 !#if env_firefox
