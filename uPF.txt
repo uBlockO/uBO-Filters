@@ -49,7 +49,7 @@ outlook.live.com##._n_15, [href^="http://"], [href^="https://aka.ms"], .ms-bgc-n
 @@||d3ujids68p6xmq.cloudfront.net^$script,badfilter
 *stats*$1p,important
 *log_event*$1p,important
-kisshentai.net##a[href="#"], #show_id, a[href^="https://theporndude.com/"], a[href^="http://kissdoujin.com/"], img[src^="https://theporndude.com/"]  
+kisshentai.net##[href="#"], #show_id, a[href^="https://theporndude.com/"], a[href^="http://kissdoujin.com/"], img[src^="https://theporndude.com/"]  
 ||kisshentai.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.stream *.oloadcdn.net streamcherry.com *.fruithosted.net cdn.myanimelist.net
 kisshentai.net##+js(set-prop, playVid, null)
 ||connect.facebook.net^$important
