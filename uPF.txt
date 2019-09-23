@@ -124,7 +124,7 @@ facebook.com##._4-u2:has-text(Page stories you may like)
 ||rapidvid.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: static.rapidvideo.com *.playercdn.net cdnjs.cloudflare.com;upgrade-insecure-requests
 @@||akamaihd.net^*/ad*.js$script,badfilter
 ffmovies.*,putlockertv.*,solarmoviex.to,123movies0.com##+js(abort-current-inline-script, decodeURIComponent, zfgloadedpopup)
-ad.*^$first-party
+ad.*^$first-party,script
 ||animenewsnetwork.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com platform.twitter.com *.twimg.com www.animenewsnetwork.com cdn.animenewsnetwork.com
 animenewsnetwork.com###cover_image, .floating-image, .box.alert, #infinite-scroll-outlet, .spaceRow, #prompt-message, .social-button, .ezoic-ad
 ||animenewsnetwork.com/logger.performance^$1p
