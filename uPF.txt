@@ -315,7 +315,6 @@ facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
 ||youtube.com/comment_service_ajax?$domain=youtube.com,badfilter
 *vast-*$1p,script,important
 ||easylist.club^$important
-*clid=$1p,document,important
 @@||p.jwpcdn.com^$third-party,script,badfilter
 /genads.php$1p,domain=rapidvideo.com|rapidvid.to|rapidvideo.is,important
 /videojs.ima.js$1p,script,important
