@@ -35,7 +35,7 @@ facebook.com##.home_right_column, #page_tv_show_playlists, #pagelet_page_cover, 
 ||facebook.com/*/logging^$important,1p
 /annotations$script,first-party,domain=youtube.com
 9anime.*##.popover, #tags, .hd-buttons.row, #comment, .socials, .twitter-follow-button, .sticky, .comment, .share, .text-center.crop.widget, .text-center.widget, .azlist, .mb20, [href*="twitter.com"], .alert       
-fmovies.*##.alert, .text, .widget:nth-of-type(5), #tags, .hidden-sm.widget, .hd-buttons.row, .col-right, .widget:nth-of-type(4), [href*="twitter.com"], #comment, .socials, .twitter-follow-button, [href*="/redirect"], .streamhd     
+fmovies.*,ffmovies.*##.alert, .text, .widget:nth-of-type(5), #tags, .hidden-sm.widget, .hd-buttons.row, .col-right, .widget:nth-of-type(4), [href*="twitter.com"], #comment, .socials, .twitter-follow-button, [href*="/redirect"], .streamhd     
 solarmoviex.*,putlockertv.*##.hd-buttons.row, #tags, .alert, #comment
 ||contributor.google.com^$3p
 ||fundingchoicesmessages.google.com^$3p
@@ -235,7 +235,6 @@ kissmanga.com###aCurr, .clear2, .specialButton
  @@||kissmanga.com/ads/*.aspx$badfilter
 @@||kissmanga.com/ads/adprotect$first-party,subdocument,badfilter
 ||hanime.tv^$csp=upgrade-insecure-requests
-ffmovies.*##.hd-buttons.row, .alert, #comment, #tags, [href^="https://twitter.com/"]
 *$csp=script-src 'self' * data: 'unsafe-inline' 'unsafe-eval',domain=pornhub.com|xhamster.com|youporn.com,badfilter
 howtogeek.com##.email, .facebook, .twitter, .rss, #small, .entry-meta > span > span, .third.footer-col
 animehub.ac##.gc-comments, .gc-share, .footer-follow, .dialog-ovelay, .block-share, .comments, .go-full > .alert-danger.alert, .footer-az, .footer-anime, .sb-subs, .goblock:nth-of-type(10) > .goblock-content
