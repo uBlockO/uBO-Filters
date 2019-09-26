@@ -1,4 +1,4 @@
-[uBlock Origin 1.22.3b16]
+[uBlock Origin 1.22.3b18]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -7,12 +7,10 @@
 ||2mdn.net^$important
 /generate_204$other
 ||disqus.com^$important
-||segment.com^$important
+||segment.com^$3p,important
 ||doubleclick.net^$important
 pornhub.*##+js(eremove, #under-player-comments\, #welcome\, .abovePlayer\, .clear.hd.jisfhp0w2u\, .adlink2\, .kzpcaw\, .streamatesModelsContainer.sectionWrapper\, #under-player-playlists\, .underplayer-thumbs.videos\, .item-6.menu\, .nf-wrapper > .sectionWrapper\, #pb_template\, .clear.hd\, .fadeInMTubes\, .sniperModeEngaged)
 screenrant.com##+js(eremove, .social\, .video-block-main.video-block\, .sg-sharing-option\, .ad-zone-container\, .twitter.icon\, .nav-social-list\, #js-tp-menu-btn\, .footer-brands\, .footer-social-list\, .w-sharing\, .art-body-sharing\, .article-tags\, .w-fb-like\, .premium-promo\, .w-injected-featured\, .w-newsletter-signup\, .w-btn-j\, .tldr-btn-category\, .tldr-btn-section\, .w-injected-video)  
-||chatango.com^$important
-||disquscdn.com^$important
 kissanime.ru###btnShowComments, strong, .videoAdClose, .divCloseBut, .bigBarContainer div[id^="adsIfrme"], .adsPositioning,[style*="width: 300px; height: 250px"], [href*="/ads/"]
 ||mgid.com^$important
 ||sharethis.com^$important
@@ -189,16 +187,9 @@ hanime.tv/*/user_comments^$1p
 @@/advert.js$script,badfilter
 |https://$xmlhttprequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
 @@||9anime.is/assets/player/jwplayer-*/jwplayer.js$badfilter
-||mellowads.com^$important
 ||cse.google.com^$important
-||twitter.com^$third-party,important
-||yahoo.com^$third-party,important
 ||doubleclickbygoogle.com^$important
-||adnetasia.com^$important
-||gravatar.com^$important
 ||streamango.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.streamango.com *.fruithosted.net cdnjs.cloudflare.com;upgrade-insecure-requests
-||revcontent.com^$important
-||clksite.com^$important
 @@||9anime.is/assets/player/jwplayer-7.12.3/jwplayer.js$script,badfilter
 @@/wp-content/*/adve*.js$script,badfilter
 animenewsnetwork.com##.box.herald:has([href*="/advert"])
@@ -335,12 +326,11 @@ movieweb.com##.nav-message, .facebook
 truecaller.com##.absolute.flex, .ad, [href*="premium"]
 developer.mozilla.org##+js(eremove, .mdn-cta-container\, .notification-tray)
 reddit.com##+js(eremove, #redesign-beta-optin-btn\, .comment-visits-box\, .promotedlink\, .premium-banner-outer\, #adblock-test)
-||redditstatic.com/_chat$script
+||redditstatic.com/_chat$script,domain=reddit.com
 @@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$badfilter
 @@/adblockdetector.min.js$badfilter
 @@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$first-party,script,badfilter
-||best.momzr.com^
-||pubmatic.com^$important
+||best.momzr.com^$1p
 |https://$third-party,script,domain=milfzr.com,badfilter
 boxofficemojo.com##object
 /fuckadblock.js^$first-party,important,script
