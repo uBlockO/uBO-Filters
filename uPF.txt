@@ -115,8 +115,6 @@ fmovies.*##.widget-title:has-text(Sponsored)
 ||jwpcdn.com/*/related.js^$script,first-party
 @@||facebook.com/share/share_now_menu/$xmlhttprequest,domain=facebook.com,badfilter
 @@||facebook.com/share/share_now_menu/$domain=facebook.com,badfilter
-facebook.com##._31qy:has-text(related)
-facebook.com##._4-u2:has-text(Page stories you may like)
 |https://$third-party,script,domain=9anime.to,badfilter
 ||rapidvideo.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.rapidvideo.com *.playercdn.net;upgrade-insecure-requests
 ||rapidvid.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: static.rapidvideo.com *.playercdn.net cdnjs.cloudflare.com;upgrade-insecure-requests
@@ -153,7 +151,6 @@ streamango.com,oload.*##+js(addEventListener-defuser, DOMMouseScroll)
 ||torrentz2.*/*.php^$1p
 /detroitchicago$domain=animenewsnetwork.com
 facebook.com/ajax/typeahead/record_basic_metrics.php$1p
-facebook.com##._2a_2:has-text(Share)
 sw.js$script,first-party,domain=~mail.google.com
 /^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to|ebd\.cda\.pl|gamedor\.usermd\.net)\/).)*$/$subdocument,domain=a-o.ninja|centrum-dramy.pl|love-drama.pl|vidfile.net,badfilter
 /^((?!(^https?):\/\/(ajax\.googleapis\.com|cdnjs\.cloudflare\.com|vk\.com)\/).)*$/$script,third-party,domain=kinokrad.co,badfilter
@@ -343,3 +340,4 @@ $ping,1p,important
 @@||aniwatcher.com/adblock.js$badfilter
 @@||youbora.com/*/js/adapters/jwplayer$script,badfilter
 /unmentionableWithGA.js$script,1p
+facebook.com##[id^="hyperfeed_story_id"]:has-text(/Suggested for you|Stories/)
