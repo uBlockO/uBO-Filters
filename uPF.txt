@@ -342,3 +342,4 @@ $ping,1p,important
 @@||play.google.com/log?$xmlhttprequest,domain=google.com,badfilter
 @@||aniwatcher.com/adblock.js$badfilter
 @@||youbora.com/*/js/adapters/jwplayer$script,badfilter
+/unmentionableWithGA.js$script,1p
