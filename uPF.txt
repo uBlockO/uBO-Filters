@@ -340,4 +340,4 @@ $ping,1p,important
 @@||aniwatcher.com/adblock.js$badfilter
 @@||youbora.com/*/js/adapters/jwplayer$script,badfilter
 /unmentionableWithGA.js$script,1p
-facebook.com##[id^="hyperfeed_story_id"]:has-text(/Suggested for you|Stories/)
+facebook.com##[id^="hyperfeed_story_id"]:has-text(/Suggested|Stories/)
