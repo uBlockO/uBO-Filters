@@ -1,4 +1,4 @@
-[uBlock Origin 1.22.5b1]
+[uBlock Origin 1.22.5b2]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -27,7 +27,7 @@ promo-banner.js^$important,domain=pornhub.com
 /cdn-cgi/pe/bag2^$important
 abtesting$important,script,domain=fandom.com
 ||youtube.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.ggpht.com *.googlevideo.com *.ytimg.com *.googleusercontent.com www.youtube.com
-google.*###prm-pt, .b2hzT, .exp-outline, [id^="ed_"], [title*="Share"] 
+google.*##+js(eremove, #prm-pt\, .b2hzT\, .exp-outline\, [id^="ed_"]\, [title*="Share"])
 ||googlesyndication.com^$important
 */license$script,first-party,domain=openload.co|openload.pw
 */assets/*/script.*.js$script,first-party,domain=openload.co|openload.pw
