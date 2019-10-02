@@ -343,4 +343,3 @@ $ping,1p,important
 facebook.com##[id^="hyperfeed_story_id"]:has-text(/Suggested|Stories|Sponsored/)
 mp4upload.com##+js(aeld, /contextmenu|mousewheel/)
 mp4upload.com##+js(eremove, .vjs-logo\, #overlay\, .vjs-share-button\, .vjs-share-block\, #share_twitter\, #share_pinterest\, #share_facebook)
-||mp4upload.com/*.html^$subdocument
