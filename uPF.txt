@@ -1,4 +1,4 @@
-[uBlock Origin 1.22.5rc0]
+[uBlock Origin 1.22.5rc1]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -35,7 +35,7 @@ facebook.com##.home_right_column, #page_tv_show_playlists, #pagelet_page_cover, 
 ||facebook.com/*/logging^$important,1p
 /annotations$script,first-party,domain=youtube.com
 9anime.*##.popover, #tags, .hd-buttons.row, #comment, .socials, .twitter-follow-button, .sticky, .comment, .share, .text-center.crop.widget, .text-center.widget, .azlist, .mb20, [href*="twitter.com"], .alert       
-fmovies.*,ffmovies.*##+js(eremove, .alert\, .text\, .widget:nth-of-type(5)\, #tags\, .hidden-sm.widget\, .hd-buttons.row\, .col-right\, .widget:nth-of-type(4)\, [href*="twitter.com"]\, #comment\, .socials\, .twitter-follow-button\, [href*="/redirect"]\, .streamhd\, .stream4k.row\, .home-socials\, .addthis_native_toolbox\, #fb-root)
+fmovies.*,ffmovies.*##+js(eremove, .text\, .widget:nth-of-type(5)\, #tags\, .hidden-sm.widget\, .hd-buttons.row\, .col-right\, .widget:nth-of-type(4)\, [href*="twitter.com"]\, #comment\, .socials\, .twitter-follow-button\, [href*="/redirect"]\, .streamhd\, .stream4k.row\, .home-socials\, .addthis_native_toolbox\, #fb-root\, .alert[data-notify-position="top-right"])
 solarmoviex.*,putlockertv.*##.hd-buttons.row, #tags, .alert, #comment
 ||contributor.google.com^$3p
 ||fundingchoicesmessages.google.com^$3p
