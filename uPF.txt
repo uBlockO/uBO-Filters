@@ -34,7 +34,7 @@ google.*##+js(eremove, #prm-pt\, .b2hzT\, .exp-outline\, [id^="ed_"]\, [title*="
 facebook.com##.home_right_column, #page_tv_show_playlists, #pagelet_page_cover, #page_tv_show_extra_clips, #page_photos, .UFIList, .photoUfiContainer.rhc, #fb_stories_card_root
 ||facebook.com/*/logging^$important,1p
 /annotations$script,first-party,domain=youtube.com
-9anime.*##.popover, #tags, .hd-buttons.row, #comment, .socials, .twitter-follow-button, .sticky, .comment, .share, .text-center.crop.widget, .text-center.widget, .azlist, .mb20, [href*="twitter.com"], .alert       
+9anime.*##+js(eremove, .popover\, #tags\, .hd-buttons.row\, #comment\, .socials\, .twitter-follow-button\, .sticky\, .comment\, .share\, .text-center.crop.widget\, .text-center.widget\, .azlist\, .mb20\, [href*="twitter.com"]\, .alert)    
 fmovies.*,ffmovies.*##+js(eremove, .text\, .widget:nth-of-type(5)\, #tags\, .hidden-sm.widget\, .hd-buttons.row\, .col-right\, .widget:nth-of-type(4)\, [href*="twitter.com"]\, #comment\, .socials\, .twitter-follow-button\, [href*="/redirect"]\, .streamhd\, .stream4k.row\, .home-socials\, .addthis_native_toolbox\, #fb-root\, .alert[data-notify-position="top-right"]\, .hidden-xs.notice.alert-default.alert)
 solarmoviex.*,putlockertv.*##.hd-buttons.row, #tags, .alert, #comment
 ||contributor.google.com^$3p
