@@ -119,7 +119,7 @@ fmovies.*##.widget-title:has-text(Sponsored)
 ||rapidvideo.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.rapidvideo.com *.playercdn.net;upgrade-insecure-requests
 ||rapidvid.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: static.rapidvideo.com *.playercdn.net cdnjs.cloudflare.com;upgrade-insecure-requests
 @@||akamaihd.net^*/ad*.js$script,badfilter
-ffmovies.*,putlockertv.*,solarmoviex.to,123movies0.com##+js(acis, decodeURIComponent, zfgloaded)
+ffmovies.*,putlockertv.*,solarmoviex.to,123movies0.com##+js(remove-inline-script, zfgloaded)
 ad.*^$first-party,script
 ||animenewsnetwork.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com platform.twitter.com *.twimg.com www.animenewsnetwork.com cdn.animenewsnetwork.com
 animenewsnetwork.com###cover_image, .floating-image, .box.alert, #infinite-scroll-outlet, .spaceRow, #prompt-message, .social-button, .ezoic-ad
