@@ -336,4 +336,4 @@ mp4upload.com##+js(aeld, /contextmenu|mousewheel/)
 mp4upload.com##+js(eremove, .vjs-logo\, #overlay\, .vjs-share-button\, .vjs-share-block\, #share_twitter\, #share_pinterest\, #share_facebook)
 embed.streamx.live##+js(eremove, [button="share"]\, .afs_ads\, .jw-settings-sharing\, .jw-submenu-sharing)
 truecaller.com##+js(eremove, .absolute.flex\, .ad\, [href*="premium"]\, [id="app"] > footer + .pin-b\, span > .max-w-md.shadow-lg)
-/email-decode.min/*$script,1p
+/email-decode.min.js/*$script,1p
