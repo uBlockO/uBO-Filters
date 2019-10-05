@@ -11,13 +11,13 @@
 ||doubleclick.net^$important
 pornhub.*##+js(eremove, #under-player-comments\, #welcome\, .abovePlayer\, .clear.hd.jisfhp0w2u\, .adlink2\, .kzpcaw\, .streamatesModelsContainer.sectionWrapper\, #under-player-playlists\, .underplayer-thumbs.videos\, .item-6.menu\, .nf-wrapper > .sectionWrapper\, #pb_template\, .clear.hd\, .fadeInMTubes\, .sniperModeEngaged)
 screenrant.com##+js(eremove, .social\, .video-block-main.video-block\, .sg-sharing-option\, .ad-zone-container\, .twitter.icon\, .nav-social-list\, #js-tp-menu-btn\, .footer-brands\, .footer-social-list\, .w-sharing\, .art-body-sharing\, .article-tags\, .w-fb-like\, .premium-promo\, .w-injected-featured\, .w-newsletter-signup\, .w-btn-j\, .tldr-btn-category\, .tldr-btn-section\, .w-injected-video)  
-kissanime.ru###btnShowComments, strong, .videoAdClose, .divCloseBut, .bigBarContainer div[id^="adsIfrme"], .adsPositioning,[style*="width: 300px; height: 250px"], [href*="/ads/"]
+kissanime.ru##+js(eremove, #btnShowComments\, strong\, .videoAdClose\, .divCloseBut\, .bigBarContainer div[id^="adsIfrme"]\, .adsPositioning\, [style*="width: 300px; height: 250px"]\, [href*="/ads/"])
 ||mgid.com^$important
 ||sharethis.com^$important
 ||taboola.com^$important
 torrentfreak.com##.comments.pbx-alt.pbx
 ||addthis.com^$important
-myanimelist.net##.banner-header-anime-straming, .footer-link-icon-block, .clearfix.index-watch-description, .btn-mal-service, .anime-detail-header-affiliate, .amazon, .anime_discussions.widget, .video-providers, .js-sns-icon-container, .icon-block-small.js-sns-icon-container, .promotional-video, .anime-detail-header-video, .mb4.di-ib, .fb-page, .root, [id^="div-gpt-ad"], .watch-description
+myanimelist.net##+js(eremove, .banner-header-anime-straming\, .footer-link-icon-block\, .clearfix.index-watch-description\, .btn-mal-service\, .anime-detail-header-affiliate\, .amazon\, .anime_discussions.widget\, .video-providers\, .js-sns-icon-container\, .icon-block-small.js-sns-icon-container\, .promotional-video\, .anime-detail-header-video\, .mb4.di-ib\, .fb-page\, .root\, [id^="div-gpt-ad"]\, .watch-description)
 ||googleadservices.com^$important
 *logpopup*$1p,important
 ||myanimelist.net/static/logging.html^$xmlhttprequest,1p
@@ -31,7 +31,7 @@ google.*##+js(eremove, #prm-pt\, .b2hzT\, .exp-outline\, [id^="ed_"]\, [title*="
 ||googlesyndication.com^$important
 */license$script,first-party,domain=openload.co|openload.pw
 */assets/*/script.*.js$script,first-party,domain=openload.co|openload.pw
-facebook.com##.home_right_column, #page_tv_show_playlists, #pagelet_page_cover, #page_tv_show_extra_clips, #page_photos, .UFIList, .photoUfiContainer.rhc, #fb_stories_card_root
+facebook.com##+js(eremove, .home_right_column\, #page_tv_show_playlists\, #pagelet_page_cover\, #page_tv_show_extra_clips\, #page_photos\, .UFIList\, .photoUfiContainer.rhc\, #fb_stories_card_root)
 ||facebook.com/*/logging^$important,1p
 /annotations$script,first-party,domain=youtube.com
 9anime.*##+js(eremove, .popover\, #tags\, .hd-buttons.row\, #comment\, .comment.widget > .widget-title\, .comment.widget > .widget-body\, .socials\, .twitter-follow-button\, .sticky\, .share\, .text-center.crop.widget\, .text-center.widget\, .azlist\, .mb20\, [href*="twitter.com"]\, .alert\, #fb-root)    
@@ -42,7 +42,6 @@ thepiratebay.org,pornhub.*,nostream.ro,ffmovies.*##+js(window.open-defuser)
 !#if env_chromium
 github.com##+js(eremove, .survey-container\, .js-notice-dismiss)
 !#endif
-outlook.live.com##._n_15, [href^="http://"], [href^="https://aka.ms"], .ms-bgc-ns.flexCenterItems.flex._db_O
 @@||speedtest.net/javascript/jquery-*.min.js$badfilter
 @@||d3ujids68p6xmq.cloudfront.net^$script,badfilter
 *stats*$1p,important
@@ -83,10 +82,9 @@ mega.nz##+js(eremove, .ads-left-block\, .ads-right-block\, .active.top-login-war
 @@.png^$domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|chroniclelive.co.uk|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|everquest.allakhazam.com|financialpost.com|gofugyourself.com|hearthhead.com|ibtimes.com|idigitaltimes.com|infinitiev.com|latimes.com|leaderpost.com|legacy.com|lifewire.com|lolking.net|mcall.com|metacritic.com|montrealgazette.com|msn.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|stereogum.com|sun-sentinel.com|thebalance.com|theprovince.com|thespruce.com|thestarphoenix.com|thoughtco.com|timeanddate.com|tmn.today|torontosun.com|tvguide.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com|www.ign.com|zam.com,badfilter
 @@|http:$third-party,image,domain=baltimoresun.com|boston.com|calgaryherald.com|capitalgazette.com|carrollcountytimes.com|chicagotribune.com|chroniclelive.co.uk|citypaper.com|courant.com|dailypress.com|deathandtaxesmag.com|edmontonjournal.com|edmunds.com|everquest.allakhazam.com|financialpost.com|gofugyourself.com|hearthhead.com|ibtimes.com|idigitaltimes.com|infinitiev.com|latimes.com|leaderpost.com|legacy.com|lifewire.com|lolking.net|mcall.com|metacritic.com|montrealgazette.com|msn.com|nasdaq.com|nationalpost.com|orlandosentinel.com|ottawacitizen.com|ranker.com|sandiegouniontribune.com|saveur.com|sherdog.com|spin.com|sporcle.com|stereogum.com|sun-sentinel.com|thebalance.com|theprovince.com|thespruce.com|thestarphoenix.com|thoughtco.com|timeanddate.com|tmn.today|torontosun.com|tvguide.com|twincities.com|vagazette.com|vancouversun.com|vibe.com|windsorstar.com|wowhead.com|www.ign.com|zam.com,badfilter
 @@||openload.co/assets/js/script.*.js$domain=openload.co,badfilter
-||outlook.live.com^$csp=script-src 'self' 'unsafe-inline' *.office365.com 'unsafe-eval'
 @@||oload.tv/assets/js/script.*.js$badfilter
 @@||oload.tv/assets/js/license.*.js$badfilter
-thepiratebay.org###adrestop
+thepiratebay.org##+js(eremove, #adrestop)
 @@||googletagmanager.com/gtm.js?$domain=airasia.com|bhaskar.com|broadcom.com|computerworlduk.com|desigual.com|drumstick.com|ebuyer.com|elevationscu.com|gamepix.com|git-tower.com|google.com|itv.com|jobs.net|keygames.com|magicjack.com|moviefone.com|nestio.com|newsy.com|optus.com.au|rebtel.com|rockstargames.com|rollingstone.com|rozetka.com.ua|sixflags.com|support.amd.com|talktalk.co.uk|techradar.com|toto.co.jp|usmagazine.com,badfilter
 ||wibbitz.com^$3p
 @@||kisscartoon.*^$first-party,script,badfilter
