@@ -332,7 +332,7 @@ $ping,1p,important
 @@||youbora.com/*/js/adapters/jwplayer$script,badfilter
 /unmentionableWithGA.js$script,1p
 facebook.com##[id^="hyperfeed_story_id"]:has-text(/Suggested|Stories|Sponsored/)
-mp4upload.com##+js(aeld, /contextmenu|mousewheel/)
+mp4upload.com##+js(aeld, /contextmenu|mousewheel|DOMMouseScroll/)
 mp4upload.com##+js(eremove, .vjs-logo\, #overlay\, .vjs-share-button\, .vjs-share-block\, #share_twitter\, #share_pinterest\, #share_facebook)
 embed.streamx.live##+js(eremove, [button="share"]\, .afs_ads\, .jw-settings-sharing\, .jw-submenu-sharing)
 truecaller.com##+js(eremove, .absolute.flex\, .ad\, [href*="premium"]\, [id="app"] > footer + .pin-b\, span > .max-w-md.shadow-lg)
