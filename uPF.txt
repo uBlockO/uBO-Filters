@@ -338,3 +338,4 @@ embed.streamx.live##+js(eremove, [button="share"]\, .afs_ads\, .jw-settings-shar
 truecaller.com##+js(eremove, .absolute.flex\, .ad\, [href*="premium"]\, [id="app"] > footer + .pin-b\, span > .max-w-md.shadow-lg)
 /cloudflare-static/*$script,1p
 adblockplus.org##+js(remove-inline-style, async-hide)
+animehub.ac##+js(eremove, .footer-follow\, .sb-subs.goblock > .clearfix\, .comments\, .detail-anime.goblock > .go-full.goblock-content > .goblock-bottom\, .gc-share.gc-icon\, .gc-comments.gc-icon\, .dialog-ovelay\, #sidebar > .clearfix)
