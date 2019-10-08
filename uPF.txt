@@ -1,4 +1,4 @@
-[uBlock Origin 1.22.5rc1]
+[uBlock Origin 1.22.5rc2]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -267,7 +267,7 @@ dnsleaktest.com##+js(eremove, .sponsor)
 @@||vox-cdn.com/packs/concert_ads$script,badfilter
 @@||s1.wp.com^$badfilter
 @@||bidvertiser.com/*?pid=$script,domain=exrapidleech.info,badfilter
-youtube.com##+js(eremove, #watch-action-panels\, #chat\, .ytp-ce-covering-overlay\, .subscribecard-endscreen\, .ytp-ce-element\, #ytd-promoted-video-renderer\, #watch-sidebar-live-chat\, #pla-shelf\, .yt-uix-expander-collapsed.live-chat-expander.yt-uix-expander\, .hats-categorical-style-vertical\, #movie-upsell-card\, .yt-lockup-movie-vertical-poster.yt-lockup-tile.yt-lockup\, .style-default.force-icon-button.ytd-menu-renderer.style-scope\, #sponsor-button\, .ytp-miniplayer-button\, .ytd-metadata-row-header-renderer.style-scope\ .html5-stop-propagation.ytp-drawer\, #masthead-ad\, #ticker.ytd-masthead\, #merch-shelf\, #offer-module\, .ytp-cards-teaser\, .ytp-paid-content-overlay\, .ytp-pause-overlay\, .ytp-title-channel\, #comments)
+youtube.com##+js(eremove, #watch-action-panels\, #chat\, .ytp-ce-covering-overlay\, .subscribecard-endscreen\, .ytp-ce-element\, #ytd-promoted-video-renderer\, #watch-sidebar-live-chat\, #pla-shelf\, .yt-uix-expander-collapsed.live-chat-expander.yt-uix-expander\, .hats-categorical-style-vertical\, #movie-upsell-card\, .yt-lockup-movie-vertical-poster.yt-lockup-tile.yt-lockup\, .style-default.force-icon-button.ytd-menu-renderer.style-scope\, #sponsor-button\, .ytp-miniplayer-button\, .ytd-metadata-row-header-renderer.style-scope\ .html5-stop-propagation.ytp-drawer\, #masthead-ad\, #ticker.ytd-masthead\, #merch-shelf\, #offer-module\, .ytp-cards-teaser\, .ytp-paid-content-overlay\, .ytp-pause-overlay\, .ytp-title-channel\, #comments\, ytd-button-renderer.size-default.style-default.force-icon-button.ytd-menu-renderer.style-scope)
 @@||dev.visualwebsiteoptimizer.com/j.php$badfilter
 @@||9anime.*/assets/$first-party,script,badfilter
 ||9anime.*^$first-party,script,badfilter
