@@ -15,7 +15,7 @@ kissanime.ru##+js(eremove, #btnShowComments\, strong\, .videoAdClose\, .divClose
 ||mgid.com^$important
 ||sharethis.com^$important
 ||taboola.com^$important
-torrentfreak.com##+js(eremove, .comments.pbx-alt.pbx)
+torrentfreak.com##+js(eremove, .widget_text\, .o-widget--rotated.o-widget\, .comments)
 ||addthis.com^$important
 myanimelist.net##+js(eremove, .banner-header-anime-straming\, .footer-link-icon-block\, .clearfix.index-watch-description\, .btn-mal-service\, .anime-detail-header-affiliate\, .amazon\, .anime_discussions.widget\, .video-providers\, .js-sns-icon-container\, .icon-block-small.js-sns-icon-container\, .promotional-video\, .anime-detail-header-video\, .mb4.di-ib\, .fb-page\, .root\, [id^="div-gpt-ad"]\, .watch-description)
 ||googleadservices.com^$important
