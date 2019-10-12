@@ -40,6 +40,7 @@ fmovies.*,ffmovies.*##+js(eremove, .text\, .widget:nth-of-type(5)\, #tags\, .hid
 thepiratebay.org,pornhub.*,nostream.ro,ffmovies.*##+js(window.open-defuser)
 !#if env_chromium
 github.com##+js(eremove, .survey-container\, .js-notice-dismiss)
+animehub.ac##+js(window.open-defuser)
 !#endif
 @@||speedtest.net/javascript/jquery-*.min.js$badfilter
 @@||d3ujids68p6xmq.cloudfront.net^$script,badfilter
