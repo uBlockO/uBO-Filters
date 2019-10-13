@@ -344,4 +344,5 @@ mp4upload.com##+js(set-innerHTML, #cub, <button id="downloadbtn" class="download
 ||*$csp=worker-src 'none',1p,important
 @@||igg-games.com^$1p,script,badfilter
 @@||igg-games.com/ads.min.js|$badfilter
-
+|https://$3p,script,domain=9anime.one,badfilter
+|https://$3p,stylesheet,domain=9anime.one,badfilter
