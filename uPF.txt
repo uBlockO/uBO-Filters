@@ -344,3 +344,6 @@ mp4upload.com##+js(set-innerHTML, #cub, <button id="downloadbtn" class="download
 @@||igg-games.com/ads.min.js|$badfilter
 |https://$3p,script,domain=9anime.one,badfilter
 |https://$3p,stylesheet,domain=9anime.one,badfilter
+instagram.com##body:style(overflow: auto !important)
+instagram.com##+js(eremove, .RnEpo)
+instagram.com#@##react-root ~ div[class*=" "][class$="   "][role="presentation"]:has(a[href="/accounts/emailsignup/"])
