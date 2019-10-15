@@ -36,7 +36,6 @@ facebook.com##+js(eremove, .home_right_column\, #page_tv_show_playlists\, #pagel
 9anime.*##+js(eremove, .popover\, #tags\, .hd-buttons.row\, #comment\, .comment.widget > .widget-title\, .comment.widget > .widget-body\, .socials\, .twitter-follow-button\, .sticky\, .share\, .text-center.crop.widget\, .text-center.widget\, .azlist\, .mb20\, [href*="twitter.com"]\, .alert\, #fb-root)    
 fmovies.*,ffmovies.*##+js(eremove, .text\, .widget:nth-of-type(5)\, #tags\, .hidden-sm.widget\, .hd-buttons.row\, .col-right\, .widget:nth-of-type(4)\, [href*="twitter.com"]\, #comment\, .socials\, .twitter-follow-button\, [href*="/redirect"]\, .streamhd\, .stream4k.row\, .home-socials\, .addthis_native_toolbox\, #fb-root\, .alert[data-notify-position="top-right"]\, .hidden-xs.notice.alert-default.alert)
 ||contributor.google.com^$3p
-||fundingchoicesmessages.google.com^$3p
 thepiratebay.org,pornhub.*,nostream.ro,ffmovies.*##+js(window.open-defuser)
 !#if env_chromium
 github.com##+js(eremove, .survey-container\, .js-notice-dismiss)
