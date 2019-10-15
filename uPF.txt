@@ -1,4 +1,4 @@
-[uBlock Origin 1.22.5rc3]
+[uBlock Origin 1.22.5rc4]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -52,9 +52,8 @@ kisshentai.net##+js(set-prop, playVid, null)
 ||connect.facebook.net^$important
 @@||platform.twitter.com^$script,domain=9anime.to,badfilter
 speedtest.net##+js(eremove, .high-placeholder.pure-u-1\, .u-c.pure-u-custom-ad-rectangle\, .u-c.pure-u-custom-ad-skyscraper\, .eot-mini-survey\, .top-placeholder.pure-u-1\, [href*="twitter.com"]\, [href*="facebook.com"])
-||platform.twitter.com/js/button.$important
-kimcartoon.to##+js(eremove, .w-right\, #hideAds\, .videoAdClose\, .kcAds\, .alert-info.alert\, .mb15.full\, #btnShowComments\, #videoAd\, #divComments\, #disqus_thread\, .twitter-follow-button\, [id*="ScriptRoot"]\, #adbWarnContainer\, #msg\, .barContent > div > div[style^="width: 300px; height: 250px; float: left;"])
-kimcartoon.to###divContentVideo,#my_video_1:style(width: 1016px !important)
+||platform.twitter.com/js/button.$important,3p
+kimcartoon.to##+js(eremove, .w-right\, #hideAds\, .videoAdClose\, .kcAds\, .alert-info.alert\, .mb15.full\, #btnShowComments\, #videoAd\, #divComments\, #disqus_thread\, .twitter-follow-button\, [id*="ScriptRoot"]\, #adbWarnContainer\, #msg\, .barContent > div > div[style^="width: 300px; height: 250px; float: left;"]\, #myContainer > .kcAds1\, .top_page_alert\, .kcAds1)
 *analytics*$1p,important
 mega.nz##+js(eremove, .ads-left-block\, .ads-right-block\, .active.top-login-warning\, .red.download-button.button\, .checkbox-bl.download)
 ||fmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: rapidvid.to *.rapidvideo.com *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream oload.biz *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to *.bp.blogspot.com;upgrade-insecure-requests
