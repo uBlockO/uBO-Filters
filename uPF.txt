@@ -10,7 +10,7 @@
 ||segment.com^$3p,important
 ||doubleclick.net^$important
 pornhub.*##+js(eremove, #under-player-comments\, #welcome\, .abovePlayer\, .clear.hd.jisfhp0w2u\, .adlink2\, .kzpcaw\, .streamatesModelsContainer.sectionWrapper\, #under-player-playlists\, .underplayer-thumbs.videos\, .item-6.menu\, .nf-wrapper > .sectionWrapper\, #pb_template\, .clear.hd\, .fadeInMTubes\, .sniperModeEngaged)
-screenrant.com##+js(eremove, .social\, .video-block-main.video-block\, .sg-sharing-option\, .ad-zone-container\, .twitter.icon\, .nav-social-list\, #js-tp-menu-btn\, .footer-brands\, .footer-social-list\, .w-sharing\, .art-body-sharing\, .article-tags\, .w-fb-like\, .premium-promo\, .w-injected-featured\, .w-newsletter-signup\, .w-btn-j\, .tldr-btn-category\, .tldr-btn-section\, .w-injected-video)  
+screenrant.com##+js(eremove, .social\, .video-block-main.video-block\, .sg-sharing-option\, .ad-zone-container\, .twitter.icon\, .nav-social-list\, #js-tp-menu-btn\, .footer-brands\, .footer-social-list\, .w-sharing\, .art-body-sharing\, .article-tags\, .w-fb-like\, .premium-promo\, .w-injected-featured\, .w-newsletter-signup\, .w-btn-j\, .tldr-btn-category\, .tldr-btn-section\, .w-injected-video)
 kissanime.ru##+js(eremove, #btnShowComments\, strong\, .videoAdClose\, .divCloseBut\, .bigBarContainer div[id^="adsIfrme"]\, .adsPositioning\, [style*="width: 300px; height: 250px"]\, [href*="/ads/"])
 ||mgid.com^$important
 ||sharethis.com^$important
@@ -272,7 +272,6 @@ youtube.com##+js(eremove, #watch-action-panels\, #chat\, .ytp-ce-covering-overla
 @@||client-event-reporter.twitch.tv^$xmlhttprequest,domain=twitch.tv,badfilter
 ||comicbook.com/article/json^$1p,xhr
 ||discordapp.com/widget^$important
-quora.com##[rel="noopener nofollow"] > div > div:nth-ancestor(5)
 @@||gateway.reddit.com/desktopapi/v*/sidebar_ad$xmlhttprequest,badfilter
 |https://$third-party,script,domain=kimcartoon.to,badfilter
 facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
