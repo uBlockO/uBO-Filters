@@ -341,4 +341,4 @@ mp4upload.com##+js(set-innerHTML, #cub, <button id="downloadbtn" class="download
 |https://$3p,stylesheet,domain=9anime.one,badfilter
 instagram.com##+js(eremove, .Yx5HN.RnEpo)
 /sw.js^$script,1p
-||youtube-nocookie.com^$all
+||youtube-nocookie.com^
