@@ -46,7 +46,7 @@ animehub.ac##+js(aeld, /mousedown|mouseup|message/, 0x)
 *stats*$1p,important
 *log_event*$1p,important
 kisshentai.net##+js(eremove, [href="#"]\, #show_id\, [href^="https://theporndude.com/"]\, [href^="http://kissdoujin.com/"]\, img[src^="https://theporndude.com/"])  
-||kisshentai.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.stream *.oloadcdn.net streamcherry.com *.fruithosted.net cdn.myanimelist.net
+||kisshentai.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com openload.co oload.stream *.oloadcdn.net streamcherry.com *.fruithosted.net cdn.myanimelist.net
 kisshentai.net##+js(set-prop, playVid, null)
 ||connect.facebook.net^$important
 @@||platform.twitter.com^$script,domain=9anime.to,badfilter
@@ -55,18 +55,18 @@ speedtest.net##+js(eremove, .high-placeholder.pure-u-1\, .u-c.pure-u-custom-ad-r
 kimcartoon.to##+js(eremove, .w-right\, #hideAds\, .videoAdClose\, .kcAds\, .alert-info.alert\, .mb15.full\, #btnShowComments\, #videoAd\, #divComments\, #disqus_thread\, .twitter-follow-button\, [id*="ScriptRoot"]\, #adbWarnContainer\, #msg\, .barContent > div > div[style^="width: 300px; height: 250px; float: left;"]\, #myContainer > .kcAds1\, .top_page_alert\, .kcAds1)
 *analytics*$1p,important
 mega.nz##+js(eremove, .ads-left-block\, .ads-right-block\, .active.top-login-warning\, .red.download-button.button\, .checkbox-bl.download)
-||fmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: rapidvid.to *.rapidvideo.com *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream oload.biz *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to *.bp.blogspot.com;upgrade-insecure-requests
-||ffmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.blogspot.com rapidvid.to *.rapidvideo.com *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to;upgrade-insecure-requests
-||9anime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.9anime.ru *.9anime.to *.akacdn.ru *.blogspot.com *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com *.rapidvideo.com rapidvid.to *.playercdn.net openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to streamango.com *.fruithosted.net *.mp4upload.com prettyfast.to;upgrade-insecure-requests
-||putlockertv.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bp.blogspot.com rapidvid.to *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to;upgrade-insecure-requests
-||solarmoviex.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bp.blogspot.com rapidvid.to *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to;upgrade-insecure-requests
+||fmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream oload.biz *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to *.bp.blogspot.com;upgrade-insecure-requests
+||ffmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.blogspot.com *.playercdn.net *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to;upgrade-insecure-requests
+||9anime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.9anime.ru *.9anime.to *.akacdn.ru *.blogspot.com *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to streamango.com *.fruithosted.net *.mp4upload.com prettyfast.to;upgrade-insecure-requests
+||putlockertv.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bp.blogspot.com *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to;upgrade-insecure-requests
+||solarmoviex.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bp.blogspot.com *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com openload.co openload.pw oload.stream *.oloadcdn.net mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to;upgrade-insecure-requests
 /endscreen$script,domain=youtube.com
 ||fmovies.is^$first-party,popup,badfilter
 ||fmovies.is^$xmlhttprequest,domain=fmovies.is,badfilter
 |https:$third-party,popup,domain=fmovies.is,badfilter
 ||speedtest.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: www.speedtest.net *.cdnst.net;connect-src *
 ||pornhub.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.phncdn.com *.pornhub.com *.nsimg.net
-||kissanime.ru^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com *.rapidvideo.com *.playercdn.net openload.co oload.cloud *.oloadcdn.net streamango.com *.fruithosted.net *.fbcdn.net *.mp4upload.com *.rapidvid.to *.novelplanet.me;media-src *;upgrade-insecure-requests
+||kissanime.ru^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com openload.co oload.cloud *.oloadcdn.net streamango.com *.fruithosted.net *.fbcdn.net *.mp4upload.com *.novelplanet.me;media-src *;upgrade-insecure-requests
 ||facebook.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.fbcdn.net
 ||myanimelist.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' cdn.myanimelist.net;img-src *;upgrade-insecure-requests
 ||openload.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.openload.co cdnjs.cloudflare.com  *.oloadcdn.net *.google.com
@@ -89,7 +89,7 @@ thepiratebay.org##+js(eremove, #adrestop)
 @@||startpage.com/js/abp.js^$badfilter
 ||fmovies.se^$first-party,popup,badfilter
 /([0-9]{1,3}\.){3}[0-9]{1,3}/$popup,domain=briansarmiento.website|divxatope1.com|kissanime.ru|newpct.com|pelisplus.tv|rapidvideo.com|strikeout.co|torrentz2.eu,badfilter
-||kimcartoon.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.zencdn.net *.rapidvideo.com *.rapidvideo.is *.playercdn.net openload.co *.oloadcdn.net streamango.com code.jquery.com *.fruithosted.net i.imgur.com *.bp.blogspot.com *.googleusercontent.com *.googlevideo.com upload.wikimedia.org *.fbcdn.net *.apps.fbsbx.com *.luxubu.review
+||kimcartoon.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.zencdn.net openload.co *.oloadcdn.net streamango.com code.jquery.com *.fruithosted.net i.imgur.com *.bp.blogspot.com *.googleusercontent.com *.googlevideo.com upload.wikimedia.org *.fbcdn.net *.apps.fbsbx.com *.luxubu.review
 /ads/*$first-party,important
 @@||speedtest.net/*/*bundle$script,first-party,badfilter
 @@||mapbox.com^$xmlhttprequest,domain=speedtest.net,badfilter
@@ -111,8 +111,6 @@ fmovies.*##.widget-title:has-text(Sponsored)
 @@||facebook.com/share/share_now_menu/$xmlhttprequest,domain=facebook.com,badfilter
 @@||facebook.com/share/share_now_menu/$domain=facebook.com,badfilter
 |https://$third-party,script,domain=9anime.to,badfilter
-||rapidvideo.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.rapidvideo.com *.playercdn.net;upgrade-insecure-requests
-||rapidvid.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: static.rapidvideo.com *.playercdn.net cdnjs.cloudflare.com;upgrade-insecure-requests
 @@||akamaihd.net^*/ad*.js$script,badfilter
 ffmovies.*,putlockertv.*,solarmoviex.to,is123moviesto.com##+js(remove-inline-script, /zfgloaded/)
 ad.*^$first-party,script
@@ -289,7 +287,6 @@ facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
 *vast-*$1p,script,important
 ||easylist.club^$important
 @@||p.jwpcdn.com^$third-party,script,badfilter
-/genads.php$1p,domain=rapidvideo.com|rapidvid.to|rapidvideo.is,important
 /videojs.ima.js$1p,script,important
 @@||1337x.to/torrent/$first-party,csp,badfilter
 ||1337x.to^$csp=script-src 'self' 'unsafe-inline',badfilter
