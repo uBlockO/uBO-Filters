@@ -328,8 +328,6 @@ mp4upload.com##+js(aeld, /contextmenu|mousewheel|DOMMouseScroll/)
 mp4upload.com##+js(eremove, .vjs-logo\, #overlay\, .vjs-share-button\, .vjs-share-block\, #share_twitter\, #share_pinterest\, #share_facebook)
 embed.streamx.live##+js(eremove, [button="share"]\, .afs_ads\, .jw-settings-sharing\, .jw-submenu-sharing)
 truecaller.com##+js(eremove, .absolute.flex\, .ad\, [href*="premium"]\, [id="app"] > footer + .pin-b\, span > .max-w-md.shadow-lg)
-/cloudflare-static/*$script,1p
-adblockplus.org##+js(remove-inline-style, async-hide)
 animehub.ac##+js(eremove, .footer-follow\, .sb-subs.goblock > .clearfix\, .comments\, .detail-anime.goblock > .go-full.goblock-content > .goblock-bottom\, .gc-share.gc-icon\, .gc-comments.gc-icon\, .dialog-ovelay\, #sidebar > .clearfix)
 mp4upload.com##+js(set-innerHTML, #cub, <button id="downloadbtn" class="downloadbtn"><span class="bicon"><img class="vanb" src="https://www.mp4upload.com/images/icon_f_btn_download_b.png"><img class="barrow van move-bot" src="https://www.mp4upload.com/images/icon_ardown.png"></span><span class="btext">Download</span></button>)
 @@||static.animecdn.xyz/js/ads.js$badfilter
