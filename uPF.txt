@@ -127,7 +127,6 @@ animenewsnetwork.com##+js(eremove, #cover_image\, .floating-image\, .box.alert\,
 @@||google.*/ads/$third-party,image,badfilter
 pornhub.*,openload.*##+js(addEventListener-defuser, contextmenu)
 ||facebook.com/video/*/upnext^$xmlhttprequest
-||rapidvideo.com^$script,badfilter
 @@||kisshentai.net/content/js/adframe.js^$badfilter
 @@||cloudfront.net/assets/$third-party,script,badfilter
 ||github.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.githubassets.com *.githubusercontent.com *.s3.amazonaws.com
@@ -162,7 +161,6 @@ hanime.tv/*/user_comments^$1p
 @@/script/ad.js$script,badfilter
 |http*://$third-party,image,domain=123movies-proxy.ru|123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.net.ru|123movies.ru|123movies.vc|123moviesfree.com|123movieshd.net|123movieshd.tv|9cartoon.me|animehaven.to|auroravid.to|ay8ou8ohth.com|bitvid.sx|btdb.in|btdb.to|clipconverter.cc|cloudtime.to|cmovieshd.com|divxme.com|downloadming.tv|dropapk.com|flyordie.com|fmovies.se|fmovies.to|full-pcsoftware.com|halacima.net|hdmusic99.in|hdtv-rls.com|kannadamovies.biz|kissanime.ru|kissmanga.com|livetvcafe.net|movdivx.com|mp3clan.one|nowvideo.li|nowvideo.sx|nowvideo.to|oogh8ot0el.com|otakustream.tv|otorrents.com|pocketnow.com|putlocker.co|solarmovie.sc|speedvid.net|stream2watch.org|suprafiles.co|thepiratebay.cd|userscloud.com|vidto.me|vidtudu.com|vidzi.tv|wholecloud.net,badfilter
 |http*://$third-party,stylesheet,domain=9anime.is,badfilter
-@@||rapidvideo.com/e^$third-party,badfilter
 |http*://$third-party,subdocument,domain=9anime.is,badfilter
 @@||googleusercontent.com/gadgets/$image,domain=9anime.is,badfilter
 |http*://$third-party,image,domain=9anime.is,badfilter
@@ -302,7 +300,7 @@ movieweb.com##+js(eremove, .nav-message\, .facebook)
 ||katcr.co^$csp=script-src 'self' 'unsafe-inline',badfilter
 ||thepiratebay.org^$script,badfilter
 ||thepiratebay.$script,domain=ahoypirate.in|bayception.pw|cruzing.xyz|mirror.superproxy.biz|mypirate.cc|noobnoob.rocks|piratebay.tel|piratebay.town|piratebay1.top|piratebayblocked.com|pirateproxy.ch|pirateproxy.live|pirateproxy.rocks|proxyfrom.asia|proxyindia.net|superbay.link|superproxy.biz|thehiddenbay.com|thepiratebay.cr|thepiratebay.kiwi|thepiratebay.org|thepiratebay.vip|tpb.hid.li|tpb6.ukpass.co|tpbproxyone.org|unblockpirate.uk|unblocktheship.org,badfilter
-||data.microsoft.com^$important
+||data.microsoft.com^$important,3p
 developer.mozilla.org##+js(eremove, .mdn-cta-container\, .notification-tray)
 reddit.com##+js(eremove, #redesign-beta-optin-btn\, .comment-visits-box\, .promotedlink\, .premium-banner-outer\, .share\, #adblock-test\, .giftgold\, .snoovatar-link)
 ||redditstatic.com/_chat$script,domain=reddit.com
