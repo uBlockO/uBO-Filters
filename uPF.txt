@@ -275,7 +275,7 @@ youtube.com##+js(eremove, #watch-action-panels\, #chat\, .ytp-ce-covering-overla
 facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
 *advert*$1p,script,important
 ||imasdk.googleapis.com^$important
-||ahost.bulbagarden.net^
+||ahost.bulbagarden.net^$3p
 *exoclick*$script,1p,important
 ||spot.im^$important
 ||torrentz2.eu^$csp=script-src 'self' 'unsafe-inline',badfilter
@@ -291,7 +291,6 @@ facebook.com#@#div > div[id][class][style*=" background-color: rgb"]
 @@||1337x.to/torrent/$first-party,csp,badfilter
 ||1337x.to^$csp=script-src 'self' 'unsafe-inline',badfilter
 ||momzr.com/*.php$1p
-||momzr.com/related_videos_html/$1p
 momzr.com##+js(eremove, .table)
 @@||1337x.to/home/$first-party,csp,badfilter
 ||1337x.*^$csp=upgrade-insecure-requests
@@ -310,7 +309,7 @@ reddit.com##+js(eremove, #redesign-beta-optin-btn\, .comment-visits-box\, .promo
 @@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$badfilter
 @@/adblockdetector.min.js$badfilter
 @@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$first-party,script,badfilter
-||best.momzr.com^$1p
+||best.momzr.com^$1p,domain=momzr.com
 |https://$third-party,script,domain=milfzr.com,badfilter
 boxofficemojo.com##object
 /fuckadblock.js^$first-party,important,script
@@ -324,7 +323,6 @@ animehub.ac##+js(remove-inline-script, /zfgloaded|OnError/)
 @@||play.google.com/log?$xmlhttprequest,domain=google.com,badfilter
 @@||aniwatcher.com/adblock.js$badfilter
 @@||youbora.com/*/js/adapters/jwplayer$script,badfilter
-/unmentionableWithGA.js$script,1p
 facebook.com##[id^="hyperfeed_story_id"]:has-text(/Paid Partner|Suggested|Stories|Sponsored/)
 mp4upload.com##+js(aeld, /contextmenu|mousewheel|DOMMouseScroll/)
 mp4upload.com##+js(eremove, .vjs-logo\, #overlay\, .vjs-share-button\, .vjs-share-block\, #share_twitter\, #share_pinterest\, #share_facebook)
