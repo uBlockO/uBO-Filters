@@ -138,7 +138,7 @@ pornhub.*,openload.*##+js(addEventListener-defuser, contextmenu)
 ghacks.net##+js(eremove, .ghacks_share_widget\, .category-deals\, .ghacks_this_day\, .ghacks_popular\, .ghacks_last_updated\, #post-author\, #snippet-box\, .ghacks-ad\, .cookie-notice-container\, [href^="https://deals.ghacks.net/"]\, .ghacks_ad_code)  
 ghacks.net##.mt--40.pt--40.border--top--gray:has([href*="paypal"]) 
 ||openload.co/r3/f^$1p
-hanime.tv,openload.*##+js(addEventListener-defuser, wheel)
+openload.*##+js(addEventListener-defuser, wheel)
 streamango.com,oload.*##+js(addEventListener-defuser, DOMMouseScroll)
 ||torrentz2.*/*.php^$1p
 /detroitchicago$domain=animenewsnetwork.com
@@ -155,8 +155,6 @@ facebook.com/ajax/typeahead/record_basic_metrics.php$1p
 @@||streamango.com/assets/js/license.adbl.js$badfilter
 @@||ads.servebom.com/tmnhead.js$badfilter
 |http://$third-party,stylesheet,domain=dwatchseries.to|thewatchseries.ac|unblckd.org|watchseries.sk,badfilter
-hanime.tv##.footer__column.flex:has-text(Partners)
-hanime.tv/*/user_comments^$1p
 @@/adframe.js$script,badfilter
 @@/script/ad.js$script,badfilter
 |http*://$third-party,image,domain=123movies-proxy.ru|123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.net.ru|123movies.ru|123movies.vc|123moviesfree.com|123movieshd.net|123movieshd.tv|9cartoon.me|animehaven.to|auroravid.to|ay8ou8ohth.com|bitvid.sx|btdb.in|btdb.to|clipconverter.cc|cloudtime.to|cmovieshd.com|divxme.com|downloadming.tv|dropapk.com|flyordie.com|fmovies.se|fmovies.to|full-pcsoftware.com|halacima.net|hdmusic99.in|hdtv-rls.com|kannadamovies.biz|kissanime.ru|kissmanga.com|livetvcafe.net|movdivx.com|mp3clan.one|nowvideo.li|nowvideo.sx|nowvideo.to|oogh8ot0el.com|otakustream.tv|otorrents.com|pocketnow.com|putlocker.co|solarmovie.sc|speedvid.net|stream2watch.org|suprafiles.co|thepiratebay.cd|userscloud.com|vidto.me|vidtudu.com|vidzi.tv|wholecloud.net,badfilter
@@ -180,7 +178,6 @@ hanime.tv/*/user_comments^$1p
 @@/wp-content/*/adve*.js$script,badfilter
 animenewsnetwork.com##.box.herald:has([href*="/advert"])
 ||readcomiconline.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bp.blogspot.com
-hanime.tv##+js(eremove, .user_comments.lazy\, .initialized\, .htv-flag\, div:nth-of-type(1) > .mb-5.htv-carousel-container.lazy\, .community_uploads\, .info__text__tags__title\, .desktop.unit\, .sponsors\, .htvad\, .site-description\, .align-center.justify-center.column.flex.event-container)
 @@||streamango.com/assets/js/script.packed.js$badfilter
 ||fonts.googleapis.com^$important,domain=~google.com|~chromium.org
 ||fonts.gtatic.com^$important,domain=~google.com|~chromium.org
@@ -220,9 +217,7 @@ kissmanga.com##+js(eremove, #aCurr\, .clear2\, .specialButton)
 /\.com\/.*[a-f0-9]{110}/$third-party,image,domain=~parship.com|~feedbin.com|~aliexpress.com|~alipay.com|~bilibili.com|~namu.wiki|~fastmail.com,badfilter
  @@||kissmanga.com/ads/*.aspx$badfilter
 @@||kissmanga.com/ads/adprotect$first-party,subdocument,badfilter
-||hanime.tv^$csp=upgrade-insecure-requests
 *$csp=script-src 'self' * data: 'unsafe-inline' 'unsafe-eval',domain=pornhub.com|xhamster.com|youporn.com,badfilter
-hanime.tv##+js(cookie-set, in_d4, 1, 2114785965)
 /(readcomiconline|kimcartoon|kiss-anime|9anime|gogoanime|toonova|animeflv|animeplus|goodanime|animewow|animenova|animeland|animetoon|mangapanda|memecenter|mangareader)\.[a-z]{2,4}\/[-_a-zA-Z0-9]{3,}\/[-_a-zA-Z0-9]{20,}.(gif|jpg|png)/$domain=gogoanime.sh|mangapanda.com|memecenter.com|mangareader.net|animeland.tv|animetoon.org|animenova.org|animewow.org|goodanime.co|animeplus.tv|animeflv.net|toonova.net|gogoanime.to|gogoanime.se|gogoanime.in|9anime.is|9anime.to|kiss-anime.me|kimcartoon.me|readcomiconline.to,badfilter
 @@||facebook.com/ajax/bz$domain=facebook.com,badfilter
 ||jumpshot.com^$3p
