@@ -302,7 +302,6 @@ movieweb.com##+js(eremove, .nav-message\, .facebook)
 ||data.microsoft.com^$important,3p
 developer.mozilla.org##+js(eremove, .mdn-cta-container\, .notification-tray)
 reddit.com##+js(eremove, #redesign-beta-optin-btn\, .comment-visits-box\, .promotedlink\, .premium-banner-outer\, .share\, #adblock-test\, .giftgold\, .snoovatar-link\, .give-gold-button\, .bottom > .spacer)
-||redditstatic.com/_chat$script,domain=reddit.com
 @@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$badfilter
 @@/adblockdetector.min.js$badfilter
 @@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$first-party,script,badfilter
