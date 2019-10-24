@@ -47,7 +47,6 @@ animehub.ac##+js(aeld, /mousedown|mouseup|message/, 0x)
 *log_event*$1p,important
 kisshentai.net##+js(eremove, [href="#"]\, #show_id\, [href^="https://theporndude.com/"]\, [href^="http://kissdoujin.com/"]\, img[src^="https://theporndude.com/"])  
 ||kisshentai.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com openload.co oload.stream *.oloadcdn.net streamcherry.com *.fruithosted.net cdn.myanimelist.net
-kisshentai.net##+js(set-prop, playVid, null)
 ||connect.facebook.net^$important
 @@||platform.twitter.com^$script,domain=9anime.to,badfilter
 speedtest.net##+js(eremove, .high-placeholder.pure-u-1\, .u-c.pure-u-custom-ad-rectangle\, .u-c.pure-u-custom-ad-skyscraper\, .eot-mini-survey\, .top-placeholder.pure-u-1\, [href*="twitter.com"]\, [href*="facebook.com"])
