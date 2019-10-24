@@ -332,3 +332,4 @@ instagram.com##+js(eremove, .Yx5HN.RnEpo)
 oload.*##+js(eremove, body > div:nth-of-type(2))
 ||jwpsrv.com^$important
 ##[href*="/twitter.com/"], [href*="/facebook.com/"], [href*="/youtube.com/"], [href*="/plus.google.com/"], [href*="/linkedin.com/"], [href*="/reddit.com/"], [href*="/pinterest.com/"]
+||adskeeper.co.uk^$important
