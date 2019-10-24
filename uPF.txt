@@ -330,3 +330,4 @@ instagram.com##+js(eremove, .Yx5HN.RnEpo)
 /service-worker.js^$script,1p
 ||youtube-nocookie.com^
 oload.*##+js(eremove, body > div:nth-of-type(2))
+||jwpsrv.com^$important
