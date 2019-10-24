@@ -333,4 +333,4 @@ oload.*##+js(eremove, body > div:nth-of-type(2))
 ||jwpsrv.com^$important
 ||adskeeper.co.uk^$important
 @@||comicbook.com^$generichide,badfilter
-comicbook.com##+js(eremove, .leftrail.sidebar-list-module.sidebar > section:nth-of-type(3))
+comicbook.com##+js(eremove, .leftrail.sidebar-list-module.sidebar > section:nth-of-type(3)\, .mid-content-comment\, .btn-wide-container\, .article-break\, .channel-nav)
