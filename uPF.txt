@@ -126,6 +126,7 @@ animenewsnetwork.com##+js(eremove, #cover_image\, .floating-image\, .box.alert\,
 @@||google.*/ads/$third-party,image,badfilter
 pornhub.*,openload.*,verystream.com##+js(aeld, contextmenu)
 ||verystream.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: cdnjs.cloudflare.com *.verystream.net
+verystream.com##+js(eremove, .vjs-doge-button)
 ||facebook.com/video/*/upnext^$xmlhttprequest
 @@||kisshentai.net/content/js/adframe.js^$badfilter
 @@||cloudfront.net/assets/$third-party,script,badfilter
