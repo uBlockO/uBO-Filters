@@ -49,7 +49,7 @@ kisshentai.net##+js(eremove, [href="#"]\, #show_id\, [href^="https://theporndude
 ||kisshentai.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: myanimelist.cdn-dena.com i.imgur.com openload.co oload.stream *.oloadcdn.net streamcherry.com *.fruithosted.net cdn.myanimelist.net
 ||connect.facebook.net^$important
 @@||platform.twitter.com^$script,domain=9anime.to,badfilter
-speedtest.net##+js(eremove, .high-placeholder.pure-u-1\, .u-c.pure-u-custom-ad-rectangle\, .u-c.pure-u-custom-ad-skyscraper\, .eot-mini-survey\, .top-placeholder.pure-u-1\, [href*="twitter.com"]\, [href*="facebook.com"]\, .eot-info-audience.u-c.pure-u-1-2\, .u-c.pure-u-1-4:nth-of-type(1) > ul.menu-footer:nth-of-type(2))
+speedtest.net##+js(eremove, .high-placeholder.pure-u-1\, .u-c.pure-u-custom-ad-rectangle\, .u-c.pure-u-custom-ad-skyscraper\, .eot-mini-survey\, .top-placeholder.pure-u-1\, .eot-info-audience.u-c.pure-u-1-2\, .u-c.pure-u-1-4:nth-of-type(1) > ul.menu-footer:nth-of-type(2))
 ||platform.twitter.com/js/button.$important,3p
 kimcartoon.to##+js(eremove, .w-right\, #hideAds\, .videoAdClose\, .kcAds\, .alert-info.alert\, .mb15.full\, #btnShowComments\, #videoAd\, #divComments\, #disqus_thread\, .twitter-follow-button\, [id*="ScriptRoot"]\, #adbWarnContainer\, #msg\, .barContent > div > div[style^="width: 300px; height: 250px; float: left;"]\, #myContainer > .kcAds1\, .top_page_alert\, .kcAds1)
 *analytics*$1p,important
