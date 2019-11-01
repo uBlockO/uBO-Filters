@@ -328,3 +328,4 @@ comicbook.com##+js(eremove, .leftrail.sidebar-list-module.sidebar > section:nth-
 @@|https://$3p,script,domain=blockadblock.com,badfilter
 @@|https://$3p,image,domain=blockadblock.com,badfilter
 @@/js/ads.js$script,badfilter
+gamecopyworld.com##+js(eremove, #lb)
