@@ -9,7 +9,7 @@
 ||disqus.com^$important
 ||segment.com^$3p,important
 ||doubleclick.net^$important
-pornhub.*##+js(eremove, #under-player-comments\, #welcome\, .abovePlayer\, .clear.hd.jisfhp0w2u\, .adlink2\, .kzpcaw\, .streamatesModelsContainer.sectionWrapper\, #under-player-playlists\, .underplayer-thumbs.videos\, .item-6.menu\, .nf-wrapper > .sectionWrapper\, #pb_template\, .clear.hd\, .fadeInMTubes\, .sniperModeEngaged)
+pornhub.*##+js(eremove, #under-player-comments\, #welcome\, .abovePlayer\, .clear.hd.jisfhp0w2u\, .adlink2\, .kzpcaw\, .streamatesModelsContainer.sectionWrapper\, #under-player-playlists\, .underplayer-thumbs.videos\, .item-6.menu\, .nf-wrapper > .sectionWrapper\, #pb_template\, .clear.hd\, .fadeInMTubes\, .sniperModeEngaged\, .premiumPromoBanner)
 screenrant.com##+js(eremove, .social\, .video-block-main.video-block\, .sg-sharing-option\, .ad-zone-container\, .twitter.icon\, .nav-social-list\, #js-tp-menu-btn\, .footer-brands\, .footer-social-list\, .w-sharing\, .art-body-sharing\, .article-tags\, .w-fb-like\, .premium-promo\, .w-injected-featured\, .w-newsletter-signup\, .w-btn-j\, .tldr-btn-category\, .tldr-btn-section\, .w-injected-video)
 kissanime.ru##+js(eremove, #btnShowComments\, strong\, .videoAdClose\, .divCloseBut\, .bigBarContainer div[id^="adsIfrme"]\, .adsPositioning\, [style*="width: 300px; height: 250px"]\, [href*="/ads/"])
 ||mgid.com^$important
