@@ -1,4 +1,4 @@
-[uBlock Origin 1.23.1b13]
+[uBlock Origin 1.23.1b14]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -327,5 +327,5 @@ comicbook.com##+js(eremove, .leftrail.sidebar-list-module.sidebar > section:nth-
 @@|https://$3p,image,domain=blockadblock.com,badfilter
 @@/js/ads.js$script,badfilter
 gamecopyworld.com##+js(eremove, #lb)
-comicbook.com##.topnav:style(padding-top: 0px !important)
+comicbook.com###header:style(padding-top: 0px !important)
 /adblockdetector$script,1p
