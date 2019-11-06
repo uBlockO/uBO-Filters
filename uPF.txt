@@ -1,4 +1,4 @@
-[uBlock Origin 1.23.1b14]
+[uBlock Origin 1.23.1b17]
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
@@ -54,7 +54,7 @@ kimcartoon.to##+js(eremove, .w-right\, #hideAds\, .videoAdClose\, .kcAds\, .aler
 mega.nz##+js(eremove, .ads-left-block\, .ads-right-block\, .active.top-login-warning\, .red.download-button.button\, .checkbox-bl.download)
 ||fmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to;upgrade-insecure-requests
 ||ffmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to;upgrade-insecure-requests
-||9anime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.akacdn.ru *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com mcloud.to *.mcloud.to *.mp4upload.com prettyfast.to cdnjs.cloudflare.com;upgrade-insecure-requests
+||9anime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.akacdn.ru *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com mcloud.to *.mcloud.to *.mp4upload.com prettyfast.to cdnjs.cloudflare.com hydrax.net;upgrade-insecure-requests
 ||putlockertv.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to;upgrade-insecure-requests
 ||solarmoviex.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to;upgrade-insecure-requests
 /endscreen$script,domain=youtube.com
