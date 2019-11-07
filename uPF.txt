@@ -331,3 +331,5 @@ comicbook.com###header:style(padding-top: 0px !important)
 /adblockdetector$script,1p
 @@/adservice.*.js?domain=$script,badfilter
 fandom.com##+js(eremove, #WikiaBar)
+||popupmaker.com^$3p,important
+/ultimate-popunder/*$1p,script
