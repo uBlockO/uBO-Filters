@@ -333,3 +333,4 @@ comicbook.com###header:style(padding-top: 0px !important)
 fandom.com##+js(eremove, #WikiaBar)
 ||popupmaker.com^$3p,important
 /ultimate-popunder/*$1p,script
+@@/wp-content/plugins/deblocker$1p,badfilter
