@@ -334,5 +334,5 @@ fandom.com##+js(eremove, #WikiaBar)
 ||popupmaker.com^$3p,important
 /ultimate-popunder/*$1p,script
 @@/wp-content/plugins/deblocker$1p,badfilter
-kissanime.ac##+js(eremove, #divComments\, .full.barTitle\, .related_news\, .footer_watching_link)
+kissanime.ac##+js(eremove, #divComments\, .related_news\, .footer_watching_link)
 ||kissanime.ac^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: static.animecdn.xyz embed.streamx.live
