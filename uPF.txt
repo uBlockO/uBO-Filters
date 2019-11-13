@@ -117,7 +117,6 @@ animenewsnetwork.com##+js(eremove, #cover_image\, .floating-image\, .box.alert\,
 ||exoclick.com^$important
 ||exosrv.com^$important
 @@||google.*/ads/$third-party,image,badfilter
-pornhub.*##+js(aeld, contextmenu)
 ||facebook.com/video/*/upnext^$xmlhttprequest
 @@||kisshentai.net/content/js/adframe.js^$badfilter
 @@||cloudfront.net/assets/$third-party,script,badfilter
@@ -298,7 +297,7 @@ animehub.ac##+js(remove-inline-script, /zfgloaded|onError/)
 @@||aniwatcher.com/adblock.js$badfilter
 @@||youbora.com/*/js/adapters/jwplayer$script,badfilter
 facebook.com##[id^="hyperfeed_story_id"]:has-text(/Paid Partner|Suggested|Stories|Sponsored/)
-mp4upload.com##+js(aeld, /contextmenu|mousewheel|DOMMouseScroll/)
+mp4upload.com##+js(aeld, /mousewheel|DOMMouseScroll/)
 mp4upload.com##+js(eremove, .vjs-logo\, #overlay\, .vjs-share-button\, .vjs-share-block\, #share_twitter\, #share_pinterest\, #share_facebook)
 embed.streamx.live##+js(eremove, [button="share"]\, .afs_ads\, .jw-settings-sharing\, .jw-submenu-sharing)
 truecaller.com##+js(eremove, .absolute.flex\, .ad\, [href*="premium"]\, [id="app"] > footer + .pin-b\, span > .max-w-md.shadow-lg)
@@ -332,7 +331,6 @@ fandom.com##+js(eremove, #WikiaBar)
 @@/wp-content/plugins/deblocker$1p,badfilter
 kissanime.ac##+js(eremove, #divComments\, .related_news\, .full:nth-child(14)\, .footer_watching_link\, .tab-head)
 ||kissanime.ac^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: static.animecdn.xyz embed.streamx.live
-hentaiplay.net##+js(ra, oncontextmenu, video)
 hentaiplay.net##+js(set-attr, preload, auto, video)
 ||chatango.com^$important
 /disqus-comment-system/*$script,1p
