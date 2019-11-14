@@ -125,7 +125,7 @@ animenewsnetwork.com##+js(eremove, #cover_image\, .floating-image\, .box.alert\,
 ||crwdcntrl.net^$important
 ||amazon-adsystem.com^$important
 @@||ajax.cloudflare.com/cdn-cgi/scripts/$third-party,script,badfilter
-ghacks.net##+js(eremove, .ghacks_share_widget\, .category-deals\, .ghacks_this_day\, .ghacks_popular\, .ghacks_last_updated\, #post-author\, #snippet-box\, .ghacks-ad\, .cookie-notice-container\, [href^="https://deals.ghacks.net/"]\, .ghacks_ad_code)  
+ghacks.net##+js(eremove, .ghacks_share_widget\, .category-deals\, .ghacks_this_day\, .ghacks_popular\, .ghacks_last_updated\, #post-author\, #snippet-box\, .ghacks-ad\, .cookie-notice-container\, [href^="https://deals.ghacks.net/"]\, .ghacks_ad_code\, #download-widget)  
 ||torrentz2.*/*.php^$1p
 /detroitchicago$domain=animenewsnetwork.com
 facebook.com/ajax/typeahead/record_basic_metrics.php$1p
