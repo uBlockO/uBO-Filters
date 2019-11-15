@@ -329,3 +329,4 @@ hentaiplay.net##+js(set-attr, preload, auto, video)
 ||chatango.com^$important
 /disqus-comment-system/*$script,1p
 /adb-analytics^$script,3p
+||gravatar.com^$3p
