@@ -210,7 +210,6 @@ kissmanga.com##+js(eremove, #aCurr\, .clear2\, .specialButton)
 ||googletagservices.com^$important
 ||googletagmanager.com^$important
 ||scorecardresearch.com^$important
-youtube.com###dismissable:has-text(/Recommended channel|Related Movies/)
 torrentz2.*##+js(eremove, .alert-danger\, #resultarea\, [href*="/lorem"]\, .downlinks > dl:nth-of-type(1) > dd\, .NonToleratedds\, .downlinksone\, [id*="ScriptRoot"]\, .ads_box)
 torrentz2.eu##.downlinkstwo:style(display: block !important)
 ||mcloud.to/log^$1p
