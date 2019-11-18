@@ -26,7 +26,7 @@ premium^$script,domain=pornhub.com,important
 promo-banner.js^$important,domain=pornhub.com
 abtesting$important,script,domain=fandom.com
 ||youtube.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.ggpht.com *.googlevideo.com *.ytimg.com *.googleusercontent.com www.youtube.com
-google.*##+js(eremove, #prm-pt\, .b2hzT\, .exp-outline\, [id^="ed_"]\, [title*="Share"])
+google.*##+js(eremove, #prm-pt\, .b2hzT\, .exp-outline\, [id^="ed_"]\, [title*="Share"]\, .bkWMgd:nth-of-type(3) > .g-blk.mnr-c.kno-kp.g)
 ||googlesyndication.com^$important
 facebook.com##+js(eremove, .home_right_column\, #page_tv_show_playlists\, #pagelet_page_cover\, #page_tv_show_extra_clips\, #page_photos\, .UFIList\, .photoUfiContainer.rhc\, #fb_stories_card_root)
 ||facebook.com/*/logging^$important,1p
