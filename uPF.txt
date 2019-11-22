@@ -330,4 +330,4 @@ hentaiplay.net##+js(set-attr, preload, auto, video)
 /adb-analytics^$script,3p
 ||gravatar.com^$3p
 @@||amplitude.com/libs/amplitude-$script,3p,badfilter
-@@||tinypass.com/api/tinypass.min.js$script,domain=thedailybeast.com
+@@||tinypass.com/api/tinypass.min.js$script,domain=thedailybeast.com,badfilter
