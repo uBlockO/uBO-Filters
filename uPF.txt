@@ -37,7 +37,6 @@ fmovies.*,ffmovies.*##+js(eremove, .text\, .widget:nth-of-type(5)\, #tags\, .hid
 ||fundingchoicesmessages.google.com^$3p
 @@||cdnjs.cloudflare.com/ajax/libs/fingerprintjs$domain=index.hr,badfilter
 @@||facebook.com/plugins/post$badfilter
-thepiratebay.org,pornhub.*,nostream.ro,ffmovies.*##+js(window.open-defuser)
 !#if env_chromium
 github.com##+js(eremove, .survey-container\, .js-notice-dismiss\, .code-navigation-banner)
 animehub.ac##+js(aeld, /mousedown|mouseup|message/, 0x)
