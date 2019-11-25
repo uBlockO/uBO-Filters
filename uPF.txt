@@ -335,3 +335,4 @@ hentaiplay.net##+js(set-attr, preload, auto, video)
 @@||tinypass.com/api/tinypass.min.js$script,domain=thedailybeast.com,badfilter
 kissanime.ru##+js(remove-inline-script, #divContentVideo)
 ||megaphone.fm^$3p
+@@||gravatar.com/avatar$image,3p,badfilter
