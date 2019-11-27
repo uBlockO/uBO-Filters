@@ -310,7 +310,7 @@ instagram.com##+js(eremove, .Yx5HN.RnEpo)
 ||jwpsrv.com^$important
 ||adskeeper.co.uk^$important
 @@||comicbook.com^$generichide,badfilter
-comicbook.com##+js(eremove, .leftrail.sidebar-list-module.sidebar > section:nth-of-type(3)\, .mid-content-comment\, .btn-wide-container\, .article-break\, .channel-nav)
+comicbook.com##+js(eremove, .leftrail.sidebar-list-module.sidebar > section:nth-of-type(3)\, .mid-content-comment\, .btn-wide-container\, .article-break\, .channel-nav\, .vdb_player)
 /videojs-ima/*$script,1p
 @@||gstatic.com/adx/doubleclick.ico$3p,image,badfilter
 @@|https://$3p,script,domain=blockadblock.com,badfilter
