@@ -192,7 +192,7 @@ kissmanga.com##+js(eremove, #aCurr\, .clear2\, .specialButton)
 -social-media-$image,badfilter
 /\.com\/.*[a-f0-9]{110}/$third-party,image,domain=~parship.com|~aliexpress.com|~alipay.com|~bilibili.com|~namu.wiki|~fastmail.com,badfilter
 ||kvideo.io^$document
-||animehub.ac^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: static.animecdn.xyz embed.streamx.live
+||animehub.ac^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: static.animecdn.xyz embed.streamx.me
 @@||office365.com^*/adbar.js$badfilter
 /^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ee]xternal|[Ii]mages|[Ss]cripts|[Uu]ploads|ac|ajax|assets|combined|content|cov|cover|(img\/bg)|(img\/icon)|inc|jwplayer|player|playlist-cat-rss|static|thumbs|wp-content|wp-includes)\/)(.*)/$first-party,script,badfilter
 /^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ss]cripts|[Uu]ploads|[Ii]mages|combined|content|cover|img|static|wp-content|wp-includes))(.*)/$first-party,other,badfilter
@@ -225,7 +225,7 @@ dnsleaktest.com##+js(eremove, [class] > [target="_blank"])
 @@||scontent.xx.fbcdn.net/hads-ak-prn2/*.png$domain=facebook.com,badfilter
 @@||$generichide,domain=animehub.ac|myanimelist.net|fmovies.to|screenrant.com|kimcartoon.to|ghacks.net|animenewsnetwork.com|youtube.com
 ||kimcartoon.to^$csp=script-src 'self' * 'unsafe-inline',badfilter
-||embed.streamx.live^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.googlevideo.com *.openstream.io *.googleapis.com hydrax.net *.hydrax.net iamcdn.net *.iamcdn.net *.hailhydra.org *.googleusercontent.com cdn.jwplayer.com ssl.p.jwpcdn.com *.bighost.be
+||embed.streamx.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.googlevideo.com *.openstream.io *.googleapis.com hydrax.net *.hydrax.net iamcdn.net *.iamcdn.net *.hailhydra.org *.googleusercontent.com cdn.jwplayer.com ssl.p.jwpcdn.com *.bighost.be
 @@||munchkin.marketo.net/munchkin.js$badfilter
 @@||kimcartoon.to^$csp=script-src 'self' * 'unsafe-inline',badfilter
 @@||mail.google.com^*&view=ad&$xmlhttprequest,badfilter
@@ -295,7 +295,7 @@ animehub.ac##+js(remove-inline-script, /zfgloaded|onError/)
 @@||aniwatcher.com/adblock.js$badfilter
 @@||youbora.com/*/js/adapters/jwplayer$script,badfilter
 facebook.com##[id^="hyperfeed_story_id"]:has-text(/Paid Partner|Suggested|Stories|Sponsored/)
-embed.streamx.live##+js(eremove, [button="share"]\, .afs_ads\, .jw-settings-sharing\, .jw-submenu-sharing)
+embed.streamx.*##+js(eremove, [button="share"]\, .afs_ads\, .jw-settings-sharing\, .jw-submenu-sharing)
 truecaller.com##+js(eremove, .absolute.flex\, .ad\, [href*="premium"]\, [id="app"] > footer + .pin-b\, span > .max-w-md.shadow-lg)
 animehub.ac##+js(eremove, .footer-follow\, .sb-subs.goblock > .clearfix\, .comments\, .detail-anime.goblock > .go-full.goblock-content > .goblock-bottom\, .gc-share.gc-icon\, .gc-comments.gc-icon\, .dialog-ovelay\, #sidebar > .clearfix)
 @@||static.animecdn.xyz/js/ads.js$badfilter
@@ -325,7 +325,7 @@ fandom.com##+js(eremove, #WikiaBar)
 /ultimate-popunder/*$1p,script
 @@/wp-content/plugins/deblocker$1p,badfilter
 kissanime.ac##+js(eremove, #divComments\, .related_news\, .full:nth-child(14)\, .footer_watching_link\, .tab-head\, .dialog-ovelay)
-||kissanime.ac^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: static.animecdn.xyz embed.streamx.live
+||kissanime.ac^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: static.animecdn.xyz embed.streamx.me
 hentaiplay.net##+js(set-attr, preload, auto, video)
 ||chatango.com^$important
 /disqus-comment-system/*$script,1p
