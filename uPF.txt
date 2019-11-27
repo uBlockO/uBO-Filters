@@ -19,11 +19,7 @@ torrentfreak.com##+js(eremove, .widget_text\, .o-widget--rotated.o-widget\, .com
 ||addthis.com^$important
 myanimelist.net##+js(eremove, .banner-header-anime-straming\, .footer-link-icon-block\, .clearfix.index-watch-description\, .btn-mal-service\, .anime-detail-header-affiliate\, .amazon\, .anime_discussions.widget\, .video-providers\, .js-sns-icon-container\, .icon-block-small.js-sns-icon-container\, .promotional-video\, .anime-detail-header-video\, .mb4.di-ib\, .fb-page\, .root\, [id^="div-gpt-ad"]\, .watch-description\, .text-ad-links\, .right_top_ad\, .mal-ad-unit\, .gdpr-modal-ad\, .ad-skin-side-bg\, .mal-side-ad--l\, .mal-side-ad--r\, .mal-live-pop-up)
 ||googleadservices.com^$important
-*logpopup*$1p,important
 ||myanimelist.net/static/logging.html^$xmlhttprequest,1p
-ph-tracking.js^$important,domain=pornhub.com
-premium^$script,domain=pornhub.com,important
-promo-banner.js^$important,domain=pornhub.com
 abtesting$important,script,domain=fandom.com
 ||youtube.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.ggpht.com *.googlevideo.com *.ytimg.com *.googleusercontent.com www.youtube.com
 google.*##+js(eremove, #prm-pt\, .b2hzT\, .exp-outline\, [id^="ed_"]\, [title*="Share"]\, .bkWMgd:nth-of-type(3) > .g-blk.mnr-c.kno-kp.g)
@@ -37,10 +33,6 @@ fmovies.*,ffmovies.*##+js(eremove, .text\, .widget:nth-of-type(5)\, #tags\, .hid
 ||fundingchoicesmessages.google.com^$3p
 @@||cdnjs.cloudflare.com/ajax/libs/fingerprintjs$domain=index.hr,badfilter
 @@||facebook.com/plugins/post$badfilter
-!#if env_chromium
-github.com##+js(eremove, .survey-container\, .js-notice-dismiss\, .code-navigation-banner)
-animehub.ac##+js(aeld, /mousedown|mouseup|message/, 0x)
-!#endif
 @@||speedtest.net/javascript/jquery-*.min.js$badfilter
 @@||d3ujids68p6xmq.cloudfront.net^$script,badfilter
 *stats*$1p,important
@@ -336,3 +328,4 @@ hentaiplay.net##+js(set-attr, preload, auto, video)
 kissanime.ru##+js(remove-inline-script, #divContentVideo)
 ||megaphone.fm^$3p
 @@||gravatar.com/avatar$image,3p,badfilter
+/wp-content/cache/autoptimize/*$1p
