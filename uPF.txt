@@ -329,3 +329,4 @@ kissanime.ru##+js(remove-inline-script, #divContentVideo)
 ||megaphone.fm^$3p
 @@||gravatar.com/avatar$image,3p,badfilter
 /wp-content/cache/autoptimize/*$1p,script
+duckduckgo.com##+js(eremove, .ia-modules)
