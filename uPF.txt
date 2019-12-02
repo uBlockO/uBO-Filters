@@ -322,4 +322,5 @@ kissanime.ru##+js(remove-inline-script, #divContentVideo)
 @@||gravatar.com/avatar$image,3p,badfilter
 /wp-content/cache/autoptimize/*$1p,script
 duckduckgo.com##+js(eremove, .ia-modules)
-_pjax=%23js-repo-pjax-container$xhr,1p,domain=github.com
+_pjax=%23js-repo-pjax-container$xhr,1p
+||youtube.com/watch?v=*&pbj=^$xhr,1p
