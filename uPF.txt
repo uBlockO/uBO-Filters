@@ -130,9 +130,6 @@ facebook.com/ajax/typeahead/record_basic_metrics.php$1p
 @@||static1.akacdn.ru/assets/$script,domain=fmovies.is|fmovies.se|fmovies.to,badfilter
 @@||staticf.akacdn.ru/f/assets/favicons/$domain=ffmovies.ru|fmovies.to,badfilter
 @@||pubmatic.com/adserver/*showad.js$script,badfilter
-@@||streamango.com/popunder2.js$badfilter
-@@||streamango.com/googlead.js$badfilter
-@@||streamango.com/assets/js/license.adbl.js$badfilter
 @@||ads.servebom.com/tmnhead.js$badfilter
 |http://$third-party,stylesheet,domain=dwatchseries.to|thewatchseries.ac|unblckd.org|watchseries.sk,badfilter
 @@/adframe.js$script,badfilter
@@ -153,12 +150,10 @@ facebook.com/ajax/typeahead/record_basic_metrics.php$1p
 @@||9anime.is/assets/player/jwplayer-*/jwplayer.js$badfilter
 ||cse.google.com^$important
 ||doubleclickbygoogle.com^$important
-||streamango.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.streamango.com *.fruithosted.net cdnjs.cloudflare.com;upgrade-insecure-requests
 @@||9anime.is/assets/player/jwplayer-7.12.3/jwplayer.js$script,badfilter
 @@/wp-content/*/adve*.js$script,badfilter
 animenewsnetwork.com##.box.herald:has([href*="/advert"])
 ||readcomiconline.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bp.blogspot.com
-@@||streamango.com/assets/js/script.packed.js$badfilter
 ||fonts.googleapis.com^$important,domain=~google.com|~chromium.org
 ||fonts.gtatic.com^$important,domain=~google.com|~chromium.org
 ||typekit.net^$important,3p
@@ -253,7 +248,6 @@ youtube.com##+js(eremove, #watch-action-panels\, #chat\, .ytp-ce-covering-overla
 @@||luxubu.review/v/$domain=kimcartoon.to,badfilter
 ||youtube.com/comment_service_ajax?$domain=youtube.com,badfilter
 *vast-*$1p,script,important
-||easylist.club^$important
 @@||p.jwpcdn.com^$third-party,script,badfilter
 /videojs.ima.js$1p,script,important
 @@||1337x.to/torrent/$first-party,csp,badfilter
@@ -313,8 +307,6 @@ comicbook.com###header:style(padding-top: 0px !important)
 /adblockdetector$script,1p
 @@/adservice.*.js?domain=$script,badfilter
 fandom.com##+js(eremove, #WikiaBar)
-||popupmaker.com^$3p,important
-/ultimate-popunder/*$1p,script
 @@/wp-content/plugins/deblocker$1p,badfilter
 kissanime.ac##+js(eremove, #divComments\, .related_news\, .full:nth-child(14)\, .footer_watching_link\, .tab-head\, .dialog-ovelay)
 ||kissanime.ac^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: static.animecdn.xyz embed.streamx.me
