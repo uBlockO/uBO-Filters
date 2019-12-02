@@ -323,4 +323,3 @@ kissanime.ru##+js(remove-inline-script, #divContentVideo)
 /wp-content/cache/autoptimize/*$1p,script
 duckduckgo.com##+js(eremove, .ia-modules)
 _pjax=%23js-repo-pjax-container$xhr,1p
-||youtube.com/watch?v=*&pbj^$xhr,1p
