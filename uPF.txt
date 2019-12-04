@@ -327,4 +327,3 @@ gyazo.com##+js(eremove, .induction-popup)
 @@/advertising.js$script,badfilter
 @@||ogjs.infoglobo.com.br/*/js/*advertisement.js$badfilter
 @@/js/advertisement.$script,badfilter
-@@/wp-content/plugins/super-socializer/js/front/social_login/*$~third-party,badfilter
