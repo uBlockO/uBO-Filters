@@ -324,3 +324,6 @@ kissanime.ru##+js(remove-inline-script, #divContentVideo)
 duckduckgo.com##+js(eremove, .ia-modules)
 _pjax=%23js-repo-pjax-container$xhr,1p
 gyazo.com##+js(eremove, .induction-popup)
+@@/advertising.js$script,badfilter
+@@||ogjs.infoglobo.com.br/*/js/*advertisement.js$badfilter
+@@/js/advertisement.$script,badfilter
