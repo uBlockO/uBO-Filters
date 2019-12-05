@@ -328,3 +328,4 @@ gyazo.com##+js(eremove, .induction-popup)
 @@||ogjs.infoglobo.com.br/*/js/*advertisement.js$badfilter
 @@/js/advertisement.$script,badfilter
 @@/wp-content/plugins/super-socializer/js/front/social_login/*$1p,badfilter
+||washingtonpost.com/*/pwapi-proxy$script,1p
