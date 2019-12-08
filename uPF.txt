@@ -227,7 +227,7 @@ dnsleaktest.com##+js(eremove, [class] > [target="_blank"])
 @@||vox-cdn.com/packs/concert_ads$script,badfilter
 @@||s1.wp.com^$badfilter
 @@||bidvertiser.com/*?pid=$script,domain=exrapidleech.info,badfilter
-youtube.com##+js(eremove, #watch-action-panels\, #chat\, .ytp-ce-covering-overlay\, .subscribecard-endscreen\, .ytp-ce-element\, #ytd-promoted-video-renderer\, #watch-sidebar-live-chat\, #pla-shelf\, .yt-uix-expander-collapsed.live-chat-expander.yt-uix-expander\, .hats-categorical-style-vertical\, #movie-upsell-card\, .yt-lockup-movie-vertical-poster.yt-lockup-tile.yt-lockup\, .style-default.force-icon-button.ytd-menu-renderer.style-scope\, #sponsor-button\, .ytp-miniplayer-button\, .ytd-metadata-row-header-renderer.style-scope\ .html5-stop-propagation.ytp-drawer\, #masthead-ad\, #ticker.ytd-masthead\, #merch-shelf\, #offer-module\, .ytp-cards-teaser\, .ytp-paid-content-overlay\, .ytp-pause-overlay\, .ytp-title-channel\, #comments\, ytd-button-renderer.size-default.style-default.force-icon-button.ytd-menu-renderer.style-scope\, .ytd-search-pyv-renderer\, .ytd-promoted-sparkles-text-search-renderer\, .ytd-merch-shelf-renderer\, .ytd-compact-promoted-video-renderer\, .share-panel-services\, .ytp-share-button\, #secondarylinks\, #content > .ytd-metadata-row-header-renderer.style-scope.content > .yt-formatted-string.style-scope.yt-simple-endpoint\, #hover-overlays.style-scope.ytd-thumbnail\, #dismissable.ytd-compact-promoted-item-renderer.style-scope\, #dismissable.ytd-rich-shelf-renderer.style-scope)
+youtube.com##+js(eremove, #watch-action-panels\, #chat\, .ytp-ce-covering-overlay\, .subscribecard-endscreen\, .ytp-ce-element\, #ytd-promoted-video-renderer\, #watch-sidebar-live-chat\, #pla-shelf\, .yt-uix-expander-collapsed.live-chat-expander.yt-uix-expander\, .hats-categorical-style-vertical\, #movie-upsell-card\, .yt-lockup-movie-vertical-poster.yt-lockup-tile.yt-lockup\, .style-default.force-icon-button.ytd-menu-renderer.style-scope\, #sponsor-button\, .ytp-miniplayer-button\, .ytd-metadata-row-header-renderer.style-scope\ .html5-stop-propagation.ytp-drawer\, #masthead-ad\, #ticker.ytd-masthead\, #merch-shelf\, #offer-module\, .ytp-cards-teaser\, .ytp-paid-content-overlay\, .ytp-pause-overlay\, .ytp-title-channel\, #comments\, ytd-button-renderer.size-default.style-default.force-icon-button.ytd-menu-renderer.style-scope\, .ytd-search-pyv-renderer\, .ytd-promoted-sparkles-text-search-renderer\, .ytd-merch-shelf-renderer\, .ytd-compact-promoted-video-renderer\, .share-panel-services\, .ytp-share-button\, #secondarylinks\, #content > .ytd-metadata-row-header-renderer.style-scope.content > .yt-formatted-string.style-scope.yt-simple-endpoint\, #hover-overlays.style-scope.ytd-thumbnail\, #dismissable.ytd-compact-promoted-item-renderer.style-scope\, #dismissable.ytd-rich-shelf-renderer.style-scope\, #clarify-box)
 @@||dev.visualwebsiteoptimizer.com/j.php$badfilter
 @@||9anime.*/assets/$first-party,script,badfilter
 ||9anime.*^$first-party,script,badfilter
@@ -247,7 +247,6 @@ youtube.com##+js(eremove, #watch-action-panels\, #chat\, .ytp-ce-covering-overla
 |https://$third-party,subdocument,domain=kimcartoon.to,badfilter
 @@||luxubu.review/v/$domain=kimcartoon.to,badfilter
 ||youtube.com/comment_service_ajax?$domain=youtube.com,badfilter
-*vast-*$1p,script,important
 @@||p.jwpcdn.com^$third-party,script,badfilter
 /videojs.ima.js$1p,script,important
 @@||1337x.to/torrent/$first-party,csp,badfilter
@@ -292,7 +291,6 @@ animehub.ac##+js(eremove, .footer-follow\, .sb-subs.goblock > .clearfix\, .comme
 instagram.com##+js(eremove, .Yx5HN.RnEpo)
 /sw.js^$script,1p
 /service-worker.js^$script,1p
-||youtube-nocookie.com^
 ||jwpsrv.com^$important
 ||adskeeper.co.uk^$important
 @@||comicbook.com^$generichide,badfilter
@@ -330,3 +328,4 @@ gyazo.com##+js(eremove, .induction-popup)
 @@/wp-content/plugins/super-socializer/js/front/social_login/*$1p,badfilter
 ||washingtonpost.com/*/pwapi-proxy$script,1p
 animehub.ac##.index:style(padding: 0 !important)
+||youtube.com/watch?v=*&pbj=$xhr,1p
