@@ -37,8 +37,6 @@ fmovies.*,ffmovies.*##+js(eremove, .text\, .widget:nth-of-type(5)\, #tags\, .hid
 @@||d3ujids68p6xmq.cloudfront.net^$script,badfilter
 *stats*$1p,important
 *log_event*$1p,important
-kisshentai.net##+js(eremove, [href="#"]\, #show_id\, [href^="https://theporndude.com/"]\, [href^="http://kissdoujin.com/"]\, img[src^="https://theporndude.com/"])  
-||kisshentai.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data:
 ||connect.facebook.net^$important
 @@||platform.twitter.com^$script,domain=9anime.to,badfilter
 speedtest.net##+js(eremove, .high-placeholder.pure-u-1\, .u-c.pure-u-custom-ad-rectangle\, .u-c.pure-u-custom-ad-skyscraper\, .eot-mini-survey\, .top-placeholder.pure-u-1\, .eot-info-audience.u-c.pure-u-1-2\, .u-c.pure-u-1-4:nth-of-type(1) > ul.menu-footer:nth-of-type(2)\, .lower-content-blend)
@@ -112,7 +110,6 @@ animenewsnetwork.com##+js(eremove, #cover_image\, .floating-image\, .box.alert\,
 ||exosrv.com^$important
 @@||google.*/ads/$third-party,image,badfilter
 ||facebook.com/video/*/upnext^$xmlhttprequest
-@@||kisshentai.net/content/js/adframe.js^$badfilter
 @@||cloudfront.net/assets/$third-party,script,badfilter
 ||github.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.githubassets.com *.githubusercontent.com *.s3.amazonaws.com
 ||socket.io^
@@ -329,3 +326,4 @@ gyazo.com##+js(eremove, .induction-popup)
 ||washingtonpost.com/*/pwapi-proxy$script,1p
 animehub.ac##.index:style(padding: 0 !important)
 ||youtube-nocookie.com^$3p
+||youtube.com/watch?v=*pbj=$xhr,1p
