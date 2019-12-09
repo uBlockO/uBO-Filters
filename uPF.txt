@@ -328,5 +328,4 @@ gyazo.com##+js(eremove, .induction-popup)
 @@/wp-content/plugins/super-socializer/js/front/social_login/*$1p,badfilter
 ||washingtonpost.com/*/pwapi-proxy$script,1p
 animehub.ac##.index:style(padding: 0 !important)
-||youtube.com/watch?v=*&pbj=$xhr,1p
 ||youtube-nocookie.com^$3p
