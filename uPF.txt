@@ -326,4 +326,3 @@ gyazo.com##+js(eremove, .induction-popup)
 ||washingtonpost.com/*/pwapi-proxy$script,1p
 animehub.ac##.index:style(padding: 0 !important)
 ||youtube-nocookie.com^$3p
-||youtube.com/watch?v=*pbj=$xhr,1p
