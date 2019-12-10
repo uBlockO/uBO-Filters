@@ -326,4 +326,4 @@ gyazo.com##+js(eremove, .induction-popup)
 ||washingtonpost.com/*/pwapi-proxy$script,1p
 animehub.ac##.index:style(padding: 0 !important)
 ||youtube-nocookie.com^$3p
-||washingtonpost.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: maxcdn.bootstrapcdn.com talk-auth.washingtonpost.com
+||washingtonpost.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: maxcdn.bootstrapcdn.com *.washingtonpost.com
