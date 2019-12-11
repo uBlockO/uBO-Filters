@@ -327,3 +327,4 @@ gyazo.com##+js(eremove, .induction-popup)
 animehub.ac##.index:style(padding: 0 !important)
 ||youtube-nocookie.com^$3p
 ||washingtonpost.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: maxcdn.bootstrapcdn.com *.washingtonpost.com
+reddit.com##+js(ro, r.utils.replaceUrlParams, null)
