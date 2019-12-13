@@ -47,8 +47,6 @@ mega.nz##+js(eremove, .ads-left-block\, .ads-right-block\, .active.top-login-war
 ||fmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to;upgrade-insecure-requests
 ||ffmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to;upgrade-insecure-requests
 ||9anime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.akacdn.ru *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com mcloud.to *.mcloud.to *.mp4upload.com prettyfast.to cdnjs.cloudflare.com hydrax.net;upgrade-insecure-requests
-||putlockertv.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to;upgrade-insecure-requests
-||solarmoviex.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to;upgrade-insecure-requests
 /endscreen$script,domain=youtube.com
 ||fmovies.is^$first-party,popup,badfilter
 ||fmovies.is^$xmlhttprequest,domain=fmovies.is,badfilter
@@ -96,7 +94,7 @@ fmovies.*##.widget-title:has-text(Sponsored)
 @@||facebook.com/share/share_now_menu/$domain=facebook.com,badfilter
 |https://$third-party,script,domain=9anime.to,badfilter
 @@||akamaihd.net^*/ad*.js$script,badfilter
-ffmovies.*,putlockertv.*,solarmoviex.to,is123moviesto.com##+js(remove-inline-script, /zfgloaded/)
+ffmovies.*,is123moviesto.com##+js(remove-inline-script, /zfgloaded/)
 ad.*^$first-party,script
 ||animenewsnetwork.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com platform.twitter.com *.twimg.com www.animenewsnetwork.com cdn.animenewsnetwork.com
 animenewsnetwork.com##+js(eremove, #cover_image\, .floating-image\, .box.alert\, #infinite-scroll-outlet\, .spaceRow\, #prompt-message\, .social-button\, .ezoic-ad)
@@ -122,7 +120,7 @@ ghacks.net##+js(eremove, .ghacks_share_widget\, .category-deals\, .ghacks_this_d
 facebook.com/ajax/typeahead/record_basic_metrics.php$1p
 /^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to|ebd\.cda\.pl|gamedor\.usermd\.net)\/).)*$/$subdocument,domain=a-o.ninja|centrum-dramy.pl|love-drama.pl|vidfile.net,badfilter
 /^((?!(^https?):\/\/(ajax\.googleapis\.com|cdnjs\.cloudflare\.com|vk\.com)\/).)*$/$script,third-party,domain=kinokrad.co,badfilter
-||mcloud.to^$csp=default-src 'self' 'unsafe-inline' blob: *.mcloud.to *.fmovies.to *.solarmoviex.to *.ffmovies.ru *.9anime.to *.putlockertv.to ajax.googleapis.com ssl.p.jwpcdn.com static1.akacdn.ru
+||mcloud.to^$csp=default-src 'self' 'unsafe-inline' blob: data: *.mcloud.to *.fmovies.to *.solarmoviex.to *.ffmovies.ru *.9anime.to *.putlockertv.to ajax.googleapis.com ssl.p.jwpcdn.com static1.akacdn.ru
 @@||ssl-images-amazon.com^*/ads/$script,badfilter
 @@||static1.akacdn.ru/assets/$script,domain=fmovies.is|fmovies.se|fmovies.to,badfilter
 @@||staticf.akacdn.ru/f/assets/favicons/$domain=ffmovies.ru|fmovies.to,badfilter
