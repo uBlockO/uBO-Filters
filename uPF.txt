@@ -299,7 +299,7 @@ gamecopyworld.com##+js(eremove, #lb)
 comicbook.com###header:style(padding-top: 0px !important)
 /adblockdetector$script,1p
 @@/adservice.*.js?domain=$script,badfilter
-fandom.com##+js(eremove, #WikiaBar)
+fandom.com##+js(eremove, #WikiaBar\, #WikiaRailWrapper)
 @@/wp-content/plugins/deblocker$1p,badfilter
 kissanime.ac##+js(eremove, #divComments\, .related_news\, .full:nth-child(14)\, .footer_watching_link\, .tab-head\, .dialog-ovelay)
 ||kissanime.ac^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: static.animecdn.xyz embed.streamx.me
