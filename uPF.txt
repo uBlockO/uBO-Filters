@@ -298,7 +298,6 @@ comicbook.com##+js(eremove, .leftrail.sidebar-list-module.sidebar > section:nth-
 @@/js/ads.js$script,badfilter
 gamecopyworld.com##+js(eremove, #lb)
 comicbook.com###header:style(padding-top: 0px !important)
-/adblockdetector$script,1p
 @@/adservice.*.js?domain=$script,badfilter
 fandom.com##+js(eremove, #WikiaBar\, #WikiaRailWrapper)
 @@/wp-content/plugins/deblocker$1p,badfilter
@@ -306,8 +305,6 @@ kissanime.ac##+js(eremove, #divComments\, .related_news\, .full:nth-child(14)\, 
 ||kissanime.ac^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: static.animecdn.xyz embed.streamx.me
 hentaiplay.net##+js(set-attr, preload, auto, video)
 ||chatango.com^$important
-/disqus-comment-system/*$script,1p
-/adb-analytics^$script,3p
 ||gravatar.com^$3p
 @@||amplitude.com/libs/amplitude-$script,3p,badfilter
 @@||tinypass.com/api/tinypass.min.js$script,domain=thedailybeast.com,badfilter
@@ -327,3 +324,4 @@ animehub.ac##.index:style(padding: 0 !important)
 ||youtube-nocookie.com^$3p
 ||washingtonpost.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: maxcdn.bootstrapcdn.com *.washingtonpost.com
 reddit.com##+js(ro, r.utils.replaceUrlParams, null)
+||1337x.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval';img-src *;upgrade-insecure-requests
