@@ -250,7 +250,6 @@ youtube.com##+js(eremove, #watch-action-panels\, #chat\, .ytp-ce-covering-overla
 ||momzr.com/*.php$1p
 momzr.com##+js(eremove, .table)
 @@||1337x.to/home/$first-party,csp,badfilter
-||1337x.*^$csp=upgrade-insecure-requests
 hollywoodreporter.com##+js(eremove, .autoload-spinner\, .blog-post-thr-newsletter-section\, .speedbump-carousel)
 @@/advertisement.js$script,badfilter
 ||hollywoodreporter.com/fe_data/$1p,xmlhttprequest
