@@ -232,7 +232,7 @@ youtube.com##+js(eremove, #watch-action-panels\, #chat\, .ytp-ce-covering-overla
 ||discordapp.com/widget^$important
 @@||gateway.reddit.com/desktopapi/v*/sidebar_ad$xmlhttprequest,badfilter
 |https://$third-party,script,domain=kimcartoon.to,badfilter
-*advert*$1p,script,important
+*advert*$script,important
 ||imasdk.googleapis.com^$important
 ||ahost.bulbagarden.net^$3p
 *exoclick*$script,1p,important
