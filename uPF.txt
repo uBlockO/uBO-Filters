@@ -326,3 +326,4 @@ reddit.com##+js(ro, r.utils.replaceUrlParams, null)
 ||coingecko.com^$3p
 ||guntest.herokuapp.com^$3p
 ||conviva.com^$3p,important
+||timeanddate.com^$3p
