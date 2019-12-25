@@ -11,7 +11,7 @@
 ||doubleclick.net^$important
 pornhub.*##+js(eremove, #under-player-comments\, #welcome\, .abovePlayer\, .clear.hd.jisfhp0w2u\, .adlink2\, .kzpcaw\, .streamatesModelsContainer.sectionWrapper\, #under-player-playlists\, .underplayer-thumbs.videos\, .item-6.menu\, .nf-wrapper > .sectionWrapper\, #pb_template\, .clear.hd\, .fadeInMTubes\, .sniperModeEngaged\, .premiumPromoBanner)
 screenrant.com##+js(eremove, .sharing\, .w-menu-follow\, .newsletter\, .w-article-author-bio\, .w-tldr-start-btn\, .tldr-btn-section\, .article-tags\, .related-single\, .tldr-btn-category\, .next-single\, .next-btn\, .ad-zone-container)
-kissanime.ru##+js(eremove, #btnShowComments\, strong\, .videoAdClose\, .divCloseBut\, .bigBarContainer div[id^="adsIfrme"]\, .adsPositioning\, [style*="width: 300px; height: 250px"]\, [href*="/ads/"])
+kissanime.ru##+js(eremove, #btnShowComments\, strong\, .videoAdClose\, .divCloseBut\, .bigBarContainer div[id^="adsIfrme"]\, .adsPositioning\, [style*="width: 300px; height: 250px"]\, [href*="/ads/"]\, .as-oil)
 ||mgid.com^$important
 ||sharethis.com^$important
 ||taboola.com^$important
