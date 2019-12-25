@@ -94,7 +94,7 @@ fmovies.*##.widget-title:has-text(Sponsored)
 @@||facebook.com/share/share_now_menu/$domain=facebook.com,badfilter
 |https://$third-party,script,domain=9anime.to,badfilter
 @@||akamaihd.net^*/ad*.js$script,badfilter
-ffmovies.*,is123moviesto.com##+js(remove-inline-script, /zfgloaded/)
+ffmovies.*,is123moviesto.com,mcloud.to##+js(remove-inline-script, /zfgloaded/)
 ad.*^$first-party,script
 ||animenewsnetwork.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com platform.twitter.com *.twimg.com www.animenewsnetwork.com cdn.animenewsnetwork.com
 animenewsnetwork.com##+js(eremove, #cover_image\, .floating-image\, .box.alert\, #infinite-scroll-outlet\, .spaceRow\, #prompt-message\, .social-button\, .ezoic-ad)
