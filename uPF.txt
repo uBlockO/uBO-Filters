@@ -320,7 +320,6 @@ gyazo.com##+js(eremove, .induction-popup)
 @@/wp-content/plugins/super-socializer/js/front/social_login/*$1p,badfilter
 ||washingtonpost.com/*/pwapi-proxy$script,1p
 ||youtube-nocookie.com^$3p
-||washingtonpost.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: maxcdn.bootstrapcdn.com *.washingtonpost.com
 reddit.com##+js(ro, r.utils.replaceUrlParams, null)
 ||1337x.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval';img-src *;upgrade-insecure-requests
 ||coingecko.com^$3p
