@@ -324,5 +324,4 @@ reddit.com##+js(ro, r.utils.replaceUrlParams, null)
 ||1337x.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval';img-src *;upgrade-insecure-requests
 ||coingecko.com^$3p
 ||guntest.herokuapp.com^$3p
-||conviva.com^$3p,important
 ||timeanddate.com^$3p
