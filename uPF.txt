@@ -70,8 +70,6 @@ thepiratebay.org##+js(eremove, #adrestop\, [href^="https://www.azirevpn.com/"])
 @@||kisscartoon.*^$first-party,script,badfilter
 @@||startpage.com/js/abp.js^$badfilter
 ||fmovies.se^$first-party,popup,badfilter
-/([0-9]{1,3}\.){3}[0-9]{1,3}/$popup,domain=briansarmiento.website|divxatope1.com|kissanime.ru|newpct.com|pelisplus.tv|rapidvideo.com|strikeout.co|
-eu,badfilter
 ||kimcartoon.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.zencdn.net code.jquery.com *.googleusercontent.com *.googlevideo.com *.fbcdn.net *.luxubu.review
 /ads/*$first-party,important
 @@||speedtest.net/*/*bundle$script,first-party,badfilter
