@@ -114,7 +114,7 @@ animenewsnetwork.com##+js(eremove, #cover_image\, .floating-image\, .box.alert\,
 ||amazon-adsystem.com^$important
 @@||ajax.cloudflare.com/cdn-cgi/scripts/$third-party,script,badfilter
 ghacks.net##+js(eremove, .ghacks_share_widget\, .category-deals\, .ghacks_this_day\, .ghacks_popular\, .ghacks_last_updated\, #post-author\, #snippet-box\, .ghacks-ad\, .cookie-notice-container\, [href^="https://deals.ghacks.net/"]\, .ghacks_ad_code\, #download-widget\, .post-list-sponsored)  
-||torrentz2.*/*.php^$1p
+||torrentz2.eu/*.php^$1p
 /detroitchicago$domain=animenewsnetwork.com
 facebook.com/ajax/typeahead/record_basic_metrics.php$1p
 /^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to|ebd\.cda\.pl|gamedor\.usermd\.net)\/).)*$/$subdocument,domain=a-o.ninja|centrum-dramy.pl|love-drama.pl|vidfile.net,badfilter
@@ -194,7 +194,7 @@ kissmanga.com##+js(eremove, #aCurr\, .clear2\, .specialButton)
 ||googletagservices.com^$important
 ||googletagmanager.com^$important
 ||scorecardresearch.com^$important
-torrentz2.eu##+js(eremove, .alert-danger\, #resultarea\, [class*="Tolerat"], [id*="ScriptRoot"]\, .ads_box\, .rss)
+torrentz2.eu##+js(eremove, .alert-danger\, #resultarea\, [class*="Tolerat"]\, [id*="ScriptRoot"]\, .ads_box\, .rss\, [href*="/lorem2"]\, .downurls > dl:nth-of-type(1) > dd)
 torrentz2.eu##.downlinkstwo:style(display: block !important)
 ||mcloud.to/log^$1p
 |https://$xmlhttprequest,domain=dwatchseries.to|swatchseries.to|thewatchseries.ac|unblckd.org|watchseries.sk,badfilter
