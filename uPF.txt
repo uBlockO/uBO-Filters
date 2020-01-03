@@ -326,6 +326,6 @@ reddit.com##+js(ro, r.utils.replaceUrlParams, null)
 |https://$script,3p,domain=putlockers.movie,badfilter
 |https://$stylesheet,3p,domain=putlockers.movie,badfilter
 ||putlockers.movie^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' image.tmdb.org vidsrc.me i.imgur.com ajax.googleapis.com ajax.cloudflare.com cdnjs.cloudflare.com cdn.jsdelivr.net
-||vidsource.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com ajax.cloudflare.com cdnjs.cloudflare.com cdn.jsdelivr.net www.vidsource.me; media-src *
+||vidsource.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' www.vidsource.me; media-src *
 vidsrc.me##+js(eremove, #cc\, #close)
 putlockers.movie##+js(eremove, [href*="/premium.php"]\, #content > .clear_fix > div) 
