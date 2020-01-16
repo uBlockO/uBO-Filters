@@ -331,3 +331,4 @@ reddit.com##+js(ro, r.utils.replaceUrlParams, null)
 vidsrc.me##+js(eremove, #cc\, #close)
 putlockers.movie##+js(eremove, [href*="/premium.php"]\, #content > .clear_fix > div\, #bookmark-this) 
 @@||b.cdnst.net/javascript/amazon.js$domain=speedtest.net,badfilter
+facebook.com##[id^="hyperfeed_story_id"]:has-text(Suggested)
