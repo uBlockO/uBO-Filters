@@ -333,3 +333,7 @@ putlockers.movie##+js(eremove, [href*="/premium.php"]\, #content > .clear_fix > 
 @@||b.cdnst.net/javascript/amazon.js$domain=speedtest.net,badfilter
 facebook.com##[id^="hyperfeed_story_id"]:has-text(Suggested)
 @@||cookielaw.org/scripttemplates/$script,badfilter
+|https://$image,3p,domain=~feedback.pornhub.com|pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
+|https://$script,3p,domain=~feedback.pornhub.com|pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
+|https://$media,3p,domain=~feedback.pornhub.com|pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
+|https://$xmlhttprequest,3p,domain=pornhub.com,badfilter
