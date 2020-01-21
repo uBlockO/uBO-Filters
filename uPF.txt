@@ -309,9 +309,8 @@ hentaiplay.net##+js(set-attr, preload, auto, video)
 kissanime.r9anime.u##+js(remove-inline-script, #divContentVideo)
 ||megaphone.fm^$3p
 @@||gravatar.com/avatar$image,3p,badfilter
-/wp-content/cache/autoptimize/*$1p,script
 duckduckgo.com##+js(eremove, .ia-modules)
-_pjax=%23js-repo-pjax-container$xhr,1p
+_pjax=%23js-repo-pjax-container$xhr,domain=github.com
 gyazo.com##+js(eremove, .induction-popup)
 @@/advertising.js$script,badfilter
 @@||ogjs.infoglobo.com.br/*/js/*advertisement.js$badfilter
