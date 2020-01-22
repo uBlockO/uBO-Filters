@@ -337,3 +337,4 @@ facebook.com##[id^="hyperfeed_story_id"]:has-text(Suggested)
 |https://$media,3p,domain=~feedback.pornhub.com|pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
 |https://$xmlhttprequest,3p,domain=pornhub.com,badfilter
 *collect*$1p,important
+@@/wp-content/plugins/simple-adblock-notice/*$script,1p,domain=~gaytube.com|~pornhub.com|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~xtube.com|~youjizz.com|~youporn.com|~youporngay.com,badfilter
