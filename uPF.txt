@@ -34,7 +34,7 @@ fmovies.*,ffmovies.*##+js(eremove, .text\, .widget:nth-of-type(5)\, #tags\, .hid
 @@||facebook.com/plugins/post$badfilter
 @@||speedtest.net/javascript/jquery-*.min.js$badfilter
 @@||d3ujids68p6xmq.cloudfront.net^$script,badfilter
-*stats*$1p,important
+*stats*$1p,important,domain=~twitter.com
 *log_event*$1p,important
 ||connect.facebook.net^$important
 @@||platform.twitter.com^$script,domain=9anime.to,badfilter
