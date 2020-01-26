@@ -322,12 +322,6 @@ reddit.com##+js(ro, r.utils.replaceUrlParams, null)
 ||coingecko.com^$3p
 ||guntest.herokuapp.com^$3p
 ||timeanddate.com^$3p
-|https://$script,3p,domain=putlockers.movie,badfilter
-|https://$stylesheet,3p,domain=putlockers.movie,badfilter
-||putlockers.movie^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' image.tmdb.org vidsrc.me i.imgur.com ajax.googleapis.com ajax.cloudflare.com cdnjs.cloudflare.com cdn.jsdelivr.net
-||vidsource.me^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' www.vidsource.me; media-src *
-vidsrc.me##+js(eremove, #cc\, #close)
-putlockers.movie##+js(eremove, [href*="/premium.php"]\, #content > .clear_fix > div\, #bookmark-this) 
 @@||b.cdnst.net/javascript/amazon.js$domain=speedtest.net,badfilter
 facebook.com##[id^="hyperfeed_story_id"]:has-text(Suggested)
 @@||cookielaw.org/scripttemplates/$script,badfilter
