@@ -337,3 +337,5 @@ facebook.com##[id^="hyperfeed_story_id"]:has-text(Suggested)
 ||madsimz.com/*.js$empty,important,domain=hydrax.net|playhydrax.com,badfilter
 |https://$image,3p,domain=9anime.to,badfilter
 |https://$stylesheet,3p,domain=9anime.to,badfilter
+instagram.com##+js(set-attr, controls|preload, auto, video)
+instagram.com##video:style(z-index: 1000 !important)
