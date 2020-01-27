@@ -2,7 +2,7 @@
 ! Title: uBO Personal Filters
 ! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
 ! Author: uBlock-user
-! Expires: 3 days
+! Expires: 4 days
 
 ||2mdn.net^$3p,important
 /generate_204$other
