@@ -28,7 +28,7 @@ facebook.com##+js(eremove, .home_right_column\, #page_tv_show_playlists\, #pagel
 ||facebook.com/*/logging^$important,1p
 /annotations$script,first-party,domain=youtube.com
 9anime.*##+js(eremove, .popover\, #tags\, .hd-buttons.row\, #comment\, .comment.widget > .widget-title\, .comment.widget > .widget-body\, .socials\, .twitter-follow-button\, .sticky\, .share\, .text-center.crop.widget\, .text-center.widget\, .azlist\, .mb20\, [href*="twitter.com"]\, .alert\, #fb-root\, [href*="dynamicadx.com/"]\, [href*="popmonetizer.com/redirect"])    
-fmovies.*,ffmovies.*##+js(eremove, .text\, .widget:nth-of-type(5)\, #tags\, .hidden-sm.widget\, .hd-buttons.row\, .col-right\, .widget:nth-of-type(4)\, [href*="twitter.com"]\, #comment\, .socials\, .twitter-follow-button\, [href*="/redirect"]\, .streamhd\, .stream4k.row\, .home-socials\, .addthis_native_toolbox\, #fb-root\, .alert[data-notify-position="top-right"]\, .notice.alert-default.alert\, [href^="https://dynamicadx.com/"])
+fmovies.*,ffmovies.*##+js(eremove, .text\, .widget:nth-of-type(5)\, #tags\, .hidden-sm.widget\, .hd-buttons.row\, .col-right\, .widget:nth-of-type(4)\, [href*="twitter.com"]\, #comment\, .socials\, .twitter-follow-button\, [href*="/redirect"]\, .streamhd\, .stream4k\, .home-socials\, .addthis_native_toolbox\, #fb-root\, .alert[data-notify-position="top-right"]\, .notice.alert-default.alert\, [href^="https://dynamicadx.com/"])
 ||contributor.google.com^$3p
 @@||cdnjs.cloudflare.com/ajax/libs/fingerprintjs$domain=index.hr,badfilter
 @@||facebook.com/plugins/post$badfilter
@@ -336,6 +336,8 @@ facebook.com##[id^="hyperfeed_story_id"]:has-text(Suggested)
 @@||townnews.com^*/ad$script,badfilter
 |https://$image,3p,domain=9anime.to,badfilter
 |https://$stylesheet,3p,domain=9anime.to,badfilter
+|https://$script,3p,domain=mcloud.to,badfilter
+|https://$xmlhttprequest,3p,domain=mcloud.to,badfilter
 instagram.com##+js(set-attr, controls|preload, auto, video)
 instagram.com##video:style(z-index: 1000 !important)
 @@||cdn.optimizely.com/public/$script,domain=nytimes.com,badfilter
