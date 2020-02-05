@@ -194,7 +194,7 @@ kissmanga.com##+js(eremove, #aCurr\, .clear2\, .specialButton)
 ||googletagmanager.com^$3p,important
 ||scorecardresearch.com^$3p,important
 ||google-analytics.com^$3p,important
-torrentz2.eu##+js(eremove, .alert-danger\, #resultarea\, [class*="Tolerat"]\, [id*="ScriptRoot"]\, .ads_box\, .rss\, [href*="/lorem2"]\, .downurls > dl:nth-of-type(1) > dd)
+torrentz2.eu##+js(eremove, .alert-danger\, #resultarea\, [class*="Tolerat"]\, [id*="ScriptRoot"]\, .ads_box\, .rss\, [href*="/lorem2"]\, .downurls > dl:nth-of-type(1) > dd\, .downlinksone)
 torrentz2.eu##.downlinkstwo:style(display: block !important)
 ||mcloud.to/log^$1p
 |https://$xmlhttprequest,domain=dwatchseries.to|swatchseries.to|thewatchseries.ac|unblckd.org|watchseries.sk,badfilter
