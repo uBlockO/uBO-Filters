@@ -298,7 +298,7 @@ fandom.com##+js(eremove, #WikiaBar\, #WikiaRailWrapper\, .banner-notifications-p
 @@/wp-content/plugins/deblocker$1p,badfilter
 kissanime.ac##+js(eremove, #divComments\, .related_news\, .full:nth-child(14)\, .footer_watching_link\, .tab-head\, .dialog-ovelay)
 ||kissanime.ac^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: static.animecdn.xyz embed.streamx.me
-hentaiplay.net##+js(tog-attr, preload|oncontextmenu)
+hentaiplay.net##+js(tog-attr, preload|oncontextmenu, video)
 ||chatango.com^$3p,important
 ||gravatar.com^$3p
 @@||amplitude.com/libs/amplitude-$script,3p,badfilter
@@ -308,7 +308,6 @@ kissanime.r9anime.u##+js(remove-inline-script, #divContentVideo)
 @@||gravatar.com/avatar$image,3p,badfilter
 duckduckgo.com##+js(eremove, .ia-modules)
 _pjax=%23js-repo-pjax-container$xhr,domain=github.com
-gyazo.com##+js(eremove, .induction-popup)
 @@/advertising.js$script,badfilter
 @@||ogjs.infoglobo.com.br/*/js/*advertisement.js$badfilter
 @@/js/advertisement.$script,badfilter
@@ -327,7 +326,7 @@ facebook.com##[id^="hyperfeed_story_id"]:has-text(Suggested)
 |https://$script,3p,domain=~feedback.pornhub.com|pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
 |https://$media,3p,domain=~feedback.pornhub.com|pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
 |https://$xmlhttprequest,3p,domain=pornhub.com,badfilter
-*collect*$1p,important
+*collector*$1p,important
 @@/wp-content/plugins/simple-adblock-notice/*$script,1p,domain=~gaytube.com|~pornhub.com|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~xtube.com|~youjizz.com|~youporn.com|~youporngay.com,badfilter
 @@/fuckadblock.$script,1p,badfilter
 /disqus-comment-system/*$script,1p
