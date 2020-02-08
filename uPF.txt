@@ -293,9 +293,8 @@ comicbook.com##+js(eremove, .leftrail.sidebar-list-module.sidebar > section:nth-
 @@|https://$3p,image,domain=blockadblock.com,badfilter
 @@/js/ads.js$script,badfilter
 gamecopyworld.com##+js(eremove, #lb)
-comicbook.com###header:style(padding-top: 0px !important)
 @@/adservice.*.js?domain=$script,badfilter
-fandom.com##+js(eremove, #WikiaBar\, #WikiaRailWrapper)
+fandom.com##+js(eremove, #WikiaBar\, #WikiaRailWrapper\, .banner-notifications-placeholder)
 @@/wp-content/plugins/deblocker$1p,badfilter
 kissanime.ac##+js(eremove, #divComments\, .related_news\, .full:nth-child(14)\, .footer_watching_link\, .tab-head\, .dialog-ovelay)
 ||kissanime.ac^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: static.animecdn.xyz embed.streamx.me
