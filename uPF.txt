@@ -92,7 +92,7 @@ fmovies.*##.widget-title:has-text(Sponsored)
 @@||facebook.com/share/share_now_menu/$domain=facebook.com,badfilter
 |https://$third-party,script,domain=9anime.to,badfilter
 @@||akamaihd.net^*/ad*.js$script,badfilter
-ffmovies.*##+js(remove-inline-script, /zfgloaded/)
+ffmovies.*##+js(remove-node, /zfgloaded/, script)
 ad.*^$first-party,script
 ||animenewsnetwork.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com platform.twitter.com *.twimg.com www.animenewsnetwork.com cdn.animenewsnetwork.com
 animenewsnetwork.com##+js(eremove, #cover_image\, .floating-image\, .box.alert\, #infinite-scroll-outlet\, .spaceRow\, #prompt-message\, .social-button\, .ezoic-ad)
@@ -266,7 +266,7 @@ reddit.com##+js(eremove, #redesign-beta-optin-btn\, .comment-visits-box\, .premi
 |https://$third-party,script,domain=milfzr.com,badfilter
 /fuckadblock^$important,script
 github.com##^.survey-container, .js-notice-dismiss, .code-navigation-banner, .mb-4.bg-white.box-shadow.rounded-1.border, .js-notice.mt-2.Popover 
-animehub.ac##+js(remove-inline-script, /zfgloaded|onError|pop.php/)
+animehub.ac##+js(remove-node, /zfgloaded|onError|pop.php/, script)
 -social-media.$image,badfilter
 ||*$ping,important
 @@||play.google.com/log?$xmlhttprequest,domain=google.com,badfilter
@@ -303,7 +303,7 @@ hentaiplay.net##+js(tog-attr, preload|oncontextmenu, video)
 ||gravatar.com^$3p
 @@||amplitude.com/libs/amplitude-$script,3p,badfilter
 @@||tinypass.com/api/tinypass.min.js$script,domain=thedailybeast.com,badfilter
-kissanime.r9anime.u##+js(remove-inline-script, #divContentVideo)
+kissanime.ru##+js(remove-node, #divContentVideo, script)
 ||megaphone.fm^$3p
 @@||gravatar.com/avatar$image,3p,badfilter
 duckduckgo.com##+js(eremove, .ia-modules)
