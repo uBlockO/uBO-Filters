@@ -340,3 +340,4 @@ instagram.com##video:style(z-index: 1000 !important)
 @@||cdn.optimizely.com/public/$script,domain=nytimes.com,badfilter
 ||redditstatic.com/_chat$script,3p
 ||ttauri.*$1p
+||g0*.ign.com^
