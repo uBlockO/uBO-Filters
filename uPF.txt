@@ -247,6 +247,7 @@ youtube.com##+js(eremove, #watch-action-panels\, #chat\, .ytp-ce-covering-overla
 ||1337x.to^$csp=script-src 'self' 'unsafe-inline',badfilter
 ||momzr.com/*.php$1p
 momzr.com##+js(eremove, .table)
+momzr.com##+js(set-attr, preload, auto, video)
 @@||1337x.to/home/$first-party,csp,badfilter
 hollywoodreporter.com##+js(eremove, .autoload-spinner\, .blog-post-thr-newsletter-section\, .speedbump-carousel)
 @@/advertisement.js$script,badfilter
