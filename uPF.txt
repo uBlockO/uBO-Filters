@@ -343,3 +343,4 @@ instagram.com##video:style(z-index: 1000 !important)
 ||ttauri.*$1p
 ||g0*.ign.com^
 @@||isgprivacy.cbsi.com/dist/optanon.js$script,badfilter
+@@.png#*/ad$image,badfilter
