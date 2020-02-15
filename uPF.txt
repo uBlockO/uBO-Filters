@@ -173,7 +173,7 @@ kissmanga.com##+js(eremove, #aCurr\, .clear2\, .specialButton)
 -social-media-$image,badfilter
 /\.com\/.*[a-f0-9]{110}/$third-party,image,domain=~parship.com|~aliexpress.com|~alipay.com|~bilibili.com|~namu.wiki|~fastmail.com,badfilter
 ||kvideo.io^$3p
-||animehub.ac^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: static.animecdn.xyz embed.streamx.me
+||animehub.ac^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: resource: static.animecdn.xyz embed.streamx.me
 @@||office365.com^*/adbar.js$badfilter
 /^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ee]xternal|[Ii]mages|[Ss]cripts|[Uu]ploads|ac|ajax|assets|combined|content|cov|cover|(img\/bg)|(img\/icon)|inc|jwplayer|player|playlist-cat-rss|static|thumbs|wp-content|wp-includes)\/)(.*)/$first-party,script,badfilter
 /^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ss]cripts|[Uu]ploads|[Ii]mages|combined|content|cover|img|static|wp-content|wp-includes))(.*)/$first-party,other,badfilter
@@ -206,7 +206,7 @@ dnsleaktest.com##+js(eremove, [class] > [target="_blank"]\, .cute-box)
 /^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ee]xternal|[Ii]mages|[Ss]cripts|[Uu]ploads|ac|ajax|assets|combined|content|cov|cover|(img\/bg)|(img\/icon)|inc|jwplayer|player|playlist-cat-rss|static|thumbs|wp-content|wp-includes)\/)(.*)/$first-party,image,domain=~animeland.hu|~memecenter.fr,badfilter
 @@||scontent.xx.fbcdn.net/hads-ak-prn2/*.png$domain=facebook.com,badfilter
 ||kimcartoon.to^$csp=script-src 'self' * 'unsafe-inline',badfilter
-||embed.streamx.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.googlevideo.com *.openstream.io *.googleapis.com hydrax.net *.hydrax.net iamcdn.net *.iamcdn.net *.hailhydra.org *.googleusercontent.com cdn.jwplayer.com ssl.p.jwpcdn.com *.bighost.be
+||embed.streamx.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: resource: *.googlevideo.com *.openstream.io *.googleapis.com hydrax.net *.hydrax.net iamcdn.net *.iamcdn.net *.hailhydra.org *.googleusercontent.com cdn.jwplayer.com ssl.p.jwpcdn.com *.bighost.be
 @@||munchkin.marketo.net/munchkin.js$badfilter
 @@||kimcartoon.to^$csp=script-src 'self' * 'unsafe-inline',badfilter
 @@||mail.google.com^*&view=ad&$xmlhttprequest,badfilter
