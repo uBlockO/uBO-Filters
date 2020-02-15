@@ -344,3 +344,4 @@ instagram.com##video:style(z-index: 1000 !important)
 ||g0*.ign.com^
 @@||isgprivacy.cbsi.com/dist/optanon.js$script,badfilter
 @@.png#*/ad$image,badfilter
+@@||cdn-static.egybest.net/static/global/js/adblock.js$badfilter
