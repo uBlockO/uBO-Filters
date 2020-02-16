@@ -345,3 +345,4 @@ instagram.com##video:style(z-index: 1000 !important)
 @@||isgprivacy.cbsi.com/dist/optanon.js$script,badfilter
 @@.png#*/ad$image,badfilter
 @@||cdn-static.egybest.net/static/global/js/adblock.js$badfilter
+@@||wp.com/p/jetpack^$badfilter
