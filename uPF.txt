@@ -348,3 +348,4 @@ instagram.com##video:style(z-index: 1000 !important)
 @@||cdn-static.egybest.net/static/global/js/adblock.js$badfilter
 @@||wp.com/p/jetpack^$badfilter
 @@||libertaddigital.com^$xmlhttprequest,1p,badfilter
+translate.google.com##+js(eremove, .notification-area)
