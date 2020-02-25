@@ -351,3 +351,5 @@ instagram.com##video:style(z-index: 1000 !important)
 translate.google.com##+js(remove-elem, .notification-area)
 @@/adblock.js$script,badfilter
 @@||gatehousemedia.com^*/ads.js$badfilter
+||kisshentai.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.mp4upload.com *.mp4upload.com:282 gounlimited.to
+kisshentai.net##+js(remove-elem, #btnShowComments)
