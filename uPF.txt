@@ -9,25 +9,25 @@
 ||disqus.com^$3p,important
 ||segment.com^$3p,important
 ||doubleclick.net^$3p,important
-pornhub.*##+js(eremove, #under-player-comments\, #welcome\, .abovePlayer\, .clear.hd.jisfhp0w2u\, .adlink2\, .kzpcaw\, .streamatesModelsContainer.sectionWrapper\, #under-player-playlists\, .underplayer-thumbs.videos\, .item-6.menu\, .nf-wrapper > .sectionWrapper\, #pb_template\, .clear.hd\, .fadeInMTubes\, .sniperModeEngaged\, .premiumPromoBanner)
-screenrant.com##+js(eremove, .sharing\, .w-menu-follow\, .newsletter\, .w-article-author-bio\, .w-tldr-start-btn\, .tldr-btn-section\, .article-tags\, .related-single\, .tldr-btn-category\, .next-single\, .next-btn\, .ad-zone-container\, .as-oil)
+pornhub.*##+js(remove-elem, #under-player-comments\, #welcome\, .abovePlayer\, .clear.hd.jisfhp0w2u\, .adlink2\, .kzpcaw\, .streamatesModelsContainer.sectionWrapper\, #under-player-playlists\, .underplayer-thumbs.videos\, .item-6.menu\, .nf-wrapper > .sectionWrapper\, #pb_template\, .clear.hd\, .fadeInMTubes\, .sniperModeEngaged\, .premiumPromoBanner)
+screenrant.com##+js(remove-elem, .sharing\, .w-menu-follow\, .newsletter\, .w-article-author-bio\, .w-tldr-start-btn\, .tldr-btn-section\, .article-tags\, .related-single\, .tldr-btn-category\, .next-single\, .next-btn\, .ad-zone-container\, .as-oil)
 kissanime.ru##+js(eremove, #btnShowComments\, strong\, .videoAdClose\, .divCloseBut\, .bigBarContainer div[id^="adsIfrme"]\, .adsPositioning\, [style*="width: 300px; height: 250px"]\, [href*="/ads/"])
 ||mgid.com^$3p,important
 ||sharethis.com^$3p,important
 ||taboola.com^$3p,important
-torrentfreak.com##+js(eremove, .widget_text\, .o-widget--rotated.o-widget\, .comments\, .footer__widget--stats)
+torrentfreak.com##+js(remove-elem, .widget_text\, .o-widget--rotated.o-widget\, .comments\, .footer__widget--stats)
 ||addthis.com^$3p,important
-myanimelist.net##+js(eremove, .banner-header-anime-straming\, .footer-link-icon-block\, .clearfix.index-watch-description\, .btn-mal-service\, .anime-detail-header-affiliate\, .amazon\, .anime_discussions.widget\, .video-providers\, .js-sns-icon-container\, .icon-block-small.js-sns-icon-container\, .promotional-video\, .anime-detail-header-video\, .mb4.di-ib\, .fb-page\, .root\, [id^="div-gpt-ad"]\, .watch-description\, .text-ad-links\, .right_top_ad\, .mal-ad-unit\, .gdpr-modal-ad\, .ad-skin-side-bg\, .mal-side-ad--l\, .mal-side-ad--r\, .mal-live-pop-up\, .free-manga-pop-up\, [href^="https://mallive.myanimelist.net"])
+myanimelist.net##+js(remove-elem, .banner-header-anime-straming\, .footer-link-icon-block\, .clearfix.index-watch-description\, .btn-mal-service\, .anime-detail-header-affiliate\, .amazon\, .anime_discussions.widget\, .video-providers\, .js-sns-icon-container\, .icon-block-small.js-sns-icon-container\, .promotional-video\, .anime-detail-header-video\, .mb4.di-ib\, .fb-page\, .root\, [id^="div-gpt-ad"]\, .watch-description\, .text-ad-links\, .right_top_ad\, .mal-ad-unit\, .gdpr-modal-ad\, .ad-skin-side-bg\, .mal-side-ad--l\, .mal-side-ad--r\, .mal-live-pop-up\, .free-manga-pop-up\, [href^="https://mallive.myanimelist.net"])
 ||googleadservices.com^$3p,important
 ||myanimelist.net/static/logging.html^$xmlhttprequest,1p
 abtesting$important,script,domain=fandom.com
 ||youtube.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.ggpht.com *.googlevideo.com *.ytimg.com *.googleusercontent.com *.youtube.com
-google.com##+js(eremove, #prm-pt\, .b2hzT\, .exp-outline\, [id^="ed_"]\, [title*="Share"]\, #gws-output-pages-elements-homepage_additional_languages__als\, #wmxmsg)
+google.com##+js(remove-elem, #prm-pt\, .b2hzT\, .exp-outline\, [id^="ed_"]\, [title*="Share"]\, #gws-output-pages-elements-homepage_additional_languages__als\, #wmxmsg)
 ||googlesyndication.com^$3p,important
-facebook.com##+js(eremove, .home_right_column\, #page_tv_show_playlists\, #pagelet_page_cover\, #page_tv_show_extra_clips\, #page_photos\, .UFIList\, .photoUfiContainer.rhc\, #fb_stories_card_root)
+facebook.com##+js(remove-elem, .home_right_column\, #page_tv_show_playlists\, #pagelet_page_cover\, #page_tv_show_extra_clips\, #page_photos\, .UFIList\, .photoUfiContainer.rhc\, #fb_stories_card_root)
 ||facebook.com/*/logging^$important,1p
 /annotations$script,first-party,domain=youtube.com
-9anime.*##+js(eremove, .popover\, #tags\, .hd-buttons.row\, #comment\, .comment.widget > .widget-title\, .comment.widget > .widget-body\, .socials\, .twitter-follow-button\, .sticky\, .share\, .text-center.crop.widget\, .text-center.widget\, .azlist\, .mb20\, [href*="twitter.com"]\, .alert\, #fb-root\, [href*="dynamicadx.com/"]\, [href*="popmonetizer.com/redirect"])    
+9anime.*##+js(remove-elem, .popover\, #tags\, .hd-buttons.row\, #comment\, .comment.widget > .widget-title\, .comment.widget > .widget-body\, .socials\, .twitter-follow-button\, .sticky\, .share\, .text-center.crop.widget\, .text-center.widget\, .azlist\, .mb20\, [href*="twitter.com"]\, .alert\, #fb-root\, [href*="dynamicadx.com/"]\, [href*="popmonetizer.com/redirect"])    
 fmovies.*,ffmovies.*##+js(eremove, .text\, .widget:nth-of-type(5)\, #tags\, .hidden-sm.widget\, .hd-buttons.row\, .col-right\, .widget:nth-of-type(4)\, [href*="twitter.com"]\, #comment\, .socials\, .twitter-follow-button\, [href*="/redirect"]\, .streamhd\, .stream4k\, .home-socials\, .addthis_native_toolbox\, #fb-root\, .alert[data-notify-position="top-right"]\, .notice.alert-default.alert\, [href^="https://dynamicadx.com/"])
 ||contributor.google.com^$3p
 @@||cdnjs.cloudflare.com/ajax/libs/fingerprintjs$domain=index.hr,badfilter
@@ -38,11 +38,11 @@ fmovies.*,ffmovies.*##+js(eremove, .text\, .widget:nth-of-type(5)\, #tags\, .hid
 *log_event*$1p,important
 ||connect.facebook.net^$3p,important
 @@||platform.twitter.com^$script,domain=9anime.to,badfilter
-speedtest.net##+js(eremove, .high-placeholder.pure-u-1\, .u-c.pure-u-custom-ad-rectangle\, .u-c.pure-u-custom-ad-skyscraper\, .eot-mini-survey\, .top-placeholder.pure-u-1\, .eot-info-audience.u-c.pure-u-1-2\, .u-c.pure-u-1-4:nth-of-type(1) > ul.menu-footer:nth-of-type(2)\, .lower-content-blend)
+speedtest.net##+js(remove-elem, .high-placeholder.pure-u-1\, .u-c.pure-u-custom-ad-rectangle\, .u-c.pure-u-custom-ad-skyscraper\, .eot-mini-survey\, .top-placeholder.pure-u-1\, .eot-info-audience.u-c.pure-u-1-2\, .u-c.pure-u-1-4:nth-of-type(1) > ul.menu-footer:nth-of-type(2)\, .lower-content-blend)
 ||twitter.com^$important,3p
-kimcartoon.to##+js(eremove, .w-right\, #hideAds\, .videoAdClose\, .kcAds\, .alert-info.alert\, .mb15.full\, #btnShowComments\, #videoAd\, #divComments\, #disqus_thread\, .twitter-follow-button\, [id*="ScriptRoot"]\, #adbWarnContainer\, #msg\, .barContent > div > div[style^="width: 300px; height: 250px; float: left;"]\, #myContainer > .kcAds1\, .top_page_alert\, .kcAds1)
+kimcartoon.to##+js(remove-elem, .w-right\, #hideAds\, .videoAdClose\, .kcAds\, .alert-info.alert\, .mb15.full\, #btnShowComments\, #videoAd\, #divComments\, #disqus_thread\, .twitter-follow-button\, [id*="ScriptRoot"]\, #adbWarnContainer\, #msg\, .barContent > div > div[style^="width: 300px; height: 250px; float: left;"]\, #myContainer > .kcAds1\, .top_page_alert\, .kcAds1)
 *analytics*$1p,important
-mega.nz##+js(eremove, .ads-left-block\, .ads-right-block\, .active.top-login-warning\, .red.download-button.button\, .checkbox-bl.download)
+mega.nz##+js(remove-elem, .ads-left-block\, .ads-right-block\, .active.top-login-warning\, .red.download-button.button\, .checkbox-bl.download)
 ||fmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to hydrax.net;upgrade-insecure-requests
 ||ffmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to hydrax.net;upgrade-insecure-requests
 ||9anime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.akacdn.ru *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com mcloud.to *.mcloud.to *.mp4upload.com prettyfast.to cdnjs.cloudflare.com hydrax.net;upgrade-insecure-requests
@@ -95,7 +95,7 @@ fmovies.*##.widget-title:has-text(Sponsored)
 ffmovies.*##+js(remove-node, /zfgloaded/, script)
 ad.*^$first-party,script
 ||animenewsnetwork.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com platform.twitter.com *.twimg.com www.animenewsnetwork.com cdn.animenewsnetwork.com
-animenewsnetwork.com##+js(eremove, #cover_image\, .floating-image\, .box.alert\, #infinite-scroll-outlet\, .spaceRow\, #prompt-message\, .social-button\, .ezoic-ad)
+animenewsnetwork.com##+js(remove-elem, #cover_image\, .floating-image\, .box.alert\, #infinite-scroll-outlet\, .spaceRow\, #prompt-message\, .social-button\, .ezoic-ad)
 ||animenewsnetwork.com/logger.performance^$1p
 ||animenewsnetwork.com/sponsor/$1p
 @@||ox-d.bannertrack.net/auid=$badfilter
@@ -112,7 +112,7 @@ animenewsnetwork.com##+js(eremove, #cover_image\, .floating-image\, .box.alert\,
 ||crwdcntrl.net^$3p,important
 ||amazon-adsystem.com^$3p,important
 @@||ajax.cloudflare.com/cdn-cgi/scripts/$third-party,script,badfilter
-ghacks.net##+js(eremove, .ghacks_share_widget\, .category-deals\, .ghacks_this_day\, .ghacks_popular\, .ghacks_last_updated\, #post-author\, #snippet-box\, .ghacks-ad\, .cookie-notice-container\, [href^="https://deals.ghacks.net/"]\, .ghacks_ad_code\, #download-widget\, .post-list-sponsored)  
+ghacks.net##+js(remove-elem, .ghacks_share_widget\, .category-deals\, .ghacks_this_day\, .ghacks_popular\, .ghacks_last_updated\, #post-author\, #snippet-box\, .ghacks-ad\, .cookie-notice-container\, [href^="https://deals.ghacks.net/"]\, .ghacks_ad_code\, #download-widget\, .post-list-sponsored)  
 ||torrentz2.eu/*.php^$1p
 /detroitchicago$domain=animenewsnetwork.com
 facebook.com/ajax/typeahead/record_basic_metrics.php$1p
@@ -162,7 +162,7 @@ animenewsnetwork.com##.box.herald:has([href*="/advert"])
 /\.com\/.*[a-f0-9]{110}/$third-party,image,domain=~bilibili.com|~namu.wiki|~fastmail.com,badfilter
 |https://$third-party,stylesheet,domain=fmovies.is|fmovies.se|fmovies.taxi|fmovies.to|fmovies.world,badfilter
 @@||cdnjs.cloudflare.com/ajax/libs/font-awesome^$badfilter
-kissmanga.com##+js(eremove, #aCurr\, .clear2\, .specialButton)
+kissmanga.com##+js(remove-elem, #aCurr\, .clear2\, .specialButton)
 @@/_ad*/_ad$first-party,xmlhttprequest,badfilter
 @@||twimg.com/tweets.json?*callback$script,badfilter
 @@||platform.twitter.com/widgets/widget_iframe.$subdocument,badfilter
@@ -194,14 +194,14 @@ kissmanga.com##+js(eremove, #aCurr\, .clear2\, .specialButton)
 ||googletagmanager.com^$3p,important
 ||scorecardresearch.com^$3p,important
 ||google-analytics.com^$3p,important
-torrentz2.eu##+js(eremove, .alert-danger\, #resultarea\, [class*="Tolerat"]\, [id*="ScriptRoot"]\, .ads_box\, .rss\, [href*="/lorem2"]\, .downurls > dl:nth-of-type(1) > dd\, .downlinksone)
+torrentz2.eu##+js(remove-elem, .alert-danger\, #resultarea\, [class*="Tolerat"]\, [id*="ScriptRoot"]\, .ads_box\, .rss\, [href*="/lorem2"]\, .downurls > dl:nth-of-type(1) > dd\, .downlinksone)
 torrentz2.eu##.downlinkstwo:style(display: block !important)
 ||mcloud.to/log^$1p
 |https://$xmlhttprequest,domain=dwatchseries.to|swatchseries.to|thewatchseries.ac|unblckd.org|watchseries.sk,badfilter
 /porpoiseant$domain=animenewsnetwork.com
 @@||kissanime.ru/ads/$first-party,subdocument,badfilter
 |http*://$third-party,image,domain=123movies-proxy.ru|123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.net.ru|123movies.ru|123movies.vc|123moviesfree.com|123movieshd.net|123movieshd.tv|9cartoon.me|animehaven.to|auroravid.to|ay8ou8ohth.com|btdb.in|btdb.to|clipconverter.cc|cmovieshd.com|divxme.com|downloadming.tv|dropapk.com|flyordie.com|full-pcsoftware.com|halacima.net|hdmusic99.in|hdtv-rls.com|kissanime.ru|kissmanga.com|livetvcafe.net|movdivx.com|mp3clan.one|ocean0fgames.com|oogh8ot0el.com|otakustream.tv|otorrents.com|putlocker.co|rgmechanicsgames.com|solarmovie.sc|speedvid.net|stream2watch.org|suprafiles.co|the123movies.org|thepiratebay.cd|vidto.me|vidtudu.com|wholecloud.net,badfilter
-dnsleaktest.com##+js(eremove, [class] > [target="_blank"]\, .cute-box)
+dnsleaktest.com##+js(remove-elem, [class] > [target="_blank"]\, .cute-box)
 /^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ee]xternal|[Ii]mages|[Ss]cripts|[Uu]ploads|ac|ajax|assets|combined|content|cov|cover|(img\/bg)|(img\/icon)|inc|jwplayer|player|playlist-cat-rss|static|thumbs|wp-content|wp-includes)\/)(.*)/$first-party,xmlhttprequest,domain=~animeland.hu|~memecenter.fr,badfilter
 /^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ee]xternal|[Ii]mages|[Ss]cripts|[Uu]ploads|ac|ajax|assets|combined|content|cov|cover|(img\/bg)|(img\/icon)|inc|jwplayer|player|playlist-cat-rss|static|thumbs|wp-content|wp-includes)\/)(.*)/$first-party,image,domain=~animeland.hu|~memecenter.fr,badfilter
 @@||scontent.xx.fbcdn.net/hads-ak-prn2/*.png$domain=facebook.com,badfilter
@@ -222,7 +222,7 @@ embed.streamx.*##+js(nostif, debugger)
 @@||vox-cdn.com/packs/concert_ads$script,badfilter
 @@||s1.wp.com^$badfilter
 @@||bidvertiser.com/*?pid=$script,domain=exrapidleech.info,badfilter
-youtube.com##+js(eremove, #watch-action-panels\, #chat\, .ytp-ce-covering-overlay\, .subscribecard-endscreen\, .ytp-ce-element\, #ytd-promoted-video-renderer\, #watch-sidebar-live-chat\, #pla-shelf\, .yt-uix-expander-collapsed.live-chat-expander.yt-uix-expander\, .hats-categorical-style-vertical\, #movie-upsell-card\, .yt-lockup-movie-vertical-poster.yt-lockup-tile.yt-lockup\, .style-default.force-icon-button.ytd-menu-renderer.style-scope\, #sponsor-button\, .ytp-miniplayer-button\, .ytd-metadata-row-header-renderer.style-scope\ .html5-stop-propagation.ytp-drawer\, #masthead-ad\, #ticker.ytd-masthead\, #merch-shelf\, #offer-module\, .ytp-cards-teaser\, .ytp-paid-content-overlay\, .ytp-pause-overlay\, .ytp-title-channel\, #comments\, ytd-button-renderer.size-default.style-default.force-icon-button.ytd-menu-renderer.style-scope\, .ytd-search-pyv-renderer\, .ytd-promoted-sparkles-text-search-renderer\, .ytd-merch-shelf-renderer\, .share-panel-services\, .ytp-share-button\, #secondarylinks\, #content > .ytd-metadata-row-header-renderer.style-scope.content > .yt-formatted-string.style-scope.yt-simple-endpoint\, #hover-overlays.style-scope.ytd-thumbnail\, #dismissable.ytd-compact-promoted-item-renderer.style-scope\, #dismissable.ytd-rich-shelf-renderer.style-scope\, #clarify-box\, .ytd-vertical-product-card-renderer)
+youtube.com##+js(remove-elem, #watch-action-panels\, #chat\, .ytp-ce-covering-overlay\, .subscribecard-endscreen\, .ytp-ce-element\, #ytd-promoted-video-renderer\, #watch-sidebar-live-chat\, #pla-shelf\, .yt-uix-expander-collapsed.live-chat-expander.yt-uix-expander\, .hats-categorical-style-vertical\, #movie-upsell-card\, .yt-lockup-movie-vertical-poster.yt-lockup-tile.yt-lockup\, .style-default.force-icon-button.ytd-menu-renderer.style-scope\, #sponsor-button\, .ytp-miniplayer-button\, .ytd-metadata-row-header-renderer.style-scope\ .html5-stop-propagation.ytp-drawer\, #masthead-ad\, #ticker.ytd-masthead\, #merch-shelf\, #offer-module\, .ytp-cards-teaser\, .ytp-paid-content-overlay\, .ytp-pause-overlay\, .ytp-title-channel\, #comments\, ytd-button-renderer.size-default.style-default.force-icon-button.ytd-menu-renderer.style-scope\, .ytd-search-pyv-renderer\, .ytd-promoted-sparkles-text-search-renderer\, .ytd-merch-shelf-renderer\, .share-panel-services\, .ytp-share-button\, #secondarylinks\, #content > .ytd-metadata-row-header-renderer.style-scope.content > .yt-formatted-string.style-scope.yt-simple-endpoint\, #hover-overlays.style-scope.ytd-thumbnail\, #dismissable.ytd-compact-promoted-item-renderer.style-scope\, #dismissable.ytd-rich-shelf-renderer.style-scope\, #clarify-box\, .ytd-vertical-product-card-renderer)
 @@||dev.visualwebsiteoptimizer.com/j.php$badfilter
 @@||9anime.*/assets/$first-party,script,badfilter
 ||9anime.*^$first-party,script,badfilter
@@ -247,20 +247,20 @@ youtube.com##+js(eremove, #watch-action-panels\, #chat\, .ytp-ce-covering-overla
 @@||1337x.to/torrent/$first-party,csp,badfilter
 ||1337x.to^$csp=script-src 'self' 'unsafe-inline',badfilter
 ||momzr.com/*.php$1p
-momzr.com##+js(eremove, .table)
+momzr.com##+js(remove-elem, .table)
 momzr.com##+js(set-attr, preload, auto, video)
 @@||1337x.to/home/$first-party,csp,badfilter
-hollywoodreporter.com##+js(eremove, .autoload-spinner\, .blog-post-thr-newsletter-section\, .speedbump-carousel)
+hollywoodreporter.com##+js(remove-elem, .autoload-spinner\, .blog-post-thr-newsletter-section\, .speedbump-carousel)
 @@/advertisement.js$script,badfilter
 ||hollywoodreporter.com/fe_data/$1p,xmlhttprequest
 @@||1337x.to/top-100$first-party,csp,badfilter
-movieweb.com##+js(eremove, .nav-message\, .facebook)
+movieweb.com##+js(remove-elem, .nav-message\, .facebook)
 ||katcr.co^$csp=script-src 'self' 'unsafe-inline',badfilter
 ||thepiratebay.org^$script,badfilter
 ||thepiratebay.$script,domain=ahoypirate.in|bayception.pw|cruzing.xyz|mirror.superproxy.biz|mypirate.cc|noobnoob.rocks|piratebay.tel|piratebay.town|piratebay1.top|piratebayblocked.com|pirateproxy.ch|pirateproxy.live|pirateproxy.rocks|proxyfrom.asia|proxyindia.net|superbay.link|superproxy.biz|thehiddenbay.com|thepiratebay.cr|thepiratebay.kiwi|thepiratebay.org|thepiratebay.vip|tpb.hid.li|tpb6.ukpass.co|tpbproxyone.org|unblockpirate.uk|unblocktheship.org,badfilter
 ||data.microsoft.com^$important,3p
-developer.mozilla.org##+js(eremove, .mdn-cta-container\, .notification-tray)
-reddit.com##+js(eremove, #redesign-beta-optin-btn\, .comment-visits-box\, .premium-banner-outer\, .share\, #adblock-test\, .giftgold\, .snoovatar-link\, .give-gold-button\, .bottom > .spacer\, .happening-now-wrap\, .hohoho-header\, .hohoho\, .promotedlink\,  #gtm-jail)
+developer.mozilla.org##+js(remove-elem, .mdn-cta-container\, .notification-tray)
+reddit.com##+js(remove-elem, #redesign-beta-optin-btn\, .comment-visits-box\, .premium-banner-outer\, .share\, #adblock-test\, .giftgold\, .snoovatar-link\, .give-gold-button\, .bottom > .spacer\, .happening-now-wrap\, .hohoho-header\, .hohoho\, .promotedlink\,  #gtm-jail)
 @@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$badfilter
 @@/adblockdetector.min.js$badfilter
 @@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$first-party,script,badfilter
@@ -274,31 +274,31 @@ animehub.ac##+js(remove-node, /zfgloaded|onError|pop.php/, script)
 @@||play.google.com/log?$xmlhttprequest,domain=google.com,badfilter
 @@||aniwatcher.com/adblock.js$badfilter
 @@||youbora.com/*/js/adapters/jwplayer$script,badfilter
-embed.streamx.*##+js(eremove, [button="share"]\, .afs_ads\, .jw-settings-sharing\, .jw-submenu-sharing)
-truecaller.com##+js(eremove, .absolute.flex\, .ad\, [href*="premium"]\, [id="app"] > footer + .pin-b\, span > .max-w-md.shadow-lg)
-animehub.ac##+js(eremove, .footer-follow\, .sb-subs.goblock > .clearfix\, .comments\, .detail-anime.goblock > .go-full.goblock-content > .goblock-bottom\, .gc-share.gc-icon\, .gc-comments.gc-icon\, .dialog-ovelay\, #sidebar > .clearfix)
+embed.streamx.*##+js(remove-elem, [button="share"]\, .afs_ads\, .jw-settings-sharing\, .jw-submenu-sharing)
+truecaller.com##+js(remove-elem, .absolute.flex\, .ad\, [href*="premium"]\, [id="app"] > footer + .pin-b\, span > .max-w-md.shadow-lg)
+animehub.ac##+js(remove-elem, .footer-follow\, .sb-subs.goblock > .clearfix\, .comments\, .detail-anime.goblock > .go-full.goblock-content > .goblock-bottom\, .gc-share.gc-icon\, .gc-comments.gc-icon\, .dialog-ovelay\, #sidebar > .clearfix)
 @@||static.animecdn.xyz/js/ads.js$badfilter
 @@||igg-games.com^$1p,script,badfilter
 @@||igg-games.com/ads.min.js|$badfilter
 |https://$3p,script,domain=9anime.one,badfilter
 |https://$3p,stylesheet,domain=9anime.one,badfilter
-instagram.com##+js(eremove, .Yx5HN.RnEpo)
+instagram.com##+js(remove-elem, .Yx5HN.RnEpo)
 /sw.js^$script,1p
 /service-worker.js^$script,1p
 ||jwpsrv.com^$3p,important
 ||adskeeper.co.uk^$3p,important
 @@||comicbook.com^$generichide,badfilter
-comicbook.com##+js(eremove, .leftrail.sidebar-list-module.sidebar > section:nth-of-type(3)\, .mid-content-comment\, .btn-wide-container\, .article-break\, .channel-nav\, .vdb_player\, [class^=optanon-category])
+comicbook.com##+js(remove-elem, .leftrail.sidebar-list-module.sidebar > section:nth-of-type(3)\, .mid-content-comment\, .btn-wide-container\, .article-break\, .channel-nav\, .vdb_player\, [class^=optanon-category])
 /videojs-ima/*$script,1p
 @@||gstatic.com/adx/doubleclick.ico$3p,image,badfilter
 @@|https://$3p,script,domain=blockadblock.com,badfilter
 @@|https://$3p,image,domain=blockadblock.com,badfilter
 @@/js/ads.js$script,badfilter
-gamecopyworld.com##+js(eremove, #lb)
+gamecopyworld.com##+js(remove-elem, #lb)
 @@/adservice.*.js?domain=$script,badfilter
-fandom.com##+js(eremove, #WikiaBar\, #WikiaRailWrapper\, .banner-notifications-placeholder)
+fandom.com##+js(remove-elem, #WikiaBar\, #WikiaRailWrapper\, .banner-notifications-placeholder)
 @@/wp-content/plugins/deblocker$1p,badfilter
-kissanime.ac##+js(eremove, #divComments\, .related_news\, .full:nth-child(14)\, .footer_watching_link\, .tab-head\, .dialog-ovelay)
+kissanime.ac##+js(remove-elem, #divComments\, .related_news\, .full:nth-child(14)\, .footer_watching_link\, .tab-head\, .dialog-ovelay)
 ||kissanime.ac^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: static.animecdn.xyz embed.streamx.me
 hentaiplay.net##+js(tog-attr, preload|oncontextmenu, video)
 ||chatango.com^$3p,important
@@ -308,7 +308,7 @@ hentaiplay.net##+js(tog-attr, preload|oncontextmenu, video)
 kissanime.ru##+js(remove-node, #divContentVideo, script)
 ||megaphone.fm^$3p
 @@||gravatar.com/avatar$image,3p,badfilter
-duckduckgo.com##+js(eremove, .ia-modules)
+duckduckgo.com##+js(remove-elem, .ia-modules)
 _pjax=%23js-repo-pjax-container$xhr,domain=github.com
 @@/advertising.js$script,badfilter
 @@||ogjs.infoglobo.com.br/*/js/*advertisement.js$badfilter
@@ -348,6 +348,6 @@ instagram.com##video:style(z-index: 1000 !important)
 @@||cdn-static.egybest.net/static/global/js/adblock.js$badfilter
 @@||wp.com/p/jetpack^$badfilter
 @@||libertaddigital.com^$xmlhttprequest,1p,badfilter
-translate.google.com##+js(eremove, .notification-area)
+translate.google.com##+js(remove-elem, .notification-area)
 @@/adblock.js$script,badfilter
 @@||gatehousemedia.com^*/ads.js$badfilter
