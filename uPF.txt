@@ -350,3 +350,4 @@ instagram.com##video:style(z-index: 1000 !important)
 @@||libertaddigital.com^$xmlhttprequest,1p,badfilter
 translate.google.com##+js(eremove, .notification-area)
 @@/adblock.js$script,badfilter
+@@||gatehousemedia.com^*/ads.js$badfilter
