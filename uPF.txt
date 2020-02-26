@@ -354,3 +354,4 @@ translate.google.com##+js(remove-elem, .notification-area)
 ||kisshentai.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.mp4upload.com *.mp4upload.com:282 gounlimited.to
 kisshentai.net##+js(remove-elem, #btnShowComments)
 @@||static.trafficjunky.com/ab/ads_test.js$badfilter
+*$script,3p,domain=hentaiplay.net,badfilter
