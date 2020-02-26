@@ -300,7 +300,7 @@ fandom.com##+js(remove-elem, #WikiaBar\, #WikiaRailWrapper\, .banner-notificatio
 @@/wp-content/plugins/deblocker$1p,badfilter
 kissanime.ac##+js(remove-elem, #divComments\, .related_news\, .full:nth-child(14)\, .footer_watching_link\, .tab-head\, .dialog-ovelay)
 ||kissanime.ac^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: static.animecdn.xyz embed.streamx.me
-hentaiplay.net##+js(tog-attr, preload|oncontextmenu, video)
+hentaiplay.net##+js(tog-attr, preload|oncontextmenu, false, video)
 ||chatango.com^$3p,important
 ||gravatar.com^$3p
 @@||amplitude.com/libs/amplitude-$script,3p,badfilter
