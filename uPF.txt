@@ -41,7 +41,7 @@ fmovies.*,ffmovies.*##+js(remove-elem, .text\, .widget:nth-of-type(5)\, #tags\, 
 speedtest.net##+js(remove-elem, .high-placeholder.pure-u-1\, .u-c.pure-u-custom-ad-rectangle\, .u-c.pure-u-custom-ad-skyscraper\, .eot-mini-survey\, .top-placeholder.pure-u-1\, .eot-info-audience.u-c.pure-u-1-2\, .u-c.pure-u-1-4:nth-of-type(1) > ul.menu-footer:nth-of-type(2)\, .lower-content-blend)
 ||twitter.com^$important,3p
 kimcartoon.to##+js(remove-elem, .w-right\, #hideAds\, .videoAdClose\, .kcAds\, .alert-info.alert\, .mb15.full\, #btnShowComments\, #videoAd\, #divComments\, #disqus_thread\, .twitter-follow-button\, [id*="ScriptRoot"]\, #adbWarnContainer\, #msg\, .barContent > div > div[style^="width: 300px; height: 250px; float: left;"]\, #myContainer > .kcAds1\, .top_page_alert\, .kcAds1)
-*analytics*$1p,important
+*analytics*$script,xhr,important
 mega.nz##+js(remove-elem, .ads-left-block\, .ads-right-block\, .active.top-login-warning\, .red.download-button.button\, .checkbox-bl.download)
 ||fmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to hydrax.net;upgrade-insecure-requests
 ||ffmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to hydrax.net;upgrade-insecure-requests
