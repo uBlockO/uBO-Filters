@@ -32,7 +32,7 @@ fmovies.*,ffmovies.*##+js(remove-elem, .text\, .widget:nth-of-type(5)\, #tags\, 
 @@||facebook.com/plugins/post$badfilter
 @@||speedtest.net/javascript/jquery-*.min.js$badfilter
 @@||d3ujids68p6xmq.cloudfront.net^$script,badfilter
-*stat*$1p,important,domain=~twitter.com|mozilla.org
+*stat*$1p,important,domain=~twitter.com|~mozilla.org
 *log_event*$1p,important
 ||connect.facebook.net^$3p,important
 @@||platform.twitter.com^$script,domain=9anime.to,badfilter
