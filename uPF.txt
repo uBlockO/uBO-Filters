@@ -80,7 +80,7 @@ thepiratebay.org##+js(remove-elem, #adrestop\, [href^="https://www.azirevpn.com/
 @@||fastly.net/ad2/$script,badfilter
 @@||fastly.net/ad2/$image,badfilter
 @@||gigya.com/*/socialize.js$badfilter
-*ads.js*$important
+*ads.js*$1p,important
 pornhub.*##+js(abort-on-property-read, userABMessage)
 /\.com\/.*[a-f0-9]{110}/$third-party,image,badfilter
 fmovies.*##.widget-title:has-text(Sponsored)
