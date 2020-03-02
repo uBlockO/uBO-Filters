@@ -354,3 +354,4 @@ mp4upload.com##+js(set-innerHTML, #cub, <button id="downloadbtn" class="download
 mp4upload.com##+js(aeld, DOMMouseScroll)
 ||mp4upload.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' stackpath.bootstrapcdn.com code.jquery.com *.mp4upload.com:*
 *stat.*$1p,important
+bing.com#@$#.b_ad { position: absolute!important; left: -3000px!important; }
