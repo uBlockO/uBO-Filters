@@ -8,7 +8,7 @@
 ||disqus.com^$3p,important
 ||segment.com^$3p,important
 ||doubleclick.net^$3p,important
-pornhub.*##+js(remove-elem, #under-player-comments\, #welcome\, .abovePlayer\, .clear.hd.jisfhp0w2u\, .adlink2\, .kzpcaw\, .streamatesModelsContainer.sectionWrapper\, #under-player-playlists\, .underplayer-thumbs.videos\, .item-6.menu\, .nf-wrapper > .sectionWrapper\, #pb_template\, .clear.hd\, .fadeInMTubes\, .sniperModeEngaged\, .premiumPromoBanner)
+pornhub.*##+js(remove-elem, #under-player-comments\, #welcome\, .abovePlayer\, .clear.hd.jisfhp0w2u\, .adlink2\, .kzpcaw\, .streamatesModelsContainer.sectionWrapper\, #under-player-playlists\, .underplayer-thumbs.videos\, .item-6.menu\, .nf-wrapper > .sectionWrapper\, #pb_template\, .clear.hd\, .fadeInMTubes\, .sniperModeEngaged\, .premiumPromoBanner\, .abAlertShown)
 screenrant.com##+js(remove-elem, .sharing\, .w-menu-follow\, .newsletter\, .w-article-author-bio\, .w-tldr-start-btn\, .tldr-btn-section\, .article-tags\, .related-single\, .tldr-btn-category\, .next-single\, .next-btn\, .ad-zone-container\, .as-oil)
 kissanime.ru##+js(remove-elem, #btnShowComments\, strong\, .videoAdClose\, .divCloseBut\, .bigBarContainer div[id^="adsIfrme"]\, .adsPositioning\, [style*="width: 300px; height: 250px"]\, [href*="/ads/"])
 ||mgid.com^$3p,important
@@ -81,7 +81,6 @@ thepiratebay.org##+js(remove-elem, #adrestop\, [href^="https://www.azirevpn.com/
 @@||fastly.net/ad2/$image,badfilter
 @@||gigya.com/*/socialize.js$badfilter
 *ads.js*$1p,important
-pornhub.*##+js(abort-on-property-read, userABMessage)
 /\.com\/.*[a-f0-9]{110}/$third-party,image,badfilter
 fmovies.*##.widget-title:has-text(Sponsored)
 @@||facebook.com/common/referer_frame.php$subdocument,domain=facebook.com,badfilter
