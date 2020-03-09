@@ -354,3 +354,4 @@ mp4upload.com##+js(aeld, DOMMouseScroll)
 ||mp4upload.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' stackpath.bootstrapcdn.com code.jquery.com *.mp4upload.com:*
 *stat.*$1p,important
 @@||gannett-cdn.com^*/show_ads.js$badfilter
+@@/ad/banner/_adsense_/_adserver/_adview_.ad.json$badfilter
