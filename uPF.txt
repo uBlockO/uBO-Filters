@@ -35,7 +35,6 @@ fmovies.*,ffmovies.*##+js(remove-elem, .text\, .widget:nth-of-type(5)\, #tags\, 
 @@||speedtest.net/javascript/jquery-*.min.js$badfilter
 @@||d3ujids68p6xmq.cloudfront.net^$script,badfilter
 *stats*$1p,important,domain=~twitter.com|~mozilla.org
-*log_event*$1p,important
 ||connect.facebook.net^$3p,important
 @@||platform.twitter.com^$script,domain=9anime.to,badfilter
 speedtest.net##+js(remove-elem, .high-placeholder.pure-u-1\, .u-c.pure-u-custom-ad-rectangle\, .u-c.pure-u-custom-ad-skyscraper\, .eot-mini-survey\, .top-placeholder.pure-u-1\, .eot-info-audience.u-c.pure-u-1-2\, .u-c.pure-u-1-4:nth-of-type(1) > ul.menu-footer:nth-of-type(2)\, .lower-content-blend)
@@ -51,7 +50,7 @@ mega.nz##+js(remove-elem, .ads-left-block\, .ads-right-block\, .active.top-login
 ||fmovies.is^$xmlhttprequest,domain=fmovies.is,badfilter
 |https:$third-party,popup,domain=fmovies.is,badfilter
 ||speedtest.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: www.speedtest.net *.cdnst.net;connect-src *
-||pornhub.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.phncdn.com *.pornhub.com *.nsimg.net
+||pornhub.org^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.phncdn.com data: blob:
 ||kissanime.ru^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: resource: *.fbcdn.net *.mp4upload.com *.novelplanet.me i.imgur.com *.googlevideo.com *.googleusercontent.com replay.watch hydrax.net;upgrade-insecure-requests
 ||facebook.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.fbcdn.net *.facebook.com
 ||myanimelist.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.myanimelist.net;img-src *;upgrade-insecure-requests
@@ -100,8 +99,8 @@ animenewsnetwork.com##+js(remove-elem, #cover_image\, .floating-image\, .box.ale
 @@||google.com/adsense/start/images/favicon.ico$badfilter
 @@||s.206ads.com/core.js$domain=androidauthority.com,badfilter
 @@||exoclick.com/ad_track.js$badfilter
-||exoclick.com^$important
-||exosrv.com^$important
+||exoclick.com^$3p,important
+||exosrv.com^$3p,important
 @@||google.*/ads/$third-party,image,badfilter
 ||facebook.com/video/*/upnext^$xmlhttprequest
 @@||cloudfront.net/assets/$third-party,script,badfilter
@@ -112,7 +111,7 @@ animenewsnetwork.com##+js(remove-elem, #cover_image\, .floating-image\, .box.ale
 @@||ajax.cloudflare.com/cdn-cgi/scripts/$third-party,script,badfilter
 ghacks.net##+js(remove-elem, .ghacks_share_widget\, .category-deals\, .ghacks_this_day\, .ghacks_popular\, .ghacks_last_updated\, #post-author\, #snippet-box\, .ghacks-ad\, .cookie-notice-container\, [href^="https://deals.ghacks.net/"]\, .ghacks_ad_code\, #download-widget\, .post-list-sponsored)  
 ||torrentz2.eu/*.php^$1p
-/detroitchicago$domain=animenewsnetwork.com
+/detroitchicago/*$1p
 facebook.com/ajax/typeahead/record_basic_metrics.php$1p
 /^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to|ebd\.cda\.pl|gamedor\.usermd\.net)\/).)*$/$subdocument,domain=a-o.ninja|centrum-dramy.pl|love-drama.pl|vidfile.net,badfilter
 /^((?!(^https?):\/\/(ajax\.googleapis\.com|cdnjs\.cloudflare\.com|vk\.com)\/).)*$/$script,third-party,domain=kinokrad.co,badfilter
@@ -139,8 +138,8 @@ facebook.com/ajax/typeahead/record_basic_metrics.php$1p
 @@/advert.js$script,badfilter
 |https://$xmlhttprequest,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
 @@||9anime.is/assets/player/jwplayer-*/jwplayer.js$badfilter
-||cse.google.com^$important
-||doubleclickbygoogle.com^$important
+||cse.google.com^$3p,important
+||doubleclickbygoogle.com^$3p,important
 @@||9anime.is/assets/player/jwplayer-7.12.3/jwplayer.js$script,badfilter
 @@/wp-content/*/adve*.js$script,badfilter
 animenewsnetwork.com##.box.herald:has([href*="/advert"])
@@ -355,5 +354,4 @@ mp4upload.com##+js(aeld, DOMMouseScroll)
 *stat.*$1p,important
 @@||gannett-cdn.com^*/show_ads.js$badfilter
 @@/ad/banner/_adsense_/_adserver/_adview_.ad.json$badfilter
-@@||static.trafficjunky.com/ab/ads_test.js$script,domain=pornhub.com|pornhub.net|pornhub.org|pornhubthbh7ap3u.onion,badfilter
 @@/js/adblock.js$script,badfilter
