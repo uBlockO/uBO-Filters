@@ -109,8 +109,6 @@ animenewsnetwork.com##+js(remove-elem, #cover_image\, .floating-image\, .box.ale
 ||crwdcntrl.net^$3p,important
 ||amazon-adsystem.com^$3p,important
 @@||ajax.cloudflare.com/cdn-cgi/scripts/$third-party,script,badfilter
-ghacks.net##+js(remove-elem, .ghacks_share_widget\, .category-deals\, .ghacks_this_day\, .ghacks_popular\, .ghacks_last_updated\, #post-author\, #snippet-box\, .ghacks-ad\, .cookie-notice-container\, [href^="https://deals.ghacks.net/"]\, .ghacks_ad_code\, #download-widget\, .post-list-sponsored)  
-||torrentz2.eu/*.php^$1p
 /detroitchicago/*$1p
 facebook.com/ajax/typeahead/record_basic_metrics.php$1p
 /^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to|ebd\.cda\.pl|gamedor\.usermd\.net)\/).)*$/$subdocument,domain=a-o.ninja|centrum-dramy.pl|love-drama.pl|vidfile.net,badfilter
