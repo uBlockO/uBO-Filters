@@ -353,3 +353,4 @@ mp4upload.com##+js(aeld, DOMMouseScroll)
 @@||gannett-cdn.com^*/show_ads.js$badfilter
 @@/ad/banner/_adsense_/_adserver/_adview_.ad.json$badfilter
 @@/js/adblock.js$script,badfilter
+@@||google.com/coop/cse/brand?$script,3p,badfilter
