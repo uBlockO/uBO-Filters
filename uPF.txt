@@ -356,3 +356,4 @@ mp4upload.com##+js(aeld, DOMMouseScroll)
 @@||google.com/coop/cse/brand?$script,3p,badfilter
 ||consensu.org^$3p,important
 slack.com##^meta[http-equiv="Content-Security-Policy"]
+slack.com##+js(remove-elem, div.p-global_banner__container)
