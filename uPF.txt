@@ -52,6 +52,7 @@ mega.nz##+js(remove-elem, .ads-left-block\, .ads-right-block\, .active.top-login
 ||speedtest.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: www.speedtest.net *.cdnst.net;connect-src *
 ||pornhub.org^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.phncdn.com data: blob:
 ||kissanime.ru^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: resource: *.fbcdn.net *.mp4upload.com *.novelplanet.me i.imgur.com *.googlevideo.com *.googleusercontent.com replay.watch hydrax.net;upgrade-insecure-requests
+kissanime.ru##+js(remove-node, uBlock, script)
 ||facebook.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.fbcdn.net *.facebook.com
 ||myanimelist.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' *.myanimelist.net;img-src *;upgrade-insecure-requests
 |http:$third-party,popup,domain=fmovies.is,badfilter
