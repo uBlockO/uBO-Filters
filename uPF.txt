@@ -343,7 +343,6 @@ translate.google.com##+js(remove-elem, .notification-area)
 kisshentai.net##+js(remove-elem, #btnShowComments)
 @@||static.trafficjunky.com/ab/ads_test.js$badfilter
 *$script,3p,domain=hentaiplay.net,badfilter
-mp4upload.com##+js(set-innerHTML, #cub, <button id="downloadbtn" class="downloadbtn"><span class="bicon"><img class="vanb" src="https://www.mp4upload.com/images/icon_f_btn_download_b.png"><img class="barrow van move-bot" src="https://www.mp4upload.com/images/icon_ardown.png"></span><span class="btext">Download</span></button>)
 mp4upload.com##+js(aeld, DOMMouseScroll)
 ||mp4upload.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' stackpath.bootstrapcdn.com code.jquery.com *.mp4upload.com:*
 *stat.*$1p,important
