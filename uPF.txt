@@ -351,8 +351,8 @@ mp4upload.com##+js(aeld, DOMMouseScroll)
 @@/js/adblock.js$script,badfilter
 @@||google.com/coop/cse/brand?$script,3p,badfilter
 ||consensu.org^$3p,important
-app.slack.com##^meta[http-equiv="Content-Security-Policy"]
-app.slack.com##+js(remove-elem, div.p-global_banner__container)
+slack.com##^meta[http-equiv="Content-Security-Policy"]
+slack.com##+js(remove-elem, div.p-global_banner__container)
 @@/nonadblock/*$script,badfilter
 @@/wp-content/themes/mts_ad_sense/*$1p,badfilter
 @@||static.trafficjunky.com/ab/ads_test.js$domain=pornhub.com|pornhub.org|pornhub.net|pornhubthbh7ap3u.onion,badfilter
