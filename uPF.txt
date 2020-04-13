@@ -142,8 +142,8 @@ facebook.com/ajax/typeahead/record_basic_metrics.php$1p
 @@/wp-content/*/adve*.js$script,badfilter
 animenewsnetwork.com##.box.herald:has([href*="/advert"])
 ||readcomiconline.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.bp.blogspot.com
-||fonts.googleapis.com^$important,3p,denyallow=google.com|chromium.org
-||fonts.gstatic.com^$important,3p,denyallow=google.com|chromium.org
+fonts.googleapis.com^$important,3p,denyallow=google.com|chromium.org
+fonts.gstatic.com^$important,3p,denyallow=google.com|chromium.org
 ||typekit.net^$important,3p
 ||dafont.com^$3p
 @@||a.bf-ad.net/makabo/ads_fol_init.js$script,domain=chip.de,badfilter
