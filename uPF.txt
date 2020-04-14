@@ -317,7 +317,6 @@ facebook.com##[id^="hyperfeed_story_id"]:has-text(Suggested)
 |https://$script,3p,domain=~feedback.pornhub.com|pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
 |https://$media,3p,domain=~feedback.pornhub.com|pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
 |https://$xmlhttprequest,3p,domain=pornhub.com,badfilter
-*collector*$1p,important
 @@/wp-content/plugins/simple-adblock-notice/*$script,1p,domain=~gaytube.com|~pornhub.com|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~xtube.com|~youjizz.com|~youporn.com|~youporngay.com,badfilter
 @@/fuckadblock.$script,1p,badfilter
 /disqus-comment-system/*$script,1p
@@ -344,7 +343,6 @@ kisshentai.net##+js(remove-elem, #btnShowComments)
 *$script,3p,domain=hentaiplay.net,badfilter
 mp4upload.com##+js(aeld, DOMMouseScroll)
 ||mp4upload.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' stackpath.bootstrapcdn.com code.jquery.com *.mp4upload.com:*
-*stat.*$1p,important
 @@||gannett-cdn.com^*/show_ads.js$badfilter
 @@/ad/banner/_adsense_/_adserver/_adview_.ad.json$badfilter
 @@/js/adblock.js$script,badfilter
