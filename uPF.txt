@@ -362,3 +362,4 @@ slack.com##+js(remove-elem, div.p-global_banner__container)
 @@||cdn.vox-cdn.com/packs/concert_ads-$badfilter
 @@||vox-cdn.com/packs/concert_ads-$script,3p,badfilter
 @@||camhub.world/player/player_ads.html$badfilter
+@@.jpg#*/ad$image,badfilter
