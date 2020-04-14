@@ -34,7 +34,6 @@ fmovies.*,ffmovies.*##+js(remove-elem, .text\, .widget:nth-of-type(5)\, #tags\, 
 @@||facebook.com/plugins/post$badfilter
 @@||speedtest.net/javascript/jquery-*.min.js$badfilter
 @@||d3ujids68p6xmq.cloudfront.net^$script,badfilter
-*stats*$1p,important,denyallow=twitter.com|mozilla.org|google.com
 ||connect.facebook.net^$3p,important
 @@||platform.twitter.com^$script,domain=9anime.to,badfilter
 speedtest.net##+js(remove-elem, .high-placeholder.pure-u-1\, .u-c.pure-u-custom-ad-rectangle\, .u-c.pure-u-custom-ad-skyscraper\, .top-placeholder.pure-u-1\, .eot-dd-content\, .u-c.pure-u-1-4:nth-of-type(1) > ul.menu-footer:nth-of-type(2)\, .lowerboard-content)
