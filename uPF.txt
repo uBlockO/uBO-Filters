@@ -358,3 +358,4 @@ slack.com##+js(remove-elem, div.p-global_banner__container)
 @@||vox-cdn.com/packs/concert_ads-$script,3p,badfilter
 @@||camhub.world/player/player_ads.html$badfilter
 @@.jpg#*/ad$image,badfilter
+@@||youtube.com/api/stats/watchtime?$domain=youtube.com,badfilter
