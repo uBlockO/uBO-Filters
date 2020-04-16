@@ -272,7 +272,6 @@ animehub.ac##+js(remove-elem, .footer-follow\, .sb-subs.goblock > .clearfix\, .c
 @@||igg-games.com/ads.min.js|$badfilter
 |https://$3p,script,domain=9anime.one,badfilter
 |https://$3p,stylesheet,domain=9anime.one,badfilter
-instagram.com##+js(remove-elem, .Yx5HN.RnEpo)
 /sw.js^$script,1p
 /service-worker.js^$script,1p
 ||jwpsrv.com^$3p,important
