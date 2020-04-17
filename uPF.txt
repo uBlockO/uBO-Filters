@@ -355,4 +355,4 @@ slack.com##+js(remove-elem, div.p-global_banner__container)
 @@.jpg#*/ad$image,badfilter
 @@||youtube.com/api/stats/watchtime?$domain=youtube.com,badfilter
 @@||cdn.runative-syndicate.com/sdk/*/n.js$domain=onemanhua.com,badfilter
-ghacks.net##+js(remove-elem, #comments\, .ghacks-ad\, [href*="/#comments"])
+ghacks.net###comments, .ghacks-ad, [href*="/#comments"]:remove()
