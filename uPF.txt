@@ -358,4 +358,4 @@ slack.com##+js(remove-elem, div.p-global_banner__container)
 @@||camhub.world/player/player_ads.html$badfilter
 @@.jpg#*/ad$image,badfilter
 @@||youtube.com/api/stats/watchtime?$domain=youtube.com,badfilter
-@@||cdn.runative-syndicate.com/sdk/*/n.js$domain=onemanhua.com
+@@||cdn.runative-syndicate.com/sdk/*/n.js$domain=onemanhua.com,badfilter
