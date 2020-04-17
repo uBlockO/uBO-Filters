@@ -167,7 +167,6 @@ kissmanga.com##+js(remove-elem, #aCurr\, .clear2\, .specialButton)
 -social-media-$image,badfilter
 /\.com\/.*[a-f0-9]{110}/$third-party,image,domain=~parship.com|~aliexpress.com|~alipay.com|~bilibili.com|~namu.wiki|~fastmail.com,badfilter
 ||kvideo.io^$3p
-||animehub.ac^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: resource: static.animecdn.xyz embed.streamx.me
 @@||office365.com^*/adbar.js$badfilter
 /^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ee]xternal|[Ii]mages|[Ss]cripts|[Uu]ploads|ac|ajax|assets|combined|content|cov|cover|(img\/bg)|(img\/icon)|inc|jwplayer|player|playlist-cat-rss|static|thumbs|wp-content|wp-includes)\/)(.*)/$first-party,script,badfilter
 /^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ss]cripts|[Uu]ploads|[Ii]mages|combined|content|cover|img|static|wp-content|wp-includes))(.*)/$first-party,other,badfilter
@@ -287,7 +286,7 @@ gamecopyworld.com##+js(remove-elem, #lb)
 fandom.com##+js(remove-elem, #WikiaBar\, #WikiaRailWrapper\, .banner-notifications-placeholder)
 @@/wp-content/plugins/deblocker$1p,badfilter
 kissanime.nz##+js(remove-elem, #divComments\, .related_news\, .full:nth-child(14)\, .footer_watching_link\, .tab-head\, .dialog-ovelay\, #upgrade_pop)
-||kissanime.nz^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: static.animecdn.xyz embed.streamx.me
+*$3p,denyallow=static.animecdn.xyz|embed.streamx.me,domain=kissanime.nz|animehub.ac
 hentaiplay.net##+js(set-attr, preload|controls, auto, video)
 ||chatango.com^$3p,important
 ||gravatar.com^$3p
