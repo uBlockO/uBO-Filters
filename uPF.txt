@@ -358,3 +358,4 @@ slack.com##+js(remove-elem, div.p-global_banner__container)
 ghacks.net###comments, [href*="/#comments"]:remove()
 @@||youtube.com/s/player/$script,domain=youtube.com,badfilter
 @@||youtube.com/api/stats/watchtime?$image,domain=youtube.com,badfilter
+dailymotion.com##.np_Queue:remove()
