@@ -359,3 +359,5 @@ ghacks.net###comments, [href*="/#comments"]:remove()
 @@||youtube.com/s/player/$script,domain=youtube.com,badfilter
 @@||youtube.com/api/stats/watchtime?$image,domain=youtube.com,badfilter
 dailymotion.com##.np_Queue:remove()
+@@||cdn.cookielaw.org^$domain=zdnet.com,badfilter
+@@||cbsi.com/dist/optanon.js$script,domain=cbsnews.com|zdnet.com,badfilter
