@@ -356,3 +356,4 @@ ghacks.net###comments, [href*="/#comments"]:remove()
 dailymotion.com##.np_Queue:remove()
 @@||cdn.cookielaw.org^$domain=zdnet.com,badfilter
 @@||cbsi.com/dist/optanon.js$script,domain=cbsnews.com|zdnet.com,badfilter
+mail.google.com##+js(set, open, null)
