@@ -41,9 +41,9 @@ speedtest.net##+js(remove-elem, .high-placeholder.pure-u-1\, .u-c.pure-u-custom-
 kimcartoon.to##+js(remove-elem, .w-right\, #hideAds\, .videoAdClose\, .kcAds\, .alert-info.alert\, .mb15.full\, #btnShowComments\, #videoAd\, #divComments\, #disqus_thread\, .twitter-follow-button\, [id*="ScriptRoot"]\, #adbWarnContainer\, #msg\, .barContent > div > div[style^="width: 300px; height: 250px; float: left;"]\, #myContainer > .kcAds1\, .top_page_alert\, .kcAds1)
 *analytics*$script,xhr,image,important
 mega.nz##+js(remove-elem, .ads-left-block\, .ads-right-block\, .active.top-login-warning\, .red.download-button.button\, .checkbox-bl.download)
-||fmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to hydrax.net;upgrade-insecure-requests
-||ffmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com mcloud.to *.mcloud.to cdnjs.cloudflare.com prettyfast.to hydrax.net;upgrade-insecure-requests
-||9anime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.akacdn.ru *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com mcloud.to *.mcloud.to *.mp4upload.com prettyfast.to cdnjs.cloudflare.com hydrax.net;upgrade-insecure-requests
+||fmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com mcloud.to  mcloud2.to *.mcloud.to *.mcloud2.to cdnjs.cloudflare.com hydrax.net;upgrade-insecure-requests
+||ffmovies.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: *.googleusercontent.com *.akacdn.ru ajax.googleapis.com ssl.p.jwpcdn.com mcloud.to  mcloud2.to *.mcloud.to *.mcloud2.to cdnjs.cloudflare.com hydrax.net;upgrade-insecure-requests
+||9anime.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.akacdn.ru *.googleusercontent.com ajax.googleapis.com ssl.p.jwpcdn.com mcloud.to  mcloud2.to *.mcloud.to *.mcloud2.to *.mp4upload.com cdnjs.cloudflare.com hydrax.net;upgrade-insecure-requests
 /endscreen$script,domain=youtube.com
 ||fmovies.is^$first-party,popup,badfilter
 ||fmovies.is^$xmlhttprequest,domain=fmovies.is,badfilter
@@ -113,6 +113,7 @@ facebook.com/ajax/typeahead/record_basic_metrics.php$1p
 /^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to|ebd\.cda\.pl|gamedor\.usermd\.net)\/).)*$/$subdocument,domain=a-o.ninja|centrum-dramy.pl|love-drama.pl|vidfile.net,badfilter
 /^((?!(^https?):\/\/(ajax\.googleapis\.com|cdnjs\.cloudflare\.com|vk\.com)\/).)*$/$script,third-party,domain=kinokrad.co,badfilter
 ||mcloud.to^$csp=default-src 'self' 'unsafe-inline' blob: data: *.mcloud.to *.fmovies.to *.ffmovies.ru *.9anime.to *.putlockertv.to ajax.googleapis.com ssl.p.jwpcdn.com *.akacdn.ru
+||mcloud2.to^$csp=default-src 'self' 'unsafe-inline' blob: data: *.mcloud2.to *.fmovies.to *.ffmovies.ru *.9anime.to *.putlockertv.to ajax.googleapis.com ssl.p.jwpcdn.com *.akacdn.ru
 @@||ssl-images-amazon.com^*/ads/$script,badfilter
 @@||static1.akacdn.ru/assets/$script,domain=fmovies.is|fmovies.se|fmovies.to,badfilter
 @@||staticf.akacdn.ru/f/assets/favicons/$domain=ffmovies.ru|fmovies.to,badfilter
@@ -187,6 +188,7 @@ kissmanga.com##+js(remove-elem, #aCurr\, .clear2\, .specialButton)
 torrentz2.eu##+js(remove-elem, .alert-danger\, #resultarea\, [class*="Tolerat"]\, [id*="ScriptRoot"]\, .ads_box\, .rss\, [href*="/lorem2"]\, .downurls > dl:nth-of-type(1) > dd\, .downlinksone)
 torrentz2.eu##.downlinkstwo:style(display: block !important)
 ||mcloud.to/log^$1p
+||mcloud2.to/log^$1p
 |https://$xmlhttprequest,domain=dwatchseries.to|swatchseries.to|thewatchseries.ac|unblckd.org|watchseries.sk,badfilter
 /porpoiseant$domain=animenewsnetwork.com
 @@||kissanime.ru/ads/$first-party,subdocument,badfilter
