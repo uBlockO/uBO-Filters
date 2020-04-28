@@ -14,7 +14,7 @@ Direct link: [https://raw.githubusercontent.com/uBlock-user/uBO-Personal-Filters
 
 # Requirements 
 
-Need to add [uBO-Scriptlets](https://raw.githubusercontent.com/uBlock-user/uBO-Scriptlets/master/scriptlets.txt) to `userResourcesLocation` parameter in `Advanced-Settings` in uBlock-Origin for **some** filters to work.
+Need to add [uBO-Scriptlets](https://raw.githubusercontent.com/uBlock-user/uBO-Scriptlets/master/scriptlets.js) to `userResourcesLocation` parameter in `Advanced-Settings` in uBlock-Origin for **some** filters to work.
 
 # Disclaimer 
 
