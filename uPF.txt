@@ -21,7 +21,7 @@ myanimelist.net##+js(remove-elem, .banner-header-anime-straming\, .footer-link-i
 ||googleadservices.com^$3p,important
 ||myanimelist.net/static/logging.html^$xmlhttprequest,1p
 ||youtube.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.ggpht.com *.googlevideo.com *.ytimg.com *.googleusercontent.com *.youtube.com
-google.com##+js(remove-elem, #prm-pt\, .b2hzT\, .exp-outline\, [id^="ed_"]\, [title*="Share"]\, #gws-output-pages-elements-homepage_additional_languages__als\, #wmxmsg\, #prm)
+www.google.*##+js(remove-elem, #prm-pt\, .b2hzT\, .exp-outline\, [id^="ed_"]\, [title*="Share"]\, #gws-output-pages-elements-homepage_additional_languages__als\, #wmxmsg\, #prm)
 ||googlesyndication.com^$3p,important
 facebook.com##+js(remove-elem, .home_right_column\, #page_tv_show_playlists\, #pagelet_page_cover\, #page_tv_show_extra_clips\, #page_photos\, .UFIList\, .photoUfiContainer.rhc\, #fb_stories_card_root)
 ||facebook.com/*/logging^$important,1p
