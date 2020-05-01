@@ -46,8 +46,7 @@ mega.nz##+js(remove-elem, .ads-left-block\, .ads-right-block\, .active.top-login
 ||fmovies.is^$first-party,popup,badfilter
 ||fmovies.is^$xmlhttprequest,domain=fmovies.is,badfilter
 |https:$third-party,popup,domain=fmovies.is,badfilter
-||speedtest.net^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: www.speedtest.net *.cdnst.net;connect-src *
-*$phncdn.com
+*$3p,denyallow=phncdn.com,domain=pornhub.org
 *$3p,denyallow=fbcdn.net|mp4upload.com|novelplanet.me|i.imgur.com|googlevideo.com|googleusercontent.com|replay.watch|hydrax.net,domain=kissanime.ru
 ||facebook.com/security/hsts-pixel.gif^$image,1p
 *$3p,denyallow=youtube.com|ytimg.com|imgur.com,domain=myanimelist.net
