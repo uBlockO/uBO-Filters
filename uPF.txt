@@ -100,7 +100,7 @@ animenewsnetwork.com##+js(remove-elem, #cover_image\, .floating-image\, .box.ale
 @@||google.*/ads/$third-party,image,badfilter
 ||facebook.com/video/*/upnext^$xmlhttprequest
 @@||cloudfront.net/assets/$third-party,script,badfilter
-*$3p,denyallow=githubassets.com|githubusercontent.com|s3.amazonaws.com|map.fastly.com,domain=github.com
+*$3p,denyallow=githubassets.com|githubusercontent.com|s3.amazonaws.com|map.fastly.net,domain=github.com
 ||socket.io^$3p
 ||crwdcntrl.net^$3p,important
 ||amazon-adsystem.com^$3p,important
