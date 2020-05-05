@@ -87,7 +87,7 @@ fmovies.*##.widget-title:has-text(Sponsored)
 |https://$third-party,script,domain=9anime.to,badfilter
 @@||akamaihd.net^*/ad*.js$script,badfilter
 ffmovies.*##+js(remove-node, /zfgloaded/, script)
-||animenewsnetwork.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' ajax.googleapis.com platform.twitter.com *.twimg.com www.animenewsnetwork.com cdn.animenewsnetwork.com
+*$3p,denyallow=cdnjs.cloudflare.com,domain=animenewsnetwork.com
 animenewsnetwork.com##+js(remove-elem, #cover_image\, .floating-image\, .box.alert\, #infinite-scroll-outlet\, .spaceRow\, #prompt-message\, .social-button\, .ezoic-ad)
 ||animenewsnetwork.com/logger.performance^$1p
 ||animenewsnetwork.com/sponsor/$1p
@@ -109,8 +109,8 @@ animenewsnetwork.com##+js(remove-elem, #cover_image\, .floating-image\, .box.ale
 facebook.com/ajax/typeahead/record_basic_metrics.php$1p
 /^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to|ebd\.cda\.pl|gamedor\.usermd\.net)\/).)*$/$subdocument,domain=a-o.ninja|centrum-dramy.pl|love-drama.pl|vidfile.net,badfilter
 /^((?!(^https?):\/\/(ajax\.googleapis\.com|cdnjs\.cloudflare\.com|vk\.com)\/).)*$/$script,third-party,domain=kinokrad.co,badfilter
-||mcloud.to^$csp=default-src 'self' 'unsafe-inline' blob: data: *.mcloud.to *.fmovies.to *.ffmovies.ru *.9anime.to *.putlockertv.to ajax.googleapis.com ssl.p.jwpcdn.com *.akacdn.ru
-||mcloud2.to^$csp=default-src 'self' 'unsafe-inline' blob: data: *.mcloud2.to *.fmovies.to *.ffmovies.ru *.9anime.to *.putlockertv.to ajax.googleapis.com ssl.p.jwpcdn.com *.akacdn.ru
+||mcloud.to^$csp=default-src 'self' 'unsafe-inline' blob: data: *.mcloud.to *.
+*$3p,denyallow=fmovies.to|ffmovies.ru|9anime.to|putlockertv.to|ajax.googleapis.com|ssl.p.jwpcdn.com|akacdn.ru,domain=mcloud.to|mcloud2.to
 @@||ssl-images-amazon.com^*/ads/$script,badfilter
 @@||static1.akacdn.ru/assets/$script,domain=fmovies.is|fmovies.se|fmovies.to,badfilter
 @@||staticf.akacdn.ru/f/assets/favicons/$domain=ffmovies.ru|fmovies.to,badfilter
@@ -294,7 +294,6 @@ _pjax=*pjax-container$xhr,domain=github.com
 @@/wp-content/plugins/super-socializer/js/front/social_login/*$1p,badfilter
 ||youtube-nocookie.com^$3p
 reddit.com##+js(set, r.utils.replaceUrlParams, null)
-||1337x.*^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval';img-src *;upgrade-insecure-requests
 ||coingecko.com^$3p
 ||guntest.herokuapp.com^$3p
 ||timeanddate.com^$3p
@@ -325,7 +324,7 @@ translate.google.com##+js(remove-elem, .notification-area)
 @@||static.trafficjunky.com/ab/ads_test.js$badfilter
 *$script,3p,domain=hentaiplay.net,badfilter
 mp4upload.com##+js(aeld, DOMMouseScroll)
-||mp4upload.com^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' stackpath.bootstrapcdn.com code.jquery.com *.mp4upload.com:*
+*$3p,denyallow=stackpath.bootstrapcdn.com|code.jquery.com,domain=mp4upload.com
 @@||gannett-cdn.com^*/show_ads.js$badfilter
 @@/ad/banner/_adsense_/_adserver/_adview_.ad.json$badfilter
 @@/js/adblock.js$script,badfilter
