@@ -352,3 +352,4 @@ mail.google.com##+js(set, open, null)
 @@||google.com/recaptcha$badfilter
 @@||google.com/recaptcha/$script,csp,badfilter
 @@||google.com/recaptcha/$script,badfilter
+@@||tagcommander.com^*/tc_$script,badfilter
