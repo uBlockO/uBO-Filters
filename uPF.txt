@@ -64,7 +64,7 @@ thepiratebay.org##+js(remove-elem, #adrestop\, [href^="https://www.azirevpn.com/
 @@||kisscartoon.*^$first-party,script,badfilter
 @@||startpage.com/js/abp.js^$badfilter
 ||fmovies.se^$first-party,popup,badfilter
-||kimcartoon.to^$csp=default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.zencdn.net code.jquery.com *.googleusercontent.com *.googlevideo.com *.fbcdn.net *.luxubu.review
+*$3p,denyallow=vjs.zencdn.net|code.jquery.com|googleusercontent.com|googlevideo.com|fbcdn.net|luxubu.review,domain=kimcartoon.to
 /ads/*$first-party,important
 @@||speedtest.net/*/*bundle$script,first-party,badfilter
 @@||mapbox.com^$xmlhttprequest,domain=speedtest.net,badfilter
