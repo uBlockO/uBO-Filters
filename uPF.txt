@@ -353,3 +353,5 @@ mail.google.com##+js(set, open, null)
 @@||google.com/recaptcha/$script,csp,badfilter
 @@||google.com/recaptcha/$script,badfilter
 @@||tagcommander.com^*/tc_$script,badfilter
+instagram.com##+js(sa, preload|controls, auto, video)
+instagram.com##video:style(z-index: 1000 !important)
