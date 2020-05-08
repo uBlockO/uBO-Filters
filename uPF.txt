@@ -356,3 +356,5 @@ mail.google.com##+js(set, open, null)
 instagram.com##+js(sa, preload|controls, auto, video)
 instagram.com##video:style(z-index: 1000 !important)
 *$script,3p,domain=mp4upload.com,badfilter
+@@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.js$badfilter
+@@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js$badfilter
