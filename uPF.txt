@@ -323,7 +323,7 @@ translate.google.com##+js(remove-elem, .notification-area)
 @@||static.trafficjunky.com/ab/ads_test.js$badfilter
 *$script,3p,domain=hentaiplay.net,badfilter
 mp4upload.com##+js(aeld, DOMMouseScroll)
-*$3p,denyallow=stackpath.bootstrapcdn.com|code.jquery.com,domain=mp4upload.com
+*$3p,denyallow=stackpath.bootstrapcdn.com|code.jquery.com|cdnjs.cloudflare.com,domain=mp4upload.com
 @@||gannett-cdn.com^*/show_ads.js$badfilter
 @@/ad/banner/_adsense_/_adserver/_adview_.ad.json$badfilter
 @@/js/adblock.js$script,badfilter
