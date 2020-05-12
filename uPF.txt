@@ -40,7 +40,7 @@ speedtest.net##+js(remove-elem, .high-placeholder.pure-u-1\, .u-c.pure-u-custom-
 kimcartoon.to##+js(remove-elem, .w-right\, #hideAds\, .videoAdClose\, .kcAds\, .alert-info.alert\, .mb15.full\, #btnShowComments\, #videoAd\, #divComments\, #disqus_thread\, .twitter-follow-button\, [id*="ScriptRoot"]\, #adbWarnContainer\, #msg\, div[style*="width: 300px; height: 250px"]\, #myContainer > .kcAds1\, .top_page_alert\, .kcAds1)
 *analytics*$script,xhr,image,important
 mega.nz##.ads-left-block, .ads-right-block, .active.top-login-warning, .red.download-button.button, .checkbox-bl.download:remove()
-*$3p,denyallow=akacdn.ru|googleusercontent.com|ajax.googleapis.com|ssl.p.jwpcdn.com|mcloud.to|mcloud2.to|mp4upload.com|cdnjs.cloudflare.com|hydrax.net,domain=ffmovies.to|9anime.to|fmovies.to
+*$3p,denyallow=akacdn.ru|googleusercontent.com|ajax.googleapis.com|ssl.p.jwpcdn.com|mcloud.to|mcloud2.to|mp4upload.com|cdnjs.cloudflare.com|hydrax.net|streamtape.com|tapecontent.net,domain=ffmovies.to|9anime.to|fmovies.to
 /endscreen$script,domain=youtube.com
 ||fmovies.is^$first-party,popup,badfilter
 ||fmovies.is^$xmlhttprequest,domain=fmovies.is,badfilter
@@ -359,3 +359,4 @@ instagram.com##video:style(z-index: 1000 !important)
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js$badfilter
 ||ad.kisscartoon.nz^$1p
 ||ad.kissanime.nz^$1p
+*$3p,denyallow=tapecontent.net,domain=streamtape.com
