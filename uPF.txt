@@ -360,3 +360,4 @@ instagram.com##video:style(z-index: 1000 !important)
 ||ad.kisscartoon.nz^$1p
 ||ad.kissanime.nz^$1p
 *$3p,denyallow=tapecontent.net,domain=streamtape.com
+/transparent.gif?ray=$badfilter
