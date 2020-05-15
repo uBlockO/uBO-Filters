@@ -8,6 +8,7 @@
 ||disqus.com^$3p,important
 ||segment.com^$3p,important
 ||doubleclick.net^$3p,important
+||audionews.fm^$3p
 pornhub.org##+js(remove-elem, #welcome\, .abovePlayer\, .adlink2\, .kzpcaw\, .streamatesModelsContainer.sectionWrapper\, .item-6.menu\, .nf-wrapper > .sectionWrapper\, #pb_template\, .fadeInMTubes\, .sniperModeEngaged\, .premiumPromoBanner\, .abAlertShown)
 screenrant.com##+js(remove-elem, .sharing\, .w-menu-follow\, .newsletter\, .w-article-author-bio\, .w-tldr-start-btn\, .tldr-btn-section\, .article-tags\, .related-single\, .tldr-btn-category\, .next-single\, .next-btn\, .ad-zone-container\, .as-oil)
 kissanime.ru##+js(remove-elem, #btnShowComments\, strong\, .videoAdClose\, .divCloseBut\, .bigBarContainer div[id^="adsIfrme"]\, .adsPositioning\, [style*="width: 300px; height: 250px"]\, [href*="/ads/"])
