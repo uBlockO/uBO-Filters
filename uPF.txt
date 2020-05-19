@@ -256,7 +256,7 @@ animehub.ac##+js(rn, pop.php, script)
 @@||youbora.com/*/js/adapters/jwplayer$script,badfilter
 embed.streamx.*##+js(remove-elem, [button="share"]\, .afs_ads\, .jw-settings-sharing\, .jw-submenu-sharing)
 truecaller.com##+js(remove-elem, .absolute.flex\, .ad\, [href*="premium"]\, [id="app"] > footer + .pin-b\, span > .max-w-md.shadow-lg)
-animehub.ac##+js(remove-elem, .footer-follow\, .sb-subs.goblock > .clearfix\, .comments\, .detail-anime.goblock > .go-full.goblock-content > .goblock-bottom\, .gc-share.gc-icon\, .gc-comments.gc-icon\, .dialog-ovelay\, #sidebar > .clearfix)
+animehub.ac##+js(remove-elem, .footer-follow\, .sb-subs.goblock > .clearfix\, .comments\, .detail-anime.goblock > .go-full.goblock-content > .goblock-bottom\, .gc-share.gc-icon\, .gc-comments.gc-icon\, .dialog-ovelay\, #sidebar > .clearfix\, #discordapp)
 @@||static.animecdn.xyz/js/ads.js$badfilter
 @@||igg-games.com^$1p,script,badfilter
 @@||igg-games.com/ads.min.js|$badfilter
