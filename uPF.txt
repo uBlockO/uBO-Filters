@@ -363,3 +363,5 @@ instagram.com##video:style(z-index: 1000 !important)
 *$3p,denyallow=tapecontent.net,domain=streamtape.com
 /transparent.gif?ray=$badfilter
 streamtape.com##+js(sa, preload, auto, video)
+||youtube.com/yts/cssbin/$css
+||youtube.com/s/desktop/$css
