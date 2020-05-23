@@ -312,7 +312,6 @@ facebook.com##div[id^="hyperfeed_story_id"]:has-text(Suggested)
 |https://$script,3p,domain=mcloud.to,badfilter
 |https://$xmlhttprequest,3p,domain=mcloud.to,badfilter
 @@||cdn.optimizely.com/public/$script,domain=nytimes.com,badfilter
-||redditstatic.com/_chat$script,3p
 @@||isgprivacy.cbsi.com/dist/optanon.js$script,badfilter
 @@.png#*/ad$image,badfilter
 @@||cdn-static.egybest.net/static/global/js/adblock.js$badfilter
