@@ -41,12 +41,12 @@ speedtest.net##+js(remove-elem, .high-placeholder.pure-u-1\, .u-c.pure-u-custom-
 kimcartoon.to##+js(remove-elem, .w-right\, #hideAds\, .videoAdClose\, .kcAds\, .alert-info.alert\, .mb15.full\, #btnShowComments\, #videoAd\, #divComments\, #disqus_thread\, .twitter-follow-button\, [id*="ScriptRoot"]\, #adbWarnContainer\, #msg\, div[style*="width: 300px; height: 250px"]\, #myContainer > .kcAds1\, .top_page_alert\, .kcAds1)
 *analytics*$script,xhr,image,important
 mega.nz##.ads-left-block, .ads-right-block, .active.top-login-warning, .red.download-button.button, .checkbox-bl.download:remove()
-*$3p,denyallow=akacdn.ru|googleusercontent.com|ajax.googleapis.com|ssl.p.jwpcdn.com|mcloud.to|mcloud2.to|mp4upload.com|cdnjs.cloudflare.com|hydrax.net|streamtape.com|tapecontent.net,domain=ffmovies.to|9anime.to|fmovies.to
+*$3p,denyallow=akacdn.ru|googleusercontent.com|ajax.googleapis.com|ssl.p.jwpcdn.com|mcloud.to|mcloud2.to|mp4upload.com|cdnjs.cloudflare.com|hydrax.net|streamtape.com|tapecontent.net,domain=ffmovies.to|9anime.*|fmovies.*
 /endscreen$script,domain=youtube.com
 ||fmovies.is^$first-party,popup,badfilter
 ||fmovies.is^$xmlhttprequest,domain=fmovies.is,badfilter
 |https:$third-party,popup,domain=fmovies.is,badfilter
-*$3p,denyallow=phncdn.com,domain=pornhub.org
+*$3p,denyallow=phncdn.com,domain=pornhub.*
 *$3p,denyallow=fbcdn.net|mp4upload.com|novelplanet.me|i.imgur.com|googlevideo.com|googleusercontent.com|replay.watch|hydrax.net,domain=kissanime.ru
 ||facebook.com/security/hsts-pixel.gif^$image,1p
 *$3p,denyallow=youtube.com|ytimg.com|imgur.com,domain=myanimelist.net
