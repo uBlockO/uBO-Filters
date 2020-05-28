@@ -109,7 +109,7 @@ animenewsnetwork.com##+js(remove-elem, #cover_image\, .floating-image\, .box.ale
 facebook.com/ajax/typeahead/record_basic_metrics.php$1p
 /^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to|ebd\.cda\.pl|gamedor\.usermd\.net)\/).)*$/$subdocument,domain=a-o.ninja|centrum-dramy.pl|love-drama.pl|vidfile.net,badfilter
 /^((?!(^https?):\/\/(ajax\.googleapis\.com|cdnjs\.cloudflare\.com|vk\.com)\/).)*$/$script,third-party,domain=kinokrad.co,badfilter
-*$3p,denyallow=fmovies.to|ffmovies.ru|9anime.to|putlockertv.to|ajax.googleapis.com|ssl.p.jwpcdn.com|akacdn.ru,domain=mcloud.to|mcloud2.to
+*$3p,denyallow=fmovies.to|fmovies.wtf|ffmovies.ru|9anime.to|putlockertv.to|ajax.googleapis.com|ssl.p.jwpcdn.com|akacdn.ru,domain=mcloud.to|mcloud2.to
 @@||ssl-images-amazon.com^*/ads/$script,badfilter
 @@||static1.akacdn.ru/assets/$script,domain=fmovies.is|fmovies.se|fmovies.to,badfilter
 @@||staticf.akacdn.ru/f/assets/favicons/$domain=ffmovies.ru|fmovies.to,badfilter
