@@ -262,8 +262,6 @@ animehub.ac##+js(remove-elem, .footer-follow\, .sb-subs.goblock > .clearfix\, .c
 @@||igg-games.com/ads.min.js|$badfilter
 |https://$3p,script,domain=9anime.one,badfilter
 |https://$3p,stylesheet,domain=9anime.one,badfilter
-/sw.js^$script,1p
-/service-worker.js^$script,1p
 ||jwpsrv.com^$3p,important
 ||adskeeper.co.uk^$3p,important
 comicbook.com##+js(remove-elem, .leftrail.sidebar-list-module.sidebar > section:nth-of-type(3)\, .mid-content-comment\, .btn-wide-container\, .article-break\, .channel-nav\, .vdb_player\, [class^=optanon-category])
