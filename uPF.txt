@@ -218,7 +218,7 @@ youtube.com##+js(remove-elem, #watch-action-panels\, #chat\, .ytp-ce-covering-ov
 ||discordapp.com^$3p,important
 @@||gateway.reddit.com/desktopapi/v*/sidebar_ad$xmlhttprequest,badfilter
 |https://$third-party,script,domain=kimcartoon.to,badfilter
-*advert*$script,important
+*advert*$script,1p,important
 ||imasdk.googleapis.com^$3p,important
 ||ahost.bulbagarden.net^$3p
 *exoclick*$script,1p,important
