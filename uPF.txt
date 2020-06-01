@@ -363,4 +363,3 @@ streamtape.com##+js(sa, preload, auto, video)
 ||youtube.com/yts/cssbin/$css
 ||youtube.com/s/desktop/$css
 *$xmlhttprequest,3p,domain=kissanime.ru,badfilter
-playhydrax.com#@##over:remove()
