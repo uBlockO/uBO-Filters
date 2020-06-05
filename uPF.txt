@@ -363,3 +363,4 @@ streamtape.com###adb:remove()
 ||youtube.com/yts/cssbin/$css
 ||youtube.com/s/desktop/$css
 *$xmlhttprequest,3p,domain=kissanime.ru,badfilter
+9anime.*##+js(remove-elem, .popover\, #tags\, .hd-buttons.row\, #comment\, .comment.widget > .widget-title\, .comment.widget > .widget-body\, .socials\, #social\, .twitter-follow-button\, .sticky\, .share\, .text-center.crop.widget\, .text-center.widget\, .azlist\, .mb20\, [href*="twitter.com"]\, .alert\, #fb-root\, [href*="dynamicadx.com/"]\, [href*="popmonetizer.com/redirect"])
