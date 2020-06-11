@@ -357,9 +357,10 @@ instagram.com##video:style(z-index: 1000 !important)
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js$badfilter
 ||ad.kisscartoon.nz^$1p
 ||ad.kissanime.nz^$1p
-*$3p,denyallow=tapecontent.net,domain=streamtape.com
+streamtape.com##+js(nosiif, .removeChild, 700)
 streamtape.com##+js(sa, preload, auto, video)
 streamtape.com###adb:remove()
+*$3p,denyallow=tapecontent.net,domain=streamtape.com
 ||youtube.com/yts/cssbin/$css
 ||youtube.com/s/desktop/$css
 *$xmlhttprequest,3p,domain=kissanime.ru,badfilter
