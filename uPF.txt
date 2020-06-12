@@ -366,3 +366,4 @@ streamtape.com###adb:remove()
 *$xmlhttprequest,3p,domain=kissanime.ru,badfilter
 /transparent.gif?ray=$badfilter
 ||api.github.com/_private/browser/errors^$xhr,1p
+*/sw.js$script,1p
