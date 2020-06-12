@@ -342,7 +342,6 @@ slack.com##+js(remove-elem, div.p-global_banner__container)
 ghacks.net###comments, [href*="/#comments"], .tag-sponsored:remove()
 @@||youtube.com/s/player/$script,domain=youtube.com,badfilter
 @@||youtube.com/api/stats/watchtime?$image,domain=youtube.com,badfilter
-dailymotion.com##.np_Queue:remove()
 @@||cdn.cookielaw.org^$domain=zdnet.com,badfilter
 @@||cbsi.com/dist/optanon.js$script,domain=cbsnews.com|zdnet.com,badfilter
 mail.google.com##+js(set, open, null)
@@ -355,8 +354,7 @@ instagram.com##video:style(z-index: 1000 !important)
 *$script,3p,domain=mp4upload.com,badfilter
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.js$badfilter
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js$badfilter
-||ad.kisscartoon.nz^$1p
-||ad.kissanime.nz^$1p
+||ad.*^$1p
 streamtape.com##+js(nosiif, .removeChild, 700)
 streamtape.com##+js(sa, preload, auto, video)
 streamtape.com###adb:remove()
@@ -364,6 +362,5 @@ streamtape.com###adb:remove()
 ||youtube.com/yts/cssbin/$css
 ||youtube.com/s/desktop/$css
 *$xmlhttprequest,3p,domain=kissanime.ru,badfilter
-/transparent.gif?ray=$badfilter
 ||api.github.com/_private/browser/errors^$xhr,1p
 */sw.js$script,1p
