@@ -346,7 +346,6 @@ ghacks.net###comments, [href*="/#comments"], .tag-sponsored:remove()
 @@||cbsi.com/dist/optanon.js$script,domain=cbsnews.com|zdnet.com,badfilter
 mail.google.com##+js(set, open, null)
 @@||google.com/recaptcha$badfilter
-@@||google.com/recaptcha/$script,csp,badfilter
 @@||google.com/recaptcha/$script,badfilter
 @@||tagcommander.com^*/tc_$script,badfilter
 instagram.com##+js(sa, controls, auto, video)
