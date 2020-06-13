@@ -303,7 +303,7 @@ facebook.com##div[id^="hyperfeed_story_id"]:has-text(Suggested)
 |https://$xmlhttprequest,3p,domain=pornhub.com,badfilter
 @@/wp-content/plugins/simple-adblock-notice/*$script,1p,domain=~gaytube.com|~pornhub.com|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~xtube.com|~youjizz.com|~youporn.com|~youporngay.com,badfilter
 @@/fuckadblock.$script,1p,badfilter
-/disqus-comment-system/*$script,1p
+/disqus-*$script,1p
 @@||townnews.com^*/ad$script,badfilter
 |https://$image,3p,domain=9anime.to,badfilter
 |https://$stylesheet,3p,domain=9anime.to,badfilter
