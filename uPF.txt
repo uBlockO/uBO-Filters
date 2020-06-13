@@ -27,7 +27,7 @@ facebook.com##+js(remove-elem, .home_right_column\, #page_tv_show_playlists\, #p
 ||facebook.com/*/logging^$important,1p
 /annotations$script,first-party,domain=youtube.com
 9anime.*##+js(remove-elem, .popover\, #tags\, .hd-buttons.row\, #comment\, .comment.widget > .widget-title\, .comment.widget > .widget-body\, .socials\, #social\, .twitter-follow-button\, .sticky\, .share\, .text-center.crop.widget\, .text-center.widget\, .azlist\, .mb20\, [href*="twitter.com"]\, .alert\, #fb-root\, [href*="dynamicadx.com/"]\, [href*="popmonetizer.com/redirect"])
-fmovies.*,ffmovies.*##+js(remove-elem, .text\, .widget:nth-of-type(5)\, #tags\, .hidden-sm.widget\, .hd-buttons.row\, .col-right\, .widget:nth-of-type(4)\, [href*="twitter.com"]\, #comment\, .socials\, .twitter-follow-button\, [href*="/redirect"]\, .streamhd\, .stream4k\, .home-socials\, .addthis_native_toolbox\, #fb-root\, .alert[data-notify-position="top-right"]\, .notice.alert-default.alert\, [href^="https://dynamicadx.com/"])
+fmovies.*,ffmovies.*##.text, .widget:nth-of-type(5), #tags, .hidden-sm.widget, .hd-buttons.row, .col-right, .widget:nth-of-type(4), [href*="twitter.com"], #comment, .socials, .twitter-follow-button, [href*="/redirect"], .streamhd, .stream4k, .home-socials, .addthis_native_toolbox, #fb-root, .alert, [href^="https://dynamicadx.com/"]:remove()
 ||contributor.google.com^$3p,important
 ||funding*.google.com^$3p,important
 @@||cdnjs.cloudflare.com/ajax/libs/fingerprintjs$domain=index.hr,badfilter
@@ -354,7 +354,6 @@ instagram.com##video:style(z-index: 1000 !important)
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.js$badfilter
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js$badfilter
 ||ad.*^$1p
-streamtape.com##+js(nosiif, .removeChild, 700)
 streamtape.com##+js(sa, preload, auto, video)
 streamtape.com###adb:remove()
 *$3p,denyallow=tapecontent.net,domain=streamtape.com
