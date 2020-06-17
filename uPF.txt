@@ -363,3 +363,4 @@ streamtape.com###adb:remove()
 ||api.github.com/_private/browser/errors^$xhr,1p
 */sw.js$script,1p
 ||tinypass.com^$important
+|https://$xmlhttprequest,3p,domain=kimcartoon.to,badfilter
