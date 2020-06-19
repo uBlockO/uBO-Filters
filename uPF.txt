@@ -206,8 +206,6 @@ youtube.com##+js(remove-elem, #watch-action-panels\, #chat\, .ytp-ce-covering-ov
 @@||gateway.reddit.com/desktopapi/v*/sidebar_ad$xmlhttprequest,badfilter
 |https://$third-party,script,domain=kimcartoon.to,badfilter
 *advert*$script,1p,important
-||imasdk.googleapis.com^$3p,important
-||ahost.bulbagarden.net^$3p
 *exoclick*$script,1p,important
 ||spot.im^$3p,important
 ||torrentz2.eu^$csp=script-src 'self' 'unsafe-inline',badfilter
@@ -345,6 +343,6 @@ streamtape.com###adb:remove()
 ||youtube.com/s/desktop/$css
 *$xmlhttprequest,3p,domain=kissanime.ru,badfilter
 ||api.github.com/_private/browser/errors^$xhr,1p
-*/sw.js$script,1p
+||*$csp=worker-src 'none',1p
 ||tinypass.com^$important
 |https://$xmlhttprequest,3p,domain=kimcartoon.to,badfilter
