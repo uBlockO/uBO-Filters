@@ -346,3 +346,4 @@ streamtape.com###adb:remove()
 ||*$csp=worker-src 'none',1p
 ||tinypass.com^$important
 |https://$xmlhttprequest,3p,domain=kimcartoon.to,badfilter
+@@/fuckadblock.js$domain=videoxseries.xyz|scenelife.org|piratulhd.com|hqq.tv|newhost.me|czxxx.org|waaw.tv,badfilter
