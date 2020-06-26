@@ -217,7 +217,7 @@ movieweb.com##+js(remove-elem, .nav-message\, .facebook)
 ||thepiratebay.$script,domain=ahoypirate.in|bayception.pw|cruzing.xyz|mirror.superproxy.biz|mypirate.cc|noobnoob.rocks|piratebay.tel|piratebay.town|piratebay1.top|piratebayblocked.com|pirateproxy.ch|pirateproxy.live|pirateproxy.rocks|proxyfrom.asia|proxyindia.net|superbay.link|superproxy.biz|thehiddenbay.com|thepiratebay.cr|thepiratebay.kiwi|thepiratebay.org|thepiratebay.vip|tpb.hid.li|tpb6.ukpass.co|tpbproxyone.org|unblockpirate.uk|unblocktheship.org,badfilter
 ||data.microsoft.com^$important,3p
 developer.mozilla.org##+js(remove-elem, .mdn-cta-container\, [class^="notification"])
-reddit.com##+js(remove-elem, #redesign-beta-optin-btn\, .comment-visits-box\, .premium-banner-outer\, .share\, #adblock-test\, .giftgold\, .snoovatar-link\, .give-gold-button\, .bottom > .spacer\, .happening-now-wrap\, .hohoho-header\, .hohoho\, .promotedlink\,  #gtm-jail\, [href="/premium"])
+reddit.com##.promotedlink, #redesign-beta-optin-btn, [href="/premium"], .comment-visits-box, .premium-banner-outer, .share, #adblock-test, .giftgold, .snoovatar-link, .give-gold-button, .bottom > .spacer, .happening-now-wrap, .hohoho-header, .hohoho, #gtm-jail:remove()
 @@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$badfilter
 @@/adblockdetector.min.js$badfilter
 @@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$first-party,script,badfilter
