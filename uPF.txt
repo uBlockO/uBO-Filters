@@ -13,14 +13,14 @@ kissanime.ru##+js(remove-elem, #btnShowComments\, strong\, .videoAdClose\, .divC
 ||mgid.com^$3p,important
 ||sharethis.com^$3p,important
 ||taboola.com^$3p,important
-torrentfreak.com##+js(remove-elem, .widget_text\, .o-widget--rotated.o-widget\, .comments\, .footer__widget--stats)
+torrentfreak.com##.widget_text, .o-widget--rotated.o-widget, .comments, .footer__widget--stats, .preview-article__comments, .hero__comments, .socials:remove()
 ||addthis.com^$3p,important
 myanimelist.net##+js(remove-elem, .banner-header-anime-straming\, .footer-link-icon-block\, .clearfix.index-watch-description\, .btn-mal-service\, .anime-detail-header-affiliate\, .amazon\, .anime_discussions.widget\, .video-providers\, .js-sns-icon-container\, .icon-block-small.js-sns-icon-container\, .promotional-video\, .anime-detail-header-video\, .mb4.di-ib\, .fb-page\, .root\, [id^="div-gpt-ad"]\, .watch-description\, .text-ad-links\, .right_top_ad\, .mal-ad-unit\, .gdpr-modal-ad\, .ad-skin-side-bg\, .mal-side-ad--l\, .mal-side-ad--r\, .mal-live-pop-up\, .free-manga-pop-up\, [href^="https://mallive.myanimelist.net"]\, [src*="/banner/"]\, .banner-footer-anime-streaming)
 ||googleadservices.com^$3p,important
 ||myanimelist.net/static/logging.html^$xmlhttprequest,1p
 www.google.*##+js(remove-elem, #prm-pt\, .b2hzT\, .exp-outline\, [id^="ed_"]\, [id^="eob_"]\, [title*="Share"]\, #gws-output-pages-elements-homepage_additional_languages__als\, #wmxmsg\, #prm)
 ||googlesyndication.com^$3p,important
-facebook.com##+js(remove-elem, .home_right_column\, #page_tv_show_playlists\, #pagelet_page_cover\, #page_tv_show_extra_clips\, #page_photos\, .UFIList\, .photoUfiContainer.rhc\, #fb_stories_card_root)
+facebook.com##.home_right_column, #page_tv_show_playlists, #pagelet_page_cover, #page_tv_show_extra_clips, #page_photos, .UFIList, .photoUfiContainer.rhc, #fb_stories_card_root:remove()
 ||facebook.com/*/logging^$important,1p
 /annotations$script,first-party,domain=youtube.com
 9anime.*##.popover, #tags, .hd-buttons.row, #comment, .comment.widget > .widget-title, .comment.widget > .widget-body, .socials, #social, .twitter-follow-button, .sticky, .share, .text-center.crop.widget, .text-center.widget, .azlist, .mb20, [href*="twitter.com"], .alert, #fb-root, [href*="dynamicadx.com/"], [href*="popmonetizer.com/redirect"]:remove()
