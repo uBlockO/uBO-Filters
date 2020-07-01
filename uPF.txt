@@ -159,8 +159,8 @@ kissmanga.com##+js(remove-elem, #aCurr\, .clear2\, .specialButton)
 |http*://$third-party,image,domain=123movies-proxy.ru|123movies.cz|123movies.gs|123movies.is|123movies.live|123movies.net|123movies.net.ru|123movies.ru|123movies.vc|123moviesfree.com|123movieshd.net|123movieshd.tv|9cartoon.me|animehaven.to|auroravid.to|ay8ou8ohth.com|bitvid.sx|btdb.in|btdb.to|clipconverter.cc|cloudtime.to|cmovieshd.com|divxme.com|downloadming.tv|dropapk.com|flyordie.com|full-pcsoftware.com|halacima.net|hdmusic99.in|hdtv-rls.com|kannadamovies.biz|kissanime.ru|kissmanga.com|livetvcafe.net|movdivx.com|mp3clan.one|nowvideo.li|nowvideo.sx|nowvideo.to|ocean0fgames.com|oogh8ot0el.com|otakustream.tv|otorrents.com|putlocker.co|rgmechanicsgames.com|solarmovie.sc|speedvid.net|stream2watch.org|suprafiles.co|thepiratebay.cd|vidto.me|vidtudu.com|wholecloud.net,badfilter
 ||googletag*.com^$3p,important
 ||scorecardresearch.com^$3p,important
-torrentz2.*##.alert-danger, #resultarea, [class*="Tolerat"], [id*="ScriptRoot"], .ads_box, .rss, [href*="/lorem2"], .downurls > dl:nth-of-type(1) > dd, .downlinksone:remove()
-torrentz2.*##.downlinkstwo:style(display: block !important)
+torrentz2.*,torrentz.*##.alert-danger, #resultarea, [class*="Tolerat"], [id*="ScriptRoot"], .ads_box, .rss, [href*="/lorem2"], .downurls > dl:nth-of-type(1) > dd, .downlinksone:remove()
+torrentz2.*,torrentz.*##.downlinkstwo:style(display: block !important)
 ||mcloud.to/log^$1p
 ||mcloud2.to/log^$1p
 |https://$xmlhttprequest,domain=dwatchseries.to|swatchseries.to|thewatchseries.ac|unblckd.org|watchseries.sk,badfilter
