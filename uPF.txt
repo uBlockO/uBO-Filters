@@ -237,7 +237,7 @@ animehub.ac##+js(remove-elem, .footer-follow\, .sb-subs.goblock > .clearfix\, .c
 |https://$3p,script,domain=9anime.one,badfilter
 |https://$3p,stylesheet,domain=9anime.one,badfilter
 ||adskeeper.co.uk^$3p,important
-comicbook.com##+js(remove-elem, .leftrail.sidebar-list-module.sidebar > section:nth-of-type(3)\, .mid-content-comment\, .btn-wide-container\, .article-break\, .channel-nav\, .vdb_player\, [class^=optanon-category])
+comicbook.com##.leftrail.sidebar-list-module.sidebar > section:nth-of-type(3), .mid-content-comment, .btn-wide-container, .article-break, .channel-nav, .vdb_player, [class^=optanon-category], .popculture-embed, div.modernInContent:remove()
 /videojs-ima/*$script,1p
 @@||gstatic.com/adx/doubleclick.ico$3p,image,badfilter
 @@|https://$3p,script,domain=blockadblock.com,badfilter
@@ -331,3 +331,7 @@ streamtape.com###adb:remove()
 |https://$xmlhttprequest,3p,domain=kimcartoon.to,badfilter
 @@/fuckadblock.js$domain=videoxseries.xyz|scenelife.org|piratulhd.com|hqq.tv|newhost.me|czxxx.org|waaw.tv,badfilter
 ghacks.net##div.profile-content:style(margin:-110px 0 0 -1px!important;background-color:#FFFFFF !important;position:relative !important;padding:25px !important)
+comicbook.com##body > header:style(top: 0!important;)
+comicbook.com##body:style(margin-top: 84px!important;)
+||cookielaw.org^$important
+||gamespot.com^$3p,important
