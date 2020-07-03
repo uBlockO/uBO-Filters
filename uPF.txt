@@ -335,3 +335,4 @@ comicbook.com##body > header:style(top: 0!important;)
 comicbook.com##body:style(margin-top: 84px!important;)
 ||cookielaw.org^$important
 ||gamespot.com^$3p,important
+||9anime.$csp=upgrade-insecure-requests
