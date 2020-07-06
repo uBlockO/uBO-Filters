@@ -255,7 +255,7 @@ hentaiplay.net##+js(set-attr, preload|controls, auto, video)
 @@||tinypass.com/api/tinypass.min.js$script,domain=thedailybeast.com,badfilter
 ||megaphone.fm^$3p
 @@||gravatar.com/avatar$image,3p,badfilter
-duckduckgo.com##+js(remove-elem, .ia-modules)
+duckduckgo.com##.onboarding-ed, .tag-home__wrapper, .footer, .ia-modules:remove()
 _pjax=*pjax-container$xhr,domain=github.com
 @@/advertising.js$script,badfilter
 @@||ogjs.infoglobo.com.br/*/js/*advertisement.js$badfilter
