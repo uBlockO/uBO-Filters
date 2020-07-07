@@ -56,7 +56,7 @@ thepiratebay.org##+js(remove-elem, #adrestop\, [href^="https://www.azirevpn"]\, 
 @@||kisscartoon.*^$first-party,script,badfilter
 @@||startpage.com/js/abp.js^$badfilter
 ||fmovies.se^$first-party,popup,badfilter
-/ads/*$first-party,important
+/ads/*$1p,important
 @@||speedtest.net/*/*bundle$script,first-party,badfilter
 @@||mapbox.com^$xmlhttprequest,domain=speedtest.net,badfilter
 @@/hello^$xmlhttprequest,domain=speedtest.net,badfilter
@@ -68,7 +68,6 @@ thepiratebay.org##+js(remove-elem, #adrestop\, [href^="https://www.azirevpn"]\, 
 @@||fastly.net/ad2/$script,badfilter
 @@||fastly.net/ad2/$image,badfilter
 @@||gigya.com/*/socialize.js$badfilter
-*ads.js*$1p,important
 /\.com\/.*[a-f0-9]{110}/$third-party,image,badfilter
 fmovies.*##.widget-title:has-text(Sponsored)
 @@||facebook.com/common/referer_frame.php$subdocument,domain=facebook.com,badfilter
@@ -148,7 +147,6 @@ kissmanga.com##+js(remove-elem, #aCurr\, .clear2\, .specialButton)
 /^https?:\/\/([0-9a-z\-]+\.)?(9anime|animeland|animenova|animeplus|animetoon|animewow|gamestorrent|goodanime|gogoanime|igg-games|kimcartoon|memecenter|readcomiconline|toonget|toonova|watchcartoononline)\.[a-z]{2,4}\/(?!([Ss]cripts|[Uu]ploads|[Ii]mages|combined|content|cover|img|static|wp-content|wp-includes))(.*)/$first-party,other,badfilter
 @@||9anime.to/ajax/$badfilter
 @@||9anime.to/user/ajax/$badfilter
-||9anime.*/*/jwplayer-*/$script,1p
 @@||9anime.to/assets^$badfilter
 /\.com\/.*[a-f0-9]{110}/$third-party,image,domain=~parship.com|~feedbin.com|~aliexpress.com|~alipay.com|~bilibili.com|~namu.wiki|~fastmail.com,badfilter
  @@||kissmanga.com/ads/*.aspx$badfilter
@@ -195,7 +193,6 @@ youtube.com##.ytp-ad-progress-list, #player-ads, #watch-action-panels, #chat, .y
 ||discordapp.com^$3p,important
 @@||gateway.reddit.com/desktopapi/v*/sidebar_ad$xmlhttprequest,badfilter
 |https://$third-party,script,domain=kimcartoon.to,badfilter
-*advert*$script,1p,important
 ||spot.im^$3p,important
 ||torrentz2.eu^$csp=script-src 'self' 'unsafe-inline',badfilter
 */asset/rev/$important,xmlhttprequest,domain=luxubu.review|novelplanet.me
@@ -319,7 +316,7 @@ instagram.com##video:style(z-index: 1000 !important)
 *$script,3p,domain=mp4upload.com,badfilter
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.js$badfilter
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js$badfilter
-||ad.*^$1p
+||ad.$1p
 streamtape.com##+js(sa, preload, auto, video)
 streamtape.com###adb:remove()
 ||youtube.com/yts/cssbin/$css
