@@ -179,7 +179,6 @@ youtube.com##.ytp-ad-progress-list, #player-ads, #watch-action-panels, #chat, .y
 @@||client-event-reporter.twitch.tv^$xmlhttprequest,domain=twitch.tv,badfilter
 ||comicbook.com/article/json^$1p,xhr
 ||discordapp.com^$3p,important
-@@||gateway.reddit.com/desktopapi/v*/sidebar_ad$xmlhttprequest,badfilter
 |https://$third-party,script,domain=kimcartoon.to,badfilter
 ||spot.im^$3p,important
 ||torrentz2.eu^$csp=script-src 'self' 'unsafe-inline',badfilter
@@ -227,16 +226,7 @@ duckduckgo.com##.onboarding-ed, .tag-home__wrapper, .footer, .ia-modules, .badge
 reddit.com##+js(set, r.utils.replaceUrlParams, null)
 @@||b.cdnst.net/javascript/amazon.js$domain=speedtest.net,badfilter
 @@||cookielaw.org/scripttemplates/$script,badfilter
-|https://$image,3p,domain=~feedback.pornhub.com|pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
-|https://$script,3p,domain=~feedback.pornhub.com|pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
-|https://$media,3p,domain=~feedback.pornhub.com|pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
-|https://$xmlhttprequest,3p,domain=pornhub.com,badfilter
-/*$script,1p,domain=~gaytube.com|~pornhub.com|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~xtube.com|~youjizz.com|~youporn.com|~youporngay.com,badfilter
 /disqus-*$script,1p
-|https://$image,3p,domain=9anime.to,badfilter
-|https://$stylesheet,3p,domain=9anime.to,badfilter
-|https://$script,3p,domain=mcloud.to,badfilter
-|https://$xmlhttprequest,3p,domain=mcloud.to,badfilter
 @@||cdn.optimizely.com/public/$script,domain=nytimes.com,badfilter
 @@||isgprivacy.cbsi.com/dist/optanon.js$script,badfilter
 @@.png#*/ad$image,badfilter
