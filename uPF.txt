@@ -189,11 +189,8 @@ youtube.com##.ytp-ad-progress-list, #player-ads, #watch-action-panels, #chat, .y
 ||youtube.com/comment_service_ajax?$domain=youtube.com,badfilter
 @@||p.jwpcdn.com^$third-party,script,badfilter
 /videojs.ima.js$1p,script,important
-@@||1337x.to/torrent/$first-party,csp,badfilter
 ||1337x.to^$csp=script-src 'self' 'unsafe-inline',badfilter
-@@||1337x.to/home/$first-party,csp,badfilter
 hollywoodreporter.com##+js(remove-elem, .autoload-spinner\, .blog-post-thr-newsletter-section\, .speedbump-carousel)
-@@/advertisement.js$script,badfilter
 ||hollywoodreporter.com/fe_data/$1p,xmlhttprequest
 @@||1337x.to/top-100$first-party,csp,badfilter
 movieweb.com##+js(remove-elem, .nav-message\, .facebook)
@@ -203,12 +200,8 @@ movieweb.com##+js(remove-elem, .nav-message\, .facebook)
 ||data.microsoft.com^$important,3p
 developer.mozilla.org##+js(remove-elem, .mdn-cta-container\, [class^="notification"])
 reddit.com##.promotedlink, #redesign-beta-optin-btn, [href="/premium"], .comment-visits-box, .premium-banner-outer, .share, #adblock-test, .giftgold, .snoovatar-link, .give-gold-button, .bottom > .spacer, .happening-now-wrap, .hohoho-header, .hohoho, #gtm-jail:remove()
-@@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$badfilter
-@@/adblockdetector.min.js$badfilter
-@@||androidcentral.com/sites/all/libraries/adblockdetection/adblockdetector.min.js$first-party,script,badfilter
 github.com##.survey-container, .js-notice-dismiss, .mb-4.bg-white, .code-navigation-banner, .js-notice, .Popover-message:remove()
 animehub.ac##+js(rn, pop.php, script)
--social-media.$image,badfilter
 ||*$ping,important
 @@||play.google.com/log?$xmlhttprequest,domain=google.com,badfilter
 @@||aniwatcher.com/adblock.js$badfilter
@@ -216,30 +209,20 @@ animehub.ac##+js(rn, pop.php, script)
 embed.streamx.*##+js(remove-elem, [button="share"]\, .afs_ads\, .jw-settings-sharing\, .jw-submenu-sharing)
 truecaller.com##+js(remove-elem, .absolute.flex\, .ad\, [href*="premium"]\, [id="app"] > footer + .pin-b\, span > .max-w-md.shadow-lg)
 animehub.ac##+js(remove-elem, .footer-follow\, .sb-subs.goblock > .clearfix\, .comments\, .detail-anime.goblock > .go-full.goblock-content > .goblock-bottom\, .gc-share.gc-icon\, .gc-comments.gc-icon\, .dialog-ovelay\, #sidebar > .clearfix\, #discordapp)
-@@||igg-games.com^$1p,script,badfilter
-@@||igg-games.com/ads.min.js|$badfilter
-|https://$3p,script,domain=9anime.one,badfilter
-|https://$3p,stylesheet,domain=9anime.one,badfilter
 ||adskeeper.co.uk^$3p,important
 comicbook.com##.leftrail.sidebar-list-module.sidebar > section:nth-of-type(3), .mid-content-comment, .btn-wide-container, .article-break, .channel-nav, .vdb_player, [class^=optanon-category], .popculture-embed, div.modernInContent:remove()
 /videojs-ima/*$script,1p
-@@||gstatic.com/adx/doubleclick.ico$3p,image,badfilter
-@@|https://$3p,script,domain=blockadblock.com,badfilter
-@@|https://$3p,image,domain=blockadblock.com,badfilter
 gamecopyworld.com##+js(remove-elem, #lb)
 fandom.com##+js(remove-elem, #WikiaBar\, #WikiaRailWrapper\, .banner-notifications-placeholder)
 kissanime.nz##+js(remove-elem, #divComments\, .related_news\, .full:nth-child(14)\, .footer_watching_link\, .tab-head\, .dialog-ovelay\, #upgrade_pop)
 hentaiplay.net##+js(set-attr, preload|controls, auto, video)
+hentaiplay.net###video_overlays,#footbar:remove()
 ||chatango.com^$3p,important
 ||gravatar.com^$3p
-@@||amplitude.com/libs/amplitude-$script,3p,badfilter
 @@||tinypass.com/api/tinypass.min.js$script,domain=thedailybeast.com,badfilter
 ||megaphone.fm^$3p
 @@||gravatar.com/avatar$image,3p,badfilter
 duckduckgo.com##.onboarding-ed, .tag-home__wrapper, .footer, .ia-modules, .badge-link:remove()
-@@/advertising.js$script,badfilter
-@@||ogjs.infoglobo.com.br/*/js/*advertisement.js$badfilter
-@@/js/advertisement.$script,badfilter
 @@/wp-content/plugins/super-socializer/js/front/social_login/*$1p,badfilter
 reddit.com##+js(set, r.utils.replaceUrlParams, null)
 @@||b.cdnst.net/javascript/amazon.js$domain=speedtest.net,badfilter
@@ -248,10 +231,8 @@ reddit.com##+js(set, r.utils.replaceUrlParams, null)
 |https://$script,3p,domain=~feedback.pornhub.com|pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
 |https://$media,3p,domain=~feedback.pornhub.com|pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com,badfilter
 |https://$xmlhttprequest,3p,domain=pornhub.com,badfilter
-@@/wp-content/plugins/simple-adblock-notice/*$script,1p,domain=~gaytube.com|~pornhub.com|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~xtube.com|~youjizz.com|~youporn.com|~youporngay.com,badfilter
-@@/fuckadblock.$script,1p,badfilter
+/*$script,1p,domain=~gaytube.com|~pornhub.com|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~xtube.com|~youjizz.com|~youporn.com|~youporngay.com,badfilter
 /disqus-*$script,1p
-@@||townnews.com^*/ad$script,badfilter
 |https://$image,3p,domain=9anime.to,badfilter
 |https://$stylesheet,3p,domain=9anime.to,badfilter
 |https://$script,3p,domain=mcloud.to,badfilter
@@ -267,14 +248,8 @@ mp4upload.com##+js(aeld, DOMMouseScroll)
 @@||google.com/coop/cse/brand?$script,3p,badfilter
 slack.com##^meta[http-equiv="Content-Security-Policy"]
 slack.com##+js(remove-elem, div.p-global_banner__container)
-@@/nonadblock/*$script,badfilter
-@@/wp-content/themes/mts_ad_sense/*$1p,badfilter
 @@||static.trafficjunky.com/ab/ads_test.js$domain=pornhub.com|pornhub.org|pornhub.net|pornhubthbh7ap3u.onion,badfilter
 @@||static.trafficjunky.com/ab/ads_test.js$script,domain=pornhub.com|pornhub.net|pornhub.org|pornhubthbh7ap3u.onion,badfilter
-@@||cdn.vox-cdn.com/packs/concert_ads-$badfilter
-@@||vox-cdn.com/packs/concert_ads-$script,3p,badfilter
-@@||camhub.world/player/player_ads.html$badfilter
-@@.jpg#*/ad$image,badfilter
 @@||youtube.com/api/stats/watchtime?$domain=youtube.com,badfilter
 @@||cdn.runative-syndicate.com/sdk/*/n.js$domain=onemanhua.com,badfilter
 ghacks.net###comments, [href*="/#comments"], .tag-sponsored:remove()
@@ -283,14 +258,9 @@ ghacks.net###comments, [href*="/#comments"], .tag-sponsored:remove()
 @@||cdn.cookielaw.org^$domain=zdnet.com,badfilter
 @@||cbsi.com/dist/optanon.js$script,domain=cbsnews.com|zdnet.com,badfilter
 mail.google.com##+js(set, open, null)
-@@||google.com/recaptcha$badfilter
-@@||google.com/recaptcha/$script,badfilter
-@@||tagcommander.com^*/tc_$script,badfilter
 instagram.com##+js(sa, controls, auto, video)
 instagram.com##video:style(z-index: 1000 !important)
 *$script,3p,domain=mp4upload.com,badfilter
-@@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.js$badfilter
-@@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js$badfilter
 ||ad.$1p
 streamtape.com##+js(sa, preload, auto, video)
 streamtape.com###adb:remove()
@@ -300,7 +270,6 @@ streamtape.com###adb:remove()
 ||*$csp=worker-src 'none',1p
 ||tinypass.com^$important
 |https://$xmlhttprequest,3p,domain=kimcartoon.to,badfilter
-@@/fuckadblock.js$domain=videoxseries.xyz|scenelife.org|piratulhd.com|hqq.tv|newhost.me|czxxx.org|waaw.tv,badfilter
 ghacks.net##div.profile-content:style(margin:-110px 0 0 -1px!important;background-color:#FFFFFF !important;position:relative !important;padding:25px !important)
 comicbook.com##body > header:style(top: 0!important;)
 comicbook.com##body:style(margin-top: 84px!important;)
