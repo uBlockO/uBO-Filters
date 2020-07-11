@@ -115,3 +115,4 @@ comicbook.com##body:style(margin-top: 84px!important;)
 ||washingtonpost.com/*/pwapi-proxy.min.js$script
 ||tracker.$important
 ||youtube.com/api/stats/$important
+||play.google.com/log?$xmlhttprequest,important
