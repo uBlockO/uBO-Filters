@@ -257,7 +257,7 @@ streamtape.com###adb:remove()
 ||youtube.com/yts/cssbin/$css
 *$xmlhttprequest,3p,domain=kissanime.ru,badfilter
 ||api.github.com/_private/browser/errors^$xhr,1p
-||*$csp=worker-src 'none',1p,domain=~googleusercontent.com
+||*$csp=worker-src 'none',1p,domain=~googleusercontent.com|~kissanime.ru
 ||tinypass.com^$important
 |https://$xmlhttprequest,3p,domain=kimcartoon.to,badfilter
 ghacks.net##div.profile-content:style(margin:-110px 0 0 -1px!important;background-color:#FFFFFF !important;position:relative !important;padding:25px !important)
