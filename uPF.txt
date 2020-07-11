@@ -268,4 +268,4 @@ comicbook.com##body:style(margin-top: 84px!important;)
 ||9anime.$csp=upgrade-insecure-requests
 ||facebook.com^$3p,important
 ||washingtonpost.com/*/pwapi-proxy.min.js$script
-||tracker.$script,websocket
+||tracker.$important
