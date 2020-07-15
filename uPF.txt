@@ -115,3 +115,4 @@ comicbook.com##body:style(margin-top: 84px!important;)
 ||tracker.$important
 ||youtube.com/api/stats/$important
 ||play.google.com/log?$xmlhttprequest,important
+ /ads1.$badfilter
