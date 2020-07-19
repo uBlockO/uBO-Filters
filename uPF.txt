@@ -110,9 +110,10 @@ comicbook.com##body:style(margin-top: 84px!important;)
 ||cookielaw.org^$important
 ||gamespot.com^$3p,important
 ||facebook.com^$3p,important
-||washingtonpost.com/*/pwapi-proxy.min.js$script
+||washingtonpost.com/*/pwapi-proxy.min.js$script,1p
 ||tracker.$important
 ||youtube.com/api/stats/$important
 ||play.google.com/log?$xmlhttprequest,important
  /ads1.$badfilter
 /advertisement/*$badfilter
+kissanime.ru##+js(set, timeWaitReloading, 5)
