@@ -116,3 +116,4 @@ comicbook.com##body:style(margin-top: 84px!important;)
 ||play.google.com/log?$xmlhttprequest,important
  /ads1.$badfilter
 /advertisement/*$badfilter
+*$script,3p,domain=kissanime.ru,badfilter
