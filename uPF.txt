@@ -78,7 +78,7 @@ comicbook.com##.leftrail.sidebar-list-module.sidebar > section:nth-of-type(3), .
 /videojs-ima/*$script,1p
 gamecopyworld.com###lb:remove()
 fandom.com###WikiaBar, #WikiaRailWrapper, .banner-notifications-placeholder, .aff-unit__disclaimer-message:remove()
-kissanime.nz###divComments, .related_news, .full:nth-child(14), .footer_watching_link, .tab-head, .dialog-ovelay, #upgrade_pop:remove()
+kissanime.nz##.dialog-ovelay,#upgrade_pop,#divComments,.related_news,.full:nth-child(14),.footer_watching_link,.tab-head:remove()
 hentaiplay.net##+js(set-attr, preload|controls, auto, video)
 hentaiplay.net###video_overlays,#footbar:remove()
 ||chatango.com^$3p,important
