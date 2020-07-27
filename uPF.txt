@@ -116,3 +116,5 @@ comicbook.com##body:style(margin-top: 84px!important;)
  /ads1.$badfilter
 /advertisement/*$badfilter
 kissanime.ru##+js(set, timeWaitReloading, 5)
+||stats.$1p
+||analytics.$1p
