@@ -23,7 +23,6 @@ www.google.*###prm-pt, .b2hzT, .exp-outline, [id^="ed_"], [id^="eob_"], [title*=
 9anime.*##.popover, #tags, .hd-buttons.row, #comment, .comment.widget > .widget-title, .comment.widget > .widget-body, .socials, #social, .twitter-follow-button, .sticky, .share, .text-center.crop.widget, .text-center.widget, .azlist, .mb20, [href*="twitter.com"], .alert, #fb-root, [href*="dynamicadx.com/"], [href*="popmonetizer.com/redirect"]:remove()
 fmovies.*,ffmovies.*##.text, .widget:nth-of-type(5), #tags, .hidden-sm.widget, .hd-buttons.row, .col-right, .widget:nth-of-type(4), [href*="twitter.com"], #comment, .socials, .twitter-follow-button, [href*="/redirect"], .streamhd, .stream4k, .home-socials, .addthis_native_toolbox, #fb-root, .alert, [href^="https://dynamicadx.com/"]:remove()
 ||contributor.google.com^$3p,important
-||funding*.google.com^$3p,important
 ||facebook.net^$3p,important
 speedtest.net##.high-placeholder.pure-u-1, .u-c.pure-u-custom-ad-rectangle, .u-c.pure-u-custom-ad-skyscraper, .top-placeholder.pure-u-1, .eot-dd-content, .u-c.pure-u-1-4:nth-of-type(1) > ul.menu-footer:nth-of-type(2), .lowerboard-content:remove()
 ||twitter.com^$important,3p
@@ -84,11 +83,8 @@ hentaiplay.net###video_overlays,#footbar:remove()
 ||chatango.com^$3p,important
 ||gravatar.com^$3p,important
 duckduckgo.com##.onboarding-ed, .tag-home__wrapper, .footer, .ia-modules, .badge-link:remove()
-reddit.com##+js(set, r.utils.replaceUrlParams, null)
-/disqus-*$script,1p
 translate.google.com##.notification-area:remove()
 mp4upload.com##+js(aeld, DOMMouseScroll)
-slack.com##^meta[http-equiv="Content-Security-Policy"]
 slack.com##div.p-global_banner__container:remove()
 ghacks.net###comments, [href*="/#comments"], .tag-sponsored:remove()
 mail.google.com##+js(set, open, null)
