@@ -115,3 +115,4 @@ kissanime.ru##+js(set, timeWaitReloading, 5)
 ||stats.$1p
 ||analytics.$1p
 @@/wp-content/*/1x1.trans.gif$image,1p,badfilter
+myanimelist.net#@#.icon-gp
