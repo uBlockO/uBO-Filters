@@ -88,7 +88,7 @@ mp4upload.com##+js(aeld, DOMMouseScroll)
 slack.com##div.p-global_banner__container:remove()
 ghacks.net###comments, [href*="/#comments"], .tag-sponsored:remove()
 mail.google.com##+js(set, open, null)
-instagram.com##+js(sa, controls, auto, video)
+instagram.com##+js(sa, preload|controls, auto, video)
 instagram.com##video:style(z-index: 1000 !important)
 ||ad.$1p
 streamtape.com##+js(sa, preload, auto, video)
