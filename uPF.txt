@@ -93,7 +93,6 @@ instagram.com##video:style(z-index: 1000 !important)
 ||ad.$1p
 streamtape.com##+js(sa, preload, auto, video)
 streamtape.com###adb:remove()
-||youtube.com/yts/cssbin/$css
 *$xmlhttprequest,3p,domain=kissanime.ru,badfilter
 ||api.github.com/_private/browser/errors^$xhr,1p
 ||*$csp=worker-src 'none',1p,domain=~googleusercontent.com|~kissanime.ru|~mega.nz
@@ -109,8 +108,6 @@ comicbook.com##body:style(margin-top: 84px!important;)
 ||tracker.$important
 ||youtube.com/api/stats/$important
 ||play.google.com/log?$xmlhttprequest,important
- /ads1.$badfilter
-/advertisement/*$badfilter
 kissanime.ru##+js(set, timeWaitReloading, 5)
 ||stats.$1p
 ||analytics.$1p
