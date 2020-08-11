@@ -93,7 +93,6 @@ instagram.com##video:style(z-index: 1000 !important)
 ||ad.$1p
 streamtape.com##+js(sa, preload, auto, video)
 streamtape.com###adb:remove()
-*$xmlhttprequest,3p,domain=kissanime.ru,badfilter
 ||api.github.com/_private/browser/errors^$xhr,1p
 ||*$csp=worker-src 'none',1p,domain=~googleusercontent.com|~kissanime.ru|~mega.nz
 ||tinypass.com^$important
