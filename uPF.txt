@@ -115,3 +115,4 @@ myanimelist.net#@#.icon-gp
 kissanime.pro##.menu_top_link:remove()
 ||stripe.com^$3p
 ||stripe.network^$3p
+kisscartoon.nz###divComments:remove()
