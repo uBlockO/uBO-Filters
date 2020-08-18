@@ -115,3 +115,4 @@ kissanime.pro##.menu_top_link:remove()
 kisscartoon.nz###divComments:remove()
 ||jwpsrv.com^$3p
 /bugsnag.$3p,script
+||bugsnag.com^
