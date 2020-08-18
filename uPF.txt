@@ -43,7 +43,6 @@ animenewsnetwork.com###cover_image, .floating-image, .box.alert, #infinite-scrol
 ||doubleclickbygoogle.com^$3p,important
 ||fonts.googleapis.com^$3p
 ||fonts.gstatic.com^$3p
-kissmanga.com###aCurr, .clear2, .specialButton:remove()
 ||readcomiconline.to/wp-includes/*/*.html^$subdocument,first-party
 ||googletag*.com^$3p,important
 ||scorecardresearch.com^$3p,important
