@@ -8,7 +8,6 @@
 ||disqus.com^$3p,important
 ||doubleclick.net^$3p,important
 screenrant.com##.sharing, .w-menu-follow, .newsletter, .w-article-author-bio, .w-tldr-start-btn, .tldr-btn-section, .article-tags, .related-single, .tldr-btn-category, .next-single, .next-btn, .ad-zone-container, .as-oil:remove()
-kissanime.ru###btnShowComments, strong, .videoAdClose, .divCloseBut, .bigBarContainer div[id^="adsIfrme"], .adsPositioning, [style*="width: 300px; height: 250px"], [href*="/ads/"], #divFloatLeft, #divFloatRight:remove()
 ||mgid.com^$3p,important
 ||sharethis.com^$3p,important
 ||taboola.com^$3p,important
@@ -94,7 +93,7 @@ instagram.com##video:style(z-index: 1000 !important)
 streamtape.com##+js(sa, preload, auto, video)
 streamtape.com###adb:remove()
 ||api.github.com/_private/browser/errors^$xhr,1p
-||*$csp=worker-src 'none',1p,domain=~googleusercontent.com|~kissanime.ru|~mega.nz
+||*$csp=worker-src 'none',1p,domain=~googleusercontent.com|~mega.nz
 ||tinypass.com^$important
 |https://$xmlhttprequest,3p,domain=kimcartoon.to,badfilter
 ghacks.net##div.profile-content:style(margin:-110px 0 0 -1px!important;background-color:#FFFFFF !important;position:relative !important;padding:25px !important)
@@ -107,7 +106,6 @@ comicbook.com##body:style(margin-top: 84px!important;)
 ||tracker.$important
 ||youtube.com/api/stats/$important
 ||play.google.com/log?$xmlhttprequest,important
-kissanime.ru##+js(set, timeWaitReloading, 5)
 ||stats.$1p
 ||analytics.$1p
 @@/wp-content/*/1x1.trans.gif$image,1p,badfilter
