@@ -114,3 +114,4 @@ kisscartoon.nz###divComments:remove()
 ||jwpsrv.com^$3p
 ||bugsnag.com^
 anime8.ru##.text-center.alert.ann-home, #btnShowComments:remove()
+||consensu.org^
