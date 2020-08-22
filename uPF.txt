@@ -45,6 +45,7 @@ animenewsnetwork.com###cover_image, .floating-image, .box.alert, #infinite-scrol
 ||readcomiconline.to/wp-includes/*/*.html^$subdocument,first-party
 ||googletagmanager.com^$3p,important
 ||googletagservices.com^$3p,important
+||google-analytics.com^$3p,important
 ||scorecardresearch.com^$3p,important
 torrentz2.*,torrentz.*##.alert-danger, #resultarea, [class*="Tolerat"], [id*="ScriptRoot"], .ads_box, .rss, [href*="/lorem2"], .downurls > dl:nth-of-type(1) > dd, .downlinksone:remove()
 torrentz2.*,torrentz.*##.downlinkstwo:style(display: block !important)
