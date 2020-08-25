@@ -114,3 +114,4 @@ kisscartoon.nz###divComments:remove()
 ||jwpsrv.com^$3p
 anime8.ru##.text-center.alert.ann-home, #btnShowComments:remove()
 ||consensu.org^
+speed.cloudflare.com##.ex.ga.fz.fy:remove()
