@@ -116,3 +116,4 @@ anime8.ru##.text-center.alert.ann-home, #btnShowComments:remove()
 ||consensu.org^
 speed.cloudflare.com##.ex.ga.fz.fy:remove()
 reddit.com##+js(aopr, r.utils.replaceUrlParams)
+@@||gemius.pl/gstream.js$badfilter
