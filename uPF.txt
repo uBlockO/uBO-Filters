@@ -116,5 +116,5 @@ anime8.ru##.text-center.alert.ann-home, #btnShowComments:remove()
 ||consensu.org^
 reddit.com##+js(aopr, r.utils.replaceUrlParams)
 @@||gemius.pl/gstream.js$badfilter
-speed.cloudflare.com##.go:remove()
+speed.cloudflare.com##.go,.fy:remove()
 ||speed.cloudflare.com/__log^
