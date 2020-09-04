@@ -95,8 +95,6 @@ streamtape.com###adb:remove()
 ||tinypass.com^$important
 |https://$xmlhttprequest,3p,domain=kimcartoon.to,badfilter
 ghacks.net##div.profile-content:style(margin:-110px 0 0 -1px!important;background-color:#FFFFFF !important;position:relative !important;padding:25px !important)
-comicbook.com##body > header:style(top: 0!important;)
-comicbook.com##body:style(margin-top: 84px!important;)
 ||cookielaw.org^$important
 ||facebook.com^$3p,important
 ||washingtonpost.com/*/pwapi-proxy.min.js$script,1p
