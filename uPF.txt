@@ -92,7 +92,7 @@ streamtape.com##+js(sa, preload, auto, video)
 streamtape.com###adb:remove()
 ||api.github.com/_private/browser/errors^$xhr,1p
 ||*$csp=worker-src 'none',1p,domain=~googleusercontent.com|~mega.nz|~github.com|~gitlab.com
-||tinypass.com^$important
+||tinypass.com^
 |https://$xmlhttprequest,3p,domain=kimcartoon.to,badfilter
 ghacks.net##div.profile-content:style(margin:-110px 0 0 -1px!important;background-color:#FFFFFF !important;position:relative !important;padding:25px !important)
 ||cookielaw.org^$important
@@ -116,3 +116,4 @@ reddit.com##+js(aopr, r.utils.replaceUrlParams)
 @@||gemius.pl/gstream.js$badfilter
 speed.cloudflare.com##.go,.fy:remove()
 ||speed.cloudflare.com/__log^
+||services.wikia.com^
