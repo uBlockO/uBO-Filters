@@ -76,7 +76,7 @@ gamecopyworld.com###lb:remove()
 fandom.com###WikiaBar, #WikiaRailWrapper, .banner-notifications-placeholder, .aff-unit__disclaimer-message:remove()
 kissanime.nz##.dialog-ovelay,#upgrade_pop,#divComments,.related_news,.full:nth-child(14),.footer_watching_link,.tab-head,#popular_animes:remove()
 hentaiplay.net##+js(set-attr, preload|controls, auto, video)
-hentaiplay.net###video_overlays,#footbar:remove()
+hentaiplay.net###footbar:remove()
 ||chatango.com^$3p,important
 ||gravatar.com^$3p,important
 duckduckgo.com##.onboarding-ed, .tag-home__wrapper, .footer, .ia-modules, .badge-link:remove()
