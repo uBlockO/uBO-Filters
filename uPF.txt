@@ -117,3 +117,4 @@ reddit.com##+js(aopr, r.utils.replaceUrlParams)
 speed.cloudflare.com##.go,.fy:remove()
 ||speed.cloudflare.com/__log^
 ||services.wikia.com^
+||commento.io^$important
