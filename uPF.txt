@@ -105,7 +105,6 @@ ghacks.net##div.profile-content:style(margin:-110px 0 0 -1px!important;backgroun
 ||analytics.$1p
 @@/wp-content/*/1x1.trans.gif$image,1p,badfilter
 myanimelist.net#@#.icon-gp
-kissanime.pro##.menu_top_link:remove()
 ||stripe.com^$3p
 ||stripe.network^$3p
 kisscartoon.nz###divComments:remove()
