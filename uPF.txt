@@ -117,3 +117,4 @@ speed.cloudflare.com##.go,.fy:remove()
 ||speed.cloudflare.com/__log^
 ||services.wikia.com^
 ||commento.io^$important
+||google.com/cse/cse.js^
