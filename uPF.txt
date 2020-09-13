@@ -116,5 +116,8 @@ reddit.com##+js(aopr, r.utils.replaceUrlParams)
 speed.cloudflare.com##.go,.fy:remove()
 ||speed.cloudflare.com/__log^
 ||services.wikia.com^
-||commento.io^$important
+||commento.io^
 ||google.com/cse/cse.js^
+||mailchimp.com^$3p
+||chimpstatic.com^$3p
+||list-manage.com^$3p
