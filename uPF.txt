@@ -27,7 +27,7 @@ speedtest.net##.high-placeholder.pure-u-1, .u-c.pure-u-custom-ad-rectangle, .u-c
 ||twitter.com^$important,3p
 kimcartoon.to##.w-right, #hideAds, .videoAdClose, .kcAds, .alert-info.alert, .mb15.full, #btnShowComments, #videoAd, #divComments, #disqus_thread, .twitter-follow-button, [id*="ScriptRoot"], #adbWarnContainer, #msg, div[style*="width: 300px; height: 250px"], #myContainer > .kcAds1, .top_page_alert, .kcAds1:remove()
 mega.nz##.ads-left-block, .ads-right-block, .active.top-login-warning, .red.download-button.button, .checkbox-bl.download:remove()
-/endscreen$script,domain=youtube.com
+||youtube.com^*/endscreen.js$script
 ||jwpcdn.com/*/related.js^$script,first-party
 ffmovies.*##+js(remove-node, /zfgloaded/, script)
 animenewsnetwork.com###cover_image, .floating-image, .box.alert, #infinite-scroll-outlet, .spaceRow, #prompt-message, .social-button, .ezoic-ad:remove()
