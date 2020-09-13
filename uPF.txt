@@ -121,3 +121,4 @@ speed.cloudflare.com##.go,.fy:remove()
 ||mailchimp.com^$3p
 ||chimpstatic.com^$3p
 ||list-manage.com^$3p
+||myanimelist.net^*/event/$image,1p
