@@ -8,8 +8,6 @@ A comprehensive personal filterlist of mine with additional filters for uBlock O
 
 Contains filters specific to uBlock Origin and some filters that have not yet been added to other filterlists.
 
-Add the list from here: [subscribe](https://github.com/?location=https://raw.githubusercontent.com/uBlock-user/uBO-Personal-Filters/master/uPF.txt&title=uBO-Personal-Filters)
-
 Link: [https://raw.githubusercontent.com/uBlock-user/uBO-Personal-Filters/master/uPF.txt](https://raw.githubusercontent.com/uBlock-user/uBO-Personal-Filters/master/uPF.txt)
 
 # Requirements 
