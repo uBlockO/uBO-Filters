@@ -124,3 +124,4 @@ speed.cloudflare.com##.go,.fy:remove()
 ||myanimelist.net^*/event/$image,1p
 ||consent.google.com^
 ||segment.com^$important
+||sentry.io^
