@@ -80,7 +80,7 @@ hentaiplay.net###footbar:remove()
 ||chatango.com^$3p,important
 ||gravatar.com^$3p,important
 duckduckgo.com##.onboarding-ed, .tag-home__wrapper, .footer, .ia-modules, .badge-link:remove()
-translate.google.com##.notification-area:remove()
+translate.google.com##.notification-area,.gt-cc:remove()
 mp4upload.com##+js(aeld, DOMMouseScroll)
 slack.com##div.p-global_banner__container:remove()
 ghacks.net###comments, [href*="/#comments"], .tag-sponsored:remove()
