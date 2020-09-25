@@ -94,7 +94,7 @@ streamtape.com###adb:remove()
 |https://$xmlhttprequest,3p,domain=kimcartoon.to,badfilter
 ghacks.net##div.profile-content:style(margin:-110px 0 0 -1px!important;background-color:#FFFFFF !important;position:relative !important;padding:25px !important)
 ||cookielaw.org^$important
-||facebook.com^$3p,important
+||facebook.com^$3p,important,domain=~instagram.com
 ||washingtonpost.com/*/pwapi-proxy.min.js$script,1p
 ||tracker.$important
 ||youtube.com/api/stats/$important
