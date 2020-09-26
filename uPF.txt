@@ -54,7 +54,6 @@ dnsleaktest.com##[class] > [target="_blank"], .cute-box:remove()
 embed.streamx.me##+js(noeval-if, debugger)
 youtube.com##.ytp-ad-progress-list, #player-ads, #watch-action-panels, #chat, .ytp-ce-covering-overlay, .subscribecard-endscreen, .ytp-ce-element, #ytd-promoted-video-renderer, #watch-sidebar-live-chat, #pla-shelf, .yt-uix-expander-collapsed.live-chat-expander.yt-uix-expander, .hats-categorical-style-vertical, #movie-upsell-card, .yt-lockup-movie-vertical-poster.yt-lockup-tile.yt-lockup, .style-default.force-icon-button.ytd-menu-renderer.style-scope, #sponsor-button, .ytp-miniplayer-button, .ytd-metadata-row-header-renderer.style-scope .html5-stop-propagation.ytp-drawer, #masthead-ad, #ticker.ytd-masthead, #merch-shelf, #offer-module, .ytp-cards-teaser, .ytp-paid-content-overlay, .ytp-pause-overlay, .ytp-title-channel, #comments, ytd-button-renderer.size-default.style-default.force-icon-button.ytd-menu-renderer.style-scope, .ytd-search-pyv-renderer, .ytd-promoted-sparkles-text-search-renderer, .ytd-merch-shelf-renderer, .share-panel-services, .ytp-share-button, #secondarylinks, #content > .ytd-metadata-row-header-renderer.style-scope.content > .yt-formatted-string.style-scope.yt-simple-endpoint, #hover-overlays.style-scope.ytd-thumbnail, #dismissable.ytd-compact-promoted-item-renderer.style-scope, #dismissable.ytd-rich-shelf-renderer.style-scope, #clarify-box, .ytd-vertical-product-card-renderer, .ytd-primetime-promo-renderer, .ytd-inline-survey-renderer, #consent-bump, ytd-rich-section-renderer:remove()
 youtube.com###contents > ytd-rich-item-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1):has(ytd-display-ad-renderer):remove()
-||comicbook.com/article/json^$1p,xhr
 ||discordapp.com^$3p,important
 ||spot.im^$3p,important
 */asset/rev/$important,xmlhttprequest,domain=luxubu.review|novelplanet.me
@@ -70,9 +69,6 @@ embed.streamx.*##[button="share"], .afs_ads, .jw-settings-sharing, .jw-submenu-s
 truecaller.com##.absolute.flex, .ad, [href*="premium"], [id="app"] > footer + .pin-b, span > .max-w-md.shadow-lg:remove()
 animehub.ac##.footer-follow, .sb-subs.goblock > .clearfix, .comments, .detail-anime.goblock > .go-full.goblock-content > .goblock-bottom, .gc-share.gc-icon, .gc-comments.gc-icon, .dialog-ovelay, #sidebar > .clearfix\, #discordapp:remove()
 ||adskeeper.co.uk^$3p,important
-comicbook.com##.leftrail.sidebar-list-module.sidebar > section:nth-of-type(3), .mid-content-comment, .btn-wide-container, .article-break, .channel-nav, .vdb_player, [class^=optanon-category], .popculture-embed, div.modernInContent:remove()
-/videojs-ima/*$script,1p
-gamecopyworld.com###lb:remove()
 fandom.com###WikiaBar, #WikiaRailWrapper, .banner-notifications-placeholder, .aff-unit__disclaimer-message:remove()
 kissanime.nz##.dialog-ovelay,#upgrade_pop,#divComments,.related_news,.full:nth-child(14),.footer_watching_link,.tab-head,#popular_animes:remove()
 hentaiplay.net##+js(set-attr, preload|controls, auto, video)
