@@ -86,7 +86,7 @@ instagram.com##video:style(z-index: 1000 !important)
 ||ad.$1p
 streamtape.com###adb:remove()
 ||api.github.com/_private/browser/errors^$xhr,1p
-||*$csp=worker-src 'none',1p,domain=~googleusercontent.com|~mega.nz|~github.com|~gitlab.com
+||*$csp=worker-src 'none',1p,domain=~googleusercontent.com|~mega.nz|~github.com|~gitlab.com|~twitch.tv
 ||tinypass.com^
 |https://$xmlhttprequest,3p,domain=kimcartoon.to,badfilter
 ghacks.net##div.profile-content:style(margin:-110px 0 0 -1px!important;background-color:#FFFFFF !important;position:relative !important;padding:25px !important)
