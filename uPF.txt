@@ -92,7 +92,7 @@ ghacks.net##div.profile-content:style(margin:-110px 0 0 -1px!important;backgroun
 ||cookielaw.org^$important
 ||facebook.com^$3p,important,domain=~instagram.com
 ||washingtonpost.com/*/pwapi-proxy.min.js$script,1p
-||*$websocket
+||*$websocket,domain=~slack.com
 ||youtube.com/api/stats/$important
 ||play.google.com/log?$xmlhttprequest,important
 ||stats.$1p
@@ -110,12 +110,10 @@ reddit.com##+js(aopr, r.utils.replaceUrlParams)
 speed.cloudflare.com##.go,.fy:remove()
 ||speed.cloudflare.com/__log^
 ||services.wikia.com^
-||commento.io^
 ||google.com/cse/cse.js^
 ||mailchimp.com^$3p
 ||chimpstatic.com^$3p
 ||list-manage.com^$3p
-||myanimelist.net^*/event/$image,1p
 ||consent.google.com^
 ||segment.com^$important
 ||sentry.io^
