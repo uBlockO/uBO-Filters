@@ -53,7 +53,6 @@ torrentz2.*,torrentz.*##.downlinkstwo:style(display: block !important)
 dnsleaktest.com##[class] > [target="_blank"], .cute-box:remove()
 embed.streamx.me##+js(noeval-if, debugger)
 youtube.com##.ytp-ad-progress-list, #player-ads, #watch-action-panels, #chat, .ytp-ce-covering-overlay, .subscribecard-endscreen, .ytp-ce-element, #ytd-promoted-video-renderer, #watch-sidebar-live-chat, #pla-shelf, .yt-uix-expander-collapsed.live-chat-expander.yt-uix-expander, .hats-categorical-style-vertical, #movie-upsell-card, .yt-lockup-movie-vertical-poster.yt-lockup-tile.yt-lockup, .style-default.force-icon-button.ytd-menu-renderer.style-scope, #sponsor-button, .ytp-miniplayer-button, .ytd-metadata-row-header-renderer.style-scope .html5-stop-propagation.ytp-drawer, #masthead-ad, #ticker.ytd-masthead, #merch-shelf, #offer-module, .ytp-cards-teaser, .ytp-paid-content-overlay, .ytp-pause-overlay, .ytp-title-channel, #comments, ytd-button-renderer.size-default.style-default.force-icon-button.ytd-menu-renderer.style-scope, .ytd-search-pyv-renderer, .ytd-promoted-sparkles-text-search-renderer, .ytd-merch-shelf-renderer, .share-panel-services, .ytp-share-button, #secondarylinks, #content > .ytd-metadata-row-header-renderer.style-scope.content > .yt-formatted-string.style-scope.yt-simple-endpoint, #hover-overlays.style-scope.ytd-thumbnail, #dismissable.ytd-compact-promoted-item-renderer.style-scope, #dismissable.ytd-rich-shelf-renderer.style-scope, #clarify-box, .ytd-vertical-product-card-renderer, .ytd-primetime-promo-renderer, .ytd-inline-survey-renderer, #consent-bump, ytd-rich-section-renderer:remove()
-||discordapp.com^$3p,important
 ||spot.im^$3p,important
 */asset/rev/$important,xmlhttprequest,domain=luxubu.review|novelplanet.me
 /videojs.ima.js$1p,script,important
@@ -72,8 +71,6 @@ fandom.com###WikiaBar, #WikiaRailWrapper, .banner-notifications-placeholder, .af
 kissanime.nz##.dialog-ovelay,#upgrade_pop,#divComments,.related_news,.full:nth-child(14),.footer_watching_link,.tab-head,#popular_animes:remove()
 hentaiplay.net##+js(set-attr, preload|controls, auto, video)
 hentaiplay.net###footbar:remove()
-||chatango.com^$3p,important
-||gravatar.com^$3p,important
 duckduckgo.com##.onboarding-ed, .tag-home__wrapper, .footer, .ia-modules, .badge-link:remove()
 translate.google.com##.notification-area,.gt-cc:remove()
 mp4upload.com##+js(aeld, DOMMouseScroll)
@@ -115,3 +112,4 @@ speed.cloudflare.com##.go,.fy:remove()
 twitter.com###layers > .r-zchlnj.r-1xcajam.r-12vffkv.r-1d2f490.r-1p0dtai.r-aqfbo4.css-1dbjc4n > div.r-12vffkv.css-1dbjc4n > .r-12vffkv.css-1dbjc4n > .r-xnswec.r-urgr8i.css-1dbjc4n:remove()
 ||youtube.com/error_204?^$xhr
 ||youtube.com/youtubei/v1/log_event^$xhr
+||buymeacoffee.com^
