@@ -113,3 +113,6 @@ twitter.com###layers > .r-zchlnj.r-1xcajam.r-12vffkv.r-1d2f490.r-1p0dtai.r-aqfbo
 ||youtube.com/error_204?^$xhr
 ||youtube.com/youtubei/v1/log_event^$xhr
 ||buymeacoffee.com^
+||discordapp.com^$3p
+||discord.com^$3p
+|chatango.com^$3p
