@@ -102,7 +102,6 @@ kisscartoon.nz###divComments:remove()
 ||jwpsrv.com^$3p
 anime8.ru##.text-center.alert.ann-home, #btnShowComments:remove()
 ||consensu.org^
-reddit.com##+js(aopr, r.utils.replaceUrlParams)
 @@||gemius.pl/gstream.js$badfilter
 speed.cloudflare.com##.go,.fy:remove()
 ||services.wikia.com^
@@ -115,4 +114,4 @@ twitter.com###layers > .r-zchlnj.r-1xcajam.r-12vffkv.r-1d2f490.r-1p0dtai.r-aqfbo
 ||discordapp.com^$3p
 ||discord.com^$3p
 ||chatango.com^$3p
-||www.reddit.com^*utm_$queryprune=|utm_
+||www.reddit.com^*utm_$queryprune=|utm_,1p
