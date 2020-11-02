@@ -115,4 +115,4 @@ twitter.com###layers > .r-zchlnj.r-1xcajam.r-12vffkv.r-1d2f490.r-1p0dtai.r-aqfbo
 ||discord.com^$3p
 ||chatango.com^$3p
 ||gravatar.com^$3p
-||reddit.com/r^*/?utm_$1p,queryprune=|utm_
+||reddit.com/r^*/*utm_$1p,queryprune=|utm_
