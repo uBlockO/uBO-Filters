@@ -112,6 +112,5 @@ twitter.com###layers > .r-zchlnj.r-1xcajam.r-12vffkv.r-1d2f490.r-1p0dtai.r-aqfbo
 ||discord.com^$3p
 ||chatango.com^$3p
 ||gravatar.com^$3p
-?utm_$doc,queryprune=|utm_,domain=reddit.com
-&utm_$doc,queryprune=|utm_,domain=reddit.com
+utm_$doc,queryprune=|utm_,domain=reddit.com
 myanimelist.net##body:not(.ownlist):style(background:none !important)
