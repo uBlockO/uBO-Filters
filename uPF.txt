@@ -114,4 +114,4 @@ utm_$doc,queryprune=/^utm_/,domain=reddit.com|instagram.com|sustainability.googl
 myanimelist.net##body:not(.ownlist):style(background:none !important)
 reddit.com##body:not(.subscriber) .down,.arrow.down:style(visibility:visible !important;display:block !important)
 ||advertising.com^$document,important
-dood.to##+js(aeld, DOMMouseScroll)
+dood.to##+js(aeld, /DOMMouseScroll|mousewheel/)
