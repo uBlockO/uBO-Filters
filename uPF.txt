@@ -71,15 +71,15 @@ duckduckgo.com##.onboarding-ed, .tag-home__wrapper, .footer, .ia-modules, .badge
 translate.google.com##.notification-area,.gt-cc:remove()
 mp4upload.com##+js(aeld, DOMMouseScroll)
 app.slack.com##.p-client__banners,.c-fullscreen_modal__content:remove()
-||slack.com/api/promo.banner^$xhr,1p
-||slack.com/api/ublockworkaround^$xhr,1p
+||slack.com/api/promo.banner^
+||slack.com/api/ublockworkaround^
 ghacks.net###comments, [href*="/#comments"], .tag-sponsored:remove()
 mail.google.com##+js(set, open, null)
 instagram.com##+js(sa, preload|controls, auto, video)
 instagram.com##video:style(z-index: 1000 !important)
 ||ad.$1p
 streamtape.com###adb:remove()
-||api.github.com/_private/browser/errors^$xhr,1p
+||api.github.com/_private/browser/errors^
 *$csp=worker-src 'none',1p,domain=~googleusercontent.com|~mega.nz|~github.com|~gitlab.com|~twitch.tv|~kimanime.ru|~regex101.com
 ||tinypass.com^
 |https://$xmlhttprequest,3p,domain=kimcartoon.to,badfilter
