@@ -115,3 +115,4 @@ myanimelist.net##body:not(.ownlist):style(background:none !important)
 reddit.com##body:not(.subscriber) .down,.arrow.down:style(visibility:visible !important;display:block !important)
 ||advertising.com^$document,important
 dood.to##+js(aeld, /DOMMouseScroll|mousewheel/)
+||getsentry.com^$3p
