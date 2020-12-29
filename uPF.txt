@@ -116,3 +116,4 @@ reddit.com##body:not(.subscriber) .down,.arrow.down:style(visibility:visible !im
 ||advertising.com^$document,important
 dood.to##+js(aeld, /DOMMouseScroll|mousewheel/)
 ||getsentry.com^$3p
+@@||adblockanalytics.com/ads.js|$badfilter
