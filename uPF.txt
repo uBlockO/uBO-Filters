@@ -75,7 +75,7 @@ app.slack.com##.p-client__banners,.c-fullscreen_modal__content:remove()
 ||slack.com/api/ublockworkaround^
 ghacks.net###comments, [href*="/#comments"], .tag-sponsored:remove()
 mail.google.com##+js(set, open, null)
-instagram.com##+js(sa, preload|controls, auto, video)
+instagram.com##+js(sa, preload|controls, auto, video, mutation)
 instagram.com##video:style(z-index: 1000 !important)
 ||ad.$1p
 streamtape.com###adb:remove()
