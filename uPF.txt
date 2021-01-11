@@ -75,8 +75,6 @@ app.slack.com##.p-client__banners,.c-fullscreen_modal__content:remove()
 ||slack.com/api/ublockworkaround^
 ghacks.net###comments, [href*="/#comments"], .tag-sponsored:remove()
 mail.google.com##+js(set, open, null)
-instagram.com##+js(sa, preload|controls, auto, video, mutation)
-instagram.com##video:style(z-index: 1000 !important)
 ||ad.$1p
 streamtape.com###adb:remove()
 ||api.github.com/_private/browser/errors^
@@ -84,7 +82,7 @@ streamtape.com###adb:remove()
 ||tinypass.com^
 |https://$xmlhttprequest,3p,domain=kimcartoon.to,badfilter
 ghacks.net##div.profile-content:style(margin:-110px 0 0 -1px!important;background-color:#FFFFFF !important;position:relative !important;padding:25px !important)
-||facebook.com^$3p,important,domain=~instagram.com
+||facebook.com^$3p,important
 ||washingtonpost.com/*/pwapi-proxy.min.js$script,1p
 *$websocket,domain=~slack.com|~github.com|~speedtest.net
 ||youtube.com/api/stats/$important
