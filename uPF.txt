@@ -85,7 +85,6 @@ ghacks.net##div.profile-content:style(margin:-110px 0 0 -1px!important;backgroun
 ||facebook.com^$3p,important,domain=~instagram.com
 ||washingtonpost.com/*/pwapi-proxy.min.js$script,1p
 *$websocket,domain=~slack.com|~github.com|~speedtest.net
-||youtube.com/api/stats/$important
 ||play.google.com/log?$xmlhttprequest,important
 ||stats.$1p
 ||analytics.$1p
