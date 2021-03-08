@@ -118,3 +118,4 @@ dood.to##+js(aeld, /DOMMouseScroll|mousewheel/)
 instagram.com##+js(sa, preload|controls, auto, video, mutation)
 instagram.com##video:style(z-index: 1000 !important)
 ||cbox.ws^$3p
+||log.quora.com^
