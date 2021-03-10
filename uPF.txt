@@ -73,7 +73,7 @@ mp4upload.com##+js(aeld, DOMMouseScroll)
 app.slack.com##.p-client__banners,.c-fullscreen_modal__content:remove()
 ||slack.com/api/promo.banner^
 ||slack.com/api/ublockworkaround^
-ghacks.net###comments, [href*="/#comments"], .tag-sponsored:remove()
+ghacks.net###comments, [href*="/#comments"], .tag-sponsored, [id^="snhb-snhb_ghacks_bottom-"]:remove()
 mail.google.com##+js(set, open, null)
 ||ad.$1p
 streamtape.com###adb:remove()
