@@ -92,7 +92,6 @@ ghacks.net##div.profile-content:style(margin:-110px 0 0 -1px!important;backgroun
 ||stripe.com^$3p
 ||stripe.network^$3p
 kisscartoon.nz###divComments:remove()
-||jwpsrv.com^$3p
 anime8.ru##.text-center.alert.ann-home, #btnShowComments:remove()
 @@||gemius.pl/gstream.js$badfilter
 speed.cloudflare.com##.go,.fy:remove()
