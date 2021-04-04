@@ -28,7 +28,6 @@ kimcartoon.to##.w-right, #hideAds, .videoAdClose, .kcAds, .alert-info.alert, .mb
 mega.nz##.ads-left-block, .ads-right-block, .active.top-login-warning, .red.download-button.button, .checkbox-bl.download:remove()
 ||youtube.com^*/endscreen.js
 ||youtube.com^*/annotations_module.js
-||jwpcdn.com/*/related.js^$script,first-party
 ffmovies.*##+js(remove-node, /zfgloaded/, script)
 animenewsnetwork.com###cover_image,.floating-image,.box.alert,#infinite-scroll-outlet,.spaceRow,#prompt-message,.social-button,.ezoic-ad,div[style$="overflow: hidden;"], .youtube:remove()
 ||animenewsnetwork.com/logger.performance^$1p
@@ -41,7 +40,7 @@ animenewsnetwork.com###cover_image,.floating-image,.box.alert,#infinite-scroll-o
 ||doubleclickbygoogle.com^$3p,important
 ||fonts.googleapis.com^$3p
 ||fonts.gstatic.com^$3p
-||readcomiconline.to/wp-includes/*/*.html^$subdocument,first-party
+||readcomiconline.to/wp-includes/*/*.html^$subdocument,1p
 ||googletagmanager.com^$3p,important
 ||googletagservices.com^$3p,important
 ||google-analytics.com^$3p,important
