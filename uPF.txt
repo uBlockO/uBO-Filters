@@ -109,7 +109,7 @@ dood.to##+js(aeld, /DOMMouseScroll|mousewheel/)
 ||getsentry.com^$3p
 @@||adblockanalytics.com/ads.js|$badfilter
 ||tawk.to^$3p
-instagram.com##+js(sa, preload|controls, auto, video, mutation)
+instagram.com##+js(sa, preload|controls, auto, video, loop)
 instagram.com##video:style(z-index: 1000 !important)
 ||cbox.ws^$3p
 ||omtrdc.net^$3p,important
