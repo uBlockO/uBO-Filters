@@ -117,3 +117,4 @@ speed.cloudflare.com##.mapboxgl-map:upward(1):remove()
 ||sentry-cdn.com^$3p,important
 /interstitial/*
 ||coinmarketcap.com^$3p
+||arc.io^
