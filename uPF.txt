@@ -118,3 +118,4 @@ speed.cloudflare.com##.mapboxgl-map:upward(1):remove()
 /interstitial/*
 ||coinmarketcap.com^$3p
 ||arc.io^
+redirect-ads.com##+js(nowsif, /^/)
