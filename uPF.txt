@@ -74,7 +74,7 @@ ghacks.net###comments, [href*="/#comments"], .tag-sponsored, [id^="snhb-snhb_gha
 mail.google.com##+js(set, open, null)
 ||ad.$1p
 ||api.github.com/_private/browser/errors^
-*$csp=worker-src 'none',1p,domain=~googleusercontent.com|~mega.nz|~github.com|~gitlab.com|~twitch.tv|~animax.to|~regex101.com|~pornhub.com
+*$csp=worker-src 'none',1p,domain=~googleusercontent.com|~mega.nz|~github.com|~gitlab.com|~github.io|~twitch.tv|~animax.to|~regex101.com|~pornhub.com
 ||tinypass.com^
 |https://$xmlhttprequest,3p,domain=kimcartoon.to,badfilter
 ghacks.net##div.profile-content:style(margin:-110px 0 0 -1px!important;background-color:#FFFFFF !important;position:relative !important;padding:25px !important)
