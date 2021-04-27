@@ -119,3 +119,7 @@ speed.cloudflare.com##.mapboxgl-map:upward(1):remove()
 ||coinmarketcap.com^$3p
 ||arc.io^
 redirect-ads.com##+js(nowsif, /^/)
+||cbsi.com^
+||cbsinteractive.com^
+||instagram.com^$3p
+||opta.net^
