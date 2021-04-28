@@ -44,12 +44,9 @@ animenewsnetwork.com###cover_image,.floating-image,.box.alert,#infinite-scroll-o
 ||googletagservices.com^$3p,important
 ||google-analytics.com^$3p,important
 ||scorecardresearch.com^$3p,important
-torrentz2.*,torrentz.*##.alert-danger, #resultarea, [class*="Tolerat"], [id*="ScriptRoot"], .ads_box, .rss, [href*="/lorem2"], .downurls > dl:nth-of-type(1) > dd, .downlinksone:remove()
-torrentz2.*,torrentz.*##.downlinkstwo:style(display:block !important)
-dnsleaktest.com##[class] > [target="_blank"], .cute-box:remove()
 youtube.com##.ytp-ad-progress-list, #player-ads, #watch-action-panels, #chat, .ytp-ce-covering-overlay, .subscribecard-endscreen, .ytp-ce-element, #ytd-promoted-video-renderer, #watch-sidebar-live-chat, #pla-shelf, .yt-uix-expander-collapsed.live-chat-expander.yt-uix-expander, .hats-categorical-style-vertical, #movie-upsell-card, .yt-lockup-movie-vertical-poster.yt-lockup-tile.yt-lockup, .style-default.force-icon-button.ytd-menu-renderer.style-scope, #sponsor-button, .ytp-miniplayer-button, .ytd-metadata-row-header-renderer.style-scope .html5-stop-propagation.ytp-drawer, #masthead-ad, #ticker.ytd-masthead, #merch-shelf, #offer-module, .ytp-cards-teaser, .ytp-paid-content-overlay, .ytp-pause-overlay, .ytp-title-channel, ytd-button-renderer.size-default.style-default.force-icon-button.ytd-menu-renderer.style-scope, .ytd-search-pyv-renderer, .ytd-promoted-sparkles-text-search-renderer, .ytd-merch-shelf-renderer, .share-panel-services, .ytp-share-button, #secondarylinks, #content > .ytd-metadata-row-header-renderer.style-scope.content > .yt-formatted-string.style-scope.yt-simple-endpoint, #hover-overlays.style-scope.ytd-thumbnail, #dismissable.ytd-compact-promoted-item-renderer.style-scope, #dismissable.ytd-rich-shelf-renderer.style-scope, #clarify-box, .ytd-vertical-product-card-renderer, .ytd-primetime-promo-renderer, .ytd-inline-survey-renderer, #consent-bump, ytd-rich-section-renderer, .ytp-paid-content-overlay-text, #comments, .ytp-promotooltip-wrapper, [href="/premium"]:remove()
 ||spot.im^$3p,important
-*/asset/rev/$important,xmlhttprequest,domain=luxubu.review|novelplanet.me
+*/asset/rev/$important,xmlhttprequest,domain=luxubu.review
 hollywoodreporter.com##.autoload-spinner, .blog-post-thr-newsletter-section, .speedbump-carousel:remove()
 ||hollywoodreporter.com/fe_data/$1p,xmlhttprequest
 ||data.microsoft.com^$important,3p
@@ -66,7 +63,6 @@ hentaiplay.net##+js(set-attr, preload|controls, auto, video)
 hentaiplay.net###footbar:remove()
 duckduckgo.com##.onboarding-ed, .tag-home__wrapper, .footer, .ia-modules, .badge-link, .js-module--products.module--carousel-products:remove()
 translate.google.com##.notification-area,.gt-cc:remove()
-mp4upload.com##+js(aeld, DOMMouseScroll)
 app.slack.com##.p-client__banners,.c-fullscreen_modal__content:remove()
 ||slack.com/api/promo.banner^
 ||slack.com/api/ublockworkaround^
