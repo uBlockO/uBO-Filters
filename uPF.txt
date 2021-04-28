@@ -99,7 +99,6 @@ twitter.com##.r-zchlnj.r-1xcajam.r-12vffkv.r-1d2f490.r-1p0dtai.r-aqfbo4.css-1dbj
 ||gravatar.com^$3p
 utm_$doc,removeparam=/^utm_/,1p
 myanimelist.net##body:not(.ownlist):style(background:none !important)
-reddit.com##body:not(.subscriber) .down,.arrow.down:style(visibility:visible !important;display:block !important)
 ||advertising.com^$document,important
 dood.to##+js(aeld, /DOMMouseScroll|mousewheel/)
 ||getsentry.com^$3p
