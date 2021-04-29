@@ -118,3 +118,4 @@ redirect-ads.com##+js(nowsif, /^/)
 ||cbsinteractive.com^
 ||instagram.com^$3p
 ||opta.net^
+||youtube.com/comment_service_ajax?action_get_comments^$xhr
