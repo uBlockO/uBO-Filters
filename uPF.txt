@@ -120,3 +120,4 @@ redirect-ads.com##+js(nowsif, /^/)
 ||opta.net^
 ||youtube.com/comment_service_ajax?action_get_comments^$xhr
 ||myanimelist.net^*/event/$image
+||intercom.com^$3p
