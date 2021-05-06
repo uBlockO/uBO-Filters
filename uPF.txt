@@ -121,3 +121,4 @@ redirect-ads.com##+js(nowsif, /^/)
 ||youtube.com/comment_service_ajax?action_get_comments^$xhr
 ||myanimelist.net^*/event/$image
 ||intercom.com^$3p
+||scroll.com^$3p
