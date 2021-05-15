@@ -122,3 +122,4 @@ redirect-ads.com##+js(nowsif, /^/)
 ||myanimelist.net^*/event/$image
 ||intercom.com^$3p
 ||scroll.com^$3p
+||vk.com^$3p
