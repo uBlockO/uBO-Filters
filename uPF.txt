@@ -67,7 +67,6 @@ app.slack.com##.p-client__banners,.c-fullscreen_modal__content:remove()
 ||slack.com/api/promo.banner^
 ||slack.com/api/ublockworkaround^
 ghacks.net###comments, [href*="/#comments"], .tag-sponsored, [id^="snhb-snhb_ghacks_bottom-"]:remove()
-mail.google.com##+js(set, open, null)
 ||ad.$1p
 ||api.github.com/_private/browser/errors^
 *$csp=worker-src 'none',1p,domain=~googleusercontent.com|~mega.nz|~github.com|~gitlab.com|~github.io|~twitch.tv|~animax.to|~regex101.com|~pornhub.com
