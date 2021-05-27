@@ -124,3 +124,5 @@ redirect-ads.com##+js(nowsif, /^/)
 ||vk.com^$3p
 app.slack.com##^meta[http-equiv="Content-Security-Policy"]
 app.slack.com##+js(set, console.info, noopFunc)
+||firebase.googleapis.com^
+||gstatic.com/firebasejs/
