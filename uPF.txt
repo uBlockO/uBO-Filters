@@ -126,3 +126,4 @@ app.slack.com##^meta[http-equiv="Content-Security-Policy"]
 app.slack.com##+js(set, console.info, noopFunc)
 ||firebase.googleapis.com^
 ||gstatic.com/firebasejs/
+dnsleaktest.com##p[style="padding-bottom: 100px"]:remove()
