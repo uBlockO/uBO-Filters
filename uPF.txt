@@ -109,7 +109,6 @@ instagram.com##video:style(z-index: 1000 !important)
 ||omtrdc.net^$3p,important
 speed.cloudflare.com##.mapboxgl-map:upward(1):remove()
 ||sentry-cdn.com^$3p,important
-/interstitial/*
 ||coinmarketcap.com^$3p
 ||arc.io^
 redirect-ads.com##+js(nowsif, /^/)
@@ -127,3 +126,5 @@ app.slack.com##+js(set, console.info, noopFunc)
 ||firebase.googleapis.com^
 ||gstatic.com/firebasejs/
 dnsleaktest.com##p[style="padding-bottom: 100px"]:remove()
+||gleamjs.io^
+||ubembed.com^
