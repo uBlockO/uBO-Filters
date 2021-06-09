@@ -75,7 +75,7 @@ ghacks.net###comments, [href*="/#comments"], .tag-sponsored, [id^="snhb-snhb_gha
 ghacks.net##div.profile-content:style(margin:-110px 0 0 -1px!important;background-color:#FFFFFF !important;position:relative !important;padding:25px !important)
 ||facebook.com^$3p,important,domain=~instagram.com
 ||washingtonpost.com/pwapiv2/$xhr,1p
-*$websocket,domain=~slack.com|~github.com|~speedtest.net
+*$websocket,domain=~slack.com|~github.com|~speedtest.net|~redirect-ads.com
 ||play.google.com/log?$xmlhttprequest,important
 ||stats.$1p
 ||analytics.$1p
