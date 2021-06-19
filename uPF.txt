@@ -128,3 +128,5 @@ app.slack.com##+js(set, console.info, noopFunc)
 dnsleaktest.com##p[style="padding-bottom: 100px"]:remove()
 ||gleamjs.io^
 ||ubembed.com^
+||d2v02itv0y9u9t.cloudfront.net^
+||chatbro.com^$3p
