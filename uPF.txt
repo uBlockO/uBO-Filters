@@ -118,7 +118,7 @@ redirect-ads.com##+js(nowsif, /^/)
 ||youtube.com/comment_service_ajax?action_get_comments^$xhr
 ||myanimelist.net^*/event/$image
 ||intercom.com^$3p
-||scroll.com^$3p
+||scroll.com^$3p,important
 ||vk.com^$3p
 app.slack.com##^meta[http-equiv="Content-Security-Policy"]
 app.slack.com##+js(set, console.info, noopFunc)
