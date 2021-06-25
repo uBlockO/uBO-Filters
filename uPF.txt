@@ -129,3 +129,4 @@ dnsleaktest.com##p[style="padding-bottom: 100px"]:remove()
 ||ubembed.com^
 ||chatbro.com^$3p
 ||typekit.net^
+||search.brave.com/api/feedback^
