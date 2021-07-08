@@ -37,8 +37,8 @@ animenewsnetwork.com###cover_image,.floating-image,.box.alert,#infinite-scroll-o
 ||adnxs.com^$3p,important
 ||cse.google.com^$3p,important
 ||doubleclickbygoogle.com^$3p,important
-||fonts.googleapis.com^$3p
-||fonts.gstatic.com^$3p
+||fonts.googleapis.com^$3p,important
+||fonts.gstatic.com^$3p,important
 ||readcomiconline.to/wp-includes/*/*.html^$subdocument,1p
 ||googletagmanager.com^$3p,important
 ||googletagservices.com^$3p,important
