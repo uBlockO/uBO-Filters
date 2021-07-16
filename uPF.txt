@@ -69,7 +69,7 @@ app.slack.com##.p-client__banners,.c-fullscreen_modal__content:remove()
 ghacks.net###comments, [href*="/#comments"], .tag-sponsored, [id^="snhb-snhb_ghacks_bottom-"], .widget_stackcommerce_widget:remove()
 ||ad.$1p
 ||api.github.com/_private/browser/errors^
-*$csp=worker-src 'none',1p,domain=~googleusercontent.com|~mega.nz|~github.com|~gitlab.com|~github.io|~twitch.tv|~animax.to|~regex101.com|~pornhub.com
+*$csp=worker-src 'none',1p,domain=~googleusercontent.com|~mega.nz|~github.com|~gitlab.com|~github.io|~twitch.tv|~animax.to|~regex101.com|~pornhub.com|~speed.cloudflare.com
 ||tinypass.com^
 |https://$xmlhttprequest,3p,domain=kimcartoon.to,badfilter
 ||facebook.com^$3p,important,domain=~instagram.com
@@ -130,6 +130,3 @@ dnsleaktest.com##p[style="padding-bottom: 100px"]:remove()
 ||chatbro.com^$3p
 ||typekit.net^
 ||search.brave.com/api/feedback^
-!#if env_chromium
-*$csp=worker-src 'none',1p,domain=~speed.cloudflare.com
-!#endif
