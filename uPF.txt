@@ -7,7 +7,6 @@
 ||2mdn.net^$3p,important
 ||disqus.com^$3p,important
 ||doubleclick.net^$3p,important
-screenrant.com##.sharing, .w-menu-follow, .newsletter, .w-article-author-bio, .w-tldr-start-btn, .tldr-btn-section, .article-tags, .related-single, .tldr-btn-category, .next-single, .next-btn, .ad-zone-container, .as-oil:remove()
 ||mgid.com^$3p,important
 ||sharethis.com^$3p,important
 ||taboola.com^$3p,important
