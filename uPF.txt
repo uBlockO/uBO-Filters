@@ -73,7 +73,7 @@ ghacks.net###comments, [href*="/#comments"], .tag-sponsored, [id^="snhb-snhb_gha
 |https://$xmlhttprequest,3p,domain=kimcartoon.to,badfilter
 ||facebook.com^$3p,important,domain=~instagram.com
 ||washingtonpost.com/pwapiv2/$xhr,1p
-*$websocket,domain=~slack.com|~github.com|~speedtest.net|~redirect-ads.com
+*$websocket,domain=~slack.com|~github.com|~speedtest.net|~redirect-ads.com|~facebook.com
 ||play.google.com/log?$xmlhttprequest,important
 ||stats.$1p
 ||analytics.$1p
