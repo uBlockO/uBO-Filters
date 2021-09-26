@@ -131,7 +131,7 @@ thewrap.com##style:has-text(wallkit-paywall-block):remove()
 thewrap.com##+js(ra, style, .wrappro-paywall, stay)
 thewrap.com##.wallkit-paywall-block
 thewrap.com##.wrappro-paywall-member-link-for-reader
-twitter.com##.r-g6jmlv.r-ipm5af.r-1xcajam.r-xr3zp9.r-1pjcn9w.r-1777fci.r-1pi2tsx.r-18u37iz.r-1kihuf0.r-1awozwy.css-1dbjc4n,.r-usiww2,.r-ipm5af.r-zchlnj.r-bnwqim.r-1d2f490.r-1adg3ll.r-1p0dtai.css-1dbjc4n:style(position:absolute !important;left:-99999px !important)
+twitter.com##.r-g6jmlv.r-ipm5af.r-1xcajam.r-xr3zp9.r-1pjcn9w.r-1777fci.r-1pi2tsx.r-18u37iz.r-1kihuf0.r-1awozwy.css-1dbjc4n,.r-ipm5af.r-zchlnj.r-1xcajam.r-1d2f490.r-1p0dtai.r-11z020y.css-1dbjc4n:style(position:absolute !important;left:-99999px !important)
 twitter.com##html:style(overflow:auto !important)
 relay.firefox.com##.addon.banner-gradient-bg:remove()
 ||redventures.io^$important
