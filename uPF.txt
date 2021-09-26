@@ -134,5 +134,4 @@ thewrap.com##.wrappro-paywall-member-link-for-reader
 twitter.com##.r-g6jmlv.r-ipm5af.r-1xcajam.r-xr3zp9.r-1pjcn9w.r-1777fci.r-1pi2tsx.r-18u37iz.r-1kihuf0.r-1awozwy.css-1dbjc4n,.r-usiww2:style(position:absolute !important;left:-99999px !important)
 twitter.com##html:style(overflow:auto !important)
 relay.firefox.com##.addon.banner-gradient-bg:remove()
-twitter.com##+js(cookie-remover)
 ||redventures.io^$important
