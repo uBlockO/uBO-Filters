@@ -113,7 +113,6 @@ speed.cloudflare.com##.mapboxgl-map:upward(1):remove()
 ||instagram.com^$3p
 ||opta.net^
 ||youtube.com/comment_service_ajax?action_get_comments^$xhr
-||myanimelist.net^*/event/$image
 ||intercom.com^$3p
 ||scroll.com^$3p,important
 ||vk.com^$3p
