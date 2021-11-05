@@ -133,5 +133,4 @@ twitter.com##html:style(overflow:auto !important)
 relay.firefox.com##.addon.banner-gradient-bg:remove()
 ||redventures.io^$important
 ||licensebuttons.net^
-twitch.tv##+js(twitch-videoad)
 twitch.tv###twilight-sticky-footer-root:remove()
