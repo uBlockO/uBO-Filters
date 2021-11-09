@@ -67,7 +67,7 @@ app.slack.com##.p-client__banners,.c-fullscreen_modal__content:remove()
 ghacks.net###comments, [href*="/#comments"], .tag-sponsored, [id^="snhb-snhb_ghacks_bottom-"], .widget_stackcommerce_widget:remove()
 ||ad.$1p
 ||api.github.com/_private/browser/errors^
-*$csp=worker-src 'none',1p,domain=~googleusercontent.com|~mega.nz|~github.com|~gitlab.com|~github.io|~twitch.tv|~animax.to|~regex101.com|~pornhub.org|~speed.cloudflare.com
+*$csp=worker-src 'none',1p,domain=~googleusercontent.com|~mega.nz|~github.com|~gitlab.com|~github.io|~twitch.tv|~animax.to|~regex101.com|~pornhub.org|~speed.cloudflare.com|~mega.io
 ||tinypass.com^$important
 ||facebook.com^$important,domain=~instagram.com
 ||washingtonpost.com/pwapiv2/$xhr,1p
