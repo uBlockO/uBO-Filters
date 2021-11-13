@@ -69,7 +69,7 @@ ghacks.net###comments, [href*="/#comments"], .tag-sponsored, [id^="snhb-snhb_gha
 ||api.github.com/_private/browser/errors^
 *$csp=worker-src 'none',1p,domain=~googleusercontent.com|~mega.nz|~github.com|~gitlab.com|~github.io|~twitch.tv|~animax.to|~regex101.com|~pornhub.org|~speed.cloudflare.com|~mega.io
 ||tinypass.com^$important
-||facebook.com^$important,domain=~instagram.com
+||facebook.com^$important,3p,domain=~instagram.com
 ||washingtonpost.com/pwapiv2/$xhr,1p
 *$websocket,domain=~slack.com|~github.com|~speedtest.net|~redirect-ads.com|~facebook.com|~web.whatsapp.com
 ||play.google.com/log?$xmlhttprequest,important
