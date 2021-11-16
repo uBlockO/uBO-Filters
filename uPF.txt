@@ -135,3 +135,4 @@ relay.firefox.com##.addon.banner-gradient-bg:remove()
 ||licensebuttons.net^
 twitch.tv###twilight-sticky-footer-root:remove()
 twitch.tv##+js(twitch-videoad)
+||consensu.org^$important
