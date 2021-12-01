@@ -139,3 +139,4 @@ twitch.tv##+js(twitch-videoad)
 ||viafoura.co^
 fmovies.*##+js(nosiif, /0x|cru/)
 9anime.*##+js(nosiif, /nu+|catch/)
+youtube.com##+js(aeld, dblclick)
