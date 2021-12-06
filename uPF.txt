@@ -140,3 +140,4 @@ twitch.tv##+js(twitch-videoad)
 fmovies.*##+js(nosiif, /0x|cru/)
 9anime.*##+js(nosiif, /nu+|catch/)
 youtube.com##+js(aeld, dblclick)
+||trust-provider.com^
