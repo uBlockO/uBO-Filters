@@ -134,9 +134,9 @@ relay.firefox.com##.addon.banner-gradient-bg:remove()
 ||redventures.io^$important
 ||licensebuttons.net^
 twitch.tv###twilight-sticky-footer-root:remove()
-twitch.tv##+js(twitch-videoad)
 ||consensu.org^$important,redirect=noopjs
 ||viafoura.co^
 fmovies.*##+js(nosiif, /0x|cru/)
 youtube.com##+js(aeld, dblclick)
 ||trust-provider.com^
+9anime.to##+js(nosiif, (t))
