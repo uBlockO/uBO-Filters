@@ -135,6 +135,6 @@ relay.firefox.com##.addon.banner-gradient-bg:remove()
 twitch.tv###twilight-sticky-footer-root:remove()
 ||consensu.org^$important,redirect=noopjs
 ||viafoura.co^
-youtube.com##+js(aeld, dblclick)
+youtube.com##body ytd-watch-flexy[theater-requested_]:not([fullscreen]) #player-theater-container:style(height:calc(100vh - 56px) !important; max-height:calc(100vh - 56px) !important;min-height:calc(100vh - 56px) !important;)
 ||trust-provider.com^
 9anime.*,fmovies.*##+js(nosiif, (t))
