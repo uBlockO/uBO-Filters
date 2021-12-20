@@ -137,4 +137,5 @@ twitch.tv###twilight-sticky-footer-root:remove()
 ||viafoura.co^
 youtube.com##body ytd-watch-flexy[theater-requested_]:not([fullscreen]) #player-theater-container:style(height:calc(100vh - 56px) !important; max-height:calc(100vh - 56px) !important;min-height:calc(100vh - 56px) !important;)
 ||trust-provider.com^
-9anime.*,fmovies.*##+js(nosiif, (t))
+9anime.*##+js(nosiif, (t))
+fmovies.*##+js(nosiif, try)
