@@ -136,7 +136,7 @@ twitch.tv###twilight-sticky-footer-root:remove()
 ||consensu.org^$important,redirect=noopjs
 ||viafoura.co^
 ||trust-provider.com^
-9anime.*##+js(nosiif, (t))
-fmovies.*##+js(nosiif, (t))
 /images/event/*$image,1p,domain=myanimelist.net
 ||tags.tiqcdn.com^$important
+9anime.*##+js(nosiif, (n))
+fmovies.*##+js(nosiif, try)
