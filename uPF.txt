@@ -92,9 +92,8 @@ anime8.ru##.text-center.alert.ann-home, #btnShowComments:remove()
 ||chatango.com^
 ||gravatar.com^
 utm_$doc,removeparam=/^utm_/,1p
-myanimelist.net##body:not(.ownlist):style(background:none !important)
 ||advertising.com^$important
-dood.to##+js(aeld, /DOMMouseScroll|mousewheel/)
+dood.*##+js(aeld, /DOMMouseScroll|mousewheel/)
 ||getsentry.com^$important
 @@||adblockanalytics.com/ads.js|$badfilter
 ||tawk.to^$important
