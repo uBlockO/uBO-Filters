@@ -105,7 +105,6 @@ instagram.com##video:style(z-index: 1000 !important)
 speed.cloudflare.com##.mapboxgl-map:upward(1):remove()
 ||sentry-cdn.com^$important
 ||coinmarketcap.com^$3p
-||arc.io^
 ||cbsi.com^
 ||cbsinteractive.com^
 ||instagram.com^$3p
