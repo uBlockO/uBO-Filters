@@ -139,3 +139,4 @@ twitch.tv###twilight-sticky-footer-root:remove()
 ||tags.tiqcdn.com^$important
 9anime.*##+js(nosiif, /try|\(n\)/)
 fmovies.*##+js(nosiif, /try|\(t\)/)
+||intercom.com^
