@@ -4,26 +4,26 @@
 ! Author: uBlock-user
 ! Expires: 4 days
 
-||2mdn.net$important
-||disqus.com$important
-||doubleclick.net$important
-||mgid.com$important
-||sharethis.com$important
-||taboola.com$important
+||2mdn.net^$important
+||disqus.com^$important
+||doubleclick.net^$important
+||mgid.com^$important
+||sharethis.com^$important
+||taboola.com^$important
 torrentfreak.com##.widget_text, .o-widget--rotated.o-widget, .comments, .footer__widget--stats, .preview-article__comments, .hero__comments, .socials:remove()
 ||addthis.com$important
 myanimelist.net##[data-koukoku-width],.mxj,.btn-mal-service,.banner-header-anime-straming,.footer-link-icon-block,.clearfix.index-watch-description,.anime-detail-header-affiliate,.amazon, .anime_discussions.widget,.video-providers,.js-sns-icon-container,.icon-block-small.js-sns-icon-container,.promotional-video,.anime-detail-header-video,.mb4.di-ib,.fb-page,.root,[id^="div-gpt-ad"],.watch-description,.text-ad-links,.right_top_ad,.mal-ad-unit,.gdpr-modal-ad,.ad-skin-side-bg,.mal-side-ad--l,.mal-side-ad--r,.mal-live-pop-up,.free-manga-pop-up,[href^="https://mallive.myanimelist.net"], [href^="https://otsukai.com/"], [src*="/banner/"],.banner-footer-anime-streaming,.btn-affiliate,.left-info-block-manga-store-button,.btn-forum-manga-store,.mb24.mt24.pb24.pt24,.footer-app,div[style="overflow: hidden; padding: 10px 0; border-bottom: solid #cdcdcd 1px"],div[style="padding:16px 0px 0px 0px;"],.amazon-ads,.border_top,[class^="mal-"][class$="-unit"],.mauto:remove()
 myanimelist.net##body:not(.ownlist):style(background:none !important)
-||googleadservices.com$important
+||googleadservices.com^$important
 ||myanimelist.net/static/logging.html$xmlhttprequest,1p
 www.google.*###prm-pt, .b2hzT, .exp-outline, [id^="ed_"], [id^="eob_"], [title*="Share"], #gws-output-pages-elements-homepage_additional_languages__als, #wmxmsg, #prm, .uU7dJb,[class$="middle-slot-promo"]:remove()
-||googlesyndication.com$important
+||googlesyndication.com^$important
 9anime.*##.popover, #tags, .hd-buttons.row, #comment, .comment.widget > .widget-title, .comment.widget > .widget-body, .socials, #social, .twitter-follow-button, .sticky, .share, .text-center.crop.widget, .text-center.widget, .azlist, .mb20, [href*="twitter.com"], .alert, #fb-root, [href*="dynamicadx.com/"], [href*="popmonetizer.com/redirect"], .textlinks:remove()
 fmovies.*,ffmovies.*##.text, .widget:nth-of-type(5), #tags, .hidden-sm.widget, .hd-buttons.row, .col-right, .widget:nth-of-type(4), [href*="twitter.com"], div[data-go="#comment"], .socials, .twitter-follow-button, [href*="/redirect"], .streamhd, .stream4k, .home-socials, .addthis_native_toolbox, #fb-root, .alert, [href^="https://dynamicadx.com/"], #comment:remove()
-||contributor.google.com$important
-||facebook.net$3p,important
+||contributor.google.com^$important
+||facebook.net^$3p,important
 speedtest.net##.high-placeholder.pure-u-1, .u-c.pure-u-custom-ad-rectangle, .u-c.pure-u-custom-ad-skyscraper, .top-placeholder.pure-u-1, .eot-dd-content, .u-c.pure-u-1-4:nth-of-type(1) > ul.menu-footer:nth-of-type(2), .lowerboard-content:remove()
-||twitter.com$important,3p
+||twitter.com^$important,3p
 kimcartoon.to,kimcartoon.li##.w-right, #hideAds, .videoAdClose, .kcAds, .alert-info.alert, .mb15.full, #btnShowComments, #videoAd, #divComments, #disqus_thread, .twitter-follow-button, [id*="ScriptRoot"], #adbWarnContainer, #msg, div[style*="width: 300px; height: 250px"], #myContainer > .kcAds1, .top_page_alert, .kcAds1:remove()
 mega.nz##.ads-left-block, .ads-right-block, .active.top-login-warning, .red.download-button.button, .checkbox-bl.download:remove()
 ||youtube.com^*/endscreen.js
@@ -31,31 +31,31 @@ mega.nz##.ads-left-block, .ads-right-block, .active.top-login-warning, .red.down
 animenewsnetwork.com###cover_image,.floating-image,.box.alert,#infinite-scroll-outlet,.spaceRow,#prompt-message,.social-button,.ezoic-ad,div[style$="overflow: hidden;"], .youtube:remove()
 ||animenewsnetwork.com/logger.performance$1p
 ||animenewsnetwork.com/sponsor/$1p
-||exoclick.com$important
-||exosrv.com$important
-||amazon-adsystem.com$important
-||adnxs.com$important
-||cse.google.com$important
-||doubleclickbygoogle.com$important
-||fonts.googleapis.com$important
-||fonts.gstatic.com$important
+||exoclick.com^$important
+||exosrv.com^$important
+||amazon-adsystem.com^$important
+||adnxs.com^$important
+||cse.google.com^$important
+||doubleclickbygoogle.com^$important
+||fonts.googleapis.com^$important
+||fonts.gstatic.com^$important
 ||readcomiconline.to/wp-includes/*/*.html$subdocument,1p
-||googletagmanager.com$important
-||googletagservices.com$important
-||google-analytics.com$important
-||scorecardresearch.com$important
+||googletagmanager.com^$important
+||googletagservices.com^$important
+||google-analytics.com^$important
+||scorecardresearch.com^$important
 youtube.com##.ytp-ad-progress-list, #player-ads, #watch-action-panels, #chat, .ytp-ce-covering-overlay, .subscribecard-endscreen, .ytp-ce-element, #ytd-promoted-video-renderer, #watch-sidebar-live-chat, #pla-shelf, .yt-uix-expander-collapsed.live-chat-expander.yt-uix-expander, .hats-categorical-style-vertical, #movie-upsell-card, .yt-lockup-movie-vertical-poster.yt-lockup-tile.yt-lockup, .style-default.force-icon-button.ytd-menu-renderer.style-scope, #sponsor-button, .ytp-miniplayer-button, .ytd-metadata-row-header-renderer.style-scope .html5-stop-propagation.ytp-drawer, #masthead-ad, #ticker.ytd-masthead, #merch-shelf, #offer-module, .ytp-cards-teaser, .ytp-paid-content-overlay, .ytp-pause-overlay, .ytp-title-channel, ytd-button-renderer.size-default.style-default.force-icon-button.ytd-menu-renderer.style-scope, .ytd-search-pyv-renderer, .ytd-promoted-sparkles-text-search-renderer, .ytd-merch-shelf-renderer, .share-panel-services, .ytp-share-button, #secondarylinks, #content > .ytd-metadata-row-header-renderer.style-scope.content > .yt-formatted-string.style-scope.yt-simple-endpoint, #hover-overlays.style-scope.ytd-thumbnail, #dismissable.ytd-compact-promoted-item-renderer.style-scope, #dismissable.ytd-rich-shelf-renderer.style-scope, #clarify-box, .ytd-vertical-product-card-renderer, .ytd-primetime-promo-renderer, .ytd-inline-survey-renderer, #consent-bump, ytd-rich-section-renderer, .ytp-paid-content-overlay-text, #comments, .ytp-promotooltip-wrapper, [href="/premium"], .yt-tooltip-renderer.style-scope, ytd-feed-nudge-renderer:remove()
-||spot.im$important
+||spot.im^$important
 hollywoodreporter.com##.autoload-spinner, .blog-post-thr-newsletter-section, .speedbump-carousel:remove()
 ||hollywoodreporter.com/fe_data/$1p,xmlhttprequest
-||data.microsoft.com$important
+||data.microsoft.com^$important
 developer.mozilla.org##.mdn-cta-container, [class^="notification"]:remove()
 reddit.com##.promotedlink, [id^="ad_"], #redesign-beta-optin-btn, [href="/premium"], .comment-visits-box, .premium-banner-outer, .share, #adblock-test, .giftgold, .snoovatar-link, .give-gold-button, .bottom > .spacer, .happening-now-wrap, .hohoho-header, .hohoho, #gtm-jail:remove()
 github.com##.survey-container, .js-notice-dismiss, .mb-4.bg-white, .code-navigation-banner, .js-notice:remove()
 *$ping,important
 truecaller.com##.absolute.flex, .ad, [href*="premium"], [id="app"] > footer + .pin-b, span > .max-w-md.shadow-lg:remove()
 animehub.ac##.footer-follow, .sb-subs.goblock > .clearfix, .comments, .detail-anime.goblock > .go-full.goblock-content > .goblock-bottom, .gc-share.gc-icon, .gc-comments.gc-icon, .dialog-ovelay, #sidebar > .clearfix\, #discordapp, #info_player > p, #info_player > div > div:remove()
-||adskeeper.co.uk$important
+||adskeeper.co.uk^$important
 fandom.com###WikiaBar, #WikiaRailWrapper, .banner-notifications-placeholder, .aff-unit__disclaimer-message, .mw-notification-area, [href^="https://myanimelist.net/"]:remove()
 hentaiplay.net##+js(set-attr, preload|controls, auto, video)
 hentaiplay.net###footbar:remove()
@@ -68,59 +68,59 @@ ghacks.net###comments, [href*="/#comments"], .tag-sponsored, [id^="snhb-snhb_gha
 ||ad.$1p
 ||api.github.com/_private/browser/errors
 *$csp=worker-src 'none',1p,domain=~googleusercontent.com|~mega.nz|~github.com|~gitlab.com|~github.io|~twitch.tv|~animax.to|~regex101.com|~pornhub.org|~speed.cloudflare.com|~mega.io
-||tinypass.com$important
-||facebook.com$important,3p,domain=~instagram.com
+||tinypass.com^$important
+||facebook.com^$important,3p,domain=~instagram.com
 ||washingtonpost.com/pwapiv2/$xhr,1p
 *$websocket,domain=~slack.com|~github.com|~speedtest.net|~redirect-ads.com|~facebook.com|~web.whatsapp.com
 ||play.google.com/log?$xmlhttprequest,important
 ||stats.$1p
 ||analytics.$1p
 @@/wp-content/*/1x1.trans.gif$image,1p,badfilter
-||stripe.com$important
-||stripe.network$important
+||stripe.com^$important
+||stripe.network^$important
 kisscartoon.nz###divComments:remove()
 anime8.ru##.text-center.alert.ann-home, #btnShowComments:remove()
-@@||gemius.pl/gstream.js$badfilter
-||services.wikia.com$important
+||gemius.pl^$important
+||services.wikia.com^$important
 ||google.com/cse/cse.js
-||segment.com$important
+||segment.com^$important
 ||youtube.com/error_204?$xhr
 ||youtube.com/youtubei/v1/log_event$xhr
-||buymeacoffee.com$important
-||discordapp.com$important
-||discord.com$3p
-||chatango.com$important
-||gravatar.com$important
+||buymeacoffee.com^$important
+||discordapp.com^$important
+||discord.com^$3p
+||chatango.com^$important
+||gravatar.com^$important
 utm_$doc,removeparam=/^utm_/,1p
-||advertising.com$important
+||advertising.com^$important
 dood.*##+js(aeld, /DOMMouseScroll|mousewheel/)
-||getsentry.com$important
+||getsentry.com^$important
 @@||adblockanalytics.com/ads.js|$badfilter
-||tawk.to$important
+||tawk.to^$important
 instagram.com##+js(sa, preload|controls, auto, video, loop)
 instagram.com##video:style(z-index: 1000 !important)
-||cbox.ws$important
-||omtrdc.net$important
+||cbox.ws^$important
+||omtrdc.net^$important
 speed.cloudflare.com##.mapboxgl-map:upward(1):remove()
-||sentry-cdn.com$important
-||coinmarketcap.com$3p
-||cbsi.com$important
-||cbsinteractive.com
-||instagram.com$3p
-||opta.net$important
+||sentry-cdn.com^$important
+||coinmarketcap.com^$3p
+||cbsi.com^$important
+||cbsinteractive.com^
+||instagram.com^$3p
+||opta.net^$important
 ||youtube.com/comment_service_ajax?action_get_comments$xhr
-||intercom.com$3p
-||scroll.com$important
-||vk.com$3p
+||intercom.com^$3p
+||scroll.com^$important
+||vk.com^$3p
 app.slack.com##^meta[http-equiv="Content-Security-Policy"]
 app.slack.com##+js(set, console.info, noopFunc)
-||firebase.googleapis.com
+||firebase.googleapis.com^
 dnsleaktest.com##p[style="padding-bottom: 100px"]:remove()
-||gleamjs.io$important
-||ubembed.com$important
-||chatbro.com$important
-||typekit.net$important
-||search.brave.com/api/feedback
+||gleamjs.io^$important
+||ubembed.com^$important
+||chatbro.com^$important
+||typekit.net^$important
+||search.brave.com/api/feedback^
 thewrap.com##style:has-text(wallkit-paywall-block):remove()
 thewrap.com##+js(ra, style, .wrappro-paywall, stay)
 thewrap.com##.wallkit-paywall-block
@@ -128,14 +128,14 @@ thewrap.com##.wrappro-paywall-member-link-for-reader
 twitter.com##.r-g6jmlv.r-ipm5af.r-1xcajam.r-xr3zp9.r-1pjcn9w.r-1777fci.r-1pi2tsx.r-18u37iz.r-1kihuf0.r-1awozwy.css-1dbjc4n,.r-ipm5af.r-zchlnj.r-1xcajam.r-1d2f490.r-1p0dtai.r-11z020y.css-1dbjc4n,.r-qo02w8.r-l5o3uw.css-1dbjc4n:style(position:absolute !important;left:-99999px !important)
 twitter.com##html:style(overflow:auto !important)
 relay.firefox.com##.addon.banner-gradient-bg:remove()
-||redventures.io$important
-||licensebuttons.net$important
+||redventures.io^$important
+||licensebuttons.net^$important
 twitch.tv###twilight-sticky-footer-root:remove()
-||consensu.org$important,redirect=noopjs
-||viafoura.co$important
-||trust-provider.com$important
+||consensu.org^$important,redirect=noopjs
+||viafoura.co^$important
+||trust-provider.com^$important
 /images/event/*$image,1p,domain=myanimelist.net
-||tags.tiqcdn.com$important
+||tags.tiqcdn.com^$important
 9anime.*##+js(nosiif, /try|\(n\)/)
 fmovies.*##+js(nosiif, /try|\(t\)/)
-||intercom.io$important
+||intercom.io^$important
