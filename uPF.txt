@@ -91,7 +91,7 @@ anime8.ru##.text-center.alert.ann-home, #btnShowComments:remove()
 ||discord.com^$3p
 ||chatango.com^$important
 ||gravatar.com^$important
-utm_$doc,removeparam=/^utm_/,1p
+utm_$doc,removeparam=/^utm_/
 ||advertising.com^$important
 dood.*##+js(aeld, /DOMMouseScroll|mousewheel/)
 ||getsentry.com^$important
