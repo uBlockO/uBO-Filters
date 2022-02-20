@@ -140,4 +140,3 @@ twitch.tv###twilight-sticky-footer-root:remove()
 fmovies.*##+js(nosiif, /\(t\)|try/)
 ||intercom.io^$important
 ||spott.ai^$important
-deadline.com###comments-title, #comments-loaded:remove()
