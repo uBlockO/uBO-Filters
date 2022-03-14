@@ -137,7 +137,7 @@ twitch.tv###twilight-sticky-footer-root:remove()
 /images/event/*$image,1p,domain=myanimelist.net
 ||tags.tiqcdn.com^$important
 9anime.*##+js(nosiif, /\(n\)|try/)
-fmovies.*##+js(nosiif, /\(t\)|try/)
+fmovies.*##+js(nosiif, (t))
 ||intercom.io^$important
 ||spott.ai^$important
 youtube.com#@#+js(json-prune, 2.playerResponse.adPlacements playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
@@ -145,4 +145,3 @@ youtube.com#@#+js(json-prune, 2.playerResponse.adPlacements)
 youtube.com#@#+js(json-prune, playerResponse.adPlacements)
 youtube.com#@#+js(json-prune, playerResponse.playerAds) 
 youtube.com#@#+js(set, ytInitialPlayerResponse.adPlacements, null)
-vizcloud.*,vizcloud2.*##.xad-wrapper:remove()
