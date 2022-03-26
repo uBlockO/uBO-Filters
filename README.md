@@ -12,7 +12,7 @@ Link: [https://raw.githubusercontent.com/uBlock-user/uBO-Personal-Filters/master
 
 # Requirements 
 
-Need to add [uBO-Scriptlets](https://raw.githubusercontent.com/uBlock-user/uBO-Scriptlets/master/scriptlets.js) to `userResourcesLocation` parameter in `Advanced-Settings` in uBlock-Origin for **some** filters to work.
+Need to add [uBO-Scriptlets](https://ubo-scriptlets.pages.dev/scriptlets.js) to `userResourcesLocation` parameter in `Advanced-Settings` in uBlock-Origin for **some** filters to work.
 
 # Disclaimer 
 
