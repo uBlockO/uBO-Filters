@@ -8,7 +8,7 @@ A personal filterlist of mine with additional filters for uBlock Origin to block
 
 Contains filters specific to uBlock Origin and some filters that have not yet been added to other filterlists.
 
-Link: [https://raw.githubusercontent.com/uBlock-user/uBO-Personal-Filters/master/uPF.txt](https://raw.githubusercontent.com/uBlock-user/uBO-Personal-Filters/master/uPF.txt)
+Link: [https://ubo-personal-filters.pages.dev/uPF.txt](https://ubo-personal-filters.pages.dev/uPF.txt)
 
 # Requirements 
 
