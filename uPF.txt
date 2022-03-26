@@ -142,10 +142,5 @@ fmovies.*##+js(nosiif, t=Lt)
 fmovies.*##+js(nosiif, try)
 ||intercom.io^$important
 ||spott.ai^$important
-youtube.com#@#+js(json-prune, 2.playerResponse.adPlacements playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
-youtube.com#@#+js(json-prune, 2.playerResponse.adPlacements)
-youtube.com#@#+js(json-prune, playerResponse.adPlacements)
-youtube.com#@#+js(json-prune, playerResponse.playerAds) 
-youtube.com#@#+js(set, ytInitialPlayerResponse.adPlacements, null)
 1337x.to##[href*="hide"]:remove()
 allfreenovel.com##.mt-2.card.col-sm-12:remove()
