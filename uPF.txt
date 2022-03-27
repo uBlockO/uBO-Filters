@@ -144,3 +144,4 @@ fmovies.*##+js(nosiif, try)
 ||spott.ai^$important
 1337x.to##[href*="hide"]:remove()
 allfreenovel.com##.mt-2.card.col-sm-12:remove()
+mp4upload.com##+js(aeld, DOMMouseScroll)
