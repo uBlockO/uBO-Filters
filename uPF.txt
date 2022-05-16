@@ -61,9 +61,6 @@ hentaiplay.net##+js(set-attr, preload|controls, auto, video)
 hentaiplay.net###footbar:remove()
 duckduckgo.com##.onboarding-ed, .tag-home__wrapper, .footer, .ia-modules, .badge-link, .js-module--products.module--carousel-products:remove()
 translate.google.com##.notification-area,.gt-cc:remove()
-app.slack.com##.p-client__banners,.c-fullscreen_modal__content:remove()
-||slack.com/api/promo.banner^
-||slack.com/api/ublockworkaround^
 ghacks.net###comments, [href*="/#comments"], .tag-sponsored, [id^="snhb-snhb_ghacks_bottom-"], .widget_stackcommerce_widget:remove()
 ||ad.$1p
 ||api.github.com/_private/browser/errors
@@ -71,7 +68,7 @@ ghacks.net###comments, [href*="/#comments"], .tag-sponsored, [id^="snhb-snhb_gha
 ||tinypass.com^$important
 ||facebook.com^$important,3p,domain=~instagram.com
 ||washingtonpost.com/subscribe/
-*$websocket,domain=~slack.com|~github.com|~speedtest.net|~redirect-ads.com|~facebook.com|~web.whatsapp.com
+*$websocket,domain=~github.com|~speedtest.net
 ||play.google.com/log?$xmlhttprequest,important
 ||stats.$1p
 ||analytics.$1p
@@ -108,12 +105,9 @@ speed.cloudflare.com##.mapboxgl-map:upward(1):remove()
 ||cbsinteractive.com^
 ||instagram.com^$3p
 ||opta.net^$important
-||youtube.com/comment_service_ajax?action_get_comments$xhr
 ||intercom.com^$3p
 ||scroll.com^$important
 ||vk.com^$3p
-app.slack.com##^meta[http-equiv="Content-Security-Policy"]
-app.slack.com##+js(set, console.info, noopFunc)
 ||firebase.googleapis.com^
 dnsleaktest.com##p[style="padding-bottom: 100px"]:remove()
 ||gleamjs.io^$important
