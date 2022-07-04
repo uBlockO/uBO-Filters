@@ -124,7 +124,6 @@ twitter.com##html:style(overflow:auto !important)
 relay.firefox.com##.addon.banner-gradient-bg:remove()
 ||redventures.io^$important
 ||licensebuttons.net^$important
-twitch.tv###twilight-sticky-footer-root:remove()
 ||consensu.org^$important,redirect=noopjs
 ||viafoura.co^$important
 ||trust-provider.com^$important
@@ -139,3 +138,5 @@ mp4upload.com##+js(aeld, DOMMouseScroll)
 comicsvalley.com##.sgpb-popup-dialog-main-div-wrapper,.sgpb-popup-overlay:remove()
 fmovies2.cx##div[style^="display:block;z-index:9999;position:fixed;bottom:0;"]:remove()
 www.amazon.*###universal-detail-ilm:remove()
+||readcomiconline.li/Ads/
+readcomiconline.li###divComments:remove()
