@@ -140,3 +140,4 @@ fmovies2.cx##div[style^="display:block;z-index:9999;position:fixed;bottom:0;"]:r
 www.amazon.*###universal-detail-ilm:remove()
 ||readcomiconline.li/Ads/
 readcomiconline.li###divComments:remove()
+||plausible.io^
