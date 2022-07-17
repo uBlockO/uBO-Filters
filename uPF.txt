@@ -64,11 +64,11 @@ translate.google.com##.notification-area,.gt-cc:remove()
 ghacks.net###comments, [href*="/#comments"], .tag-sponsored, [id^="snhb-snhb_ghacks_bottom-"], .widget_stackcommerce_widget:remove()
 ||ad.$1p
 ||api.github.com/_private/browser/errors
-*$csp=worker-src 'none',1p,domain=~googleusercontent.com|~mega.nz|~github.com|~gitlab.com|~github.io|~twitch.tv|~animax.to|~regex101.com|~pornhub.org|~speed.cloudflare.com|~mega.io
+*$csp=worker-src 'none',1p,domain=~googleusercontent.com|~mega.nz|~github.com|~gitlab.com|~github.io|~twitch.tv|~animax.to|~regex101.com|~pornhub.org|~speed.cloudflare.com|~mega.io|~open.spotify.com
 ||tinypass.com^$important
 ||facebook.com^$important,3p,domain=~instagram.com
 ||washingtonpost.com/subscribe/
-*$websocket,domain=~github.com|~speedtest.net
+*$websocket,domain=~github.com|~speedtest.net|~open.spotify.com
 ||play.google.com/log?$xmlhttprequest,important
 ||stats.$1p
 ||analytics.$1p
