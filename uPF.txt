@@ -140,5 +140,4 @@ www.amazon.*###universal-detail-ilm:remove()
 ||readcomiconline.li/Ads/
 readcomiconline.li###divComments:remove()
 ||plausible.io^
-instagram.com##+js(aeld, click, remove())
 instagram.com##div[class^=" _ab"][style="width: 100%;"]:remove()
