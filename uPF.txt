@@ -141,3 +141,4 @@ www.amazon.*###universal-detail-ilm:remove()
 readcomiconline.li###divComments:remove()
 ||plausible.io^
 instagram.com##div[class^=" _ab"][style="width: 100%;"],.hwddc3l5:remove()
+1337x.to##[href*="vpn" i]:remove()
