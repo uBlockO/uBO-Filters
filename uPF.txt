@@ -127,7 +127,6 @@ relay.firefox.com##.addon.banner-gradient-bg:remove()
 ||viafoura.co^$important
 ||trust-provider.com^$important
 ||tags.tiqcdn.com^$important
-9anime.*##+js(nosiif, /_1|try/)
 fmovies.*##+js(nosiif, /t=Lt|try/)
 ||intercom.io^$important
 ||spott.ai^$important
