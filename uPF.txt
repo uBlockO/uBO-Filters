@@ -68,7 +68,7 @@ ghacks.net###comments, [href*="/#comments"], .tag-sponsored, [id^="snhb-snhb_gha
 ||tinypass.com^$important
 ||facebook.com^$important,3p,domain=~instagram.com
 ||washingtonpost.com/subscribe/
-*$websocket,domain=~github.com|~speedtest.net|~open.spotify.com
+*$websocket,domain=~github.com|~speedtest.net|~open.spotify.com|~onlyfans.com
 ||play.google.com/log?$xmlhttprequest,important
 ||stats.$1p
 ||analytics.$1p
@@ -143,3 +143,4 @@ instagram.com##div[class^=" _ab"][style="width: 100%;"],.hwddc3l5:remove()
 1337x.to##[href*="vpn" i]:remove()
 ||adeventtracker.spotify.com^
 utm_$doc,removeparam=/^utm_/
+/clicks-stats
