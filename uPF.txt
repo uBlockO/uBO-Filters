@@ -143,3 +143,4 @@ instagram.com##div[class^=" _ab"][style="width: 100%;"],.hwddc3l5:remove()
 1337x.to##[href*="vpn" i]:remove()
 ||adeventtracker.spotify.com^
 utm_$doc,removeparam=/^utm_/
+||gae2-spclient.spotify.com/storage-resolve/files/audio/interactive/$xhr,domain=open.spotify.com
