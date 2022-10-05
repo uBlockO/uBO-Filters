@@ -68,11 +68,7 @@ translate.google.com##.notification-area,.gt-cc:remove()
 ||play.google.com/log?$xmlhttprequest,important
 ||stats.$1p
 ||analytics.$1p
-@@/wp-content/*/1x1.trans.gif$image,1p,badfilter
-||stripe.com^$important
-||stripe.network^$important
 kisscartoon.nz###divComments:remove()
-anime8.ru##.text-center.alert.ann-home, #btnShowComments:remove()
 ||gemius.pl^$important
 ||services.wikia.com^$important
 ||google.com/cse/cse.js
@@ -87,7 +83,7 @@ anime8.ru##.text-center.alert.ann-home, #btnShowComments:remove()
 ||advertising.com^$important
 dood.*##+js(aeld, /DOMMouseScroll|mousewheel/)
 ||getsentry.com^$important
-@@||adblockanalytics.com/ads.js|$badfilter
+||adblockanalytics.com^$important
 ||tawk.to^$important
 instagram.com##+js(sa, preload|controls, auto, video, loop)
 instagram.com##video:style(z-index: 1000 !important)
@@ -126,7 +122,6 @@ relay.firefox.com##.addon.banner-gradient-bg:remove()
 fmovies.*,9anime.*##+js(nosiif, /t=Lt|try/)
 ||intercom.io^$important
 ||spott.ai^$important
-1337x.to##[href*="hide"]:remove()
 mp4upload.com##+js(aeld, DOMMouseScroll)
 comicsvalley.com##.sgpb-popup-dialog-main-div-wrapper,.sgpb-popup-overlay:remove()
 fmovies2.cx##div[style^="display:block;z-index:9999;position:fixed;bottom:0;"]:remove()
@@ -135,7 +130,7 @@ www.amazon.*###universal-detail-ilm:remove()
 readcomiconline.li###divComments:remove()
 ||plausible.io^
 instagram.com##div[class^=" _ab"][style="width: 100%;"],.hwddc3l5:remove()
-1337x.to##[href*="vpn" i]:remove()
+1337x.to##+js(acis, document.getElementById, anoydl)
 utm_$doc,removeparam=/^utm_/
 ||aim.cloudflare.com^
 ||spotify.com/storage-resolve/files/audio/interactive/$xhr,1p
