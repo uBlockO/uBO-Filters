@@ -136,3 +136,4 @@ utm_$doc,removeparam=/^utm_/
 ||spotify.com/storage-resolve/files/audio/interactive/$xhr,1p
 puck.news##+js(rc, paywall-active, body)
 ||vidstream.pro/e/$badfilter
+@@||amazon.*/*uedata$image,1p,badfilter
