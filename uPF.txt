@@ -126,7 +126,7 @@ fmovies.*,9anime.*##+js(nosiif, /t=Lt|try/)
 mp4upload.com##+js(aeld, DOMMouseScroll)
 comicsvalley.com##.sgpb-popup-dialog-main-div-wrapper,.sgpb-popup-overlay:remove()
 fmovies2.cx##div[style^="display:block;z-index:9999;position:fixed;bottom:0;"]:remove()
-www.amazon.*###universal-detail-ilm:remove()
+www.amazon.*###universal-detail-ilm,.a-spacing-none.a-section > .sg-row,.AdHolder,#percolate-ui-ilm_div > .celwidget:remove()
 ||readcomiconline.li/Ads/
 readcomiconline.li###divComments:remove()
 ||plausible.io^
