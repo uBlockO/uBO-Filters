@@ -60,14 +60,14 @@ fandom.com###WikiaBar, #WikiaRailWrapper, .banner-notifications-placeholder, .af
 duckduckgo.com##.onboarding-ed, .tag-home__wrapper, .footer, .ia-modules, .badge-link, .js-module--products.module--carousel-products:remove()
 translate.google.com##.notification-area,.gt-cc:remove()
 ||ad.$1p
-||api.github.com/_private/browser/errors
+||api.github.com/_private/browser/errors^
+||reddit.com/errors^
 *$csp=worker-src 'none',1p,domain=~mega.nz|~github.com|~speed.cloudflare.com|~mega.io|~open.spotify.com
 ||tinypass.com^$important
 ||facebook.com^$important,3p,domain=~instagram.com
 ||washingtonpost.com/subscribe/
 *$websocket,domain=~github.com|~speedtest.net|~open.spotify.com|~onlyfans.com
 ||play.google.com/log?$xmlhttprequest,important
-||stats.$1p
 ||analytics.$1p
 kisscartoon.nz###divComments:remove()
 ||gemius.pl^$important
@@ -77,12 +77,11 @@ kisscartoon.nz###divComments:remove()
 ||youtube.com/error_204?$xhr
 ||youtube.com/youtubei/v1/log_event$xhr
 ||buymeacoffee.com^$important
-||discordapp.com^$important
+||discordapp.com^$important,3p
 ||discord.com^$3p
 ||chatango.com^$important
 ||gravatar.com^$important
 ||advertising.com^$important
-dood.*##+js(aeld, /DOMMouseScroll|mousewheel/)
 ||getsentry.com^$important
 ||adblockanalytics.com^$important
 ||tawk.to^$important
@@ -113,7 +112,6 @@ thewrap.com##.wallkit-paywall-block
 thewrap.com##.wrappro-paywall-member-link-for-reader
 twitter.com##.r-g6jmlv.r-ipm5af.r-1xcajam.r-xr3zp9.r-1pjcn9w.r-1777fci.r-1pi2tsx.r-18u37iz.r-1kihuf0.r-1awozwy.css-1dbjc4n,.r-ipm5af.r-zchlnj.r-1xcajam.r-1d2f490.r-1p0dtai.r-11z020y.css-1dbjc4n,.r-qo02w8.r-l5o3uw.css-1dbjc4n:style(position:absolute !important;left:-99999px !important)
 twitter.com##html:style(overflow:auto !important)
-relay.firefox.com##.addon.banner-gradient-bg:remove()
 ||redventures.io^$important
 ||licensebuttons.net^$important
 ||consensu.org^$important,redirect=noopjs
