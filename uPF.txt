@@ -72,7 +72,7 @@ translate.google.com##.notification-area,.gt-cc:remove()
 kisscartoon.nz###divComments:remove()
 ||gemius.pl^$important
 ||services.wikia.com^$important
-||google.com/cse/cse.js
+||google.com/cse/cse.js^
 ||segment.com^$important
 ||youtube.com/error_204?$xhr
 ||youtube.com/youtubei/v1/log_event$xhr
@@ -127,7 +127,7 @@ fmovies2.cx##div[style^="display:block;z-index:9999;position:fixed;bottom:0;"]:r
 www.amazon.*###universal-detail-ilm,.a-spacing-none.a-section > .sg-row,.AdHolder,#percolate-ui-ilm_div > .celwidget:remove()
 ||readcomiconline.li/Ads/
 readcomiconline.li###divComments:remove()
-||plausible.io^
+||plausible.io^$important
 instagram.com##div[class^=" _ab"][style="width: 100%;"],.hwddc3l5:remove()
 1337x.to##+js(acis, document.getElementById, anoydl)
 utm_$doc,removeparam=/^utm_/
