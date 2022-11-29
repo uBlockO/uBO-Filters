@@ -62,11 +62,11 @@ translate.google.com##.notification-area,.gt-cc:remove()
 ||ad.$1p
 ||api.github.com/_private/browser/errors^
 ||reddit.com/errors^
-*$csp=worker-src 'none',1p,domain=~mega.nz|~github.com|~speed.cloudflare.com|~mega.io|~open.spotify.com|~pornhub.org|~c.im
+*$csp=worker-src 'none',1p,domain=~mega.nz|~github.com|~speed.cloudflare.com|~mega.io|~open.spotify.com|~pornhub.org
 ||tinypass.com^$important
 ||facebook.com^$important,3p,domain=~instagram.com
 ||washingtonpost.com/subscribe/
-*$websocket,domain=~github.com|~speedtest.net|~open.spotify.com|~onlyfans.com|~mstdn.social
+*$websocket,domain=~github.com|~speedtest.net|~open.spotify.com|~c.im
 ||play.google.com/log?$xmlhttprequest,important
 ||analytics.$1p
 kisscartoon.nz###divComments:remove()
