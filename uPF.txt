@@ -130,3 +130,4 @@ utm_$doc,removeparam=/^utm_/
 puck.news##+js(rc, paywall-active, body)
 @@||amazon.*/*uedata$image,1p,badfilter
 vidstream.pro,mcloud.to##+js(set, console.clear, undefined)
+allporncomic.com#@#+js(aopr, document.dispatchEvent)
