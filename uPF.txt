@@ -36,7 +36,6 @@ animenewsnetwork.com###cover_image,.floating-image,.box.alert,#infinite-scroll-o
 ||exosrv.com^$important
 ||amazon-adsystem.com^$important
 ||adnxs.com^$important
-||cse.google.com^$important
 ||doubleclickbygoogle.com^$important
 ||fonts.googleapis.com^$important
 ||fonts.gstatic.com^$important
@@ -70,9 +69,7 @@ translate.google.com##.notification-area,.gt-cc:remove()
 ||play.google.com/log?$xmlhttprequest,important
 ||analytics.$1p
 kisscartoon.nz###divComments:remove()
-||gemius.pl^$important
 ||services.wikia.com^$important
-||google.com/cse/cse.js^
 ||segment.com^$important
 ||youtube.com/error_204?$xhr
 ||youtube.com/youtubei/v1/log_event$xhr
@@ -91,9 +88,6 @@ instagram.com##video:style(z-index: 1000 !important)
 ||omtrdc.net^$important
 speed.cloudflare.com##.mapboxgl-map:upward(1):remove()
 ||sentry-cdn.com^$important
-||coinmarketcap.com^$3p
-||cbsi.com^$important
-||cbsinteractive.com^
 ||instagram.com^$3p
 ||opta.net^$important
 ||intercom.com^$3p
@@ -123,7 +117,7 @@ fmovies.*,9anime.*##+js(nosiif, /t=Lt|try/)
 ||spott.ai^$important
 mp4upload.com##+js(aeld, DOMMouseScroll)
 comicsvalley.com##.sgpb-popup-dialog-main-div-wrapper,.sgpb-popup-overlay:remove()
-fmovies2.cx##div[style^="display:block;z-index:9999;position:fixed;bottom:0;"]:remove()
+fmovies2.pro##div[style^="display:block;z-index:9999;position:fixed;bottom:0;"]:remove()
 www.amazon.*###universal-detail-ilm,.a-spacing-none.a-section > .sg-row,.AdHolder,#percolate-ui-ilm_div > .celwidget:remove()
 ||readcomiconline.li/Ads/
 readcomiconline.li###divComments:remove()
