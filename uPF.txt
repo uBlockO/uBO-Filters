@@ -99,7 +99,6 @@ dnsleaktest.com##p[style="padding-bottom: 100px"]:remove()
 ||ubembed.com^$important
 ||chatbro.com^$important
 ||typekit.net^$important
-||search.brave.com/api/feedback^
 thewrap.com##style:has-text(wallkit-paywall-block):remove()
 thewrap.com##+js(ra, style, .wrappro-paywall, stay)
 thewrap.com##.wallkit-paywall-block
