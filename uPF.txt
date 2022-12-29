@@ -124,7 +124,7 @@ readcomiconline.li###divComments:remove()
 instagram.com##div[class^=" _ab"][style="width: 100%;"],.hwddc3l5:remove()
 1337x.to##+js(acis, document.getElementById, anoydl)
 utm_$doc,removeparam=/^utm_/
-||aim.cloudflare.com^
+||cloudflare.com/__log^
 ||spotify.com/storage-resolve/files/audio/interactive/$xhr,1p
 puck.news##+js(rc, paywall-active, body)
 @@||amazon.*/*uedata$image,1p,badfilter
