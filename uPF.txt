@@ -126,7 +126,7 @@ instagram.com##div[class^=" _ab"][style="width: 100%;"],.hwddc3l5:remove()
 utm_$doc,removeparam=/^utm_/
 ||cloudflare.com/__log^
 ||spotify.com/storage-resolve/files/audio/interactive/$xhr,1p
-puck.news##+js(rc, paywall-active, body)
+puck.news##body.paywall-active:remove-class(paywall-active)
 @@||amazon.*/*uedata$image,1p,badfilter
 vidstream.pro,mcloud.to##+js(set, console.clear, undefined)
 allporncomic.com#@#+js(aopr, document.dispatchEvent)
