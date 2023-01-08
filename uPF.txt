@@ -5,7 +5,6 @@
 ! Author: uBlock-user
 ! Expires: 4 days
 
-||2mdn.net^$important
 ||disqus.com^$important
 ||doubleclick.net^$important
 ||mgid.com^$important
@@ -32,20 +31,14 @@ mega.nz##.ads-left-block, .ads-right-block, .active.top-login-warning, .red.down
 animenewsnetwork.com###cover_image,.floating-image,.box.alert,#infinite-scroll-outlet,.spaceRow,#prompt-message,.social-button,.ezoic-ad,div[style$="overflow: hidden;"], .youtube:remove()
 ||animenewsnetwork.com/logger.performance$1p
 ||animenewsnetwork.com/sponsor/$1p
-||exoclick.com^$important
-||exosrv.com^$important
 ||amazon-adsystem.com^$important
-||adnxs.com^$important
-||doubleclickbygoogle.com^$important
 ||fonts.googleapis.com^$important
 ||fonts.gstatic.com^$important
-||readcomiconline.to/wp-includes/*/*.html$subdocument,1p
 ||googletagmanager.com^$important
 ||googletagservices.com^$important
 ||google-analytics.com^$important
 ||scorecardresearch.com^$important
 youtube.com##.ytp-ad-progress-list, #reply-button-end, #comments-button, #player-ads, #watch-action-panels, #chat, .ytp-ce-covering-overlay, .subscribecard-endscreen, .ytp-ce-element, #ytd-promoted-video-renderer, #watch-sidebar-live-chat, #pla-shelf, .yt-uix-expander-collapsed.live-chat-expander.yt-uix-expander, .hats-categorical-style-vertical, #movie-upsell-card, .yt-lockup-movie-vertical-poster.yt-lockup-tile.yt-lockup, .style-default.force-icon-button.ytd-menu-renderer.style-scope, #sponsor-button, .ytp-miniplayer-button, .ytd-metadata-row-header-renderer.style-scope .html5-stop-propagation.ytp-drawer, #masthead-ad, #ticker.ytd-masthead, #merch-shelf, #offer-module, .ytp-cards-teaser, .ytp-paid-content-overlay, .ytp-pause-overlay, .ytp-title-channel, ytd-button-renderer.size-default.style-default.force-icon-button.ytd-menu-renderer.style-scope, .ytd-search-pyv-renderer, .ytd-promoted-sparkles-text-search-renderer, .ytd-merch-shelf-renderer, .share-panel-services, button[style=""][aria-label="Share"], #secondarylinks, #content > .ytd-metadata-row-header-renderer.style-scope.content > .yt-formatted-string.style-scope.yt-simple-endpoint, #hover-overlays.style-scope.ytd-thumbnail, #dismissable.ytd-compact-promoted-item-renderer.style-scope, #dismissable.ytd-rich-shelf-renderer.style-scope, #clarify-box, .ytd-vertical-product-card-renderer, .ytd-primetime-promo-renderer, .ytd-inline-survey-renderer, #consent-bump, ytd-rich-section-renderer, .ytp-paid-content-overlay-text, .ytp-promotooltip-wrapper, [href="/premium"], .yt-tooltip-renderer.style-scope, ytd-feed-nudge-renderer, #comments, #comment-teaser:remove()
-||spot.im^$important
 hollywoodreporter.com##.autoload-spinner, .blog-post-thr-newsletter-section, .speedbump-carousel:remove()
 ||hollywoodreporter.com/fe_data/$1p,xmlhttprequest
 ||data.microsoft.com^$important
@@ -62,7 +55,6 @@ translate.google.com##.notification-area,.gt-cc:remove()
 ||api.github.com/_private/browser/errors^
 ||reddit.com/errors^
 *$csp=worker-src 'none',1p,domain=~mega.nz|~github.com|~speed.cloudflare.com|~mega.io|~open.spotify.com|~pornhub.org
-||tinypass.com^$important
 ||facebook.com^$important,3p,domain=~instagram.com
 ||washingtonpost.com/subscribe/
 *$websocket,domain=~github.com|~speedtest.net|~open.spotify.com|~c.im
@@ -103,15 +95,8 @@ thewrap.com##style:has-text(wallkit-paywall-block):remove()
 thewrap.com##.wallkit-paywall-block, .wrappro-paywall-member-link-for-reader:remove()
 twitter.com##.r-g6jmlv.r-ipm5af.r-1xcajam.r-xr3zp9.r-1pjcn9w.r-1777fci.r-1pi2tsx.r-18u37iz.r-1kihuf0.r-1awozwy.css-1dbjc4n,.r-ipm5af.r-zchlnj.r-1xcajam.r-1d2f490.r-1p0dtai.r-11z020y.css-1dbjc4n,.r-qo02w8.r-l5o3uw.css-1dbjc4n:style(position:absolute !important;left:-99999px !important)
 twitter.com##html:style(overflow:auto !important)
-||redventures.io^$important
-||licensebuttons.net^$important
-||consensu.org^$important,redirect=noopjs
-||viafoura.co^$important
-||trust-provider.com^$important
 ||tags.tiqcdn.com^$important
 fmovies.*,9anime.*##+js(nosiif, /t=Lt|try/)
-||intercom.io^$important
-||spott.ai^$important
 mp4upload.com##+js(aeld, DOMMouseScroll)
 comicsvalley.com##.sgpb-popup-dialog-main-div-wrapper,.sgpb-popup-overlay:remove()
 fmovies2.pro##div[style^="display:block;z-index:9999;position:fixed;bottom:0;"]:remove()
