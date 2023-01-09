@@ -113,3 +113,4 @@ puck.news##body.paywall-active:remove-class(paywall-active)
 @@||amazon.*/*uedata$image,1p,badfilter
 vidstream.pro,mcloud.to##+js(set, console.clear, undefined)
 allporncomic.com#@#+js(aopr, document.dispatchEvent)
+www.reddit.com##.outbound[data-outbound-url]:remove-attr(data-outbound-url)
