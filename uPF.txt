@@ -38,7 +38,7 @@ animenewsnetwork.com###cover_image,.floating-image,.box.alert,#infinite-scroll-o
 ||googletagservices.com^$important
 ||google-analytics.com^$important
 ||scorecardresearch.com^$important
-youtube.com###reply-button-end, #comments-button, #chat, #watch-sidebar-live-chat, .yt-uix-expander-collapsed.live-chat-expander.yt-uix-expander, #sponsor-button,  #masthead-ad, #merch-shelf, #offer-module, .ytp-paid-content-overlay, .ytd-merch-shelf-renderer, button[style=""][aria-label="Share"], #clarify-box, .ytd-vertical-product-card-renderer, .ytd-primetime-promo-renderer, .ytp-paid-content-overlay-text, .ytp-promotooltip-wrapper, [href="/premium"], #comments, #comment-teaser:remove()
+youtube.com##.ytd-rich-section-renderer, #reply-button-end, #comments-button, #chat, #watch-sidebar-live-chat, #sponsor-button,  #masthead-ad, #merch-shelf, #offer-module, .ytp-paid-content-overlay, .ytd-merch-shelf-renderer, button[style=""][aria-label="Share"], #clarify-box, .ytd-vertical-product-card-renderer, .ytd-primetime-promo-renderer, .ytp-paid-content-overlay-text, .ytp-promotooltip-wrapper, [href="/premium"], #comments, #comment-teaser:remove()
 hollywoodreporter.com##.autoload-spinner, .blog-post-thr-newsletter-section, .speedbump-carousel:remove()
 ||hollywoodreporter.com/fe_data/$1p,xmlhttprequest
 ||data.microsoft.com^$important
