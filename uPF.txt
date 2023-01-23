@@ -74,8 +74,6 @@ kisscartoon.nz###divComments:remove()
 ||getsentry.com^$important
 ||adblockanalytics.com^$important
 ||tawk.to^$important
-instagram.com##+js(sa, preload|controls, auto, video, loop)
-instagram.com##video:style(z-index: 1000 !important)
 ||cbox.ws^$important
 ||omtrdc.net^$important
 speed.cloudflare.com##.mapboxgl-map:upward(1):remove()
