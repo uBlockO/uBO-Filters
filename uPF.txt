@@ -64,7 +64,6 @@ kisscartoon.nz###divComments:remove()
 ||services.wikia.com^$important
 ||segment.com^$important
 ||youtube.com/error_204?$xhr
-||youtube.com/youtubei/v1/log_event$xhr
 ||buymeacoffee.com^$important
 ||discordapp.com^$important,3p
 ||discord.com^$3p
