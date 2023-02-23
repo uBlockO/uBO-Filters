@@ -75,7 +75,6 @@ kisscartoon.nz###divComments:remove()
 ||tawk.to^$important
 ||cbox.ws^$important
 ||omtrdc.net^$important
-speed.cloudflare.com##.mapboxgl-map:upward(1):remove()
 ||sentry-cdn.com^$important
 ||instagram.com^$3p
 ||opta.net^$important
