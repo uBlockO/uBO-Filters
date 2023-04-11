@@ -111,4 +111,3 @@ www.reddit.com##.outbound[data-outbound-url]:remove-attr(data-outbound-url)
 ||hls.ttvnw.net/v1/segment/*.ts$xhr,method=post,3p
 ||bunnycdn.ru/assets/_bnx/$image
 ||privateinternetaccess.com^$xhr,3p,badfilter
-1337x.to##+js(rn, netflixPromo, script)
