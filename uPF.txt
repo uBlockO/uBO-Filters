@@ -32,7 +32,7 @@ animenewsnetwork.com###cover_image,.floating-image,.box.alert,#infinite-scroll-o
 ||google-analytics.com^$important
 ||scorecardresearch.com^$important
 youtube.com##.ytd-rich-section-renderer, #reply-button-end, #comments-button, #chat, #watch-sidebar-live-chat, #sponsor-button,  #masthead-ad, #offer-module, .ytp-paid-content-overlay, button[style=""][aria-label="Share"], #clarify-box, .ytd-primetime-promo-renderer, .ytp-paid-content-overlay-text, .ytp-promotooltip-wrapper, [href="/premium"], #comments, #comment-teaser:remove()
-hollywoodreporter.com##.autoload-spinner, .blog-post-thr-newsletter-section, .speedbump-carousel:remove()
+hollywoodreporter.com##.autoload-spinner, .blog-post-thr-newsletter-section, .speedbump-carousel,.ytp-suggested-action-badge-expanded:remove()
 ||hollywoodreporter.com/fe_data/$1p,xmlhttprequest
 ||data.microsoft.com^$important
 developer.mozilla.org##.mdn-cta-container, [class^="notification"]:remove()
@@ -59,14 +59,12 @@ thewrap.com##style:has-text(wallkit-paywall-block):remove()
 thewrap.com##.wallkit-paywall-block, .wrappro-paywall-member-link-for-reader:remove()
 twitter.com##.r-g6jmlv.r-ipm5af.r-1xcajam.r-xr3zp9.r-1pjcn9w.r-1777fci.r-1pi2tsx.r-18u37iz.r-1kihuf0.r-1awozwy.css-1dbjc4n,.r-ipm5af.r-zchlnj.r-1xcajam.r-1d2f490.r-1p0dtai.r-11z020y.css-1dbjc4n,.r-qo02w8.r-l5o3uw.css-1dbjc4n:style(position:absolute !important;left:-99999px !important)
 twitter.com##html:style(overflow:auto !important)
-||tags.tiqcdn.com^$important
 fmovies.*,9anime.*##+js(nosiif, /t=Lt|try/)
 mp4upload.com##+js(aeld, DOMMouseScroll)
 comicsvalley.com##.sgpb-popup-dialog-main-div-wrapper,.sgpb-popup-overlay:remove()
 fmovies2.pro##div[style^="display:block;z-index:9999;position:fixed;bottom:0;"]:remove()
 www.amazon.*###universal-detail-ilm,.a-spacing-none.a-section > .sg-row,.AdHolder,#percolate-ui-ilm_div > .celwidget:remove()
 ||readcomiconline.li/Ads/
-readcomiconline.li###divComments:remove()
 instagram.com##div[class^=" _ab"][style="width: 100%;"],.hwddc3l5:remove()
 utm_$doc,removeparam=/^utm_/
 ||cloudflare.com/__log^
