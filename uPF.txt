@@ -78,3 +78,4 @@ www.reddit.com##.outbound[data-outbound-url]:remove-attr(data-outbound-url)
 ||bunnycdn.ru/assets/_bnx/$image
 ||privateinternetaccess.com^$xhr,3p,badfilter
 ||mcloud.to/*/*.com/$script
+||vizcloud.co/*/*.com/$script
