@@ -79,3 +79,4 @@ www.reddit.com##.outbound[data-outbound-url]:remove-attr(data-outbound-url)
 ||privateinternetaccess.com^$xhr,3p,badfilter
 ||mcloud.to/*/*.com/$script
 ||vizcloud.co/*/*.com/$script
+www.zerohedge.com##[class^="SponsoredPost_"]:remove()
