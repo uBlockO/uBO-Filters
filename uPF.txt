@@ -72,7 +72,6 @@ utm_$doc,removeparam=/^utm_/
 puck.news##body.paywall-active:remove-class(paywall-active)
 @@||amazon.*/*uedata$image,1p,badfilter
 vidstream.pro,mcloud.to##+js(set, console.clear, undefined)
-allporncomic.com#@#+js(aopr, document.dispatchEvent)
 www.reddit.com##.outbound[data-outbound-url]:remove-attr(data-outbound-url)
 ||hls.ttvnw.net/v1/segment/*.ts$xhr,method=post,3p
 ||bunnycdn.ru/assets/_bnx/$image
