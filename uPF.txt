@@ -31,8 +31,8 @@ animenewsnetwork.com###cover_image,.floating-image,.box.alert,#infinite-scroll-o
 ||googletagservices.com^$important
 ||google-analytics.com^$important
 ||scorecardresearch.com^$important
-youtube.com##.ytd-rich-section-renderer, #reply-button-end, #comments-button, #chat, #watch-sidebar-live-chat, #sponsor-button,  #masthead-ad, #offer-module, .ytp-paid-content-overlay, button[style=""][aria-label="Share"], #clarify-box, .ytd-primetime-promo-renderer, .ytp-paid-content-overlay-text, .ytp-promotooltip-wrapper, [href="/premium"], #comments, #comment-teaser:remove()
-hollywoodreporter.com##.autoload-spinner, .blog-post-thr-newsletter-section, .speedbump-carousel:remove()
+www.youtube.com##.ytd-rich-section-renderer, #reply-button-end, #comments-button, #chat, #watch-sidebar-live-chat, #sponsor-button,  #masthead-ad, #offer-module, .ytp-paid-content-overlay, button[style=""][aria-label="Share"], #clarify-box, .ytd-primetime-promo-renderer, .ytp-paid-content-overlay-text, .ytp-promotooltip-wrapper, [href="/premium"], #comments, #comment-teaser:remove()
+hollywoodreporter.com##.autoload-spinner, .blog-post-thr-newsletter-section, .speedbump-carousel, .ytp-suggested-action-badge-expanded.ytp-suggested-action-badge-with-controls.ytp-suggested-action-badge.ytp-button:remove()
 ||hollywoodreporter.com/fe_data/$1p,xmlhttprequest
 ||data.microsoft.com^$important
 developer.mozilla.org##.mdn-cta-container, [class^="notification"]:remove()
