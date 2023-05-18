@@ -25,8 +25,8 @@ animenewsnetwork.com###cover_image,.floating-image,.box.alert,#infinite-scroll-o
 ||animenewsnetwork.com/logger.performance$1p
 ||animenewsnetwork.com/sponsor/$1p
 ||amazon-adsystem.com^$important
-||fonts.googleapis.com^$important,domain=~www.youtube.com
-||fonts.gstatic.com^$important,domain=~www.youtube.com
+||fonts.googleapis.com^$important
+||fonts.gstatic.com^$important
 ||googletagmanager.com^$important
 ||googletagservices.com^$important
 ||google-analytics.com^$important
@@ -78,4 +78,3 @@ www.reddit.com##.outbound[data-outbound-url]:remove-attr(data-outbound-url)
 www.zerohedge.com##[class^="SponsoredPost_"]:remove()
 ||vizcloud.co/assets/player2/jwplayer-*/jwpsrv.js$script
 allporncomic.com##+js(rn, document.dispatchEvent, script)
-youtube.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
