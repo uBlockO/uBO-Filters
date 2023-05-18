@@ -25,8 +25,8 @@ animenewsnetwork.com###cover_image,.floating-image,.box.alert,#infinite-scroll-o
 ||animenewsnetwork.com/logger.performance$1p
 ||animenewsnetwork.com/sponsor/$1p
 ||amazon-adsystem.com^$important
-||fonts.googleapis.com^$important
-||fonts.gstatic.com^$important
+||fonts.googleapis.com^$important,domain=~www.youtube.com
+||fonts.gstatic.com^$important,domain=~www.youtube.com
 ||googletagmanager.com^$important
 ||googletagservices.com^$important
 ||google-analytics.com^$important
