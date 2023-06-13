@@ -72,7 +72,6 @@ www.reddit.com##.outbound[data-outbound-url]:remove-attr(data-outbound-url)
 ||hls.ttvnw.net/v1/segment/*.ts$xhr,method=post,3p
 ||bunnycdn.ru/assets/_bnx/$image
 ||privateinternetaccess.com^$xhr,3p,badfilter
-||mcloud.to/*/*.com/$script
-||vizcloud.co/*/*.com/$script
 zerohedge.com##[class^="SponsoredPost"]:remove()
 ||vizcloud.co/assets/player2/jwplayer-*/jwpsrv.js$script
+/asset/com/*$script
