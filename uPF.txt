@@ -75,3 +75,4 @@ www.reddit.com##.outbound[data-outbound-url]:remove-attr(data-outbound-url)
 zerohedge.com##[class^="SponsoredPost"]:remove()
 ||vizcloud.co/assets/player2/jwplayer-*/jwpsrv.js$script
 /asset/com/*$script,strict1p
+||vidstream.pro/assets/player2/*/jwpsrv.js$script
