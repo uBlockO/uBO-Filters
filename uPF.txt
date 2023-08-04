@@ -70,5 +70,5 @@ vidstream.pro,mcloud.to##+js(set, console.clear, undefined)
 ||bunnycdn.ru/assets/_bnx/$image
 ||privateinternetaccess.com^$xhr,3p,badfilter
 zerohedge.com##[class^="SponsoredPost"]:remove()
-/asset/com/*$script,strict1p
+/com/attractivebuilt/*$script
 /jwpsrv.js$script
