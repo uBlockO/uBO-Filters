@@ -65,7 +65,6 @@ utm_$doc,removeparam=/^utm_/
 ||spotify.com/storage-resolve/files/audio/interactive/$xhr,1p
 puck.news##body.paywall-active:remove-class(paywall-active)
 @@||amazon.*/*uedata$image,1p,badfilter
-vidstream.pro,mcloud.to##+js(set, console.clear, undefined)
 ||hls.ttvnw.net/v1/segment/*.ts$xhr,method=post,3p
 ||bunnycdn.ru/assets/_bnx/$image
 ||privateinternetaccess.com^$xhr,3p,badfilter
