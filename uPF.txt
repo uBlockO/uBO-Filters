@@ -72,3 +72,6 @@ vidstream.pro,mcloud.to##+js(set, console.clear, undefined)
 zerohedge.com##[class^="SponsoredPost"]:remove()
 /com/attractivebuilt/*$script
 /jwpsrv.js$script
+aniwave.to,fmovies.to,vidstream.pro,mcloud.to##+js(aost, console.clear, /^/)
+aniwave.to,fmovies.to,vidstream.pro,mcloud.to##+js(nostif, 0x)
+aniwave.to,fmovies.to,vidstream.pro,mcloud.to##+js(nosiif, 0x)
