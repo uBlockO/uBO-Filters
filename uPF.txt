@@ -73,4 +73,4 @@ zerohedge.com##[class^="SponsoredPost"]:remove()
 /jwpsrv.js$script
 /views/*$xhr,to=mcloud.to|vidstream.pro,1p
 aniwave.to,fmovies.to,vidstream.pro,mcloud.to##+js(nosiif, 0x)
-||aniwave.to/loadme/*$script,1p
+/loadme/*$script,1p,domain=aniwave.to|fmovies.to
