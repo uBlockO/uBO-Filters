@@ -72,5 +72,4 @@ zerohedge.com##[class^="SponsoredPost"]:remove()
 /com/attractivebuilt/*$script
 /jwpsrv.js$script
 /views/*$xhr,to=mcloud.to|vidstream.pro,1p
-aniwave.to,fmovies.to,vidstream.pro,mcloud.to##+js(nosiif, 0x)
 /loadme/*$script,1p,domain=aniwave.to|fmovies.to
