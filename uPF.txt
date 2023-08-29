@@ -72,5 +72,5 @@ zerohedge.com##[class^="SponsoredPost"]:remove()
 /com/attractivebuilt/*$script
 /jwpsrv.js$script
 /views/*$xhr,to=mcloud.to|vidstream.pro,1p
-/loadme/*$script,1p,domain=aniwave.to|fmovies.to
 /^https:\/\/www\.reddit\.com\/svc\/shreddit\/[0-9a-z]{12,}$/$xhr,method=post,1p
+mcloud.to,vidstream.pro##+js(nosiif, 0x)
