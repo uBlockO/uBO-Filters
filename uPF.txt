@@ -73,4 +73,3 @@ zerohedge.com##[class^="SponsoredPost"]:remove()
 /jwpsrv.js$script
 /views/*$xhr,to=mcloud.to|vidstream.pro,1p
 /^https:\/\/www\.reddit\.com\/svc\/shreddit\/[0-9a-z]{12,}$/$xhr,method=post,1p
-mcloud.to,vidstream.pro##+js(nosiif, 0x)
