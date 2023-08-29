@@ -69,7 +69,7 @@ puck.news##body.paywall-active:remove-class(paywall-active)
 ||bunnycdn.ru/assets/_bnx/$image
 ||privateinternetaccess.com^$xhr,3p,badfilter
 zerohedge.com##[class^="SponsoredPost"]:remove()
-/com/attractivebuilt/*$script
+/assetz/com/*$script,to=mcloud.to|vidstream.pro,1p
 /jwpsrv.js$script
 /views/*$xhr,to=mcloud.to|vidstream.pro,1p
 /^https:\/\/www\.reddit\.com\/svc\/shreddit\/[0-9a-z]{12,}$/$xhr,method=post,1p
