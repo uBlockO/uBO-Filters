@@ -43,7 +43,6 @@ translate.google.com##.notification-area,.gt-cc:remove()
 ||api.github.com/_private/browser/errors^
 ||reddit.com/errors^
 *$csp=worker-src 'none',1p,domain=~mega.nz|~github.com|~speed.cloudflare.com|~mega.io|~open.spotify.com
-*$websocket,domain=~github.com|~speedtest.net|~open.spotify.com
 ||play.google.com/log?$xmlhttprequest,important
 ||analytics.$1p
 kisscartoon.nz###divComments:remove()
