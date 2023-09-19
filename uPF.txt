@@ -71,4 +71,5 @@ zerohedge.com##[class^="SponsoredPost"]:remove()
 /assetz/com/*$script,to=mcloud.to|vidstream.pro
 /jwpsrv.js$script
 /views/*$xhr,to=mcloud.to|vidstream.pro
-vidplay.site##.gfyf:remove()
+fmoviesz.to,vidplay.site##+js(aost, console.clear)
+fmoviesz.to,vidplay.site##+js(nostif, 0x)
