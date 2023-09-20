@@ -70,6 +70,5 @@ puck.news##body.paywall-active:remove-class(paywall-active)
 zerohedge.com##[class^="SponsoredPost"]:remove()
 /assetz/com/*$script,to=mcloud.to|vidstream.pro
 /jwpsrv.js$script
-/views/*$xhr,to=mcloud.to|vidstream.pro
 fmoviesz.to,vidplay.site,mcloud.to##+js(nosiif, 0x)
 vidplay.site##body > div > div[class][style=""]:remove()
