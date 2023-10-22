@@ -70,4 +70,3 @@ zerohedge.com##[class^="SponsoredPost"]:remove()
 vidplay.site##body > div > div[class][style="display: block;"]:remove()
 /views/*$xhr,to=mcloud.to|vidstream.pro|vidplay.site
 www.reddit.com##+js(aost, fetch, /Ee\/<\/</)
-www.youtube-nocookie.com##+js(trusted-replace-xhr-response, /\"adPlacements.*?\"\}\}\}\]\,/, , /player\?key=|watch\?v=|youtubei\/v1\/player/)
