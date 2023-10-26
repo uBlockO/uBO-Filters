@@ -69,4 +69,4 @@ zerohedge.com##[class^="SponsoredPost"]:remove()
 /jwpsrv.js$script
 vidplay.site##body > div > div[class][style="display: block;"]:remove()
 /views/*$xhr,to=mcloud.to|vidstream.pro|vidplay.site
-www.reddit.com##+js(aost, fetch, /Ee\/<\/</)
+www.reddit.com##+js(aost, fetch, Ee/</<)
