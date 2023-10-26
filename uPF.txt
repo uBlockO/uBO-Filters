@@ -52,7 +52,6 @@ thewrap.com##.wallkit-paywall-block, .wrappro-paywall-member-link-for-reader:rem
 twitter.com##[aria-label$="trending now" i],aside[aria-label="Get Verified"]:remove()
 mp4upload.com##+js(aeld, DOMMouseScroll)
 comicsvalley.com##.sgpb-popup-dialog-main-div-wrapper,.sgpb-popup-overlay:remove()
-fmovies2.pro##div[style^="display:block;z-index:9999;position:fixed;bottom:0;"]:remove()
 www.amazon.*###universal-detail-ilm,.a-spacing-none.a-section > .sg-row,.AdHolder,#percolate-ui-ilm_div > .celwidget:remove()
 ||readcomiconline.li/Ads/
 instagram.com##div[class^=" _ab"][style="width: 100%;"],.hwddc3l5:remove()
@@ -70,3 +69,4 @@ zerohedge.com##[class^="SponsoredPost"]:remove()
 vidplay.site##body > div > div[class][style="display: block;"]:remove()
 /views/*$xhr,to=mcloud.to|vidstream.pro|vidplay.site
 www.reddit.com##+js(aost, fetch, Ee/</<)
+myanimelist.net##body:not(.ownlist):style(background-color:#121212 !important)
