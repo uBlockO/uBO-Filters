@@ -65,7 +65,7 @@ puck.news##body.paywall-active:remove-class(paywall-active)
 zerohedge.com##[class^="SponsoredPost"]:remove()
 /assetz/com/*$script,to=mcloud.to|vidstream.pro
 /jwpsrv.js$script
-vidplay.*##body > div > div[class][style="display: block;"]:remove()
+vidplay.*##body > div div[class][style=""]:remove()
 /views/*$xhr,to=mcloud.to|vidstream.pro|vidplay.*
 www.reddit.com##+js(aost, fetch, Ee/</<)
 myanimelist.net##body:not(.ownlist):style(background-color:#121212 !important)
@@ -73,3 +73,5 @@ myanimelist.net##.header-menu-login, .mxj:remove()
 twitter.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr"]:has(aside[class][aria-label="Who to follow"]):remove()
 ||onetrust.com^$important
 ||cookielaw.org^$important
+vidplay.lol##+js(aost, console.clear)
+vidplay.lol##+js(nostif, 0x)
