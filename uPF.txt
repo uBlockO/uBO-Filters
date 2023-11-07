@@ -75,6 +75,7 @@ twitter.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr"]:has(aside[class][aria-
 ||cookielaw.org^$important
 vidplay.lol##+js(aost, console.clear)
 vidplay.lol##+js(nostif, 0x)
-||hls.ttvnw.net/v1/playlist$xhr,3p,replace=/#EXT-X-DATERANGE:ID="(?:trigger-|stitched-ad|maf-ad)\S+|#EXT-X-DATERANGE:\S+?CLASS="twitch-ad-quartile".+?(?=(?:#EXT-X-DATERANGE|$))//gs,domain=twitch.tv
+||hls.ttvnw.net/v1/playlist$xhr,3p,replace=/#EXT-X-DATERANGE:ID="(?:stitched-ad|maf-ad)\S+|#EXT-X-DATERANGE:\S+?CLASS="twitch-ad-quartile".+?(?=(?:#EXT-X-DATERANGE|$))//gs,domain=twitch.tv
+||gql.twitch.tv/gql$xhr,1p,replace=/"adProperties":\{"adServerDefault"\S+?"self/"self/g
 www.twitch.tv##.follow-panel-overlay,.tw-media-card-stat,#twilight-sticky-footer-root:remove()
 www.twitch.tv##div[class="Layout-sc-1xcs6mc-0"][hidden=""]:style(display:block !important)
