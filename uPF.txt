@@ -75,4 +75,4 @@ twitter.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr"]:has(aside[class][aria-
 ||cookielaw.org^$important
 vidplay.lol##+js(aost, console.clear)
 vidplay.lol##+js(nostif, 0x)
-||hls.ttvnw.net/v1/playlist$xhr,replace=/^#EXT-X-DATERANGE:ID="stitched-ad|^#EXT-X-DATERANGE:ID="maf-ad|^.*CLASS="twitch-stitched-ad".*$|^.*CLASS="twitch-ad-quartile".*$//gms,domain=twitch.tv
+||hls.ttvnw.net/v1/playlist$xhr,replace=/^#EXT-X-DATERANGE:ID="stitched-ad|^#EXT-X-DATERANGE:ID="maf-ad|^.*CLASS="twitch-stitched-ad".*$|^.*CLASS="twitch-ad-quartile".*$//s,domain=twitch.tv
