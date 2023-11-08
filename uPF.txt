@@ -74,7 +74,7 @@ twitter.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr"]:has(aside[class][aria-
 ||cookielaw.org^$important
 vidplay.lol##+js(aost, console.clear)
 vidplay.lol##+js(nostif, 0x)
-||hls.ttvnw.net/v1/playlist$xhr,replace=/#EXT-X-DATERANGE:ID="(stitched-ad|maf-ad|source|trigger|assignment)\S+\n|#EXT-X-DATERANGE:ID=\S+?CLASS="twitch-(?:stream-source|trigger|maf-ad)"\S+\n|#EXT-X-DATERANGE:\S+?CLASS="twitch-ad-quartile".+?(?=(#EXT-X-DATERANGE|$))|(#EXT-X-TWITCH-PREFETCH\S+|\n#EXT-X-DISCONTINUITY)|#EXTINF\S+Amazon\S+\nhttp\S+\n//gs
+||hls.ttvnw.net/v1/playlist$xhr,replace=/#EXT-X-DATERANGE:ID="(stitched-ad|maf-ad|source|trigger|assignment)\S+\n|#EXT-X-DATERANGE:ID=\S+?CLASS="twitch-(?:stream-source|trigger|maf-ad)"\S+\n|#EXT-X-DATERANGE:\S+?CLASS="twitch-ad-quartile".+?(?=(#EXT-X-DATERANGE|$))|(#EXT-X-TWITCH-PREFETCH\S+|#EXT-X-DISCONTINUITY)|#EXTINF\S+Amazon\S+\nhttp\S+\n//gs
 www.twitch.tv##.follow-panel-overlay,.tw-media-card-stat,#twilight-sticky-footer-root:remove()
 www.twitch.tv##div[class="Layout-sc-1xcs6mc-0"][hidden=""]:style(display:block !important)
 *$websocket,domain=~github.com|~speedtest.net,important
