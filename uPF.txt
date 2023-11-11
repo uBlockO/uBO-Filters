@@ -39,6 +39,7 @@ fandom.com###WikiaBar, #WikiaRailWrapper, .banner-notifications-placeholder, .af
 ||ad.$1p
 ||api.github.com/_private/browser/errors^
 *$csp=worker-src 'none',1p,domain=~mega.nz|~github.com|~speed.cloudflare.com|~mega.io|~twitch.tv
+*$websocket,domain=~github.com|~speedtest.net,important
 ||play.google.com/log?$xmlhttprequest,important
 ||analytics.$1p
 kisscartoon.nz###divComments:remove()
@@ -52,7 +53,6 @@ twitter.com##[aria-label$="trending now" i],aside[aria-label="Get Verified"]:rem
 mp4upload.com##+js(aeld, DOMMouseScroll)
 comicsvalley.com##.sgpb-popup-dialog-main-div-wrapper,.sgpb-popup-overlay:remove()
 www.amazon.*###universal-detail-ilm,.a-spacing-none.a-section > .sg-row,.AdHolder,#percolate-ui-ilm_div > .celwidget:remove()
-||readcomiconline.li/Ads/
 instagram.com##div[class^=" _ab"][style="width: 100%;"],.hwddc3l5:remove()
 utm_$doc,frame,removeparam=/^utm_/
 ||cloudflare.com/__log^
@@ -60,7 +60,6 @@ utm_$doc,frame,removeparam=/^utm_/
 puck.news##body.paywall-active:remove-class(paywall-active)
 @@||amazon.*/*uedata$image,1p,badfilter
 ||bunnycdn.ru/assets/_bnx/$image
-||privateinternetaccess.com^$xhr,3p,badfilter
 zerohedge.com##[class^="SponsoredPost"]:remove()
 /assetz/com/*$script,to=mcloud.to|vidstream.pro
 /jwpsrv.js$script
@@ -72,9 +71,8 @@ myanimelist.net##.btn-mal-service, .mxj:remove()
 twitter.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr"]:has(aside[class][aria-label="Who to follow"]):remove()
 ||onetrust.com^$important
 ||cookielaw.org^$important
-vidplay.lol##+js(aost, console.clear)
-vidplay.lol##+js(nostif, 0x)
-||hls.ttvnw.net/v1/playlist$xhr,3p,replace=/#EXT-X-DATERANGE:ID="(stitched-ad|maf-ad|source|trigger)"\S+\n|#EXT-X-DATERANGE:ID=\S+?CLASS="twitch-(?:stream-source|trigger|maf-ad)"\S+\n|#EXT-X-DATERANGE:\S+?CLASS="twitch-ad-quartile".+?(?=(#EXT-X-DATERANGE|$))|(\n#EXT-X-DISCONTINUITY\s|#EXT-X-TWITCH-PREFETCH\S+)//gs
+vidplay.*##+js(aost, console.clear)
+vidplay.*##+js(nostif, 0x)
+||hls.ttvnw.net/v1/playlist$xhr,3p,replace=/#EXT-X-DATERANGE:ID="(stitched-ad|maf-ad|source|trigger)"\S+\n|#EXT-X-DATERANGE:ID=\S+?CLASS="twitch-(?:stream-source|trigger|maf-ad|client-ad)"\S+\n|#EXT-X-DATERANGE:\S+?CLASS="twitch-ad-quartile".+?(?=(#EXT-X-DATERANGE|$))|(\n#EXT-X-DISCONTINUITY\s|#EXT-X-TWITCH-PREFETCH\S+\n)|#EXT-X-PROGRAM-DATE-TIME:\S+\n#EXTINF:[1-9].[0-9]{3},Amazon.+?(?=(\.ts\n))|#EXT-X-PROGRAM-DATE-TIME:\S+\n#EXTINF:[1-9].[0-9]{3},MediaMind.+?(?=(\.ts\n))|\n.ts\s//gs
 www.twitch.tv##.follow-panel-overlay,.tw-media-card-stat,#twilight-sticky-footer-root:remove()
 www.twitch.tv##div[class="Layout-sc-1xcs6mc-0"][hidden=""]:style(display:block !important)
-*$websocket,domain=~github.com|~speedtest.net,important
