@@ -62,7 +62,7 @@ puck.news##body.paywall-active:remove-class(paywall-active)
 zerohedge.com##[class^="SponsoredPost"]:remove()
 /assetz/com/*$script,to=mcloud.to|vidstream.pro
 /jwpsrv.js$script
-vidplay.*##body > div + div > div[class][style=""]:remove()
+vidplay.*###player-wrapper > div > div[class][style=""], #player-wrapper > div > div[class][style="display: block;"]:remove()
 /views/*$xhr,to=mcloud.to|vidstream.pro|vidplay.*
 www.reddit.com##+js(aost, fetch, Ee/</<)
 myanimelist.net##body:not(.ownlist):style(background-color:#121212 !important)
