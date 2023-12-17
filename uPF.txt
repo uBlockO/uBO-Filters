@@ -63,7 +63,6 @@ zerohedge.com##[class^="SponsoredPost"]:remove()
 /assetz/com/*$script,to=mcloud.to|vidstream.pro
 /jwpsrv.js$script
 ||hls.ttvnw.net/v1/segment/*.ts$xhr,method=post,3p
-vidplay.*###player-wrapper > div > div[class][style=""], #player-wrapper > div > div[class][style="display: block;"]:remove()
 /views/*$xhr,to=mcloud.to|vidstream.pro|vidplay.*
 www.reddit.com##+js(aost, fetch, Ee/</<)
 myanimelist.net##body:not(.ownlist):style(background-color:#121212 !important)
