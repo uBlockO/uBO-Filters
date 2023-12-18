@@ -58,7 +58,6 @@ utm_$doc,frame,removeparam=/^utm_/
 ||spotify.com/storage-resolve/files/audio/interactive/$xhr,1p
 puck.news##body.paywall-active:remove-class(paywall-active)
 @@||amazon.*/*uedata$image,1p,badfilter
-||bunnycdn.ru/assets/_bnx/$image
 zerohedge.com##[class^="SponsoredPost"]:remove()
 /assetz/com/*$script,to=mcloud.to|vidstream.pro
 /jwpsrv.js$script
