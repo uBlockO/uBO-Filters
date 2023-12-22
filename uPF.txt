@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: uBO Personal Filters
-! Homepage: https://github.com/uBlock-user/uBO-Personal-Filters
-! Author: uBlock-user
+! Homepage: https://github.com/uBlockO/uBO-Personal-Filters
+! Author: uBlockO
 ! Expires: 7 days
 
 ||doubleclick.net^$important
