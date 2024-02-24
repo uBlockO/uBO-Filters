@@ -62,7 +62,6 @@ zerohedge.com##[class^="SponsoredPost"],[class^="PromoBanner_banner"]:remove()
 /assetz/com/*$script,to=mcloud.to|vidstream.pro
 /jwpsrv.js$script
 ||hls.ttvnw.net/v1/segment/*.ts$xhr,method=post,3p
-www.reddit.com##+js(aost, fetch, Ee/</<)
 myanimelist.net##body:not(.ownlist):style(background-color:#121212 !important)
 myanimelist.net##.btn-mal-service, .mxj:remove()
 twitter.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr"]:has(aside[class][aria-label="Who to follow"]):remove()
