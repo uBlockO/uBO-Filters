@@ -71,5 +71,4 @@ www.twitch.tv##div[class="Layout-sc-1xcs6mc-0"][hidden=""]:style(display:block !
 fmoviesz.*##+js(set, DisDevTool, undefined)
 ||datum.jsdelivr.com^
 www.reddit.com##+js(aost, fetch, ke/</<)
-myanimelist.net##+js(rmnt, style, /body:not\(.ownlist\) {\s+background-color: #E3EEFF;\s+background-image: url\(data:image\/png;base64/)
 ||test.torrentfreak.com^
