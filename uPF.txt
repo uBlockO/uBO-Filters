@@ -73,4 +73,5 @@ fmoviesz.*##+js(set, DisDevTool, undefined)
 www.reddit.com##+js(aost, fetch, ke/</<)
 ||test.torrentfreak.com^
 ||aniwave.to/assets/_bnx/
+watcher.guru##.add, .add-header:remove()
 myanimelist.net##+js(rmnt, style, /background-image: url\(data:image\/png;base64/)
