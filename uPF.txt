@@ -60,7 +60,7 @@ puck.news##body.paywall-active:remove-class(paywall-active)
 zerohedge.com##[class^="SponsoredPost"],[class^="PromoBanner_banner"],.native,.pack:remove()
 /jwpsrv.js$script
 ||hls.ttvnw.net/v1/segment/*.ts$xhr,method=post,3p
-myanimelist.net##.btn-mal-service, .mxj:remove()
+myanimelist.net##.btn-mal-service, .mxj, .ad-sas:remove()
 twitter.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr"]:has(aside[class][aria-label="Who to follow"]):remove()
 ||onetrust.com^$important
 ||cookielaw.org^$important
