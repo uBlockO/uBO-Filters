@@ -69,7 +69,7 @@ www.twitch.tv##.follow-panel-overlay,.tw-media-card-stat,#twilight-sticky-footer
 www.twitch.tv##div[class="Layout-sc-1xcs6mc-0"][hidden=""]:style(display:block !important)
 fmoviesz.*##+js(set, DisDevTool, undefined)
 ||datum.jsdelivr.com^
-www.reddit.com##+js(aost, fetch, ke/</<)
+www.reddit.com##+js(aost, fetch)
 ||test.torrentfreak.com^
 ||aniwave.to/assets/_bnx/
 watcher.guru##.add, .add-header:remove()
