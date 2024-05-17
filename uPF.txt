@@ -49,7 +49,7 @@ kisscartoon.nz###divComments:remove()
 dnsleaktest.com##p[style="padding-bottom: 100px"]:remove()
 thewrap.com##style:has-text(wallkit-paywall-block):remove()
 thewrap.com##.wallkit-paywall-block, .wrappro-paywall-member-link-for-reader:remove()
-twitter.com##[aria-label$="trending now" i],aside[aria-label="Get Verified"], a[data-testid="AppTabBar_Explore_Link"][href="/explore"]:remove()
+x.com##[aria-label$="trending now" i],aside[aria-label="Get Verified"], a[data-testid="AppTabBar_Explore_Link"][href="/explore"]:remove()
 comicsvalley.com##.sgpb-popup-dialog-main-div-wrapper,.sgpb-popup-overlay:remove()
 www.amazon.*###universal-detail-ilm,.a-spacing-none.a-section > .sg-row,.AdHolder,#percolate-ui-ilm_div > .celwidget:remove()
 instagram.com##div[class^=" _ab"][style="width: 100%;"],.hwddc3l5:remove()
@@ -61,7 +61,7 @@ zerohedge.com##[class^="SponsoredPost"],[class^="PromoBanner_banner"],.native,.p
 /jwpsrv.js$script
 ||hls.ttvnw.net/v1/segment/*.ts$xhr,method=post,3p
 myanimelist.net##.btn-mal-service, .mxj, .ad-sas:remove()
-twitter.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr"]:has(aside[class][aria-label="Who to follow"]):remove()
+x.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr"]:has(aside[class][aria-label="Who to follow"]):remove()
 ||onetrust.com^$important
 ||cookielaw.org^$important
 ||hls.ttvnw.net/v1/playlist$xhr,3p,replace=/#EXT-X-DATERANGE:ID="(stitched-ad|maf-ad|source|trigger)"\S+\n|#EXT-X-DATERANGE:ID=\S+?CLASS="twitch-(?:stream-source|trigger|maf-ad)"\S+\n|#EXT-X-DATERANGE:\S+?CLASS="twitch-ad-quartile".+?(?=(#EXT-X-DATERANGE|$))|(\n#EXT-X-DISCONTINUITY\s|#EXT-X-TWITCH-PREFETCH\S+)//gs
