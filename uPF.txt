@@ -13,7 +13,6 @@ torrentfreak.com##.widget_text, .o-widget--rotated.o-widget, .comments, .footer_
 www.google.*###prm-pt, .b2hzT, .exp-outline, [id^="ed_"], [id^="eob_"], [title*="Share"], #gws-output-pages-elements-homepage_additional_languages__als, #wmxmsg, #prm, .uU7dJb,[class$="middle-slot-promo"]:remove()
 ||googlesyndication.com^$important
 aniwave.*##.adx, .bsharing, #comments, #w-servers > .tip, .socials, [src^="https://s2.bunnycdn.ru/assets/_aniwave/banners/"], [src^="assets/_bnx/"]:remove()
-fmoviesz.*##.text, .widget:nth-of-type(5), #tags, .hidden-sm.widget, .hd-buttons.row, .col-right, .widget:nth-of-type(4), [href*="twitter.com"], div[data-go="#comment"], .socials, .twitter-follow-button, [href*="/redirect"], .streamhd, .stream4k, .home-socials, .addthis_native_toolbox, #fb-root, [href^="https://dynamicadx.com/"], #comment, .sharing,[src^="assets/_bnx/"]:remove()
 speedtest.net##.high-placeholder.pure-u-1, .u-c.pure-u-custom-ad-rectangle, .u-c.pure-u-custom-ad-skyscraper, .top-placeholder.pure-u-1, .eot-dd-content, .u-c.pure-u-1-4:nth-of-type(1) > ul.menu-footer:nth-of-type(2), .lowerboard-content:remove()
 kimcartoon.to,kimcartoon.li##.w-right, #hideAds, .videoAdClose, .kcAds, .alert-info.alert, .mb15.full, #btnShowComments, #videoAd, #divComments, #disqus_thread, .twitter-follow-button, [id*="ScriptRoot"], #adbWarnContainer, #msg, div[style*="width: 300px; height: 250px"], #myContainer > .kcAds1, .top_page_alert, .kcAds1:remove()
 mega.nz##.ads-left-block, .ads-right-block, .active.top-login-warning, .red.download-button.button, .checkbox-bl.download:remove()
@@ -67,7 +66,7 @@ x.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr"]:has(aside[class][aria-label=
 ||hls.ttvnw.net/v1/playlist$xhr,3p,replace=/#EXT-X-DATERANGE:ID="(stitched-ad|maf-ad|source|trigger)"\S+\n|#EXT-X-DATERANGE:ID=\S+?CLASS="twitch-(?:stream-source|trigger|maf-ad)"\S+\n|#EXT-X-DATERANGE:\S+?CLASS="twitch-ad-quartile".+?(?=(#EXT-X-DATERANGE|$))|(\n#EXT-X-DISCONTINUITY\s|#EXT-X-TWITCH-PREFETCH\S+)//gs
 www.twitch.tv##.follow-panel-overlay,.tw-media-card-stat,#twilight-sticky-footer-root:remove()
 www.twitch.tv##div[class="Layout-sc-1xcs6mc-0"][hidden=""]:style(display:block !important)
-fmoviesz.*##+js(set, DisDevTool, undefined)
+fmovies.*##+js(set, DisDevTool, undefined)
 ||datum.jsdelivr.com^
 www.reddit.com##+js(aost, fetch)
 ||test.torrentfreak.com^
