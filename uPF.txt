@@ -70,6 +70,6 @@ fmovies.*,fmovies24.to##+js(set, DisDevTool, undefined)
 ||datum.jsdelivr.com^
 www.reddit.com##+js(aost, fetch)
 ||test.torrentfreak.com^
-||aniwave.to/assets/_bnx/
+/assets/_bnx/*.gif
 watcher.guru##.add, .add-header:remove()
 myanimelist.net##+js(rmnt, style, /background-image: url\(data:image\/png;base64/)
