@@ -63,9 +63,6 @@ myanimelist.net##.btn-mal-service, .mxj, .ad-sas:remove()
 x.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr"]:has(aside[class][aria-label="Who to follow"]):remove()
 ||onetrust.com^$important
 ||cookielaw.org^$important
-! ||hls.ttvnw.net/v1/playlist$xhr,3p,replace=/#EXT-X-DATERANGE:ID="(stitched-ad|maf-ad|source|trigger)"\S+\n|#EXT-X-DATERANGE:ID=\S+?CLASS="twitch-(?:stream-source|trigger|maf-ad)"\S+\n|#EXT-X-DATERANGE:\S+?CLASS="twitch-ad-quartile".+?(?=(#EXT-X-DATERANGE|$))|(\n#EXT-X-DISCONTINUITY\s|#EXT-X-TWITCH-PREFETCH\S+)//gs
-! www.twitch.tv##.follow-panel-overlay,.tw-media-card-stat,#twilight-sticky-footer-root:remove()
-! www.twitch.tv##div[class="Layout-sc-1xcs6mc-0"][hidden=""]:style(display:block !important)
 fmovies.*,fmovies24.to##+js(set, DisDevTool, undefined)
 ||datum.jsdelivr.com^
 www.reddit.com##+js(aost, fetch)
@@ -73,3 +70,4 @@ www.reddit.com##+js(aost, fetch)
 /assets/_bnx/$image
 watcher.guru##.add, .add-header:remove()
 myanimelist.net##+js(rmnt, style, /background-image: url\(data:image\/png;base64/)
+wikipedia.org##.vector-appearance-landmark, .vector-column-end:remove()
