@@ -65,7 +65,7 @@ x.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr"]:has(aside[class][aria-label=
 ||cookielaw.org^$important
 fmovies.*,fmovies24.to##+js(set, DisDevTool, undefined)
 ||datum.jsdelivr.com^
-www.reddit.com##+js(aost, fetch)
+||reddit.com/svc/shreddit/events^
 ||test.torrentfreak.com^
 /assets/_bnx/*$image
 watcher.guru##.add, .add-header:remove()
