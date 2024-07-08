@@ -70,5 +70,5 @@ fmovies.*,fmovies24.to##+js(set, DisDevTool, undefined)
 watcher.guru##.add, .add-header:remove()
 myanimelist.net##+js(rmnt, style, /background-image: url\(data:image\/png;base64/)
 wikipedia.org##.vector-appearance-landmark, .vector-column-end:remove()
-www.reddit.com##+js(trusted-replace-outbound-text, JSON.stringify, /^.*csrf_token.*$/, '{"source:global","screen":{"height":0,"width":0}","view_stats":{"comments":0}}')
+www.reddit.com##+js(trusted-replace-outbound-text, JSON.stringify, /^.*csrf_token.*$/, '{"source": "global","screen": {"height": 480, "width": 840},"view_stats":{"comments": 100}}')
 ||disqus.com^
