@@ -70,4 +70,6 @@ fmovies.*,fmovies24.to##+js(set, DisDevTool, undefined)
 watcher.guru##.add, .add-header:remove()
 myanimelist.net##+js(rmnt, style, /background-image: url\(data:image\/png;base64/)
 wikipedia.org##.vector-appearance-landmark, .vector-column-end:remove()
+www.reddit.com##+js(trusted-replace-outbound-text, JSON.stringify, /\"screen\"\:\{\"height"\:[0-9][0-9][0-9]\,\"width\"\:[0-9][0-9][0-9][0-9]\}/, '"screen":{"height":0,"width":0}')
+www.reddit.com##+js(trusted-replace-outbound-text, JSON.stringify, /\"adblock\"\:\{\"enabled\"\:true\,\"acceptable_ads\"\:false\}/, '"adblock":{"enabled":false,"acceptable_ads":false}')
 ||disqus.com^
