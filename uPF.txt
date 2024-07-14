@@ -71,4 +71,4 @@ watcher.guru##.add, .add-header:remove()
 myanimelist.net##+js(rmnt, style, /background-image: url\(data:image\/png;base64/)
 wikipedia.org##.vector-appearance-landmark, .vector-column-end:remove()
 ||disqus.com^
-/cdn-cgi/challenge-platform$script,1p
+/cdn-cgi/challenge-platform/scripts/jsd$script,1p
