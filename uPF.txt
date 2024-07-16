@@ -63,7 +63,7 @@ myanimelist.net##.btn-mal-service, .mxj, .ad-sas:remove()
 x.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr"]:has(aside[class][aria-label="Who to follow"]):remove()
 ||onetrust.com^$important
 ||cookielaw.org^$important
-fmovies.*,fmovies24.to##+js(set, DisDevTool, undefined)
+flixrave.to,fmovies24.to##+js(set, DisDevTool, undefined)
 ||datum.jsdelivr.com^
 ||test.torrentfreak.com^
 /assets/_bnx/*$image
