@@ -65,7 +65,6 @@ x.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr"]:has(aside[class][aria-label=
 ||cookielaw.org^$important
 flixrave.to,fmovies24.to##+js(set, DisDevTool, undefined)
 ||datum.jsdelivr.com^
-||test.torrentfreak.com^
 /assets/_bnx/*$image
 watcher.guru##.add, .add-header:remove()
 myanimelist.net##+js(rmnt, style, /background-image: url\(data:image\/png;base64/)
