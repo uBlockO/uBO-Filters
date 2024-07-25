@@ -72,3 +72,4 @@ wikipedia.org##.vector-appearance-landmark, .vector-column-end:remove()
 ||disqus.com^
 /cdn-cgi/challenge-platform/scripts/jsd$script,1p
 old.reddit.com##+js(no-xhr-if, url:www.reddit.com/api/ method:POST)
+www.reddit.com##+js(aost, fetch, Ma/</<)
