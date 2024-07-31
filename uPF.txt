@@ -38,7 +38,6 @@ fandom.com###WikiaBar, #WikiaRailWrapper, .banner-notifications-placeholder, .af
 ||ad.$1p
 ||api.github.com/_private/browser/errors^
 *$csp=worker-src 'none',1p,domain=~mega.nz|~github.com|~speed.cloudflare.com|~mega.io|~twitch.tv
-*$websocket,domain=~github.com|~speedtest.net|~fiber.google.com|~gfiber.speedtestcustom.com,important
 ||play.google.com/log?$xmlhttprequest,important
 ||analytics.$1p
 kisscartoon.nz###divComments:remove()
