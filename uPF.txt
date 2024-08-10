@@ -62,7 +62,6 @@ myanimelist.net##.btn-mal-service, .mxj, .ad-sas:remove()
 x.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr"]:has(aside[class][aria-label="Who to follow"]):remove()
 ||onetrust.com^$important
 ||cookielaw.org^$important
-flixrave.to,fmovies24.to##+js(set, DisDevTool, undefined)
 ||datum.jsdelivr.com^
 /assets/_bnx/*$image
 watcher.guru##.add, .add-header:remove()
@@ -76,3 +75,4 @@ www.twitch.tv##.follow-panel-overlay,.tw-media-card-stat,#twilight-sticky-footer
 www.twitch.tv##div[class="Layout-sc-1xcs6mc-0"][hidden=""]:style(display:block !important)
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.kevlar_watch_grid, false)
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_watch_theater_chat, false)
+putlocker.vip##.text-center.alert.ann-home, #top-news:remove()
