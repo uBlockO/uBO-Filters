@@ -75,5 +75,3 @@ www.twitch.tv##.follow-panel-overlay,.tw-media-card-stat,#twilight-sticky-footer
 www.twitch.tv##div[class="Layout-sc-1xcs6mc-0"][hidden=""]:style(display:block !important)
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.kevlar_watch_grid, false)
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_watch_theater_chat, false)
-putlocker.vip##.text-center.alert.ann-home, #top-news:remove()
-flixrave.to##+js(set, DisDevTool, undefined)
