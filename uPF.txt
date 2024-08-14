@@ -66,7 +66,7 @@ watcher.guru##.add, .add-header:remove()
 myanimelist.net##+js(rmnt, style, /background-image: url\(data:image\/png;base64/)
 wikipedia.org##.vector-appearance-landmark, .vector-column-end:remove()
 ||disqus.com^
-/cdn-cgi/challenge-platform/scripts/jsd$script,1p
+/cdn-cgi/challenge-platform/scripts/jsd$script,1p,important
 www.reddit.com##+js(aost, fetch, /Ma\/<\/<|Yp/)
 ||hls.ttvnw.net/v1/playlist$xhr,3p,replace=/#EXT-X-DATERANGE:ID="(stitched-ad|maf-ad|source|trigger)"\S+\n|#EXT-X-DATERANGE:ID=\S+?CLASS="twitch-(?:stream-source|trigger|maf-ad)"\S+\n|#EXT-X-DATERANGE:\S+?CLASS="twitch-ad-quartile".+?(?=(#EXT-X-DATERANGE|$))|(\n#EXT-X-DISCONTINUITY\s|#EXT-X-TWITCH-PREFETCH\S+)//gs
 www.twitch.tv##.follow-panel-overlay,.tw-media-card-stat,#twilight-sticky-footer-root:remove()
