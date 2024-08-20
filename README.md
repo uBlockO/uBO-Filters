@@ -8,7 +8,7 @@ A filterlist with additional filters for uBlock Origin to block third-party, tra
 
 Contains filters specific to uBlock Origin and some filters that have not yet been added to other filterlists.
 
-Link: [https://ubo-personal-filters.pages.dev/uPF.txt](https://ubo-personal-filters.pages.dev/uPF.txt)
+Link: [https://ubo-filters.pages.dev/uF.txt](https://ubo-filters.pages.dev/uF.txt)
 
 # Requirements 
 
