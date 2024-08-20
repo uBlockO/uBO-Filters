@@ -1,6 +1,6 @@
 [uBlock Origin]
-! Title: uBO Personal Filters
-! Homepage: https://github.com/uBlockO/uBO-Personal-Filters
+! Title: uBO Filters
+! Homepage: https://github.com/uBlockO/uBO-Filters
 ! Author: uBlockO
 ! Expires: 3 days
 
