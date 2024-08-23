@@ -47,7 +47,7 @@ kisscartoon.nz###divComments:remove()
 thewrap.com##style:has-text(wallkit-paywall-block):remove()
 thewrap.com##.wallkit-paywall-block, .wrappro-paywall-member-link-for-reader:remove()
 x.com##[aria-label$="trending now" i],aside[aria-label="Get Verified"], a[data-testid="AppTabBar_Explore_Link"][href="/explore"], aside[class][aria-label^="Subscribe to Premium"]:remove()
-comicsvalley.com##.sgpb-popup-dialog-main-div-wrapper,.sgpb-popup-overlay:remove()
+comicsvalley.com##.sgpb-popup-dialog-main-div-wrapper,.sgpb-popup-overlay,[href="/i/premium_sign_up"]:remove()
 www.amazon.*###universal-detail-ilm,.a-spacing-none.a-section > .sg-row,.AdHolder,#percolate-ui-ilm_div > .celwidget:remove()
 instagram.com##div[class^=" _ab"][style="width: 100%;"],.hwddc3l5:remove()
 utm_$doc,frame,removeparam=/^utm_/
