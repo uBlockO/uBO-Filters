@@ -38,10 +38,7 @@ fandom.com###WikiaBar, #WikiaRailWrapper, .banner-notifications-placeholder, .af
 ||ad.$1p
 ||api.github.com/_private/browser/errors^
 *$csp=worker-src 'none',1p,domain=~mega.nz|~github.com|~speed.cloudflare.com|~mega.io|~twitch.tv
-||play.google.com/log?$xmlhttprequest,important
 ||analytics.$1p
-kisscartoon.nz###divComments:remove()
-||services.wikia.com^$important
 ||youtube.com/error_204?$xhr
 ||firebase.googleapis.com^
 thewrap.com##style:has-text(wallkit-paywall-block):remove()
@@ -53,7 +50,6 @@ instagram.com##div[class^=" _ab"][style="width: 100%;"],.hwddc3l5:remove()
 utm_$doc,frame,removeparam=/^utm_/
 ||spotify.com/storage-resolve/files/audio/interactive/$xhr,1p
 puck.news##body.paywall-active:remove-class(paywall-active)
-@@||amazon.*/*uedata$image,1p,badfilter
 zerohedge.com##[class^="SponsoredPost"],[class^="PromoBanner_banner"],.native,.pack:remove()
 /jwpsrv.js$script
 ||hls.ttvnw.net/v1/segment/*.ts$xhr,method=post,3p
