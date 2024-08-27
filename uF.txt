@@ -72,4 +72,4 @@ www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_watch_theater_chat, fa
 novelcrow.com##+js(rmnt, script, lazyloadRunObserver)
 anicrush.to##.comments-wrap, .character:remove()
 ||api.anicrush.to/v1/movie/updateView
-/data/collector/*$xhr
+aniwave.se##.socials, #w-servers > .tip, #comments:remove()
