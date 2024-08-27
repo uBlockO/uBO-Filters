@@ -36,7 +36,7 @@ animehub.ac##.footer-follow, .sb-subs.goblock > .clearfix, .comments, .detail-an
 fandom.com###WikiaBar, #WikiaRailWrapper, .banner-notifications-placeholder, .aff-unit__disclaimer-message, .mw-notification-area, [href^="https://myanimelist.net/"]:remove()
 ||ad.$1p
 ||api.github.com/_private/browser/errors^
-*$csp=worker-src 'none',1p,domain=~mega.nz|~github.com|~speed.cloudflare.com|~mega.io|~twitch.tv
+*$csp=worker-src 'none',1p,domain=~mega.nz|~github.com|~speed.cloudflare.com|~mega.io|~aniwave.se
 ||analytics.$1p
 ||youtube.com/error_204?$xhr
 ||firebase.googleapis.com^
