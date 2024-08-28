@@ -73,3 +73,4 @@ novelcrow.com##+js(rmnt, script, lazyloadRunObserver)
 anicrush.to##.comments-wrap, .character:remove()
 ||api.anicrush.to/v1/movie/updateView
 aniwave.se##.socials, #w-servers > .tip, #comments:remove()
+putlocker.pe##.show.premodal-share.premodal-min.premodal.fade.modal, .show.fade.modal-backdrop:remove()
