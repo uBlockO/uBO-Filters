@@ -49,7 +49,6 @@ instagram.com##div[class^=" _ab"][style="width: 100%;"],.hwddc3l5:remove()
 utm_$doc,frame,removeparam=/^utm_/
 ||spotify.com/storage-resolve/files/audio/interactive/$xhr,1p
 puck.news##body.paywall-active:remove-class(paywall-active)
-zerohedge.com##[class^="SponsoredPost"],[class^="PromoBanner_banner"],.native,.pack:remove()
 /jwpsrv.js$script
 ||hls.ttvnw.net/v1/segment/*.ts$xhr,method=post,3p
 myanimelist.net##.btn-mal-service, .mxj, .ad-sas:remove()
