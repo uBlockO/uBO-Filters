@@ -31,7 +31,7 @@ github.com##.survey-container, .js-notice-dismiss, .mb-4.bg-white, .code-navigat
 animehub.ac##.footer-follow, .sb-subs.goblock > .clearfix, .comments, .detail-anime.goblock > .go-full.goblock-content > .goblock-bottom, .gc-share.gc-icon, .gc-comments.gc-icon, .dialog-ovelay, #sidebar > .clearfix\, #discordapp, #info_player > p, #info_player > div > div, .sb-discordapp:remove()
 fandom.com###WikiaBar, #WikiaRailWrapper, .banner-notifications-placeholder, .aff-unit__disclaimer-message, .mw-notification-area, [href^="https://myanimelist.net/"]:remove()
 ||api.github.com/_private/browser/errors^
-*$csp=worker-src 'none',1p,domain=~mega.nz|~github.com|~speed.cloudflare.com|~mega.io|~aniwave.se
+*$csp=worker-src 'none',1p,domain=~mega.nz|~speed.cloudflare.com|~mega.io|~aniwave.se
 ||youtube.com/error_204?$xhr
 ||firebase.googleapis.com^
 thewrap.com##style:has-text(wallkit-paywall-block):remove()
