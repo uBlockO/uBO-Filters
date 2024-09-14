@@ -64,6 +64,7 @@ www.reddit.com##+js(aost, fetch, /Ma\/<\/<|Yp/)
 www.twitch.tv##.follow-panel-overlay,.tw-media-card-stat,#twilight-sticky-footer-root:remove()
 www.twitch.tv##div[class="Layout-sc-1xcs6mc-0"][hidden=""]:style(display:block !important)
 novelcrow.com##+js(rmnt, script, lazyloadRunObserver)
+novelcrow.com##.wp-manga.c-top-second-sidebar.c-sidebar:remove()
 anicrush.to##.comments-wrap, .character:remove()
 ||api.anicrush.to/v1/movie/updateView
 aniwave.se##.socials, #w-servers > .tip, #comments:remove()
