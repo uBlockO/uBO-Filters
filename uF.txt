@@ -70,4 +70,5 @@ aniwave.se##.socials, #w-servers > .tip, #comments:remove()
 putlocker.pe##.show.premodal-share.premodal-min.premodal.fade.modal, .show.fade.modal-backdrop,.modal-open,#block-rating:remove()
 putlocker.pe##+js(nosiif, 0x)
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_watch_theater_chat, false)
+www.zerohedge.com##[class^="PromoBanner_banner"], .bottom-banner-container:remove()
 ||piano.io^
