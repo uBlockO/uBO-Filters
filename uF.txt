@@ -16,9 +16,6 @@ speedtest.net##.high-placeholder.pure-u-1, .u-c.pure-u-custom-ad-rectangle, .u-c
 mega.nz##.ads-left-block, .ads-right-block, .active.top-login-warning, .red.download-button.button, .checkbox-bl.download:remove()
 ||youtube.com^*/endscreen.js
 ||youtube.com^*/annotations_module.js
-animenewsnetwork.com###cover_image,.floating-image,.box.alert,#infinite-scroll-outlet,.spaceRow,#prompt-message,.social-button,.ezoic-ad,div[style$="overflow: hidden;"], .youtube:remove()
-||animenewsnetwork.com/logger.performance$1p
-||animenewsnetwork.com/sponsor/$1p
 ||amazon-adsystem.com^$important
 ||fonts.googleapis.com^$important
 ||fonts.gstatic.com^$important
