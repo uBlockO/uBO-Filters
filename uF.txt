@@ -53,7 +53,6 @@ x.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr"]:has(aside[class][aria-label=
 ||datum.jsdelivr.com^
 ||spot.im^
 watcher.guru##.add, .add-header:remove()
-myanimelist.net##+js(rmnt, style, /background-image: url\(data:image\/png;base64/)
 wikipedia.org##.vector-appearance-landmark, .vector-column-end:remove()
 ||disqus.com^
 www.reddit.com##+js(aost, fetch, /Ma\/<\/<|Yp/)
