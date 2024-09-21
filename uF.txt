@@ -69,3 +69,4 @@ putlocker.pe##+js(nosiif, 0x)
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_watch_theater_chat, false)
 www.zerohedge.com##[class^="PromoBanner_banner"], .bottom-banner-container:remove()
 ||piano.io^$important
+myanimelist.net##+js(rmnt, style, /background-image: url\(data:image\/png;base64/)
