@@ -66,4 +66,5 @@ aniwave.se##.socials, #w-servers > .tip, #comments:remove()
 putlocker.pe###modalshare,#block-rating:remove()
 putlocker.pe##+js(nosiif, 0x)
 www.zerohedge.com##[class^="PromoBanner_banner"], .bottom-banner-container:remove()
+www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_watch_theater_chat, false)
 ||piano.io^$important
