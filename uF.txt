@@ -51,7 +51,6 @@ x.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr"]:has(aside[class][aria-label=
 ||cookielaw.org^$important
 ||datum.jsdelivr.com^
 ||spot.im^
-watcher.guru##.add, .add-header:remove()
 wikipedia.org##.vector-appearance-landmark, .vector-column-end:remove()
 ||disqus.com^
 www.reddit.com##+js(aost, fetch, </<)
