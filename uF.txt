@@ -65,3 +65,4 @@ www.zerohedge.com##[class^="PromoBanner_banner"], .bottom-banner-container:remov
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_watch_theater_chat, false)
 ||piano.io^$important
 ||myanimelist.net/js/quantcast_choice.js
+speed.cloudflare.com##button.react-share__ShareButton:remove()
