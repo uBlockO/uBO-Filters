@@ -33,8 +33,6 @@ fandom.com###WikiaBar, #WikiaRailWrapper, .banner-notifications-placeholder, .af
 *$csp=worker-src 'none',1p,domain=~mega.nz|~speed.cloudflare.com|~mega.io|~aniwave.se
 ||youtube.com/error_204?$xhr
 ||firebase.googleapis.com^
-thewrap.com##style:has-text(wallkit-paywall-block):remove()
-thewrap.com##.wallkit-paywall-block, .wrappro-paywall-member-link-for-reader:remove()
 x.com##[aria-label$="trending now" i],aside[aria-label="Get Verified"], a[data-testid="AppTabBar_Explore_Link"][href="/explore"], aside[class][aria-label^="Subscribe to Premium"]:remove()
 comicsvalley.com##.sgpb-popup-dialog-main-div-wrapper,.sgpb-popup-overlay:remove()
 www.amazon.*###universal-detail-ilm,.a-spacing-none.a-section > .sg-row,.AdHolder,#percolate-ui-ilm_div > .celwidget:remove()
