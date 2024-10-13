@@ -46,7 +46,6 @@ x.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr"]:has(aside[class][aria-label=
 ||ads-api.x.com^
 ||onetrust.com^$important
 ||cookielaw.org^$important
-||datum.jsdelivr.com^
 ||spot.im^
 wikipedia.org##.vector-appearance-landmark, .vector-column-end:remove()
 ||disqus.com^
@@ -64,6 +63,5 @@ putlocker.pe##+js(nosiif, 0x)
 www.zerohedge.com##[class^="PromoBanner_banner"], .bottom-banner-container:remove()
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_watch_theater_chat, false)
 ||piano.io^$important
-||myanimelist.net/js/quantcast_choice.js
 speed.cloudflare.com##button.react-share__ShareButton:remove()
 ||plausible.io^
