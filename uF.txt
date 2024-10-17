@@ -6,7 +6,7 @@
 
 ||doubleclick.net^$important
 ||taboola.com^$important
-torrentfreak.com##.widget_text, .o-widget--rotated.o-widget, .comments, .footer__widget--stats, .preview-article__comments, .hero__comments, .socials:remove()
+torrentfreak.com##.widget_text, .o-widget--rotated.o-widget, .comments, .footer__widget--stats, .preview-article__comments, .hero__comments, .socials, .widget_block.o-widget:remove()
 ||addthis.com^$important
 ||googleadservices.com^$important
 www.google.*###prm-pt, .b2hzT, .exp-outline, [id^="ed_"], [id^="eob_"], [title*="Share"], #gws-output-pages-elements-homepage_additional_languages__als, #wmxmsg, #prm, .uU7dJb,[class$="middle-slot-promo"]:remove()
