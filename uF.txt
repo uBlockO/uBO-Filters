@@ -64,4 +64,4 @@ www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_watch_theater_chat, fa
 ||piano.io^$important
 speed.cloudflare.com##button.react-share__ShareButton:remove()
 ||plausible.io^
-yugenanime.sx##+js(trusted-set-attr, video[id="plyr"][src^="blob:"], preload|autoplay, auto)
+yugenanime.sx##+js(trusted-set-attr, video[id="plyr"][src^="blob:"], preload, auto)
