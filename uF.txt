@@ -49,7 +49,6 @@ www.twitch.tv##div[class="Layout-sc-1xcs6mc-0"][hidden=""]:style(display:block !
 novelcrow.com##+js(rmnt, script, lazyloadRunObserver)
 novelcrow.com##.wp-manga.c-top-second-sidebar.c-sidebar:remove()
 anicrush.to##.comments-wrap, .character:remove()
-||api.anicrush.to/v1/movie/updateView
 yugenanime.sx##.w-100.p-15.m-10-b.box-accent.box, .p-15.m-25-b.m-10-t.box:remove()
 putlocker.pe###modalshare,#block-rating:remove()
 putlocker.pe##+js(nosiif, 0x)
