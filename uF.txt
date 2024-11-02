@@ -52,12 +52,9 @@ anicrush.to##.comments-wrap, .character:remove()
 yugenanime.sx##.w-100.p-15.m-10-b.box-accent.box, .p-15.m-25-b.m-10-t.box:remove()
 theflixertv.to,myflixerz.to,putlocker.pe###modalshare,#block-rating:remove()
 www.zerohedge.com##[class^="PromoBanner_banner"], .bottom-banner-container:remove()
-www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_watch_theater_chat, false)
 ||piano.io^$important
 speed.cloudflare.com##button.react-share__ShareButton:remove()
 ||plausible.io^
-yugenanime.sx##+js(trusted-set-attr, video[id="plyr"][src^="blob:"], preload, auto)
-yugenanime.sx##+js(trusted-set-attr, video[id="plyr"][src^="blob:"], autoplay)
 theflixertv.to###film_comments, .row-tags:remove()
 myflixerz.to##.mb-3.alert, .goto-comments, #film_comments:remove()
 hianime.to##+js(set, grecaptcha, {})
