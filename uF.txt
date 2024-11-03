@@ -50,7 +50,7 @@ novelcrow.com##+js(rmnt, script, lazyloadRunObserver)
 novelcrow.com##.wp-manga.c-top-second-sidebar.c-sidebar:remove()
 anicrush.to##.comments-wrap, .character:remove()
 yugenanime.sx##.w-100.p-15.m-10-b.box-accent.box, .p-15.m-25-b.m-10-t.box:remove()
-theflixertv.to,myflixerz.to,putlocker.pe###modalshare,#block-rating:remove()
+sflix.is,theflixertv.to,myflixerz.to,putlocker.pe###modalshare,#block-rating:remove()
 www.zerohedge.com##[class^="PromoBanner_banner"], .bottom-banner-container:remove()
 ||piano.io^$important
 speed.cloudflare.com##button.react-share__ShareButton:remove()
