@@ -60,4 +60,4 @@ myflixerz.to##.mb-3.alert, .goto-comments, #film_comments, #modalshare, #block-r
 hianime.to##+js(set, grecaptcha, {})
 hianime.to##+js(set, grecaptcha.ready, noopFunc)
 hianime.to##.dt-comment, .share-buttons, #discussion, .block_area-connecting:remove()
-@@||wikia.nocookie.net^$script,from=fandom.com,badfilter
+||www.google.com/js/th/$script,3p,redirect-rule=noopjs,domain=www.youtube.com
