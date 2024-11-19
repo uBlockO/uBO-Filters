@@ -57,5 +57,4 @@ hianime.to##+js(set, grecaptcha, {})
 hianime.to##+js(set, grecaptcha.ready, noopFunc)
 hianime.to##.dt-comment, .share-buttons, #discussion, .block_area-connecting:remove()
 ||www.google.com/js/th/$script,3p,redirect-rule=noopjs,domain=www.youtube.com
-yugenanime.sx##+js(trusted-set-attr, video[src^="blob:"][id="plyr"], preload, auto)
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_watch_theater_chat, false)
