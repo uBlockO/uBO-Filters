@@ -34,7 +34,6 @@ puck.news##body.paywall-active:remove-class(paywall-active)
 ||hls.ttvnw.net/v1/segment/*.ts$xhr,method=post,3p
 myanimelist.net##.btn-mal-service, .mxj, .ad-sas, .text-banner-tag:remove()
 x.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr"]:has(aside[class][aria-label="Who to follow"]):remove()
-||ads-api.x.com^
 ||onetrust.com^$important
 ||cookielaw.org^$important
 ||spot.im^
@@ -57,4 +56,4 @@ hianime.to##+js(set, grecaptcha.ready, noopFunc)
 hianime.to##.dt-comment, .share-buttons, #discussion, .block_area-connecting:remove()
 ||www.google.com/js/th/$script,3p,redirect-rule=noopjs,domain=www.youtube.com
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_watch_theater_chat, false)
-||ads.$1p
+||ads*$1p
