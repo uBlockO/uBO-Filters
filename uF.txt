@@ -40,12 +40,8 @@ x.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr"]:has(aside[class][aria-label=
 wikipedia.org##.vector-appearance-landmark, .vector-column-end:remove()
 ||disqus.com^
 www.reddit.com##+js(aost, fetch, </<)
-||hls.ttvnw.net/v1/playlist$xhr,3p,replace=/#EXT-X-DATERANGE:ID="(stitched-ad|maf-ad|source|trigger)"\S+\n|#EXT-X-DATERANGE:ID=\S+?CLASS="twitch-(?:stream-source|trigger|maf-ad)"\S+\n|#EXT-X-DATERANGE:\S+?CLASS="twitch-ad-quartile".+?(?=(#EXT-X-DATERANGE|$))|(\n#EXT-X-DISCONTINUITY\s|#EXT-X-TWITCH-PREFETCH\S+)//gs
-www.twitch.tv##.follow-panel-overlay,.tw-media-card-stat,#twilight-sticky-footer-root:remove()
-www.twitch.tv##div[class="Layout-sc-1xcs6mc-0"][hidden=""]:style(display:block !important)
 anicrush.to##.comments-wrap, .character:remove()
 putlocker.pe###modalshare,#block-rating:remove()
-www.zerohedge.com##[class^="PromoBanner_banner"], .bottom-banner-container:remove()
 ||piano.io^$important
 speed.cloudflare.com##.react-share__ShareButton:remove()
 ||plausible.io^
