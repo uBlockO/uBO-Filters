@@ -53,3 +53,4 @@ hianime.to##.dt-comment, .share-buttons, #discussion, .block_area-connecting:rem
 ||www.google.com/js/th/$script,3p,redirect-rule=noopjs,domain=www.youtube.com
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_watch_theater_chat, false)
 ||ads*$1p
+||analytics*$1p
