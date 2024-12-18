@@ -53,3 +53,4 @@ www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_watch_theater_chat, fa
 ||ads*$1p
 ||analytics*$1p
 ||privacy-mgmt.com^
+||cbsi.com^
