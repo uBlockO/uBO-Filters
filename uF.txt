@@ -29,7 +29,6 @@ comicsvalley.com##.sgpb-popup-dialog-main-div-wrapper,.sgpb-popup-overlay:remove
 www.amazon.*###universal-detail-ilm,.a-spacing-none.a-section > .sg-row,.AdHolder,#percolate-ui-ilm_div > .celwidget:remove()
 utm_$doc,frame,removeparam=/^utm_/i
 puck.news##body.paywall-active:remove-class(paywall-active)
-||hls.ttvnw.net/v1/segment/*.ts$xhr,method=post,3p
 myanimelist.net##.btn-mal-service, .mxj, .ad-sas, .text-banner-tag:remove()
 x.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr"]:has(aside[class][aria-label="Who to follow"]):remove()
 ||onetrust.com^$important
