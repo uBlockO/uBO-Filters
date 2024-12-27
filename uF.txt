@@ -5,10 +5,8 @@
 ! Expires: 3 days
 
 ||doubleclick.net^$important
-||taboola.com^$important
 torrentfreak.com##.widget_text, .o-widget--rotated.o-widget, .comments, .footer__widget--stats, .preview-article__comments, .hero__comments, .socials, .widget_block.o-widget:remove()
 ||addthis.com^$important
-||googleadservices.com^$important
 www.google.*###prm-pt, .b2hzT, .exp-outline, [id^="ed_"], [id^="eob_"], [title*="Share"], #gws-output-pages-elements-homepage_additional_languages__als, #wmxmsg, #prm, .uU7dJb,[class$="middle-slot-promo"], .hdzaWe:remove()
 ||googlesyndication.com^$important
 speedtest.net##.high-placeholder.pure-u-1, .u-c.pure-u-custom-ad-rectangle, .u-c.pure-u-custom-ad-skyscraper, .top-placeholder.pure-u-1, .eot-dd-content, .u-c.pure-u-1-4:nth-of-type(1) > ul.menu-footer:nth-of-type(2), .lowerboard-content:remove()
@@ -28,14 +26,10 @@ x.com##[aria-label$="trending now" i],aside[aria-label="Get Verified"], a[data-t
 comicsvalley.com##.sgpb-popup-dialog-main-div-wrapper,.sgpb-popup-overlay:remove()
 www.amazon.*###universal-detail-ilm,.a-spacing-none.a-section > .sg-row,.AdHolder,#percolate-ui-ilm_div > .celwidget:remove()
 utm_$doc,frame,removeparam=/^utm_/i
-puck.news##body.paywall-active:remove-class(paywall-active)
 myanimelist.net##.btn-mal-service, .mxj, .ad-sas, .text-banner-tag:remove()
 x.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr"]:has(aside[class][aria-label="Who to follow"]):remove()
 ||onetrust.com^$important
 ||cookielaw.org^$important
-||spot.im^
-wikipedia.org##.vector-appearance-landmark, .vector-column-end:remove()
-||disqus.com^
 www.reddit.com##+js(aost, fetch, </<)
 anicrush.to##.comments-wrap, .character:remove()
 putlocker.pe###modalshare,#block-rating:remove()
@@ -54,3 +48,7 @@ www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_watch_theater_chat, fa
 ||privacy-mgmt.com^
 ||cbsi.com^
 ||consentmanager.net^
+||disqus.com^
+omni.axisbank.co.in##+js(set, clevertap, {})
+omni.axisbank.co.in##+js(set, clevertap.event, noopFunc)
+omni.axisbank.co.in##+js(set, clevertap.event.push, noopFunc)
