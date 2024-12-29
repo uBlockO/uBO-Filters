@@ -35,7 +35,6 @@ anicrush.to##.comments-wrap, .character:remove()
 putlocker.pe###modalshare,#block-rating:remove()
 ||piano.io^$important
 speed.cloudflare.com##.react-share__ShareButton:remove()
-||plausible.io^
 sflix.is,theflixertv.to###film_comments, .row-tags, #modalshare, #block-rating:remove()
 myflixerz.to##.mb-3.alert, .goto-comments, #film_comments, #modalshare, #block-rating:remove()
 hianime.to##+js(set, grecaptcha, {})
