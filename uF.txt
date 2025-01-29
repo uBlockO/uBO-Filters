@@ -30,7 +30,7 @@ speed.cloudflare.com##.react-share__ShareButton:remove()
 sflix.is,theflixertv.to###film_comments, .row-tags, #modalshare, #block-rating:remove()
 myflixerz.to##.mb-3.alert, .goto-comments, #film_comments, #modalshare, #block-rating:remove()
 hianime.to##.dt-comment, .share-buttons, #discussion, .block_area-connecting:remove()
-www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_watch_theater_chat, false)
+||youtube.com^*/annotations_module.js
 ||ads*$1p
 ||analytics*$1p
 ||privacy-mgmt.com^
