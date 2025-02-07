@@ -38,6 +38,6 @@ hianime.to##.dt-comment, .share-buttons, #discussion, .block_area-connecting:rem
 ||consentmanager.net^
 ||disqus.com^
 ||spot.im^
-omni.axisbank.co.in##+js(set, clevertap, {})
-omni.axisbank.co.in##+js(set, clevertap.event, noopFunc)
-omni.axisbank.co.in##+js(set, clevertap.event.push, noopFunc)
+! omni.axisbank.co.in##+js(set, clevertap, {})
+! omni.axisbank.co.in##+js(set, clevertap.event, noopFunc)
+! omni.axisbank.co.in##+js(set, clevertap.event.push, noopFunc)
