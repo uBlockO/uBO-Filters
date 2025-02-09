@@ -38,6 +38,4 @@ hianime.to##.dt-comment, .share-buttons, #discussion, .block_area-connecting:rem
 ||consentmanager.net^
 ||disqus.com^
 ||spot.im^
-! omni.axisbank.co.in##+js(set, clevertap, {})
-! omni.axisbank.co.in##+js(set, clevertap.event, noopFunc)
-! omni.axisbank.co.in##+js(set, clevertap.event.push, noopFunc)
+www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_watch_theater_chat, false)
