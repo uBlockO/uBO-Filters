@@ -39,3 +39,4 @@ hianime.to##.dt-comment, .share-buttons, #discussion, .block_area-connecting:rem
 ||disqus.com^
 ||spot.im^
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_watch_theater_chat, false)
+animekai.to###comment:remove()
