@@ -39,3 +39,4 @@ www.youtube.com##+js(nowoif, support.google.com)
 ||succeedscene.com^$script,redirect-rule=noopjs
 animekai.to##.bot-footer > .container > .wrapper > div > div:has(.fa-brands), #comment
 playhydrax.com##.player-download-speed, .player-buffer-speed
+||adguardteam.github.io/AnonymousRedirect/redirect.html?url=$doc,urlskip=?url
