@@ -18,7 +18,7 @@ x.com##[aria-label$="trending now" i],aside[aria-label="Get Verified"], a[data-t
 comicsvalley.com##.sgpb-popup-dialog-main-div-wrapper,.sgpb-popup-overlay:remove()
 www.amazon.*###universal-detail-ilm,.a-spacing-none.a-section > .sg-row,.AdHolder,#percolate-ui-ilm_div > .celwidget:remove()
 utm_$doc,frame,removeparam=/^utm_/i
-myanimelist.net##.btn-mal-service, .mxj, .ad-sas, .text-banner-tag
+myanimelist.net##.btn-mal-service, .mxj
 ||onetrust.com^$important
 ||cookielaw.org^$important
 www.reddit.com##+js(aost, fetch, </<)
