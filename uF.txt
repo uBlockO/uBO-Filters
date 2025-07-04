@@ -7,7 +7,7 @@
 torrentfreak.com##.widget_text, .o-widget--rotated.o-widget, .comments, .footer__widget--stats, .preview-article__comments, .hero__comments, .socials, .widget_block.o-widget
 ||addthis.com^$important
 www.google.com###prm-pt, .b2hzT, .exp-outline, [id^="ed_"], [id^="eob_"], [title*="Share"], #gws-output-pages-elements-homepage_additional_languages__als, #wmxmsg, #prm, .uU7dJb,[class$="middle-slot-promo"], .hdzaWe
-speedtest.net##.high-placeholder.pure-u-1, .u-c.pure-u-custom-ad-rectangle, .u-c.pure-u-custom-ad-skyscraper, .top-placeholder.pure-u-1, .eot-dd-content, .u-c.pure-u-1-4:nth-of-type(1) > ul.menu-footer:nth-of-type(2), .lowerboard-content
+www.speedtest.net##.pure-u-custom-ad-skyscraper
 ||youtube.com^*/endscreen.js
 ||youtube.com^*/annotations_module.js
 www.youtube.com##.ytd-rich-section-renderer, #reply-button-end, #comments-button, #chat, #watch-sidebar-live-chat, #sponsor-button,  #masthead-ad, #offer-module, .ytp-paid-content-overlay, button[style=""][aria-label="Share"], #clarify-box, .ytd-primetime-promo-renderer, .ytp-paid-content-overlay-text, .ytp-promotooltip-wrapper, [href="/premium"], #comments, #comment-teaser, .ytp-suggested-action-badge[style=""][aria-label="View products"], ytd-reel-shelf-renderer, .ytp-share-button, #teaser-carousel, ytd-merch-shelf-renderer.ytd-watch-metadata.style-scope
