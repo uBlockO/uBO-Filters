@@ -35,7 +35,7 @@ hianime.to##.dt-comment, .share-buttons, #discussion, .block_area-connecting:rem
 ||consentmanager.net^
 ||disqus.com^
 ||spot.im^
-||succeedscene.com^$script,redirect-rule=noopjs
+*$ping,important
 animekai.*##.bot-footer > .container > .wrapper > div > div:has(.fa-brands), #comment
 playhydrax.com##.player-download-speed, .player-buffer-speed
 ||adguardteam.github.io/AnonymousRedirect/redirect.html?url=$doc,urlskip=?url
