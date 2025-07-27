@@ -13,7 +13,7 @@ www.speedtest.net##.u-c.pure-u-custom-ad-skyscraper
 www.youtube.com##.ytd-rich-section-renderer, #reply-button-end, #comments-button, #chat, #watch-sidebar-live-chat, #sponsor-button,  #masthead-ad, #offer-module, .ytp-paid-content-overlay, button[style=""][aria-label="Share"], #clarify-box, .ytd-primetime-promo-renderer, .ytp-paid-content-overlay-text, .ytp-promotooltip-wrapper, [href="/premium"], #comments, #comment-teaser, .ytp-suggested-action-badge[style=""][aria-label="View products"], ytd-reel-shelf-renderer, .ytp-share-button, #teaser-carousel, ytd-merch-shelf-renderer.ytd-watch-metadata.style-scope
 anime8.ru##.popover-like.in.top.fade.popover, #btnShowComments:remove()
 github.com##.survey-container, .js-notice-dismiss, .mb-4.bg-white, .code-navigation-banner, .js-notice, button[data-testid="copilot-popover-button"], .copilotPreview__suggestions
-*$csp=worker-src 'none',1p,domain=~speed.cloudflare.com
+*$csp=worker-src 'none',1p,domain=~speed.cloudflare.com|~www.twitch.tv
 x.com##[aria-label$="trending now" i],aside[aria-label="Get Verified"], a[data-testid="AppTabBar_Explore_Link"][href="/explore"], aside[class][aria-label^="Subscribe to Premium"], aside[class][aria-label="Expiring soon!"], div[class][data-testid="inlinePrompt"], div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr"]:has(aside[class][aria-label="Who to follow"]), div[style="z-index: 1;"]:has(div[role="dialog"] a[href="/i/premium_sign_up"][style]), div.r-1bro5k0:has(a[href^="/i/connect_people?"])
 comicsvalley.com##.sgpb-popup-dialog-main-div-wrapper,.sgpb-popup-overlay:remove()
 www.amazon.*###universal-detail-ilm,.a-spacing-none.a-section > .sg-row,.AdHolder,#percolate-ui-ilm_div > .celwidget:remove()
