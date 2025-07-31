@@ -21,7 +21,6 @@ utm_$doc,frame,removeparam=/^utm_/i
 myanimelist.net##.btn-mal-service, .mxj, .footer-recommended
 ||onetrust.com^$important
 ||cookielaw.org^$important
-www.reddit.com##+js(aost, fetch, </<)
 anicrush.to##.comments-wrap, .character:remove()
 putlocker.pe###modalshare,#block-rating:remove()
 ||piano.io^$important
