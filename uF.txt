@@ -33,6 +33,6 @@ sflix.is,theflixertv.to###film_comments, .row-tags, #modalshare, #block-rating:r
 animekai.*##.bot-footer > .container > .wrapper > div > div:has(.fa-brands), #comment
 playhydrax.com##.player-download-speed, .player-buffer-speed
 ||adguardteam.github.io/AnonymousRedirect/redirect.html?url=$doc,urlskip=?url
-www.reddit.com##+js(aost, fetch, </<)
+yflix.to##.social-sharing,.navbar-logo
 www.speedtest.net##+js(set, dataLayer, noopFunc)
 www.speedtest.net##+js(set, dataLayer.push, noopFunc)
