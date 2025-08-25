@@ -34,3 +34,4 @@ playhydrax.com##.player-download-speed, .player-buffer-speed
 ||adguardteam.github.io/AnonymousRedirect/redirect.html?url=$doc,urlskip=?url
 yflix.to##.social-sharing,.navbar-logo
 www.speedtest.net##+js(set, dataLayer, [])
+||www.google.com/async/hpba?yv=$removeparam,xhr,strict1p
