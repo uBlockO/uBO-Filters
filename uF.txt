@@ -34,4 +34,4 @@ playhydrax.com##.player-download-speed, .player-buffer-speed
 yflix.to##.social-sharing,.navbar-logo
 www.speedtest.net##+js(set, dataLayer, [])
 ||www.google.com/async/hpba?yv=$removeparam,xhr,strict1p
-reddit.com##+js(json-edit-fetch-request, .*, propsToMatch, /svc/shreddit/events)
+reddit.com##+js(trusted-json-edit-fetch-request, .*, propsToMatch, /svc/shreddit/events)
