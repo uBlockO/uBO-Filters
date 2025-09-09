@@ -32,6 +32,7 @@ animekai.*##.bot-footer > .container > .wrapper > div > div:has(.fa-brands), #co
 playhydrax.com##.player-download-speed, .player-buffer-speed
 ||adguardteam.github.io/AnonymousRedirect/redirect.html?url=$doc,urlskip=?url
 yflix.to##.social-sharing,.navbar-logo
+sflix.fi##.social-sharing
 www.speedtest.net##+js(set, dataLayer, [])
 ||www.google.com/async/hpba?yv=$removeparam,xhr,strict1p
 reddit.com##+js(json-edit-fetch-request, .*, propsToMatch, /svc/shreddit/events)
