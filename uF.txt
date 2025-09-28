@@ -33,4 +33,4 @@ sflix.fi##.social-sharing
 www.speedtest.net##+js(set, dataLayer, [])
 reddit.com##+js(json-edit-fetch-request, .*, propsToMatch, /svc/shreddit/events)
 ||www.amazon.in/gp/r.html$urlskip=?U,doc
-/wp-includes/js/imagesloaded.min.js$script,1p
+allporncomics.co##+js(rmnt, script, MutationObserver)
