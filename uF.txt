@@ -18,14 +18,12 @@ utm_$doc,frame,removeparam=/^utm_/i
 myanimelist.net##.btn-mal-service, .mxj, .footer-recommended
 ||onetrust.com^$important
 ||cookielaw.org^$important
-||piano.io^$important
 speed.cloudflare.com##.react-share__ShareButton:remove()
 ||ads*$1p
 ||privacy-mgmt.com^
 ||cbsi.com^
 ||consentmanager.net^
 ||disqus.com^
-||spot.im^
 *$ping,important
 animekai.*##.bot-footer > .container > .wrapper > div > div:has(.fa-brands), #comment
 playhydrax.com##.player-download-speed, .player-buffer-speed
@@ -35,3 +33,4 @@ sflix.fi##.social-sharing
 www.speedtest.net##+js(set, dataLayer, [])
 reddit.com##+js(json-edit-fetch-request, .*, propsToMatch, /svc/shreddit/events)
 ||www.amazon.in/gp/r.html$urlskip=?U,doc
+/wp-includes/js/imagesloaded.min.js$script,1p
