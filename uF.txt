@@ -13,12 +13,12 @@ www.speedtest.net##.u-c.pure-u-custom-ad-skyscraper
 www.youtube.com##.ytd-rich-section-renderer, #reply-button-end, #comments-button, #chat, #watch-sidebar-live-chat, #sponsor-button,  #masthead-ad, #offer-module, .ytp-paid-content-overlay, button[style=""][aria-label="Share"], #clarify-box, .ytd-primetime-promo-renderer, .ytp-paid-content-overlay-text, .ytp-promotooltip-wrapper, [href="/premium"], #comments, #comment-teaser, .ytp-suggested-action-badge[style=""][aria-label="View products"], ytd-reel-shelf-renderer, .ytp-share-button, #teaser-carousel, ytd-merch-shelf-renderer.ytd-watch-metadata.style-scope, #ticket-shelf
 *$csp=worker-src 'none',1p,domain=~speed.cloudflare.com|~www.twitch.tv|~github.com
 x.com##[aria-label$="trending now" i],aside[aria-label="Get Verified"], a[data-testid="AppTabBar_Explore_Link"][href="/explore"], aside[class][aria-label^="Subscribe to Premium"], aside[class][aria-label="Expiring soon!"], div[class][data-testid="inlinePrompt"], div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr"]:has(aside[class][aria-label="Who to follow"]), div[style="z-index: 1;"]:has(div[role="dialog"] a[href="/i/premium_sign_up"][style]), div.r-1bro5k0:has(a[href^="/i/connect_people?"])
-www.amazon.*###universal-detail-ilm,.a-spacing-none.a-section > .sg-row,.AdHolder,#percolate-ui-ilm_div > .celwidget:remove()
+www.amazon.*###universal-detail-ilm,.a-spacing-none.a-section > .sg-row,.AdHolder,#percolate-ui-ilm_div > .celwidget
 utm_$doc,frame,removeparam=/^utm_/i
 myanimelist.net##.btn-mal-service, .mxj, .footer-recommended
 ||onetrust.com^$important
 ||cookielaw.org^$important
-speed.cloudflare.com##.react-share__ShareButton:remove()
+speed.cloudflare.com##.react-share__ShareButton
 ||ads*$1p
 ||privacy-mgmt.com^
 ||cbsi.com^
@@ -32,5 +32,5 @@ yflix.to##.social-sharing,.navbar-logo
 sflix.fi##.social-sharing
 www.speedtest.net##+js(set, dataLayer, [])
 reddit.com##+js(json-edit-fetch-request, .*, propsToMatch, /svc/shreddit/events)
-||www.amazon.in/gp/r.html$urlskip=?U,doc
 allporncomics.co##+js(rmnt, script, MutationObserver)
+fandom.com##aside.page__right-rail
