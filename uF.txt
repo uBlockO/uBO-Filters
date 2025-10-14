@@ -34,3 +34,4 @@ www.speedtest.net##+js(set, dataLayer, [])
 reddit.com##+js(json-edit-fetch-request, .*, propsToMatch, /svc/shreddit/events)
 allporncomics.co##+js(rmnt, script, MutationObserver)
 fandom.com##aside.page__right-rail
+||www.google.com/async/hpba?yv=$removeparam,xhr,strict1p
