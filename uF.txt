@@ -24,7 +24,7 @@ speed.cloudflare.com##.react-share__ShareButton
 ||cbsi.com^
 ||consentmanager.net^
 ||disqus.com^
-*$ping,important
+*$ping,1p
 animekai.*##.bot-footer > .container > .wrapper > div > div:has(.fa-brands), #comment
 playhydrax.com##.player-download-speed, .player-buffer-speed
 ||adguardteam.github.io/AnonymousRedirect/redirect.html?url=$doc,urlskip=?url
