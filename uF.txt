@@ -36,3 +36,4 @@ allporncomics.co##+js(rmnt, script, MutationObserver)
 fandom.com##aside.page__right-rail
 ||www.google.com/async/hpba?yv=$removeparam,xhr,strict1p
 /api/event|$xhr,1p,method=post
+||googlesyndication.com^$important
