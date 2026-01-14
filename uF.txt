@@ -34,5 +34,4 @@ fandom.com##aside.page__right-rail
 ||www.google.com/async/hpba?yv=$removeparam,xhr,strict1p
 /api/event|$xhr,1p,method=post
 ||googlesyndication.com^$important
-x.com##+js(trusted-replace-xhr-response, /.*/, "", url:/TweetDetail)
 x.com##div.r-13awgt0.r-1h0z5md.r-18u37iz.css-175oi2r:has([data-testid="reply"])
