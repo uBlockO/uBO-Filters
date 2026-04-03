@@ -24,8 +24,7 @@ myanimelist.net##.btn-mal-service, .mxj, .footer-recommended, .text-banner-tag
 *$ping,1p
 animekai.*##.bot-footer > .container > .wrapper > div > div:has(.fa-brands), #comment
 playhydrax.com##.player-download-speed, .player-buffer-speed
-yflix.to##.social-sharing,.navbar-logo
-sflix.fi##.social-sharing
+sflix.fi,yflix.to##.social-sharing
 www.speedtest.net##+js(set, dataLayer, [])
 reddit.com##+js(json-edit-fetch-request, .*, propsToMatch, /svc/shreddit/events)
 fandom.com##aside.page__right-rail
