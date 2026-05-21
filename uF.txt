@@ -33,5 +33,5 @@ fandom.com##aside.page__right-rail
 ||error-report.com^
 ||content-loader.com^
 ||googlesyndication.com^$important
-x.com##div.r-13awgt0.r-1h0z5md.r-18u37iz.css-175oi2r:has([data-testid="reply"])
 utm_$doc,frame,removeparam=/^utm_/i
+anikaitv.to##.bsharing, #comments, #w-servers > .tip
