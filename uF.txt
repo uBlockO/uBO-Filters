@@ -34,4 +34,4 @@ fandom.com##aside.page__right-rail
 ||content-loader.com^
 ||googlesyndication.com^$important
 utm_$doc,frame,removeparam=/^utm_/i
-anikaitv.to##.bsharing, #comments, #w-servers > .tip
+anikototv.to###home-discussion, .bsharing, .block_area-comment
