@@ -4,7 +4,6 @@
 ! Author: uBlockO
 ! Expires: 3 days
 
-torrentfreak.com##.widget_text, .o-widget--rotated.o-widget, .comments, .footer__widget--stats, .preview-article__comments, .hero__comments, .socials, .widget_block.o-widget
 ||addthis.com^$important
 www.google.com###prm-pt, .b2hzT, .exp-outline, [id^="ed_"], [id^="eob_"], [title*="Share"], #gws-output-pages-elements-homepage_additional_languages__als, #wmxmsg, #prm, .uU7dJb,[class$="middle-slot-promo"], .hdzaWe
 ||youtube.com^*/annotations_module.js
