@@ -29,6 +29,7 @@ fandom.com##aside.page__right-rail
 ||error-report.com^
 ||content-loader.com^
 ||googlesyndication.com^$important
+||posthog.com^
 utm_$doc,frame,removeparam=/^utm_/i
 anikototv.to###home-discussion, .bsharing, .block_area-comment
 fsicomics.com##+js(rmnt, script, MutationObserver, includes, startMutationObserver)
