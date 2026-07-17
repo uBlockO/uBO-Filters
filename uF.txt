@@ -33,4 +33,4 @@ fandom.com##aside.page__right-rail
 utm_$doc,frame,removeparam=/^utm_/i
 anikototv.to###home-discussion, .bsharing, .block_area-comment
 fsicomics.com##+js(rmnt, script, MutationObserver, includes, startMutationObserver)
-||x.com/i/api/1.1/$xhr
+||x.com/i/api/1.1/flow/viewer.json$xhr
