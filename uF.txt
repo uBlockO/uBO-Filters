@@ -25,12 +25,11 @@ playhydrax.com##.player-download-speed, .player-buffer-speed
 reddit.com##+js(json-edit-fetch-request, .*, propsToMatch, /svc/shreddit/events)
 fandom.com##aside.page__right-rail
 ||www.google.com/async/hpba?yv=$removeparam,xhr,strict1p
-||html-load.com^
-||error-report.com^
-||content-loader.com^
 ||googlesyndication.com^$important
 ||posthog.com^
 utm_$doc,frame,removeparam=/^utm_/i
 anikototv.to###home-discussion, .bsharing, .block_area-comment
 fsicomics.com##+js(rmnt, script, MutationObserver, includes, startMutationObserver)
 ||x.com/i/api/1.1/flow/viewer.json$xhr
+watchflux.tv##video:style(z-index:1 !important)
+watchflux.tv##+js(trusted-set-attr, video, preload, auto)
