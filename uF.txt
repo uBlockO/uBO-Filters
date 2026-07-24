@@ -33,4 +33,4 @@ fsicomics.com##+js(rmnt, script, MutationObserver, includes, startMutationObserv
 ||x.com/i/api/1.1/flow/viewer.json$xhr
 watchflux.tv##video:style(z-index:1 !important)
 watchflux.tv##+js(trusted-set-attr, video, preload, auto)
-||vidtube.site/lib/volume-booster.js
+/lib/volume-booster.js
