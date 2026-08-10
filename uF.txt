@@ -31,4 +31,3 @@ utm_$doc,frame,removeparam=/^utm_/i
 anikototv.to###home-discussion, .bsharing, .block_area-comment
 fsicomics.com##+js(rmnt, script, MutationObserver, includes, startMutationObserver)
 /lib/volume-booster.js
-x.com##div.r-16y2uox.r-cpa5s6.r-14tvyh0.css-g5y9jx:first-child
