@@ -21,7 +21,7 @@ myanimelist.net##.btn-mal-service, .mxj, .footer-recommended, .text-banner-tag
 ||consentmanager.net^
 ||disqus.com^
 *$ping,1p
-reddit.com##+js(json-edit-fetch-request, .*, propsToMatch, /svc/shreddit/events)
+reddit.com##+js(json-edit-fetch-request, .+, propsToMatch, /svc/shreddit/events)
 fandom.com##aside.page__right-rail
 ||www.google.com/async/hpba?yv=$removeparam,xhr,strict1p
 ||googlesyndication.com^$important
