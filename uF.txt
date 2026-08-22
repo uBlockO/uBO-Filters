@@ -31,3 +31,4 @@ anikototv.to###home-discussion, .bsharing, .block_area-comment
 fsicomics.com##+js(rmnt, script, MutationObserver, includes, startMutationObserver)
 /lib/volume-booster.js
 flickzone.org##.tg-banner
+cloudorchestranova.com##+js(set, CONFIG.autoplay, false)
