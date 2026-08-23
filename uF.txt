@@ -30,5 +30,5 @@ utm_$doc,frame,removeparam=/^utm_/i
 anikototv.to###home-discussion, .bsharing, .block_area-comment
 fsicomics.com##+js(rmnt, script, MutationObserver, includes, startMutationObserver)
 /lib/volume-booster.js
-flickzone.org##.tg-banner
+flickzone.org##.tg-banner, #tgPopup
 cloudorchestranova.com##+js(set, CONFIG.autoplay, false)
