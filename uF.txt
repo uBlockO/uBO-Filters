@@ -17,7 +17,6 @@ myanimelist.net##.btn-mal-service, .mxj, .footer-recommended, .text-banner-tag
 ||cookielaw.org^$important
 ||ads*$1p
 ||privacy-mgmt.com^
-||cbsi.com^
 ||consentmanager.net^
 ||disqus.com^
 ||stripe.com^
