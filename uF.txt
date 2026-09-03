@@ -16,13 +16,13 @@ myanimelist.net##.btn-mal-service, .mxj, .footer-recommended, .text-banner-tag
 ||onetrust.com^$important
 ||cookielaw.org^$important
 ||ads*$1p
+||analytics.$1p
 ||privacy-mgmt.com^
 ||consentmanager.net^
 ||disqus.com^
 ||stripe.com^
 *$ping,1p
 reddit.com##+js(json-edit-fetch-request, .*, propsToMatch, /svc/shreddit/events)
-fandom.com##aside.page__right-rail
 ||www.google.com/async/hpba?yv=$removeparam,xhr,strict1p
 ||googlesyndication.com^$important
 ||posthog.com^
