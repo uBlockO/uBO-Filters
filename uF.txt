@@ -27,7 +27,6 @@ reddit.com##+js(json-edit-fetch-request, .*, propsToMatch, /svc/shreddit/events)
 utm_$doc,frame,removeparam=/^utm_/i
 anikototv.to###home-discussion, .bsharing, .block_area-comment
 fsicomics.com##+js(rmnt, script, MutationObserver, includes, startMutationObserver)
-/lib/volume-booster.js
 flickzone.org,sflix.gd##div[class^="tg-"], div[id*="tg"]
 cloudorchestranova.com##+js(set, CONFIG.autoplay, false)
 flickzone.org##^responseheader(location)
