@@ -31,4 +31,4 @@ flickzone.org,sflix.gd##div[class^="tg-"], div[id*="tg"]
 cloudorchestranova.com##+js(set, CONFIG.autoplay, false)
 flickzone.org##^responseheader(location)
 sflix.gd##.social-sharing:style(visibility:hidden !important; padding:0 !important)
-.m3u8$strict3p,xhr,replace=/#EXT-X-TARGETDURATION:[0-9]{1,3}/#EXT-X-TARGETDURATION:360/,domain=flickzone.org|sflix.gd
+.m3u8$strict3p,xhr,replace=/#EXT-X-TARGETDURATION:[0-9]{1,3}/#EXT-X-TARGETDURATION:360/,domain=cloudorchestranova.com
