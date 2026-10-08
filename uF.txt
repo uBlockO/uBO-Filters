@@ -28,7 +28,7 @@ utm_$doc,frame,removeparam=/^utm_/i
 anikototv.to###home-discussion, .bsharing, .block_area-comment
 fsicomics.com##+js(rmnt, script, MutationObserver, includes, startMutationObserver)
 flickzone.org,sflix.gd##div[class^="tg-"], div[id*="tg"]
-cloudorchestranova.com##+js(set, CONFIG.autoplay, false)
+stellarconductornexus.com.com##+js(set, CONFIG.autoplay, false)
 flickzone.org##^responseheader(location)
 sflix.gd##.social-sharing:style(visibility:hidden !important; padding:0 !important)
 /index.m3u8$xhr,replace=/#EXT-X-TARGETDURATION:[0-9]{1,3}/#EXT-X-TARGETDURATION:360/,top=flickzone.org|sflix.gd
