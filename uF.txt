@@ -24,6 +24,8 @@ reddit.com##+js(json-edit-fetch-request, .*, propsToMatch, /svc/shreddit/events)
 ||www.google.com/async/hpba?yv=$removeparam,xhr,strict1p
 ||googlesyndication.com^$important
 ||posthog.com^
+||error-report.com^$important
+||content-loader.com^$important
 utm_$doc,frame,removeparam=/^utm_/i
 anikototv.to###home-discussion, .bsharing, .block_area-comment
 fsicomics.com##+js(rmnt, script, MutationObserver, includes, startMutationObserver)
