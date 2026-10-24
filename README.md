@@ -8,7 +8,9 @@ Contains filters specific to uBlock Origin and some filters that have not yet be
 
 CDN: https://ublocko.github.io/uBO-Filters/uF.txt
 
-CDN2: [https://ubo-filters.pages.dev/uF.txt](https://ubo-filters.pages.dev/uF.txt)
+CDN2: https://cdn.jsdelivr.net/gh/uBlockO/uBO-Filters@refs/heads/master/uF.txt
+
+CDN3: [https://ubo-filters.pages.dev/uF.txt](https://ubo-filters.pages.dev/uF.txt)
 
 # Requirements 
 
