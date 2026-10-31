@@ -32,3 +32,10 @@ streamdumpling.cyou,flixdrop.cyou##div[class^="tg-"], div[id*="tg"]
 stellarconductornexus.com##+js(set, CONFIG.autoplay, false)
 flixdrop.cyou##.social-sharing:style(visibility:hidden !important; padding:0 !important)
 /index.m3u8$xhr,replace=/#EXT-X-TARGETDURATION:[0-9]{1,3}/#EXT-X-TARGETDURATION:360/,top=streamdumpling.cyou|sflix.gd
+www.youtube.com#@#+js(trusted-edit-inbound-object, JSON.stringify, 0, [?.attestationRequest][?.context.client.userAgent*="channel"].context.client[?.clientName=="WEB"]+={"clientScreen":"CHANNEL"})
+www.youtube.com#@#+js(trusted-edit-inbound-object, JSON.stringify, 0, [?.attestationRequest][?.context.client.userAgent*="lactmilli"]+={"params":"8AUB"})
+www.youtube.com#@#+js(trusted-edit-inbound-object, JSON.stringify, 0, [?.attestationRequest][?.context.client.userAgent*="yahi"]+={"params":"YAHI"})
+www.youtube.com#@#+js(trusted-edit-inbound-object, JSON.stringify, 0, [?.attestationRequest][?.context.client.userAgent*="instream"].playbackContext[?.contentPlaybackContext]+={"adPlaybackContext":{"adType":"AD_TYPE_INSTREAM"}})
+www.youtube.com#@#+js(trusted-edit-inbound-object, JSON.stringify, 0, [?.attestationRequest][?.context.client.userAgent=/channel|lactmilli|instream/].playbackContext.contentPlaybackContext.lactMilliseconds="${now}")
+www.youtube.com#@#+js(trusted-edit-inbound-object, JSON.stringify, 0, [?.attestationRequest][?.context.client.userAgent=/adunit|channel|lactmilli|instream|inline|yahi|eafg/].playbackContext.contentPlaybackContext.referer=repl({"regex":"(?:#reloadxhr)?$"\,"replacement":"#reloadxhr"}))
+www.youtube.com#@#+js(trusted-edit-inbound-object, JSON.stringify, 0, [?.createCommentParams].context.client.userAgent=repl({"regex":"/; (adunit|channel|lactmilli|instream|inline|yahi|eafg)\b/"\,"replacement":""}))
