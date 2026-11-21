@@ -30,4 +30,4 @@ fsicomics.com##+js(rmnt, script, MutationObserver, includes, startMutationObserv
 streamdumpling.cyou,flixdrop.cyou##div[class^="tg-"], div[id*="tg"]
 stellarconductornexus.com##+js(set, CONFIG.autoplay, false)
 flixdrop.cyou##.social-sharing:style(visibility:hidden !important; padding:0 !important)
-/pl/*?token=*$xhr,replace=/#EXT-X-TARGETDURATION:[0-9]{1,3}/#EXT-X-TARGETDURATION:360/gms
+/pl/*?token=$xhr,replace=/#EXT-X-TARGETDURATION:[0-9]{1,3}/#EXT-X-TARGETDURATION:360/g
