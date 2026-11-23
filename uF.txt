@@ -29,5 +29,5 @@ anikototv.bz###home-discussion, .bsharing, .block_area-comment
 fsicomics.com##+js(rmnt, script, MutationObserver, includes, startMutationObserver)
 streamdumpling.cyou,flixdrop.cyou##div[class^="tg-"], div[id*="tg"]
 stellarconductornexus.com##+js(set, CONFIG.autoplay, false)
-/pl/*?token=$xhr,3p,replace=/#EXT-X-TARGETDURATION:[0-9]{1,3}/#EXT-X-TARGETDURATION:360/g,domain=streamdumpling.cyou
-index-f2.m3u8$xhr,3p,replace=/#EXT-X-TARGETDURATION:[0-9]{1,3}/#EXT-X-TARGETDURATION:360/g,domain=anikototv.*
+/pl/*?token=$xhr,3p,replace=/#EXT-X-TARGETDURATION:[0-9]{1,3}/#EXT-X-TARGETDURATION:360/g,top=streamdumpling.cyou
+index-f2.m3u8$xhr,3p,replace=/#EXT-X-TARGETDURATION:[0-9]{1,3}/#EXT-X-TARGETDURATION:360/g,top=anikototv.*
